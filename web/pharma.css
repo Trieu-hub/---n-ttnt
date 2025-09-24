@@ -1,0 +1,140 @@
+/* ai.css - style đồng bộ (màu tím/xanh dương) */
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+/* Body */
+body {
+    background: linear-gradient(135deg, #f5f7ff, #eef2ff);
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to right, #667eea, #764ba2);
+    padding: 15px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+    margin-bottom: 30px;
+}
+
+.navbar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar .nav-links li {
+    display: inline;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    padding: 8px 14px;
+    border-radius: 6px;
+    transition: background 0.25s ease, transform 0.15s ease;
+}
+
+.navbar .nav-links li a:hover,
+.navbar .nav-links li a.active {
+    background: rgba(255,255,255,0.12);
+    transform: scale(1.05);
+}
+
+/* Hero / Header */
+header {
+    text-align: center;
+    padding: 40px 20px;
+    background: linear-gradient(to right, #667eea, #764ba2);
+    color: #fff;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-style: italic;
+    font-size: 1.1em;
+}
+
+/* Content */
+section {
+    background: #fff;
+    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+section h2 {
+    margin-bottom: 12px;
+    color: #667eea;
+    border-bottom: 2px solid #f0f3ff;
+    padding-bottom: 6px;
+}
+
+section ul {
+    margin-top: 10px;
+    margin-left: 20px;
+    list-style: disc;
+}
+section ul li {
+    margin-bottom: 8px;
+}
+/* Footer */
+footer {
+text-align: center;
+    margin-top: auto;
+    font-size: 0.9em;
+    color: #555;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+.navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .navbar .nav-links {
+        flex-direction: column;
+        width: 100%;
+        gap: 10px;
+        margin-top: 10px;
+    }
+    .navbar .nav-links a {
+        display: block;
+        width: 100%;
+    }
+
+    header h1 {
+        font-size: 1.5em;
+    }
+    section {
+        padding: 15px;
+    }
+}

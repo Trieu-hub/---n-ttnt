@@ -1,0 +1,261 @@
+/* Reset cơ bản */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Toàn bộ trang */
+body {
+    background: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background: linear-gradient(90deg, #667eea, #764ba2);
+    color: white;
+    padding: 30px 20px;
+    text-align: center;
+    border-radius: 8px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+header h1 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1rem;
+    opacity: 0.9;
+}
+
+/* Nội dung chính */
+main {
+    padding: 30px;
+    text-align: center;
+}
+
+main h2 {
+    margin-bottom: 25px;
+    font-size: 1.5rem;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 cột */
+    gap: 20px; /* khoảng cách giữa các ô */
+    justify-items: center; /* căn giữa nội dung trong ô */
+}
+
+/* Các nút gợi ý môn học */
+main a {
+    display: block;
+    text-decoration: none;
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    width: 100%; /* thay vì 320px */
+    max-width: 280px; /* cho đẹp, tránh quá to */
+    margin: 0; /* xoá margin auto */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #333;
+    transition: all 0.3s ease;
+}
+
+main a small {
+    display: block;
+    margin-top: 8px;
+    font-size: 0.9rem;
+    font-weight: normal;
+    color: #666;
+}
+
+/* Hiệu ứng hover */
+main a:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+    background: #fdfdfd;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    main a {
+        width: 90%;
+    }
+}
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to right, #667eea, #764ba2);
+    padding: 15px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    margin-bottom: 30px;
+}
+
+.navbar .logo {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar .nav-links li {
+    display: inline;
+}
+
+.navbar .nav-links a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    padding: 8px 14px;
+    border-radius: 6px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.navbar .nav-links a:hover {
+    background: rgba(255,255,255,0.2);
+    transform: scale(1.05);
+}
+
+/* Responsive cho mobile */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .navbar .nav-links {
+        flex-direction: column;
+        width: 100%;
+        gap: 10px;
+        margin-top: 10px;
+    }
+    .navbar .nav-links a {
+        display: block;
+        width: 100%;
+    }
+}
+
+/* ---------- Faculty Page ---------- */
+
+/* Breadcrumb */
+.breadcrumb {
+    font-size: 0.95rem;
+    color: #555;
+}
+.breadcrumb a {
+    text-decoration: none;
+    color: #667eea;
+    font-weight: 500;
+}
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+/* Header khoa */
+.faculty-header {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    padding: 40px 20px;
+    border-radius: 12px;
+    margin-bottom: 24px;
+    box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+    text-align: center;
+}
+.faculty-header h1 {
+    font-size: 2rem;
+    margin-bottom: 8px;
+}
+.faculty-header p {
+    font-size: 1.1rem;
+    opacity: 0.95;
+}
+
+/* Card chung */
+.card {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+.card:hover {
+    transform: translateY(-3px);
+}
+
+/* Section title */
+.card h2, .card h3 {
+    color: #333;
+    margin-bottom: 12px;
+}
+
+/* Subject list */
+#subject-list li {
+    background: #f9f9ff;
+    margin: 6px 0;
+    padding: 10px 14px;
+    border-radius: 8px;
+    text-align: left;
+    font-weight: 500;
+    color: #444;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+/* Sidebar */
+.sidebar h3 {
+    margin-bottom: 10px;
+    color: #444;
+}
+.sidebar ul li {
+    margin: 6px 0;
+    font-size: 0.95rem;
+}
+.sidebar ul li a {
+    text-decoration: none;
+    color: #667eea;
+}
+.sidebar ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Button copy link */
+#btn-copy-link {
+    background: linear-gradient(90deg, #667eea, #764ba2);
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+#btn-copy-link:hover {
+    background: linear-gradient(90deg, #5a67d8, #6b46c1);
+}
+
+/* Footer */
+footer {
+    background: #fff;
+    border-top: 1px solid #eee;
+    padding: 20px;
+    font-size: 0.9rem;
+}
