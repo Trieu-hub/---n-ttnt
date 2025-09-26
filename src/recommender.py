@@ -1,10 +1,11 @@
 from flask import Flask, jsonify
 import pandas as pd
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)   # bật CORS ở đây
 
 # ====== Dataset giả lập ======
-# Giả sử mỗi sinh viên có các môn đã học, ta sẽ gợi ý thêm môn mới
 data = {
     "sv1": {
         "taken": ["Toán cao cấp", "Cấu trúc dữ liệu", "Lập trình C"],
@@ -20,16 +21,12 @@ data = {
     }
 }
 
-# Chuyển qua DataFrame cho dễ xử lý (nếu cần)
 df = pd.DataFrame(data).T
 
-
 # ====== API Routes ======
-
 @app.route("/")
 def home():
     return "✅ API gợi ý môn học đang chạy..."
-
 
 @app.route("/recommend/<student_id>")
 def recommend(student_id):
@@ -44,7 +41,6 @@ def recommend(student_id):
             "error": "Không tìm thấy sinh viên trong dataset",
             "recommendations": []
         }), 404
-
 
 # ====== Run Flask ======
 if __name__ == "__main__":

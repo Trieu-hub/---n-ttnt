@@ -34,7 +34,7 @@
         <section id="curriculum" class="card section-curriculum" aria-labelledby="curriculum-title" style="margin-top:18px;">
             <h2 id="curriculum-title">Nội dung chính & Chương trình</h2>
             <div id="programs"></div>
-            <h3 style="margin-top:12px;">Các môn tiêu biểu</h3>
+            <h3 style="margin-top:12px;">Các môn học</h3>
             <!-- dùng id "subject-list" (JS sẽ cập nhật) -->
             <ul id="subject-list" style="list-style: none; padding-left:0;"></ul>
         </section>
@@ -53,7 +53,7 @@
         <!-- dùng id "sidebar" (JS sẽ cập nhật) -->
         <aside class="sidebar" style="width:320px; min-width:240px;">
         <div class="card" style="padding:14px;">
-            <h3>Hot / Môn nổi bật</h3>
+            <h3>Các môn học hot</h3>
             <ul id="hot-courses" style="list-style:none; padding-left:0; margin-top:8px;"></ul>
         </div>
 
@@ -198,6 +198,7 @@
                 const res = await fetch(`http://127.0.0.1:5000/recommend/${userId}`);
                 const data = await res.json();
                 const hotUl = document.getElementById("hot-courses");
+
                 hotUl.innerHTML = "";
                 (data.recommendations || []).forEach(subj => {
                     const li = document.createElement("li");
@@ -208,6 +209,11 @@
                 console.error("Lỗi khi gọi API hot subjects:", err);
             }
         }
+
+        // gọi thử khi trang load xong
+        window.addEventListener("DOMContentLoaded", () => {
+            loadHotSubjects("sv1");
+        });
         </script>
     </body>
 </html>
