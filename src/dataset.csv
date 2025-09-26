@@ -1,23 +1,1119 @@
-student_id,year,semester,course_id,course_name,rating
-sv1,1,1,COSC1301,Nhập môn lập trình,5
-sv1,1,1,MATH1301,Giải tích,4
-sv1,1,2,COSC1302,Kỹ thuật lập trình,5
-sv1,1,2,MATH1302,Đại số tuyến tính,4
-sv1,2,1,COSC2301,Lập trình hướng đối tượng,5
-sv1,2,1,COSC2302,Cấu trúc dữ liệu,5
-sv1,2,2,COSC2303,Cơ sở dữ liệu,4
-sv1,2,2,COSC2304,Hệ điều hành,3
-sv1,3,1,COSC3301,Trí tuệ nhân tạo,4
-sv1,3,2,COSC3302,Mạng máy tính,4
-sv2,1,1,COSC1301,Nhập môn lập trình,4
-sv2,1,1,MATH1301,Giải tích,5
-sv2,1,2,COSC1302,Kỹ thuật lập trình,4
-sv2,2,1,COSC2301,Lập trình hướng đối tượng,5
-sv2,2,1,COSC2302,Cấu trúc dữ liệu,4
-sv2,2,2,COSC2303,Cơ sở dữ liệu,3
-sv2,3,1,COSC3301,Trí tuệ nhân tạo,5
-sv3,1,1,COSC1301,Nhập môn lập trình,3
-sv3,1,1,MATH1301,Giải tích,4
-sv3,1,2,COSC1302,Kỹ thuật lập trình,4
-sv3,2,1,COSC2301,Lập trình hướng đối tượng,5
-sv3,2,2,COSC2304,Hệ điều hành,3
+student_id,year,semester,course_id,course_name,rating,faculty_id
+//------------------IT------------------//
+SV001,3,1,IT101,Nhập môn lập trình,4.94,IT
+SV001,3,1,IT104,Cơ sở dữ liệu,2.85,IT
+SV001,3,2,IT110,Kỹ thuật phần mềm,2.82,IT
+SV001,3,2,IT105,Mạng máy tính,2.4,IT
+SV001,3,2,IT108,Lập trình web,4.1,IT
+SV001,3,3,IT104,Cơ sở dữ liệu,2.08,IT
+SV001,3,3,IT102,Cấu trúc dữ liệu,2.22,IT
+SV001,3,3,IT106,Hệ điều hành,3.81,IT
+SV002,3,1,IT105,Mạng máy tính,3.61,IT
+SV002,3,1,IT103,Lập trình hướng đối tượng,3.18,IT
+SV002,3,1,IT104,Cơ sở dữ liệu,3.91,IT
+SV002,3,2,IT108,Lập trình web,4.3,IT
+SV002,3,2,IT101,Nhập môn lập trình,4.67,IT
+SV002,3,2,IT104,Cơ sở dữ liệu,4.31,IT
+SV002,3,3,IT106,Hệ điều hành,2.45,IT
+SV002,3,3,IT103,Lập trình hướng đối tượng,3.85,IT
+SV002,3,3,IT109,An toàn thông tin,3.91,IT
+SV003,1,1,IT107,Trí tuệ nhân tạo,2.21,IT
+SV003,1,1,IT105,Mạng máy tính,2.2,IT
+SV003,1,2,IT103,Lập trình hướng đối tượng,3.26,IT
+SV003,1,2,IT102,Cấu trúc dữ liệu,2.3,IT
+SV003,1,2,IT101,Nhập môn lập trình,2.43,IT
+SV003,1,3,IT106,Hệ điều hành,4.74,IT
+SV003,1,3,IT101,Nhập môn lập trình,2.9,IT
+SV003,1,3,IT110,Kỹ thuật phần mềm,4.21,IT
+SV004,1,1,IT107,Trí tuệ nhân tạo,2.32,IT
+SV004,1,1,IT101,Nhập môn lập trình,3.57,IT
+SV004,1,1,IT106,Hệ điều hành,3.05,IT
+SV004,1,2,IT109,An toàn thông tin,2.95,IT
+SV004,1,2,IT108,Lập trình web,4.71,IT
+SV004,1,3,IT103,Lập trình hướng đối tượng,2.01,IT
+SV004,1,3,IT104,Cơ sở dữ liệu,4.85,IT
+SV004,1,3,IT101,Nhập môn lập trình,2.87,IT
+SV005,1,1,IT106,Hệ điều hành,4.35,IT
+SV005,1,1,IT107,Trí tuệ nhân tạo,2.18,IT
+SV005,1,2,IT103,Lập trình hướng đối tượng,3.61,IT
+SV005,1,2,IT108,Lập trình web,3.51,IT
+SV005,1,3,IT107,Trí tuệ nhân tạo,2.67,IT
+SV005,1,3,IT101,Nhập môn lập trình,3.45,IT
+SV005,1,3,IT105,Mạng máy tính,3.12,IT
+SV006,2,1,IT106,Hệ điều hành,2.31,IT
+SV006,2,1,IT103,Lập trình hướng đối tượng,4.87,IT
+SV006,2,2,IT104,Cơ sở dữ liệu,2.89,IT
+SV006,2,2,IT103,Lập trình hướng đối tượng,2.92,IT
+SV006,2,3,IT107,Trí tuệ nhân tạo,4.7,IT
+SV006,2,3,IT109,An toàn thông tin,3.2,IT
+SV007,2,1,IT107,Trí tuệ nhân tạo,4.01,IT
+SV007,2,1,IT103,Lập trình hướng đối tượng,3.38,IT
+SV007,2,1,IT106,Hệ điều hành,3.4,IT
+SV007,2,2,IT105,Mạng máy tính,3.07,IT
+SV007,2,2,IT104,Cơ sở dữ liệu,2.95,IT
+SV007,2,3,IT107,Trí tuệ nhân tạo,2.86,IT
+SV007,2,3,IT109,An toàn thông tin,3.31,IT
+SV007,2,3,IT102,Cấu trúc dữ liệu,4.3,IT
+SV008,1,1,IT107,Trí tuệ nhân tạo,3.16,IT
+SV008,1,1,IT101,Nhập môn lập trình,3.7,IT
+SV008,1,1,IT109,An toàn thông tin,4.3,IT
+SV008,1,2,IT105,Mạng máy tính,2.44,IT
+SV008,1,2,IT108,Lập trình web,4.06,IT
+SV008,1,2,IT101,Nhập môn lập trình,4.01,IT
+SV008,1,3,IT107,Trí tuệ nhân tạo,2.39,IT
+SV008,1,3,IT109,An toàn thông tin,3.51,IT
+SV008,1,3,IT108,Lập trình web,3.58,IT
+SV009,1,1,IT107,Trí tuệ nhân tạo,4.33,IT
+SV009,1,1,IT105,Mạng máy tính,4.88,IT
+SV009,1,2,IT109,An toàn thông tin,2.84,IT
+SV009,1,2,IT110,Kỹ thuật phần mềm,2.81,IT
+SV009,1,2,IT104,Cơ sở dữ liệu,4.35,IT
+SV009,1,3,IT110,Kỹ thuật phần mềm,2.76,IT
+SV009,1,3,IT103,Lập trình hướng đối tượng,2.27,IT
+SV010,1,1,IT107,Trí tuệ nhân tạo,3.32,IT
+SV010,1,1,IT110,Kỹ thuật phần mềm,3.1,IT
+SV010,1,2,IT105,Mạng máy tính,3.66,IT
+SV010,1,2,IT103,Lập trình hướng đối tượng,3.53,IT
+SV010,1,3,IT110,Kỹ thuật phần mềm,3.62,IT
+SV010,1,3,IT108,Lập trình web,3.69,IT
+SV011,1,1,IT104,Cơ sở dữ liệu,2.47,IT
+SV011,1,1,IT110,Kỹ thuật phần mềm,2.98,IT
+SV011,1,2,IT104,Cơ sở dữ liệu,3.26,IT
+SV011,1,2,IT107,Trí tuệ nhân tạo,4.82,IT
+SV011,1,2,IT105,Mạng máy tính,3.82,IT
+SV011,1,3,IT109,An toàn thông tin,4.49,IT
+SV011,1,3,IT102,Cấu trúc dữ liệu,2.85,IT
+SV012,1,1,IT110,Kỹ thuật phần mềm,3.52,IT
+SV012,1,1,IT103,Lập trình hướng đối tượng,3.47,IT
+SV012,1,2,IT101,Nhập môn lập trình,4.69,IT
+SV012,1,2,IT102,Cấu trúc dữ liệu,2.92,IT
+SV012,1,3,IT103,Lập trình hướng đối tượng,2.32,IT
+SV012,1,3,IT106,Hệ điều hành,3.95,IT
+SV012,1,3,IT107,Trí tuệ nhân tạo,4.72,IT
+SV013,2,1,IT107,Trí tuệ nhân tạo,4.68,IT
+SV013,2,1,IT101,Nhập môn lập trình,3.67,IT
+SV013,2,1,IT105,Mạng máy tính,3.72,IT
+SV013,2,2,IT107,Trí tuệ nhân tạo,3.15,IT
+SV013,2,2,IT101,Nhập môn lập trình,4.58,IT
+SV013,2,2,IT105,Mạng máy tính,2.9,IT
+SV013,2,3,IT108,Lập trình web,3.47,IT
+SV013,2,3,IT102,Cấu trúc dữ liệu,4.44,IT
+SV013,2,3,IT105,Mạng máy tính,2.75,IT
+SV014,2,1,IT107,Trí tuệ nhân tạo,2.42,IT
+SV014,2,1,IT110,Kỹ thuật phần mềm,4.13,IT
+SV014,2,1,IT106,Hệ điều hành,2.5,IT
+SV014,2,2,IT102,Cấu trúc dữ liệu,2.85,IT
+SV014,2,2,IT109,An toàn thông tin,3.85,IT
+SV014,2,2,IT108,Lập trình web,2.16,IT
+SV014,2,3,IT106,Hệ điều hành,2.8,IT
+SV014,2,3,IT101,Nhập môn lập trình,2.24,IT
+SV015,4,1,IT104,Cơ sở dữ liệu,2.14,IT
+SV015,4,1,IT107,Trí tuệ nhân tạo,4.45,IT
+SV015,4,1,IT109,An toàn thông tin,2.49,IT
+SV015,4,2,IT103,Lập trình hướng đối tượng,4.14,IT
+SV015,4,2,IT107,Trí tuệ nhân tạo,2.42,IT
+SV015,4,2,IT110,Kỹ thuật phần mềm,3.22,IT
+SV015,4,3,IT106,Hệ điều hành,4.14,IT
+SV015,4,3,IT104,Cơ sở dữ liệu,4.74,IT
+SV016,4,1,IT108,Lập trình web,3.86,IT
+SV016,4,1,IT105,Mạng máy tính,4.46,IT
+SV016,4,2,IT109,An toàn thông tin,4.07,IT
+SV016,4,2,IT104,Cơ sở dữ liệu,3.55,IT
+SV016,4,2,IT105,Mạng máy tính,3.92,IT
+SV016,4,3,IT102,Cấu trúc dữ liệu,2.27,IT
+SV016,4,3,IT105,Mạng máy tính,3.26,IT
+SV017,4,1,IT105,Mạng máy tính,2.82,IT
+SV017,4,1,IT106,Hệ điều hành,3.52,IT
+SV017,4,1,IT103,Lập trình hướng đối tượng,4.32,IT
+SV017,4,2,IT102,Cấu trúc dữ liệu,4.33,IT
+SV017,4,2,IT104,Cơ sở dữ liệu,4.36,IT
+SV017,4,2,IT103,Lập trình hướng đối tượng,4.07,IT
+SV017,4,3,IT110,Kỹ thuật phần mềm,2.58,IT
+SV017,4,3,IT107,Trí tuệ nhân tạo,2.88,IT
+SV017,4,3,IT106,Hệ điều hành,2.89,IT
+SV018,4,1,IT105,Mạng máy tính,3.42,IT
+SV018,4,1,IT103,Lập trình hướng đối tượng,3.0,IT
+SV018,4,2,IT106,Hệ điều hành,4.48,IT
+SV018,4,2,IT109,An toàn thông tin,4.05,IT
+SV018,4,3,IT101,Nhập môn lập trình,4.11,IT
+SV018,4,3,IT106,Hệ điều hành,4.62,IT
+SV018,4,3,IT110,Kỹ thuật phần mềm,2.38,IT
+SV019,2,1,IT104,Cơ sở dữ liệu,2.27,IT
+SV019,2,1,IT103,Lập trình hướng đối tượng,4.77,IT
+SV019,2,2,IT107,Trí tuệ nhân tạo,4.84,IT
+SV019,2,2,IT108,Lập trình web,4.23,IT
+SV019,2,2,IT102,Cấu trúc dữ liệu,3.63,IT
+SV019,2,3,IT109,An toàn thông tin,3.89,IT
+SV019,2,3,IT105,Mạng máy tính,4.21,IT
+SV019,2,3,IT102,Cấu trúc dữ liệu,2.47,IT
+SV020,4,1,IT108,Lập trình web,4.66,IT
+SV020,4,1,IT107,Trí tuệ nhân tạo,4.04,IT
+SV020,4,2,IT106,Hệ điều hành,4.04,IT
+SV020,4,2,IT103,Lập trình hướng đối tượng,3.35,IT
+SV020,4,3,IT106,Hệ điều hành,3.9,IT
+SV020,4,3,IT101,Nhập môn lập trình,2.64,IT
+SV020,4,3,IT102,Cấu trúc dữ liệu,4.65,IT
+SV021,2,1,IT107,Trí tuệ nhân tạo,2.39,IT
+SV021,2,1,IT101,Nhập môn lập trình,2.87,IT
+SV021,2,1,IT104,Cơ sở dữ liệu,2.89,IT
+SV021,2,2,IT103,Lập trình hướng đối tượng,2.88,IT
+SV021,2,2,IT105,Mạng máy tính,3.13,IT
+SV021,2,3,IT110,Kỹ thuật phần mềm,3.26,IT
+SV021,2,3,IT109,An toàn thông tin,2.65,IT
+SV022,2,1,IT101,Nhập môn lập trình,4.47,IT
+SV022,2,1,IT105,Mạng máy tính,2.45,IT
+SV022,2,2,IT107,Trí tuệ nhân tạo,3.83,IT
+SV022,2,2,IT109,An toàn thông tin,3.46,IT
+SV022,2,2,IT102,Cấu trúc dữ liệu,3.96,IT
+SV022,2,3,IT105,Mạng máy tính,3.64,IT
+SV022,2,3,IT103,Lập trình hướng đối tượng,2.58,IT
+SV022,2,3,IT106,Hệ điều hành,3.08,IT
+SV023,4,1,IT106,Hệ điều hành,4.94,IT
+SV023,4,1,IT101,Nhập môn lập trình,3.97,IT
+SV023,4,2,IT106,Hệ điều hành,3.04,IT
+SV023,4,2,IT105,Mạng máy tính,2.4,IT
+SV023,4,3,IT104,Cơ sở dữ liệu,2.35,IT
+SV023,4,3,IT109,An toàn thông tin,2.03,IT
+SV024,3,1,IT105,Mạng máy tính,4.02,IT
+SV024,3,1,IT108,Lập trình web,3.7,IT
+SV024,3,2,IT102,Cấu trúc dữ liệu,3.66,IT
+SV024,3,2,IT110,Kỹ thuật phần mềm,3.26,IT
+SV024,3,3,IT110,Kỹ thuật phần mềm,2.59,IT
+SV024,3,3,IT106,Hệ điều hành,2.34,IT
+SV025,3,1,IT104,Cơ sở dữ liệu,3.52,IT
+SV025,3,1,IT101,Nhập môn lập trình,4.66,IT
+SV025,3,2,IT103,Lập trình hướng đối tượng,4.62,IT
+SV025,3,2,IT110,Kỹ thuật phần mềm,4.22,IT
+SV025,3,2,IT102,Cấu trúc dữ liệu,4.81,IT
+SV025,3,3,IT108,Lập trình web,2.08,IT
+SV025,3,3,IT101,Nhập môn lập trình,4.82,IT
+SV025,3,3,IT103,Lập trình hướng đối tượng,3.87,IT
+SV026,4,1,IT106,Hệ điều hành,4.88,IT
+SV026,4,1,IT104,Cơ sở dữ liệu,4.58,IT
+SV026,4,1,IT107,Trí tuệ nhân tạo,3.58,IT
+SV026,4,2,IT105,Mạng máy tính,2.64,IT
+SV026,4,2,IT102,Cấu trúc dữ liệu,3.62,IT
+SV026,4,3,IT102,Cấu trúc dữ liệu,3.0,IT
+SV026,4,3,IT101,Nhập môn lập trình,3.1,IT
+SV027,3,1,IT103,Lập trình hướng đối tượng,3.75,IT
+SV027,3,1,IT106,Hệ điều hành,3.9,IT
+SV027,3,1,IT108,Lập trình web,3.8,IT
+SV027,3,2,IT107,Trí tuệ nhân tạo,4.43,IT
+SV027,3,2,IT104,Cơ sở dữ liệu,4.67,IT
+SV027,3,2,IT106,Hệ điều hành,3.12,IT
+SV027,3,3,IT110,Kỹ thuật phần mềm,4.28,IT
+SV027,3,3,IT107,Trí tuệ nhân tạo,2.67,IT
+SV027,3,3,IT109,An toàn thông tin,2.29,IT
+SV028,1,1,IT104,Cơ sở dữ liệu,3.04,IT
+SV028,1,1,IT103,Lập trình hướng đối tượng,4.39,IT
+SV028,1,2,IT110,Kỹ thuật phần mềm,2.01,IT
+SV028,1,2,IT109,An toàn thông tin,4.85,IT
+SV028,1,2,IT102,Cấu trúc dữ liệu,3.57,IT
+SV028,1,3,IT103,Lập trình hướng đối tượng,3.8,IT
+SV028,1,3,IT105,Mạng máy tính,2.9,IT
+SV029,1,1,IT104,Cơ sở dữ liệu,2.72,IT
+SV029,1,1,IT109,An toàn thông tin,2.43,IT
+SV029,1,2,IT101,Nhập môn lập trình,4.07,IT
+SV029,1,2,IT106,Hệ điều hành,4.04,IT
+SV029,1,3,IT105,Mạng máy tính,2.66,IT
+SV029,1,3,IT104,Cơ sở dữ liệu,2.67,IT
+SV030,1,1,IT109,An toàn thông tin,4.38,IT
+SV030,1,1,IT104,Cơ sở dữ liệu,3.17,IT
+SV030,1,1,IT108,Lập trình web,2.46,IT
+SV030,1,2,IT102,Cấu trúc dữ liệu,4.53,IT
+SV030,1,2,IT108,Lập trình web,2.62,IT
+SV030,1,3,IT107,Trí tuệ nhân tạo,4.32,IT
+SV030,1,3,IT103,Lập trình hướng đối tượng,4.22,IT
+SV031,1,1,IT105,Mạng máy tính,3.95,IT
+SV031,1,1,IT110,Kỹ thuật phần mềm,2.62,IT
+SV031,1,1,IT109,An toàn thông tin,4.16,IT
+SV031,1,2,IT106,Hệ điều hành,2.43,IT
+SV031,1,2,IT107,Trí tuệ nhân tạo,4.33,IT
+SV031,1,3,IT109,An toàn thông tin,2.92,IT
+SV031,1,3,IT103,Lập trình hướng đối tượng,3.26,IT
+SV032,1,1,IT108,Lập trình web,2.2,IT
+SV032,1,1,IT110,Kỹ thuật phần mềm,3.6,IT
+SV032,1,1,IT104,Cơ sở dữ liệu,3.69,IT
+SV032,1,2,IT108,Lập trình web,5.0,IT
+SV032,1,2,IT109,An toàn thông tin,3.27,IT
+SV032,1,2,IT107,Trí tuệ nhân tạo,2.69,IT
+SV032,1,3,IT103,Lập trình hướng đối tượng,2.76,IT
+SV032,1,3,IT105,Mạng máy tính,3.08,IT
+SV033,1,1,IT101,Nhập môn lập trình,4.39,IT
+SV033,1,1,IT102,Cấu trúc dữ liệu,4.8,IT
+SV033,1,2,IT105,Mạng máy tính,4.93,IT
+SV033,1,2,IT104,Cơ sở dữ liệu,4.46,IT
+SV033,1,2,IT110,Kỹ thuật phần mềm,4.95,IT
+SV033,1,3,IT109,An toàn thông tin,4.3,IT
+SV033,1,3,IT104,Cơ sở dữ liệu,4.01,IT
+SV034,2,1,IT109,An toàn thông tin,3.86,IT
+SV034,2,1,IT102,Cấu trúc dữ liệu,4.25,IT
+SV034,2,1,IT108,Lập trình web,2.06,IT
+SV034,2,2,IT103,Lập trình hướng đối tượng,3.16,IT
+SV034,2,2,IT102,Cấu trúc dữ liệu,4.52,IT
+SV034,2,3,IT104,Cơ sở dữ liệu,3.61,IT
+SV034,2,3,IT102,Cấu trúc dữ liệu,2.35,IT
+SV035,1,1,IT106,Hệ điều hành,3.76,IT
+SV035,1,1,IT101,Nhập môn lập trình,4.34,IT
+SV035,1,1,IT109,An toàn thông tin,4.4,IT
+SV035,1,2,IT104,Cơ sở dữ liệu,2.7,IT
+SV035,1,2,IT102,Cấu trúc dữ liệu,3.73,IT
+SV035,1,2,IT107,Trí tuệ nhân tạo,2.84,IT
+SV035,1,3,IT102,Cấu trúc dữ liệu,2.45,IT
+SV035,1,3,IT108,Lập trình web,4.33,IT
+SV036,2,1,IT110,Kỹ thuật phần mềm,4.76,IT
+SV036,2,1,IT101,Nhập môn lập trình,3.6,IT
+SV036,2,2,IT108,Lập trình web,2.9,IT
+SV036,2,2,IT105,Mạng máy tính,4.05,IT
+SV036,2,2,IT104,Cơ sở dữ liệu,3.91,IT
+SV036,2,3,IT102,Cấu trúc dữ liệu,4.0,IT
+SV036,2,3,IT108,Lập trình web,4.1,IT
+SV036,2,3,IT101,Nhập môn lập trình,3.23,IT
+SV037,4,1,IT104,Cơ sở dữ liệu,2.59,IT
+SV037,4,1,IT107,Trí tuệ nhân tạo,2.84,IT
+SV037,4,1,IT105,Mạng máy tính,2.56,IT
+SV037,4,2,IT101,Nhập môn lập trình,3.53,IT
+SV037,4,2,IT106,Hệ điều hành,4.41,IT
+SV037,4,2,IT107,Trí tuệ nhân tạo,3.1,IT
+SV037,4,3,IT109,An toàn thông tin,3.34,IT
+SV037,4,3,IT105,Mạng máy tính,4.23,IT
+SV038,2,1,IT104,Cơ sở dữ liệu,2.33,IT
+SV038,2,1,IT110,Kỹ thuật phần mềm,3.93,IT
+SV038,2,2,IT101,Nhập môn lập trình,2.85,IT
+SV038,2,2,IT104,Cơ sở dữ liệu,3.65,IT
+SV038,2,3,IT103,Lập trình hướng đối tượng,4.38,IT
+SV038,2,3,IT110,Kỹ thuật phần mềm,3.11,IT
+SV039,2,1,IT104,Cơ sở dữ liệu,4.99,IT
+SV039,2,1,IT103,Lập trình hướng đối tượng,3.96,IT
+SV039,2,1,IT108,Lập trình web,4.72,IT
+SV039,2,2,IT107,Trí tuệ nhân tạo,2.15,IT
+SV039,2,2,IT101,Nhập môn lập trình,2.57,IT
+SV039,2,3,IT108,Lập trình web,3.61,IT
+SV039,2,3,IT103,Lập trình hướng đối tượng,3.01,IT
+SV040,3,1,IT107,Trí tuệ nhân tạo,4.74,IT
+SV040,3,1,IT106,Hệ điều hành,3.94,IT
+SV040,3,2,IT103,Lập trình hướng đối tượng,3.69,IT
+SV040,3,2,IT109,An toàn thông tin,4.72,IT
+SV040,3,2,IT102,Cấu trúc dữ liệu,3.55,IT
+SV040,3,3,IT109,An toàn thông tin,2.16,IT
+SV040,3,3,IT108,Lập trình web,4.29,IT
+SV041,2,1,IT102,Cấu trúc dữ liệu,3.84,IT
+SV041,2,1,IT105,Mạng máy tính,2.26,IT
+SV041,2,2,IT109,An toàn thông tin,4.67,IT
+SV041,2,2,IT110,Kỹ thuật phần mềm,2.99,IT
+SV041,2,3,IT108,Lập trình web,2.81,IT
+SV041,2,3,IT101,Nhập môn lập trình,2.56,IT
+SV041,2,3,IT109,An toàn thông tin,3.24,IT
+SV042,1,1,IT103,Lập trình hướng đối tượng,2.99,IT
+SV042,1,1,IT104,Cơ sở dữ liệu,4.15,IT
+SV042,1,1,IT102,Cấu trúc dữ liệu,2.29,IT
+SV042,1,2,IT104,Cơ sở dữ liệu,4.16,IT
+SV042,1,2,IT102,Cấu trúc dữ liệu,2.98,IT
+SV042,1,2,IT108,Lập trình web,2.34,IT
+SV042,1,3,IT106,Hệ điều hành,2.2,IT
+SV042,1,3,IT104,Cơ sở dữ liệu,4.85,IT
+SV042,1,3,IT110,Kỹ thuật phần mềm,2.7,IT
+SV043,1,1,IT103,Lập trình hướng đối tượng,3.79,IT
+SV043,1,1,IT107,Trí tuệ nhân tạo,3.73,IT
+SV043,1,2,IT101,Nhập môn lập trình,2.65,IT
+SV043,1,2,IT107,Trí tuệ nhân tạo,2.95,IT
+SV043,1,3,IT102,Cấu trúc dữ liệu,3.83,IT
+SV043,1,3,IT109,An toàn thông tin,4.89,IT
+SV044,3,1,IT102,Cấu trúc dữ liệu,2.85,IT
+SV044,3,1,IT106,Hệ điều hành,2.37,IT
+SV044,3,1,IT110,Kỹ thuật phần mềm,3.05,IT
+SV044,3,2,IT106,Hệ điều hành,4.32,IT
+SV044,3,2,IT108,Lập trình web,3.26,IT
+SV044,3,2,IT103,Lập trình hướng đối tượng,4.53,IT
+SV044,3,3,IT102,Cấu trúc dữ liệu,4.88,IT
+SV044,3,3,IT110,Kỹ thuật phần mềm,4.87,IT
+SV044,3,3,IT104,Cơ sở dữ liệu,3.17,IT
+SV045,2,1,IT102,Cấu trúc dữ liệu,4.45,IT
+SV045,2,1,IT108,Lập trình web,3.43,IT
+SV045,2,1,IT106,Hệ điều hành,4.98,IT
+SV045,2,2,IT107,Trí tuệ nhân tạo,3.23,IT
+SV045,2,2,IT102,Cấu trúc dữ liệu,2.99,IT
+SV045,2,2,IT105,Mạng máy tính,4.98,IT
+SV045,2,3,IT102,Cấu trúc dữ liệu,4.09,IT
+SV045,2,3,IT108,Lập trình web,3.57,IT
+SV046,4,1,IT110,Kỹ thuật phần mềm,2.01,IT
+SV046,4,1,IT103,Lập trình hướng đối tượng,4.88,IT
+SV046,4,2,IT108,Lập trình web,4.37,IT
+SV046,4,2,IT109,An toàn thông tin,3.96,IT
+SV046,4,3,IT106,Hệ điều hành,4.25,IT
+SV046,4,3,IT102,Cấu trúc dữ liệu,2.33,IT
+SV047,1,1,IT109,An toàn thông tin,3.42,IT
+SV047,1,1,IT108,Lập trình web,4.16,IT
+SV047,1,2,IT107,Trí tuệ nhân tạo,3.34,IT
+SV047,1,2,IT102,Cấu trúc dữ liệu,3.57,IT
+SV047,1,3,IT107,Trí tuệ nhân tạo,2.46,IT
+SV047,1,3,IT103,Lập trình hướng đối tượng,2.57,IT
+SV047,1,3,IT101,Nhập môn lập trình,4.08,IT
+SV048,3,1,IT104,Cơ sở dữ liệu,3.18,IT
+SV048,3,1,IT108,Lập trình web,3.77,IT
+SV048,3,2,IT108,Lập trình web,4.93,IT
+SV048,3,2,IT109,An toàn thông tin,3.77,IT
+SV048,3,3,IT105,Mạng máy tính,3.84,IT
+SV048,3,3,IT109,An toàn thông tin,4.56,IT
+SV048,3,3,IT110,Kỹ thuật phần mềm,3.44,IT
+SV049,3,1,IT110,Kỹ thuật phần mềm,3.79,IT
+SV049,3,1,IT106,Hệ điều hành,2.42,IT
+SV049,3,1,IT104,Cơ sở dữ liệu,3.45,IT
+SV049,3,2,IT108,Lập trình web,4.76,IT
+SV049,3,2,IT106,Hệ điều hành,4.92,IT
+SV049,3,2,IT103,Lập trình hướng đối tượng,3.54,IT
+SV049,3,3,IT107,Trí tuệ nhân tạo,4.72,IT
+SV049,3,3,IT102,Cấu trúc dữ liệu,2.48,IT
+SV049,3,3,IT103,Lập trình hướng đối tượng,3.75,IT
+SV050,1,1,IT107,Trí tuệ nhân tạo,3.97,IT
+SV050,1,1,IT102,Cấu trúc dữ liệu,3.07,IT
+SV050,1,1,IT104,Cơ sở dữ liệu,4.18,IT
+SV050,1,2,IT103,Lập trình hướng đối tượng,2.2,IT
+SV050,1,2,IT104,Cơ sở dữ liệu,3.72,IT
+SV050,1,3,IT104,Cơ sở dữ liệu,4.28,IT
+SV050,1,3,IT101,Nhập môn lập trình,3.57,IT
+
+//------------------PHARMA------------------//
+PH001,4,1,PH102,Dược lý học,4.36,PHARMA
+PH001,4,1,PH109,Quản lý dược,3.92,PHARMA
+PH001,4,2,PH103,Dược lâm sàng,4.75,PHARMA
+PH001,4,2,PH102,Dược lý học,2.13,PHARMA
+PH001,4,2,PH108,Công nghiệp dược phẩm,3.8,PHARMA
+PH001,4,3,PH109,Quản lý dược,2.51,PHARMA
+PH001,4,3,PH104,Hóa sinh dược,3.9,PHARMA
+PH002,4,1,PH103,Dược lâm sàng,2.22,PHARMA
+PH002,4,1,PH110,Bào chế học,4.32,PHARMA
+PH002,4,2,PH105,Thực vật dược,2.29,PHARMA
+PH002,4,2,PH104,Hóa sinh dược,4.39,PHARMA
+PH002,4,2,PH106,Dược liệu học,3.16,PHARMA
+PH002,4,3,PH101,Hóa dược đại cương,3.84,PHARMA
+PH002,4,3,PH110,Bào chế học,2.74,PHARMA
+PH002,4,3,PH102,Dược lý học,2.69,PHARMA
+PH003,3,1,PH101,Hóa dược đại cương,2.59,PHARMA
+PH003,3,1,PH105,Thực vật dược,2.3,PHARMA
+PH003,3,2,PH103,Dược lâm sàng,2.78,PHARMA
+PH003,3,2,PH107,Dược động học,2.11,PHARMA
+PH003,3,3,PH109,Quản lý dược,3.86,PHARMA
+PH003,3,3,PH105,Thực vật dược,3.57,PHARMA
+PH004,2,1,PH107,Dược động học,2.49,PHARMA
+PH004,2,1,PH102,Dược lý học,2.29,PHARMA
+PH004,2,2,PH103,Dược lâm sàng,4.05,PHARMA
+PH004,2,2,PH104,Hóa sinh dược,3.98,PHARMA
+PH004,2,3,PH109,Quản lý dược,4.03,PHARMA
+PH004,2,3,PH103,Dược lâm sàng,2.08,PHARMA
+PH005,2,1,PH105,Thực vật dược,3.07,PHARMA
+PH005,2,1,PH108,Công nghiệp dược phẩm,4.12,PHARMA
+PH005,2,2,PH101,Hóa dược đại cương,3.0,PHARMA
+PH005,2,2,PH102,Dược lý học,3.42,PHARMA
+PH005,2,2,PH104,Hóa sinh dược,2.89,PHARMA
+PH005,2,3,PH104,Hóa sinh dược,2.59,PHARMA
+PH005,2,3,PH109,Quản lý dược,4.5,PHARMA
+PH005,2,3,PH108,Công nghiệp dược phẩm,4.82,PHARMA
+PH006,3,1,PH109,Quản lý dược,4.27,PHARMA
+PH006,3,1,PH107,Dược động học,3.3,PHARMA
+PH006,3,1,PH102,Dược lý học,4.59,PHARMA
+PH006,3,2,PH108,Công nghiệp dược phẩm,4.83,PHARMA
+PH006,3,2,PH110,Bào chế học,4.7,PHARMA
+PH006,3,3,PH101,Hóa dược đại cương,3.96,PHARMA
+PH006,3,3,PH107,Dược động học,4.11,PHARMA
+PH006,3,3,PH108,Công nghiệp dược phẩm,2.73,PHARMA
+PH007,3,1,PH103,Dược lâm sàng,2.1,PHARMA
+PH007,3,1,PH109,Quản lý dược,2.18,PHARMA
+PH007,3,1,PH108,Công nghiệp dược phẩm,3.8,PHARMA
+PH007,3,2,PH104,Hóa sinh dược,3.08,PHARMA
+PH007,3,2,PH101,Hóa dược đại cương,3.82,PHARMA
+PH007,3,2,PH102,Dược lý học,4.22,PHARMA
+PH007,3,3,PH110,Bào chế học,3.41,PHARMA
+PH007,3,3,PH104,Hóa sinh dược,3.32,PHARMA
+PH007,3,3,PH103,Dược lâm sàng,3.21,PHARMA
+PH008,1,1,PH105,Thực vật dược,3.18,PHARMA
+PH008,1,1,PH102,Dược lý học,3.68,PHARMA
+PH008,1,1,PH107,Dược động học,2.32,PHARMA
+PH008,1,2,PH103,Dược lâm sàng,4.56,PHARMA
+PH008,1,2,PH109,Quản lý dược,3.98,PHARMA
+PH008,1,3,PH109,Quản lý dược,3.26,PHARMA
+PH008,1,3,PH107,Dược động học,2.6,PHARMA
+PH008,1,3,PH106,Dược liệu học,3.32,PHARMA
+PH009,2,1,PH108,Công nghiệp dược phẩm,3.16,PHARMA
+PH009,2,1,PH107,Dược động học,3.07,PHARMA
+PH009,2,2,PH103,Dược lâm sàng,2.9,PHARMA
+PH009,2,2,PH107,Dược động học,4.64,PHARMA
+PH009,2,3,PH109,Quản lý dược,2.93,PHARMA
+PH009,2,3,PH106,Dược liệu học,3.0,PHARMA
+PH009,2,3,PH108,Công nghiệp dược phẩm,3.7,PHARMA
+PH010,3,1,PH105,Thực vật dược,3.49,PHARMA
+PH010,3,1,PH107,Dược động học,2.86,PHARMA
+PH010,3,2,PH108,Công nghiệp dược phẩm,2.38,PHARMA
+PH010,3,2,PH109,Quản lý dược,3.16,PHARMA
+PH010,3,3,PH110,Bào chế học,4.71,PHARMA
+PH010,3,3,PH105,Thực vật dược,2.76,PHARMA
+PH010,3,3,PH108,Công nghiệp dược phẩm,2.86,PHARMA
+PH011,2,1,PH109,Quản lý dược,4.78,PHARMA
+PH011,2,1,PH101,Hóa dược đại cương,3.67,PHARMA
+PH011,2,1,PH106,Dược liệu học,4.6,PHARMA
+PH011,2,2,PH102,Dược lý học,4.93,PHARMA
+PH011,2,2,PH103,Dược lâm sàng,2.46,PHARMA
+PH011,2,3,PH110,Bào chế học,3.78,PHARMA
+PH011,2,3,PH109,Quản lý dược,2.49,PHARMA
+PH012,3,1,PH105,Thực vật dược,3.61,PHARMA
+PH012,3,1,PH101,Hóa dược đại cương,3.46,PHARMA
+PH012,3,1,PH106,Dược liệu học,4.51,PHARMA
+PH012,3,2,PH102,Dược lý học,4.37,PHARMA
+PH012,3,2,PH110,Bào chế học,4.98,PHARMA
+PH012,3,3,PH109,Quản lý dược,2.09,PHARMA
+PH012,3,3,PH106,Dược liệu học,4.79,PHARMA
+PH012,3,3,PH103,Dược lâm sàng,3.83,PHARMA
+PH013,4,1,PH108,Công nghiệp dược phẩm,3.66,PHARMA
+PH013,4,1,PH102,Dược lý học,3.06,PHARMA
+PH013,4,1,PH107,Dược động học,3.52,PHARMA
+PH013,4,2,PH102,Dược lý học,4.26,PHARMA
+PH013,4,2,PH106,Dược liệu học,4.31,PHARMA
+PH013,4,2,PH107,Dược động học,4.62,PHARMA
+PH013,4,3,PH103,Dược lâm sàng,2.73,PHARMA
+PH013,4,3,PH101,Hóa dược đại cương,4.73,PHARMA
+PH014,1,1,PH104,Hóa sinh dược,2.8,PHARMA
+PH014,1,1,PH107,Dược động học,3.03,PHARMA
+PH014,1,1,PH109,Quản lý dược,4.49,PHARMA
+PH014,1,2,PH110,Bào chế học,2.11,PHARMA
+PH014,1,2,PH101,Hóa dược đại cương,3.83,PHARMA
+PH014,1,2,PH103,Dược lâm sàng,4.65,PHARMA
+PH014,1,3,PH103,Dược lâm sàng,3.88,PHARMA
+PH014,1,3,PH107,Dược động học,4.67,PHARMA
+PH015,3,1,PH110,Bào chế học,2.32,PHARMA
+PH015,3,1,PH103,Dược lâm sàng,4.21,PHARMA
+PH015,3,2,PH106,Dược liệu học,4.54,PHARMA
+PH015,3,2,PH105,Thực vật dược,2.55,PHARMA
+PH015,3,2,PH108,Công nghiệp dược phẩm,2.91,PHARMA
+PH015,3,3,PH108,Công nghiệp dược phẩm,3.06,PHARMA
+PH015,3,3,PH105,Thực vật dược,3.16,PHARMA
+PH016,1,1,PH102,Dược lý học,2.12,PHARMA
+PH016,1,1,PH104,Hóa sinh dược,3.64,PHARMA
+PH016,1,1,PH106,Dược liệu học,4.57,PHARMA
+PH016,1,2,PH108,Công nghiệp dược phẩm,3.13,PHARMA
+PH016,1,2,PH101,Hóa dược đại cương,4.46,PHARMA
+PH016,1,3,PH103,Dược lâm sàng,2.19,PHARMA
+PH016,1,3,PH107,Dược động học,2.1,PHARMA
+PH017,4,1,PH108,Công nghiệp dược phẩm,3.82,PHARMA
+PH017,4,1,PH101,Hóa dược đại cương,2.55,PHARMA
+PH017,4,2,PH106,Dược liệu học,2.91,PHARMA
+PH017,4,2,PH102,Dược lý học,4.85,PHARMA
+PH017,4,3,PH107,Dược động học,2.51,PHARMA
+PH017,4,3,PH108,Công nghiệp dược phẩm,2.76,PHARMA
+PH017,4,3,PH103,Dược lâm sàng,3.45,PHARMA
+PH018,3,1,PH107,Dược động học,4.59,PHARMA
+PH018,3,1,PH102,Dược lý học,2.62,PHARMA
+PH018,3,2,PH105,Thực vật dược,3.52,PHARMA
+PH018,3,2,PH108,Công nghiệp dược phẩm,4.45,PHARMA
+PH018,3,3,PH107,Dược động học,4.48,PHARMA
+PH018,3,3,PH110,Bào chế học,3.2,PHARMA
+PH018,3,3,PH103,Dược lâm sàng,2.17,PHARMA
+PH019,1,1,PH101,Hóa dược đại cương,3.33,PHARMA
+PH019,1,1,PH106,Dược liệu học,4.75,PHARMA
+PH019,1,1,PH109,Quản lý dược,2.84,PHARMA
+PH019,1,2,PH101,Hóa dược đại cương,3.26,PHARMA
+PH019,1,2,PH104,Hóa sinh dược,2.89,PHARMA
+PH019,1,3,PH101,Hóa dược đại cương,4.46,PHARMA
+PH019,1,3,PH102,Dược lý học,3.52,PHARMA
+PH020,2,1,PH106,Dược liệu học,4.25,PHARMA
+PH020,2,1,PH110,Bào chế học,3.47,PHARMA
+PH020,2,1,PH109,Quản lý dược,4.4,PHARMA
+PH020,2,2,PH107,Dược động học,2.87,PHARMA
+PH020,2,2,PH106,Dược liệu học,3.85,PHARMA
+PH020,2,2,PH102,Dược lý học,3.7,PHARMA
+PH020,2,3,PH106,Dược liệu học,4.82,PHARMA
+PH020,2,3,PH108,Công nghiệp dược phẩm,3.62,PHARMA
+PH020,2,3,PH107,Dược động học,3.92,PHARMA
+PH021,4,1,PH107,Dược động học,4.98,PHARMA
+PH021,4,1,PH109,Quản lý dược,4.38,PHARMA
+PH021,4,2,PH104,Hóa sinh dược,3.79,PHARMA
+PH021,4,2,PH101,Hóa dược đại cương,2.73,PHARMA
+PH021,4,3,PH107,Dược động học,4.74,PHARMA
+PH021,4,3,PH108,Công nghiệp dược phẩm,3.73,PHARMA
+PH021,4,3,PH110,Bào chế học,2.33,PHARMA
+PH022,1,1,PH108,Công nghiệp dược phẩm,2.84,PHARMA
+PH022,1,1,PH110,Bào chế học,2.08,PHARMA
+PH022,1,1,PH103,Dược lâm sàng,4.57,PHARMA
+PH022,1,2,PH102,Dược lý học,2.64,PHARMA
+PH022,1,2,PH110,Bào chế học,3.25,PHARMA
+PH022,1,3,PH103,Dược lâm sàng,3.27,PHARMA
+PH022,1,3,PH102,Dược lý học,3.26,PHARMA
+PH022,1,3,PH106,Dược liệu học,3.82,PHARMA
+PH023,4,1,PH105,Thực vật dược,2.65,PHARMA
+PH023,4,1,PH104,Hóa sinh dược,4.77,PHARMA
+PH023,4,1,PH101,Hóa dược đại cương,3.85,PHARMA
+PH023,4,2,PH110,Bào chế học,2.88,PHARMA
+PH023,4,2,PH104,Hóa sinh dược,2.92,PHARMA
+PH023,4,3,PH106,Dược liệu học,2.68,PHARMA
+PH023,4,3,PH110,Bào chế học,4.38,PHARMA
+PH024,1,1,PH105,Thực vật dược,4.1,PHARMA
+PH024,1,1,PH108,Công nghiệp dược phẩm,2.45,PHARMA
+PH024,1,2,PH105,Thực vật dược,2.51,PHARMA
+PH024,1,2,PH102,Dược lý học,2.0,PHARMA
+PH024,1,2,PH110,Bào chế học,4.94,PHARMA
+PH024,1,3,PH101,Hóa dược đại cương,3.65,PHARMA
+PH024,1,3,PH107,Dược động học,3.57,PHARMA
+PH024,1,3,PH109,Quản lý dược,3.28,PHARMA
+PH025,1,1,PH103,Dược lâm sàng,3.19,PHARMA
+PH025,1,1,PH102,Dược lý học,2.66,PHARMA
+PH025,1,1,PH109,Quản lý dược,4.57,PHARMA
+PH025,1,2,PH103,Dược lâm sàng,4.85,PHARMA
+PH025,1,2,PH107,Dược động học,4.83,PHARMA
+PH025,1,3,PH109,Quản lý dược,2.21,PHARMA
+PH025,1,3,PH106,Dược liệu học,4.58,PHARMA
+PH026,1,1,PH108,Công nghiệp dược phẩm,3.32,PHARMA
+PH026,1,1,PH104,Hóa sinh dược,3.04,PHARMA
+PH026,1,2,PH106,Dược liệu học,4.36,PHARMA
+PH026,1,2,PH105,Thực vật dược,3.38,PHARMA
+PH026,1,3,PH107,Dược động học,2.51,PHARMA
+PH026,1,3,PH109,Quản lý dược,2.54,PHARMA
+PH026,1,3,PH110,Bào chế học,2.36,PHARMA
+PH027,1,1,PH108,Công nghiệp dược phẩm,3.7,PHARMA
+PH027,1,1,PH103,Dược lâm sàng,4.08,PHARMA
+PH027,1,1,PH106,Dược liệu học,3.3,PHARMA
+PH027,1,2,PH101,Hóa dược đại cương,3.5,PHARMA
+PH027,1,2,PH109,Quản lý dược,4.33,PHARMA
+PH027,1,3,PH108,Công nghiệp dược phẩm,4.48,PHARMA
+PH027,1,3,PH109,Quản lý dược,2.69,PHARMA
+PH027,1,3,PH102,Dược lý học,3.07,PHARMA
+PH028,4,1,PH110,Bào chế học,4.25,PHARMA
+PH028,4,1,PH102,Dược lý học,4.91,PHARMA
+PH028,4,2,PH105,Thực vật dược,2.52,PHARMA
+PH028,4,2,PH109,Quản lý dược,2.4,PHARMA
+PH028,4,3,PH101,Hóa dược đại cương,2.81,PHARMA
+PH028,4,3,PH102,Dược lý học,2.31,PHARMA
+PH028,4,3,PH105,Thực vật dược,4.52,PHARMA
+PH029,4,1,PH105,Thực vật dược,2.04,PHARMA
+PH029,4,1,PH107,Dược động học,2.71,PHARMA
+PH029,4,2,PH108,Công nghiệp dược phẩm,3.74,PHARMA
+PH029,4,2,PH101,Hóa dược đại cương,3.53,PHARMA
+PH029,4,2,PH103,Dược lâm sàng,3.38,PHARMA
+PH029,4,3,PH104,Hóa sinh dược,3.66,PHARMA
+PH029,4,3,PH101,Hóa dược đại cương,2.01,PHARMA
+PH030,3,1,PH110,Bào chế học,3.09,PHARMA
+PH030,3,1,PH105,Thực vật dược,4.34,PHARMA
+PH030,3,1,PH102,Dược lý học,3.17,PHARMA
+PH030,3,2,PH103,Dược lâm sàng,4.89,PHARMA
+PH030,3,2,PH104,Hóa sinh dược,3.7,PHARMA
+PH030,3,3,PH110,Bào chế học,4.22,PHARMA
+PH030,3,3,PH102,Dược lý học,4.95,PHARMA
+PH030,3,3,PH105,Thực vật dược,2.11,PHARMA
+PH031,2,1,PH110,Bào chế học,2.7,PHARMA
+PH031,2,1,PH102,Dược lý học,3.41,PHARMA
+PH031,2,2,PH108,Công nghiệp dược phẩm,4.01,PHARMA
+PH031,2,2,PH103,Dược lâm sàng,4.85,PHARMA
+PH031,2,3,PH103,Dược lâm sàng,2.84,PHARMA
+PH031,2,3,PH110,Bào chế học,4.57,PHARMA
+PH031,2,3,PH104,Hóa sinh dược,4.7,PHARMA
+PH032,4,1,PH103,Dược lâm sàng,4.66,PHARMA
+PH032,4,1,PH109,Quản lý dược,2.76,PHARMA
+PH032,4,1,PH102,Dược lý học,4.38,PHARMA
+PH032,4,2,PH101,Hóa dược đại cương,3.97,PHARMA
+PH032,4,2,PH104,Hóa sinh dược,3.29,PHARMA
+PH032,4,3,PH108,Công nghiệp dược phẩm,4.97,PHARMA
+PH032,4,3,PH107,Dược động học,4.57,PHARMA
+PH033,3,1,PH106,Dược liệu học,4.64,PHARMA
+PH033,3,1,PH103,Dược lâm sàng,4.86,PHARMA
+PH033,3,1,PH110,Bào chế học,4.67,PHARMA
+PH033,3,2,PH101,Hóa dược đại cương,3.39,PHARMA
+PH033,3,2,PH105,Thực vật dược,4.27,PHARMA
+PH033,3,3,PH108,Công nghiệp dược phẩm,2.13,PHARMA
+PH033,3,3,PH102,Dược lý học,3.23,PHARMA
+PH033,3,3,PH109,Quản lý dược,4.93,PHARMA
+PH034,4,1,PH106,Dược liệu học,3.63,PHARMA
+PH034,4,1,PH105,Thực vật dược,4.8,PHARMA
+PH034,4,1,PH107,Dược động học,3.34,PHARMA
+PH034,4,2,PH102,Dược lý học,3.61,PHARMA
+PH034,4,2,PH104,Hóa sinh dược,2.41,PHARMA
+PH034,4,2,PH103,Dược lâm sàng,4.68,PHARMA
+PH034,4,3,PH105,Thực vật dược,2.36,PHARMA
+PH034,4,3,PH104,Hóa sinh dược,2.21,PHARMA
+PH035,4,1,PH110,Bào chế học,4.65,PHARMA
+PH035,4,1,PH102,Dược lý học,4.36,PHARMA
+PH035,4,1,PH106,Dược liệu học,3.79,PHARMA
+PH035,4,2,PH107,Dược động học,3.78,PHARMA
+PH035,4,2,PH108,Công nghiệp dược phẩm,4.5,PHARMA
+PH035,4,2,PH105,Thực vật dược,3.49,PHARMA
+PH035,4,3,PH106,Dược liệu học,4.35,PHARMA
+PH035,4,3,PH104,Hóa sinh dược,4.35,PHARMA
+PH035,4,3,PH102,Dược lý học,3.2,PHARMA
+PH036,2,1,PH101,Hóa dược đại cương,2.09,PHARMA
+PH036,2,1,PH109,Quản lý dược,3.03,PHARMA
+PH036,2,2,PH107,Dược động học,2.45,PHARMA
+PH036,2,2,PH105,Thực vật dược,4.65,PHARMA
+PH036,2,2,PH102,Dược lý học,2.35,PHARMA
+PH036,2,3,PH102,Dược lý học,2.74,PHARMA
+PH036,2,3,PH101,Hóa dược đại cương,4.8,PHARMA
+PH036,2,3,PH106,Dược liệu học,4.03,PHARMA
+PH037,4,1,PH106,Dược liệu học,3.28,PHARMA
+PH037,4,1,PH108,Công nghiệp dược phẩm,3.46,PHARMA
+PH037,4,1,PH105,Thực vật dược,3.71,PHARMA
+PH037,4,2,PH107,Dược động học,3.43,PHARMA
+PH037,4,2,PH110,Bào chế học,3.02,PHARMA
+PH037,4,3,PH102,Dược lý học,3.4,PHARMA
+PH037,4,3,PH109,Quản lý dược,3.95,PHARMA
+PH037,4,3,PH106,Dược liệu học,4.91,PHARMA
+PH038,1,1,PH105,Thực vật dược,2.47,PHARMA
+PH038,1,1,PH103,Dược lâm sàng,2.23,PHARMA
+PH038,1,2,PH104,Hóa sinh dược,3.55,PHARMA
+PH038,1,2,PH110,Bào chế học,2.65,PHARMA
+PH038,1,3,PH101,Hóa dược đại cương,3.64,PHARMA
+PH038,1,3,PH103,Dược lâm sàng,4.59,PHARMA
+PH039,4,1,PH105,Thực vật dược,2.45,PHARMA
+PH039,4,1,PH103,Dược lâm sàng,2.14,PHARMA
+PH039,4,2,PH101,Hóa dược đại cương,3.28,PHARMA
+PH039,4,2,PH110,Bào chế học,3.28,PHARMA
+PH039,4,3,PH107,Dược động học,2.89,PHARMA
+PH039,4,3,PH108,Công nghiệp dược phẩm,2.19,PHARMA
+PH040,3,1,PH101,Hóa dược đại cương,3.73,PHARMA
+PH040,3,1,PH104,Hóa sinh dược,2.97,PHARMA
+PH040,3,1,PH103,Dược lâm sàng,4.8,PHARMA
+PH040,3,2,PH108,Công nghiệp dược phẩm,2.99,PHARMA
+PH040,3,2,PH110,Bào chế học,3.82,PHARMA
+PH040,3,3,PH107,Dược động học,4.36,PHARMA
+PH040,3,3,PH106,Dược liệu học,3.95,PHARMA
+PH041,1,1,PH110,Bào chế học,3.19,PHARMA
+PH041,1,1,PH105,Thực vật dược,2.58,PHARMA
+PH041,1,1,PH103,Dược lâm sàng,2.8,PHARMA
+PH041,1,2,PH108,Công nghiệp dược phẩm,3.52,PHARMA
+PH041,1,2,PH102,Dược lý học,4.26,PHARMA
+PH041,1,2,PH109,Quản lý dược,3.5,PHARMA
+PH041,1,3,PH107,Dược động học,3.89,PHARMA
+PH041,1,3,PH106,Dược liệu học,3.2,PHARMA
+PH041,1,3,PH104,Hóa sinh dược,2.94,PHARMA
+PH042,3,1,PH108,Công nghiệp dược phẩm,3.89,PHARMA
+PH042,3,1,PH106,Dược liệu học,4.27,PHARMA
+PH042,3,1,PH109,Quản lý dược,3.22,PHARMA
+PH042,3,2,PH105,Thực vật dược,3.59,PHARMA
+PH042,3,2,PH107,Dược động học,3.09,PHARMA
+PH042,3,3,PH108,Công nghiệp dược phẩm,4.2,PHARMA
+PH042,3,3,PH104,Hóa sinh dược,2.59,PHARMA
+PH042,3,3,PH103,Dược lâm sàng,3.99,PHARMA
+PH043,3,1,PH109,Quản lý dược,2.06,PHARMA
+PH043,3,1,PH107,Dược động học,4.58,PHARMA
+PH043,3,1,PH108,Công nghiệp dược phẩm,2.24,PHARMA
+PH043,3,2,PH110,Bào chế học,4.73,PHARMA
+PH043,3,2,PH108,Công nghiệp dược phẩm,3.22,PHARMA
+PH043,3,3,PH107,Dược động học,4.74,PHARMA
+PH043,3,3,PH102,Dược lý học,3.88,PHARMA
+PH044,2,1,PH102,Dược lý học,2.37,PHARMA
+PH044,2,1,PH105,Thực vật dược,4.37,PHARMA
+PH044,2,2,PH110,Bào chế học,2.47,PHARMA
+PH044,2,2,PH101,Hóa dược đại cương,4.88,PHARMA
+PH044,2,2,PH102,Dược lý học,2.21,PHARMA
+PH044,2,3,PH103,Dược lâm sàng,3.81,PHARMA
+PH044,2,3,PH102,Dược lý học,3.93,PHARMA
+PH045,1,1,PH108,Công nghiệp dược phẩm,3.48,PHARMA
+PH045,1,1,PH101,Hóa dược đại cương,2.51,PHARMA
+PH045,1,1,PH104,Hóa sinh dược,2.45,PHARMA
+PH045,1,2,PH105,Thực vật dược,2.08,PHARMA
+PH045,1,2,PH109,Quản lý dược,4.67,PHARMA
+PH045,1,3,PH106,Dược liệu học,4.62,PHARMA
+PH045,1,3,PH103,Dược lâm sàng,3.73,PHARMA
+PH045,1,3,PH107,Dược động học,4.64,PHARMA
+PH046,4,1,PH106,Dược liệu học,2.04,PHARMA
+PH046,4,1,PH109,Quản lý dược,3.94,PHARMA
+PH046,4,2,PH101,Hóa dược đại cương,3.7,PHARMA
+PH046,4,2,PH105,Thực vật dược,3.42,PHARMA
+PH046,4,2,PH107,Dược động học,3.88,PHARMA
+PH046,4,3,PH106,Dược liệu học,3.64,PHARMA
+PH046,4,3,PH102,Dược lý học,2.57,PHARMA
+PH047,1,1,PH109,Quản lý dược,3.79,PHARMA
+PH047,1,1,PH110,Bào chế học,3.76,PHARMA
+PH047,1,1,PH105,Thực vật dược,2.6,PHARMA
+PH047,1,2,PH106,Dược liệu học,3.01,PHARMA
+PH047,1,2,PH105,Thực vật dược,4.52,PHARMA
+PH047,1,3,PH106,Dược liệu học,3.54,PHARMA
+PH047,1,3,PH101,Hóa dược đại cương,4.3,PHARMA
+PH047,1,3,PH108,Công nghiệp dược phẩm,2.18,PHARMA
+PH048,4,1,PH103,Dược lâm sàng,2.53,PHARMA
+PH048,4,1,PH110,Bào chế học,2.38,PHARMA
+PH048,4,1,PH104,Hóa sinh dược,3.45,PHARMA
+PH048,4,2,PH101,Hóa dược đại cương,2.66,PHARMA
+PH048,4,2,PH104,Hóa sinh dược,4.36,PHARMA
+PH048,4,2,PH109,Quản lý dược,3.17,PHARMA
+PH048,4,3,PH103,Dược lâm sàng,3.51,PHARMA
+PH048,4,3,PH107,Dược động học,3.95,PHARMA
+PH048,4,3,PH101,Hóa dược đại cương,2.8,PHARMA
+PH049,1,1,PH106,Dược liệu học,2.82,PHARMA
+PH049,1,1,PH103,Dược lâm sàng,4.34,PHARMA
+PH049,1,1,PH108,Công nghiệp dược phẩm,4.45,PHARMA
+PH049,1,2,PH104,Hóa sinh dược,3.6,PHARMA
+PH049,1,2,PH105,Thực vật dược,4.97,PHARMA
+PH049,1,2,PH107,Dược động học,4.25,PHARMA
+PH049,1,3,PH105,Thực vật dược,4.83,PHARMA
+PH049,1,3,PH110,Bào chế học,4.5,PHARMA
+PH050,3,1,PH102,Dược lý học,2.02,PHARMA
+PH050,3,1,PH106,Dược liệu học,4.22,PHARMA
+PH050,3,1,PH108,Công nghiệp dược phẩm,3.11,PHARMA
+PH050,3,2,PH109,Quản lý dược,3.42,PHARMA
+PH050,3,2,PH108,Công nghiệp dược phẩm,2.48,PHARMA
+PH050,3,2,PH105,Thực vật dược,2.53,PHARMA
+PH050,3,3,PH103,Dược lâm sàng,3.53,PHARMA
+PH050,3,3,PH101,Hóa dược đại cương,3.34,PHARMA
+PH050,3,3,PH109,Quản lý dược,4.63,PHARMA
+
+// Social Science Faculty //
+SS001,3,1,SS105,Ngôn ngữ học xã hội,2.85,SSHPR
+SS001,3,1,SS104,Truyền thông đại chúng,4.63,SSHPR
+SS001,3,1,SS103,Quan hệ công chúng,4.0,SSHPR
+SS001,3,2,SS105,Ngôn ngữ học xã hội,4.96,SSHPR
+SS001,3,2,SS108,Báo chí học,4.57,SSHPR
+SS001,3,3,SS108,Báo chí học,2.92,SSHPR
+SS001,3,3,SS109,Truyền thông đa phương tiện,2.42,SSHPR
+SS002,1,1,SS106,Nhân học văn hóa,2.63,SSHPR
+SS002,1,1,SS108,Báo chí học,3.73,SSHPR
+SS002,1,2,SS101,Xã hội học đại cương,4.36,SSHPR
+SS002,1,2,SS103,Quan hệ công chúng,2.08,SSHPR
+SS002,1,3,SS108,Báo chí học,2.66,SSHPR
+SS002,1,3,SS109,Truyền thông đa phương tiện,4.26,SSHPR
+SS002,1,3,SS101,Xã hội học đại cương,4.89,SSHPR
+SS003,4,1,SS101,Xã hội học đại cương,2.89,SSHPR
+SS003,4,1,SS108,Báo chí học,4.84,SSHPR
+SS003,4,1,SS102,Tâm lý học đại cương,4.42,SSHPR
+SS003,4,2,SS102,Tâm lý học đại cương,3.09,SSHPR
+SS003,4,2,SS108,Báo chí học,2.02,SSHPR
+SS003,4,2,SS105,Ngôn ngữ học xã hội,4.45,SSHPR
+SS003,4,3,SS109,Truyền thông đa phương tiện,4.05,SSHPR
+SS003,4,3,SS102,Tâm lý học đại cương,4.37,SSHPR
+SS004,4,1,SS101,Xã hội học đại cương,3.29,SSHPR
+SS004,4,1,SS107,Chính trị học,4.45,SSHPR
+SS004,4,2,SS110,Quan hệ quốc tế,3.35,SSHPR
+SS004,4,2,SS102,Tâm lý học đại cương,4.6,SSHPR
+SS004,4,3,SS106,Nhân học văn hóa,2.96,SSHPR
+SS004,4,3,SS107,Chính trị học,2.41,SSHPR
+SS005,1,1,SS107,Chính trị học,4.03,SSHPR
+SS005,1,1,SS101,Xã hội học đại cương,2.82,SSHPR
+SS005,1,2,SS110,Quan hệ quốc tế,4.67,SSHPR
+SS005,1,2,SS107,Chính trị học,3.12,SSHPR
+SS005,1,2,SS103,Quan hệ công chúng,2.91,SSHPR
+SS005,1,3,SS105,Ngôn ngữ học xã hội,3.26,SSHPR
+SS005,1,3,SS103,Quan hệ công chúng,2.81,SSHPR
+SS006,1,1,SS102,Tâm lý học đại cương,4.07,SSHPR
+SS006,1,1,SS109,Truyền thông đa phương tiện,4.36,SSHPR
+SS006,1,1,SS108,Báo chí học,2.48,SSHPR
+SS006,1,2,SS108,Báo chí học,4.31,SSHPR
+SS006,1,2,SS110,Quan hệ quốc tế,3.71,SSHPR
+SS006,1,2,SS101,Xã hội học đại cương,2.29,SSHPR
+SS006,1,3,SS105,Ngôn ngữ học xã hội,2.16,SSHPR
+SS006,1,3,SS108,Báo chí học,3.99,SSHPR
+SS007,2,1,SS109,Truyền thông đa phương tiện,3.11,SSHPR
+SS007,2,1,SS110,Quan hệ quốc tế,2.65,SSHPR
+SS007,2,1,SS106,Nhân học văn hóa,4.8,SSHPR
+SS007,2,2,SS105,Ngôn ngữ học xã hội,4.03,SSHPR
+SS007,2,2,SS106,Nhân học văn hóa,3.3,SSHPR
+SS007,2,2,SS108,Báo chí học,2.11,SSHPR
+SS007,2,3,SS107,Chính trị học,3.7,SSHPR
+SS007,2,3,SS103,Quan hệ công chúng,2.52,SSHPR
+SS007,2,3,SS104,Truyền thông đại chúng,2.87,SSHPR
+SS008,1,1,SS103,Quan hệ công chúng,3.77,SSHPR
+SS008,1,1,SS104,Truyền thông đại chúng,4.89,SSHPR
+SS008,1,2,SS108,Báo chí học,4.82,SSHPR
+SS008,1,2,SS105,Ngôn ngữ học xã hội,2.16,SSHPR
+SS008,1,2,SS106,Nhân học văn hóa,4.83,SSHPR
+SS008,1,3,SS102,Tâm lý học đại cương,2.39,SSHPR
+SS008,1,3,SS107,Chính trị học,2.13,SSHPR
+SS008,1,3,SS106,Nhân học văn hóa,4.97,SSHPR
+SS009,4,1,SS101,Xã hội học đại cương,2.33,SSHPR
+SS009,4,1,SS108,Báo chí học,3.24,SSHPR
+SS009,4,2,SS101,Xã hội học đại cương,4.18,SSHPR
+SS009,4,2,SS107,Chính trị học,2.64,SSHPR
+SS009,4,3,SS106,Nhân học văn hóa,3.97,SSHPR
+SS009,4,3,SS103,Quan hệ công chúng,3.89,SSHPR
+SS009,4,3,SS110,Quan hệ quốc tế,4.62,SSHPR
+SS010,3,1,SS105,Ngôn ngữ học xã hội,4.88,SSHPR
+SS010,3,1,SS104,Truyền thông đại chúng,2.21,SSHPR
+SS010,3,1,SS106,Nhân học văn hóa,4.93,SSHPR
+SS010,3,2,SS104,Truyền thông đại chúng,3.35,SSHPR
+SS010,3,2,SS101,Xã hội học đại cương,2.81,SSHPR
+SS010,3,3,SS104,Truyền thông đại chúng,4.92,SSHPR
+SS010,3,3,SS101,Xã hội học đại cương,4.12,SSHPR
+SS010,3,3,SS106,Nhân học văn hóa,2.35,SSHPR
+SS011,2,1,SS102,Tâm lý học đại cương,2.25,SSHPR
+SS011,2,1,SS106,Nhân học văn hóa,2.42,SSHPR
+SS011,2,2,SS110,Quan hệ quốc tế,3.85,SSHPR
+SS011,2,2,SS103,Quan hệ công chúng,3.57,SSHPR
+SS011,2,3,SS105,Ngôn ngữ học xã hội,2.39,SSHPR
+SS011,2,3,SS109,Truyền thông đa phương tiện,2.66,SSHPR
+SS012,1,1,SS107,Chính trị học,4.13,SSHPR
+SS012,1,1,SS106,Nhân học văn hóa,3.34,SSHPR
+SS012,1,1,SS101,Xã hội học đại cương,2.88,SSHPR
+SS012,1,2,SS108,Báo chí học,2.01,SSHPR
+SS012,1,2,SS109,Truyền thông đa phương tiện,2.79,SSHPR
+SS012,1,2,SS107,Chính trị học,2.47,SSHPR
+SS012,1,3,SS101,Xã hội học đại cương,3.3,SSHPR
+SS012,1,3,SS103,Quan hệ công chúng,4.18,SSHPR
+SS013,4,1,SS103,Quan hệ công chúng,3.83,SSHPR
+SS013,4,1,SS106,Nhân học văn hóa,2.91,SSHPR
+SS013,4,2,SS106,Nhân học văn hóa,4.31,SSHPR
+SS013,4,2,SS102,Tâm lý học đại cương,4.4,SSHPR
+SS013,4,2,SS104,Truyền thông đại chúng,2.55,SSHPR
+SS013,4,3,SS102,Tâm lý học đại cương,2.1,SSHPR
+SS013,4,3,SS106,Nhân học văn hóa,2.84,SSHPR
+SS013,4,3,SS103,Quan hệ công chúng,3.18,SSHPR
+SS014,3,1,SS102,Tâm lý học đại cương,4.28,SSHPR
+SS014,3,1,SS103,Quan hệ công chúng,2.74,SSHPR
+SS014,3,2,SS102,Tâm lý học đại cương,4.52,SSHPR
+SS014,3,2,SS107,Chính trị học,3.64,SSHPR
+SS014,3,3,SS109,Truyền thông đa phương tiện,3.86,SSHPR
+SS014,3,3,SS102,Tâm lý học đại cương,2.91,SSHPR
+SS015,4,1,SS101,Xã hội học đại cương,2.64,SSHPR
+SS015,4,1,SS106,Nhân học văn hóa,3.42,SSHPR
+SS015,4,2,SS105,Ngôn ngữ học xã hội,4.11,SSHPR
+SS015,4,2,SS104,Truyền thông đại chúng,2.79,SSHPR
+SS015,4,2,SS109,Truyền thông đa phương tiện,4.25,SSHPR
+SS015,4,3,SS109,Truyền thông đa phương tiện,4.59,SSHPR
+SS015,4,3,SS105,Ngôn ngữ học xã hội,2.32,SSHPR
+SS016,1,1,SS105,Ngôn ngữ học xã hội,4.39,SSHPR
+SS016,1,1,SS106,Nhân học văn hóa,4.62,SSHPR
+SS016,1,2,SS102,Tâm lý học đại cương,3.85,SSHPR
+SS016,1,2,SS109,Truyền thông đa phương tiện,4.37,SSHPR
+SS016,1,3,SS106,Nhân học văn hóa,3.89,SSHPR
+SS016,1,3,SS110,Quan hệ quốc tế,3.83,SSHPR
+SS017,3,1,SS110,Quan hệ quốc tế,2.5,SSHPR
+SS017,3,1,SS109,Truyền thông đa phương tiện,4.1,SSHPR
+SS017,3,1,SS102,Tâm lý học đại cương,4.26,SSHPR
+SS017,3,2,SS103,Quan hệ công chúng,4.64,SSHPR
+SS017,3,2,SS106,Nhân học văn hóa,4.02,SSHPR
+SS017,3,2,SS102,Tâm lý học đại cương,4.53,SSHPR
+SS017,3,3,SS105,Ngôn ngữ học xã hội,4.0,SSHPR
+SS017,3,3,SS106,Nhân học văn hóa,4.1,SSHPR
+SS018,4,1,SS101,Xã hội học đại cương,3.38,SSHPR
+SS018,4,1,SS103,Quan hệ công chúng,3.83,SSHPR
+SS018,4,1,SS107,Chính trị học,4.1,SSHPR
+SS018,4,2,SS105,Ngôn ngữ học xã hội,2.22,SSHPR
+SS018,4,2,SS102,Tâm lý học đại cương,2.7,SSHPR
+SS018,4,2,SS103,Quan hệ công chúng,4.3,SSHPR
+SS018,4,3,SS104,Truyền thông đại chúng,3.5,SSHPR
+SS018,4,3,SS103,Quan hệ công chúng,3.11,SSHPR
+SS018,4,3,SS101,Xã hội học đại cương,3.61,SSHPR
+SS019,2,1,SS106,Nhân học văn hóa,2.65,SSHPR
+SS019,2,1,SS108,Báo chí học,4.84,SSHPR
+SS019,2,2,SS109,Truyền thông đa phương tiện,2.39,SSHPR
+SS019,2,2,SS104,Truyền thông đại chúng,4.25,SSHPR
+SS019,2,3,SS102,Tâm lý học đại cương,2.68,SSHPR
+SS019,2,3,SS106,Nhân học văn hóa,3.38,SSHPR
+SS020,2,1,SS102,Tâm lý học đại cương,2.74,SSHPR
+SS020,2,1,SS105,Ngôn ngữ học xã hội,4.75,SSHPR
+SS020,2,2,SS108,Báo chí học,3.83,SSHPR
+SS020,2,2,SS102,Tâm lý học đại cương,4.85,SSHPR
+SS020,2,3,SS104,Truyền thông đại chúng,3.89,SSHPR
+SS020,2,3,SS108,Báo chí học,4.62,SSHPR
+SS021,1,1,SS104,Truyền thông đại chúng,2.07,SSHPR
+SS021,1,1,SS102,Tâm lý học đại cương,3.97,SSHPR
+SS021,1,2,SS110,Quan hệ quốc tế,2.89,SSHPR
+SS021,1,2,SS103,Quan hệ công chúng,3.0,SSHPR
+SS021,1,2,SS104,Truyền thông đại chúng,4.49,SSHPR
+SS021,1,3,SS108,Báo chí học,4.17,SSHPR
+SS021,1,3,SS107,Chính trị học,3.12,SSHPR
+SS022,3,1,SS105,Ngôn ngữ học xã hội,3.45,SSHPR
+SS022,3,1,SS107,Chính trị học,3.56,SSHPR
+SS022,3,2,SS108,Báo chí học,3.98,SSHPR
+SS022,3,2,SS106,Nhân học văn hóa,4.91,SSHPR
+SS022,3,3,SS101,Xã hội học đại cương,4.64,SSHPR
+SS022,3,3,SS106,Nhân học văn hóa,2.18,SSHPR
+SS023,3,1,SS107,Chính trị học,2.1,SSHPR
+SS023,3,1,SS101,Xã hội học đại cương,2.34,SSHPR
+SS023,3,2,SS107,Chính trị học,2.01,SSHPR
+SS023,3,2,SS110,Quan hệ quốc tế,3.96,SSHPR
+SS023,3,2,SS105,Ngôn ngữ học xã hội,2.03,SSHPR
+SS023,3,3,SS108,Báo chí học,4.69,SSHPR
+SS023,3,3,SS104,Truyền thông đại chúng,2.7,SSHPR
+SS024,3,1,SS106,Nhân học văn hóa,3.73,SSHPR
+SS024,3,1,SS108,Báo chí học,4.5,SSHPR
+SS024,3,1,SS110,Quan hệ quốc tế,3.06,SSHPR
+SS024,3,2,SS105,Ngôn ngữ học xã hội,2.95,SSHPR
+SS024,3,2,SS103,Quan hệ công chúng,2.76,SSHPR
+SS024,3,3,SS107,Chính trị học,4.68,SSHPR
+SS024,3,3,SS105,Ngôn ngữ học xã hội,3.33,SSHPR
+SS025,1,1,SS102,Tâm lý học đại cương,2.99,SSHPR
+SS025,1,1,SS107,Chính trị học,2.8,SSHPR
+SS025,1,2,SS110,Quan hệ quốc tế,2.77,SSHPR
+SS025,1,2,SS105,Ngôn ngữ học xã hội,2.93,SSHPR
+SS025,1,2,SS103,Quan hệ công chúng,4.98,SSHPR
+SS025,1,3,SS101,Xã hội học đại cương,2.29,SSHPR
+SS025,1,3,SS108,Báo chí học,4.24,SSHPR
+SS025,1,3,SS106,Nhân học văn hóa,2.82,SSHPR
+SS026,2,1,SS104,Truyền thông đại chúng,4.72,SSHPR
+SS026,2,1,SS109,Truyền thông đa phương tiện,4.36,SSHPR
+SS026,2,1,SS106,Nhân học văn hóa,4.6,SSHPR
+SS026,2,2,SS104,Truyền thông đại chúng,3.28,SSHPR
+SS026,2,2,SS103,Quan hệ công chúng,4.02,SSHPR
+SS026,2,2,SS101,Xã hội học đại cương,4.54,SSHPR
+SS026,2,3,SS102,Tâm lý học đại cương,3.57,SSHPR
+SS026,2,3,SS103,Quan hệ công chúng,4.94,SSHPR
+SS027,2,1,SS101,Xã hội học đại cương,4.5,SSHPR
+SS027,2,1,SS107,Chính trị học,4.15,SSHPR
+SS027,2,2,SS102,Tâm lý học đại cương,4.47,SSHPR
+SS027,2,2,SS104,Truyền thông đại chúng,3.97,SSHPR
+SS027,2,3,SS105,Ngôn ngữ học xã hội,3.33,SSHPR
+SS027,2,3,SS103,Quan hệ công chúng,4.48,SSHPR
+SS027,2,3,SS106,Nhân học văn hóa,3.3,SSHPR
+SS028,2,1,SS102,Tâm lý học đại cương,2.06,SSHPR
+SS028,2,1,SS110,Quan hệ quốc tế,2.94,SSHPR
+SS028,2,2,SS105,Ngôn ngữ học xã hội,2.38,SSHPR
+SS028,2,2,SS109,Truyền thông đa phương tiện,2.37,SSHPR
+SS028,2,3,SS109,Truyền thông đa phương tiện,4.13,SSHPR
+SS028,2,3,SS102,Tâm lý học đại cương,3.54,SSHPR
+SS029,1,1,SS105,Ngôn ngữ học xã hội,3.95,SSHPR
+SS029,1,1,SS108,Báo chí học,3.61,SSHPR
+SS029,1,1,SS109,Truyền thông đa phương tiện,4.1,SSHPR
+SS029,1,2,SS105,Ngôn ngữ học xã hội,2.48,SSHPR
+SS029,1,2,SS104,Truyền thông đại chúng,3.91,SSHPR
+SS029,1,3,SS106,Nhân học văn hóa,2.58,SSHPR
+SS029,1,3,SS107,Chính trị học,2.07,SSHPR
+SS030,4,1,SS107,Chính trị học,3.97,SSHPR
+SS030,4,1,SS103,Quan hệ công chúng,3.62,SSHPR
+SS030,4,1,SS109,Truyền thông đa phương tiện,2.24,SSHPR
+SS030,4,2,SS104,Truyền thông đại chúng,2.05,SSHPR
+SS030,4,2,SS108,Báo chí học,2.87,SSHPR
+SS030,4,2,SS109,Truyền thông đa phương tiện,3.77,SSHPR
+SS030,4,3,SS105,Ngôn ngữ học xã hội,3.67,SSHPR
+SS030,4,3,SS107,Chính trị học,4.97,SSHPR
+SS031,1,1,SS106,Nhân học văn hóa,3.7,SSHPR
+SS031,1,1,SS105,Ngôn ngữ học xã hội,2.8,SSHPR
+SS031,1,2,SS109,Truyền thông đa phương tiện,4.13,SSHPR
+SS031,1,2,SS105,Ngôn ngữ học xã hội,2.05,SSHPR
+SS031,1,3,SS106,Nhân học văn hóa,3.31,SSHPR
+SS031,1,3,SS101,Xã hội học đại cương,2.87,SSHPR
+SS032,4,1,SS104,Truyền thông đại chúng,3.51,SSHPR
+SS032,4,1,SS106,Nhân học văn hóa,2.8,SSHPR
+SS032,4,1,SS110,Quan hệ quốc tế,3.24,SSHPR
+SS032,4,2,SS103,Quan hệ công chúng,3.33,SSHPR
+SS032,4,2,SS110,Quan hệ quốc tế,3.77,SSHPR
+SS032,4,2,SS109,Truyền thông đa phương tiện,4.77,SSHPR
+SS032,4,3,SS102,Tâm lý học đại cương,3.78,SSHPR
+SS032,4,3,SS105,Ngôn ngữ học xã hội,4.63,SSHPR
+SS033,4,1,SS106,Nhân học văn hóa,3.62,SSHPR
+SS033,4,1,SS103,Quan hệ công chúng,4.07,SSHPR
+SS033,4,1,SS110,Quan hệ quốc tế,2.55,SSHPR
+SS033,4,2,SS101,Xã hội học đại cương,3.03,SSHPR
+SS033,4,2,SS107,Chính trị học,4.17,SSHPR
+SS033,4,3,SS110,Quan hệ quốc tế,4.88,SSHPR
+SS033,4,3,SS104,Truyền thông đại chúng,2.62,SSHPR
+SS034,2,1,SS101,Xã hội học đại cương,3.01,SSHPR
+SS034,2,1,SS108,Báo chí học,2.25,SSHPR
+SS034,2,2,SS108,Báo chí học,3.47,SSHPR
+SS034,2,2,SS101,Xã hội học đại cương,3.86,SSHPR
+SS034,2,3,SS108,Báo chí học,2.77,SSHPR
+SS034,2,3,SS104,Truyền thông đại chúng,4.22,SSHPR
+SS035,2,1,SS105,Ngôn ngữ học xã hội,3.46,SSHPR
+SS035,2,1,SS107,Chính trị học,4.01,SSHPR
+SS035,2,2,SS104,Truyền thông đại chúng,3.01,SSHPR
+SS035,2,2,SS110,Quan hệ quốc tế,3.93,SSHPR
+SS035,2,3,SS107,Chính trị học,2.52,SSHPR
+SS035,2,3,SS101,Xã hội học đại cương,2.26,SSHPR
+SS035,2,3,SS103,Quan hệ công chúng,3.94,SSHPR
+SS036,4,1,SS106,Nhân học văn hóa,2.92,SSHPR
+SS036,4,1,SS107,Chính trị học,3.37,SSHPR
+SS036,4,1,SS101,Xã hội học đại cương,2.66,SSHPR
+SS036,4,2,SS109,Truyền thông đa phương tiện,3.52,SSHPR
+SS036,4,2,SS104,Truyền thông đại chúng,3.8,SSHPR
+SS036,4,2,SS103,Quan hệ công chúng,2.36,SSHPR
+SS036,4,3,SS108,Báo chí học,4.05,SSHPR
+SS036,4,3,SS109,Truyền thông đa phương tiện,3.75,SSHPR
+SS036,4,3,SS107,Chính trị học,4.05,SSHPR
+SS037,2,1,SS107,Chính trị học,2.43,SSHPR
+SS037,2,1,SS109,Truyền thông đa phương tiện,4.19,SSHPR
+SS037,2,1,SS102,Tâm lý học đại cương,4.77,SSHPR
+SS037,2,2,SS103,Quan hệ công chúng,2.68,SSHPR
+SS037,2,2,SS101,Xã hội học đại cương,3.55,SSHPR
+SS037,2,2,SS108,Báo chí học,3.27,SSHPR
+SS037,2,3,SS101,Xã hội học đại cương,3.82,SSHPR
+SS037,2,3,SS104,Truyền thông đại chúng,2.32,SSHPR
+SS038,4,1,SS110,Quan hệ quốc tế,4.56,SSHPR
+SS038,4,1,SS107,Chính trị học,3.42,SSHPR
+SS038,4,1,SS109,Truyền thông đa phương tiện,2.81,SSHPR
+SS038,4,2,SS110,Quan hệ quốc tế,2.01,SSHPR
+SS038,4,2,SS107,Chính trị học,2.07,SSHPR
+SS038,4,2,SS106,Nhân học văn hóa,2.01,SSHPR
+SS038,4,3,SS106,Nhân học văn hóa,2.56,SSHPR
+SS038,4,3,SS101,Xã hội học đại cương,2.5,SSHPR
+SS038,4,3,SS104,Truyền thông đại chúng,4.34,SSHPR
+SS039,4,1,SS109,Truyền thông đa phương tiện,2.51,SSHPR
+SS039,4,1,SS101,Xã hội học đại cương,2.21,SSHPR
+SS039,4,2,SS102,Tâm lý học đại cương,3.56,SSHPR
+SS039,4,2,SS110,Quan hệ quốc tế,4.43,SSHPR
+SS039,4,3,SS103,Quan hệ công chúng,4.45,SSHPR
+SS039,4,3,SS101,Xã hội học đại cương,4.51,SSHPR
+SS040,2,1,SS103,Quan hệ công chúng,4.13,SSHPR
+SS040,2,1,SS110,Quan hệ quốc tế,2.79,SSHPR
+SS040,2,1,SS105,Ngôn ngữ học xã hội,2.04,SSHPR
+SS040,2,2,SS104,Truyền thông đại chúng,2.41,SSHPR
+SS040,2,2,SS108,Báo chí học,3.97,SSHPR
+SS040,2,2,SS110,Quan hệ quốc tế,3.39,SSHPR
+SS040,2,3,SS103,Quan hệ công chúng,4.06,SSHPR
+SS040,2,3,SS106,Nhân học văn hóa,4.85,SSHPR
+SS041,4,1,SS102,Tâm lý học đại cương,4.95,SSHPR
+SS041,4,1,SS101,Xã hội học đại cương,4.44,SSHPR
+SS041,4,1,SS107,Chính trị học,2.49,SSHPR
+SS041,4,2,SS103,Quan hệ công chúng,4.93,SSHPR
+SS041,4,2,SS108,Báo chí học,3.59,SSHPR
+SS041,4,2,SS106,Nhân học văn hóa,2.04,SSHPR
+SS041,4,3,SS103,Quan hệ công chúng,3.96,SSHPR
+SS041,4,3,SS109,Truyền thông đa phương tiện,4.4,SSHPR
+SS042,4,1,SS101,Xã hội học đại cương,3.62,SSHPR
+SS042,4,1,SS107,Chính trị học,3.03,SSHPR
+SS042,4,2,SS103,Quan hệ công chúng,3.91,SSHPR
+SS042,4,2,SS106,Nhân học văn hóa,4.19,SSHPR
+SS042,4,3,SS103,Quan hệ công chúng,2.51,SSHPR
+SS042,4,3,SS108,Báo chí học,4.31,SSHPR
+SS042,4,3,SS109,Truyền thông đa phương tiện,2.88,SSHPR
+SS043,3,1,SS101,Xã hội học đại cương,3.46,SSHPR
+SS043,3,1,SS106,Nhân học văn hóa,2.82,SSHPR
+SS043,3,1,SS107,Chính trị học,4.93,SSHPR
+SS043,3,2,SS102,Tâm lý học đại cương,3.3,SSHPR
+SS043,3,2,SS104,Truyền thông đại chúng,4.65,SSHPR
+SS043,3,3,SS101,Xã hội học đại cương,2.03,SSHPR
+SS043,3,3,SS102,Tâm lý học đại cương,3.19,SSHPR
+SS044,2,1,SS104,Truyền thông đại chúng,4.52,SSHPR
+SS044,2,1,SS105,Ngôn ngữ học xã hội,3.37,SSHPR
+SS044,2,1,SS103,Quan hệ công chúng,3.7,SSHPR
+SS044,2,2,SS106,Nhân học văn hóa,4.34,SSHPR
+SS044,2,2,SS103,Quan hệ công chúng,2.4,SSHPR
+SS044,2,3,SS106,Nhân học văn hóa,2.43,SSHPR
+SS044,2,3,SS108,Báo chí học,2.55,SSHPR
+SS045,4,1,SS101,Xã hội học đại cương,4.37,SSHPR
+SS045,4,1,SS106,Nhân học văn hóa,2.78,SSHPR
+SS045,4,1,SS104,Truyền thông đại chúng,2.25,SSHPR
+SS045,4,2,SS101,Xã hội học đại cương,3.77,SSHPR
+SS045,4,2,SS110,Quan hệ quốc tế,3.47,SSHPR
+SS045,4,2,SS106,Nhân học văn hóa,4.08,SSHPR
+SS045,4,3,SS104,Truyền thông đại chúng,3.72,SSHPR
+SS045,4,3,SS105,Ngôn ngữ học xã hội,2.39,SSHPR
+SS045,4,3,SS108,Báo chí học,2.01,SSHPR
+SS046,2,1,SS102,Tâm lý học đại cương,2.13,SSHPR
+SS046,2,1,SS103,Quan hệ công chúng,3.97,SSHPR
+SS046,2,1,SS108,Báo chí học,2.92,SSHPR
+SS046,2,2,SS102,Tâm lý học đại cương,3.52,SSHPR
+SS046,2,2,SS108,Báo chí học,4.24,SSHPR
+SS046,2,2,SS105,Ngôn ngữ học xã hội,2.48,SSHPR
+SS046,2,3,SS105,Ngôn ngữ học xã hội,2.69,SSHPR
+SS046,2,3,SS107,Chính trị học,3.54,SSHPR
+SS047,1,1,SS110,Quan hệ quốc tế,2.24,SSHPR
+SS047,1,1,SS108,Báo chí học,4.27,SSHPR
+SS047,1,1,SS106,Nhân học văn hóa,2.18,SSHPR
+SS047,1,2,SS109,Truyền thông đa phương tiện,3.58,SSHPR
+SS047,1,2,SS104,Truyền thông đại chúng,3.14,SSHPR
+SS047,1,2,SS110,Quan hệ quốc tế,3.1,SSHPR
+SS047,1,3,SS107,Chính trị học,3.65,SSHPR
+SS047,1,3,SS106,Nhân học văn hóa,4.08,SSHPR
+SS048,4,1,SS104,Truyền thông đại chúng,3.48,SSHPR
+SS048,4,1,SS103,Quan hệ công chúng,4.74,SSHPR
+SS048,4,2,SS109,Truyền thông đa phương tiện,3.6,SSHPR
+SS048,4,2,SS110,Quan hệ quốc tế,3.31,SSHPR
+SS048,4,3,SS101,Xã hội học đại cương,4.21,SSHPR
+SS048,4,3,SS104,Truyền thông đại chúng,4.13,SSHPR
+SS049,2,1,SS107,Chính trị học,3.61,SSHPR
+SS049,2,1,SS104,Truyền thông đại chúng,2.29,SSHPR
+SS049,2,2,SS107,Chính trị học,3.46,SSHPR
+SS049,2,2,SS109,Truyền thông đa phương tiện,2.7,SSHPR
+SS049,2,3,SS103,Quan hệ công chúng,2.97,SSHPR
+SS049,2,3,SS107,Chính trị học,2.33,SSHPR
+SS049,2,3,SS110,Quan hệ quốc tế,4.06,SSHPR
+SS050,2,1,SS105,Ngôn ngữ học xã hội,3.21,SSHPR
+SS050,2,1,SS102,Tâm lý học đại cương,3.24,SSHPR
+SS050,2,2,SS106,Nhân học văn hóa,3.77,SSHPR
+SS050,2,2,SS110,Quan hệ quốc tế,3.08,SSHPR
+SS050,2,3,SS103,Quan hệ công chúng,4.15,SSHPR
+SS050,2,3,SS108,Báo chí học,2.75,SSHPR
+SS050,2,3,SS107,Chính trị học,3.61,SSHPR
