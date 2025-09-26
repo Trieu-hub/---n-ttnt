@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Thông tin khoa - Hệ thống gợi ý môn học</title>
     <link rel="stylesheet" href="style.css" />
-    </head>
-    <body>
+</head>
+<body>
     <nav class="breadcrumb" aria-label="breadcrumb" style="margin:16px;">
         <a href="index.html">🏠 Trang chủ</a> &nbsp;›&nbsp;
         <span id="bread-current">Khoa</span>
@@ -14,64 +14,55 @@
 
     <header id="faculty-header" class="faculty-header" role="banner" style="margin: 0 16px 18px 16px;">
         <div class="header-inner">
-        <h1 id="faculty-name">Tên khoa</h1>
-        <!-- dùng id "faculty-tagline" (JS sẽ cập nhật) -->
-        <p id="faculty-tagline" style="opacity:0.9;">Mô tả ngắn</p>
-        <div id="faculty-meta" style="margin-top:10px; font-size:0.95rem; color:#444;">
-            <span id="faculty-dean"></span>
-            <span id="faculty-contact" style="margin-left:14px;"></span>
-        </div>
+            <h1 id="faculty-name">Tên khoa</h1>
+            <p id="faculty-tagline" style="opacity:0.9;">Mô tả ngắn</p>
+            <div id="faculty-meta" style="margin-top:10px; font-size:0.95rem; color:#444;">
+                <span id="faculty-dean"></span>
+                <span id="faculty-contact" style="margin-left:14px;"></span>
+            </div>
         </div>
     </header>
-    <!-- dùng id "overview", "curriculum", "research", "career" (JS sẽ cập nhật) -->
+
     <main class="container" style="display:flex; gap:24px; align-items:flex-start; padding: 0 16px 40px;">
         <div class="main-content" style="flex:1; min-width:280px;">
-        <section id="overview" class="card section-overview" aria-labelledby="overview-title">
-            <h2 id="overview-title">Tổng quan</h2>
-            <p id="faculty-overview">Nội dung tổng quan về khoa sẽ hiển thị ở đây.</p>
-        </section>
-        <!-- dùng id "curriculum" (JS sẽ cập nhật) -->
-        <section id="curriculum" class="card section-curriculum" aria-labelledby="curriculum-title" style="margin-top:18px;">
-            <h2 id="curriculum-title">Nội dung chính & Chương trình</h2>
-            <div id="programs"></div>
-            <h3 style="margin-top:12px;">Các môn học</h3>
-            <!-- dùng id "subject-list" (JS sẽ cập nhật) -->
-            <ul id="subject-list" style="list-style: none; padding-left:0;"></ul>
-        </section>
-        <!-- dùng id "research" (JS sẽ cập nhật) -->
-        <section id="research" class="card section-research" aria-labelledby="research-title" style="margin-top:18px;">
-            <h2 id="research-title">Phòng thí nghiệm & Nghiên cứu</h2>
-            <div id="labs-list"></div>
-            <div id="research-areas" style="margin-top:10px;"></div>
-        </section>
-        <!-- dùng id "career" (JS sẽ cập nhật) -->
-        <section id="career" class="card section-career" aria-labelledby="career-title" style="margin-top:18px;">
-            <h2 id="career-title">Cơ hội nghề nghiệp & Hợp tác doanh nghiệp</h2>
-            <div id="career-prospects"></div>
-        </section>
+            <section id="overview" class="card section-overview" aria-labelledby="overview-title">
+                <h2 id="overview-title">Tổng quan</h2>
+                <p id="faculty-overview">Nội dung tổng quan về khoa sẽ hiển thị ở đây.</p>
+            </section>
+            <section id="curriculum" class="card section-curriculum" aria-labelledby="curriculum-title" style="margin-top:18px;">
+                <h2 id="curriculum-title">Nội dung chính & Chương trình</h2>
+                <div id="programs"></div>
+                <h3 style="margin-top:12px;">Các môn học gợi ý</h3>
+                <ul id="hot-courses" style="list-style: none; padding-left:0;"></ul>
+            </section>
+            <section id="research" class="card section-research" aria-labelledby="research-title" style="margin-top:18px;">
+                <h2 id="research-title">Phòng thí nghiệm & Nghiên cứu</h2>
+                <div id="labs-list"></div>
+                <div id="research-areas" style="margin-top:10px;"></div>
+            </section>
+            <section id="career" class="card section-career" aria-labelledby="career-title" style="margin-top:18px;">
+                <h2 id="career-title">Cơ hội nghề nghiệp & Hợp tác doanh nghiệp</h2>
+                <div id="career-prospects"></div>
+            </section>
         </div>
-        <!-- dùng id "sidebar" (JS sẽ cập nhật) -->
         <aside class="sidebar" style="width:320px; min-width:240px;">
-        <div class="card" style="padding:14px;">
-            <h3>Các môn học hot</h3>
-            <ul id="hot-courses" style="list-style:none; padding-left:0; margin-top:8px;"></ul>
-        </div>
-
-        <div class="card" style="padding:14px; margin-top:14px;">
-            <h3>Tài nguyên học tập</h3>
-            <ul id="resources" style="list-style:none; padding-left:0; margin-top:8px;"></ul>
-        </div>
-
-        <div class="card" style="padding:14px; margin-top:14px;">
-            <h3>Liên hệ & Thông tin</h3>
-            <div id="contact-info" style="font-size:0.95rem; margin-top:8px;"></div>
-        </div>
-
-        <div class="card" style="padding:14px; margin-top:14px;">
-            <h3>Chia sẻ / Tùy chọn</h3>
-            <p style="font-size:0.9rem; color:#555;">Bạn có thể copy đường dẫn hoặc mở bản in.</p>
-            <button id="btn-copy-link" style="padding:8px 12px; border-radius:6px; cursor:pointer;">Sao chép liên kết</button>
-        </div>
+            <div class="card" style="padding:14px;">
+                <h3>Các môn học đã học</h3>
+                <ul id="taken-courses" style="list-style:none; padding-left:0; margin-top:8px;"></ul>
+            </div>
+            <div class="card" style="padding:14px; margin-top:14px;">
+                <h3>Tài nguyên học tập</h3>
+                <ul id="resources" style="list-style:none; padding-left:0; margin-top:8px;"></ul>
+            </div>
+            <div class="card" style="padding:14px; margin-top:14px;">
+                <h3>Liên hệ & Thông tin</h3>
+                <div id="contact-info" style="font-size:0.95rem; margin-top:8px;"></div>
+            </div>
+            <div class="card" style="padding:14px; margin-top:14px;">
+                <h3>Chia sẻ / Tùy chọn</h3>
+                <p style="font-size:0.9rem; color:#555;">Bạn có thể copy đường dẫn hoặc mở bản in.</p>
+                <button id="btn-copy-link" style="padding:8px 12px; border-radius:6px; cursor:pointer;">Sao chép liên kết</button>
+            </div>
         </aside>
     </main>
 
@@ -80,7 +71,6 @@
     </footer>
 
     <script src="./js/other/data.js"></script>
-
     <script>
     (function () {
         // debug logs
@@ -92,8 +82,8 @@
 
         // kiểm tra data load
         if (typeof faculties === 'undefined') {
-        console.warn('Warning: data.js not loaded or "faculties" undefined');
-        window.faculties = {};
+            console.warn('Warning: data.js not loaded hoặc "faculties" undefined');
+            window.faculties = {};
         }
         console.log('faculties keys:', Object.keys(window.faculties || {}));
 
@@ -102,77 +92,47 @@
 
         // nếu không tồn tại -> hiển thị hướng dẫn
         if (!faculty) {
-        document.getElementById('faculty-name').textContent = 'Không tìm thấy khoa';
-        document.getElementById('faculty-tagline').textContent = 'Vui lòng chọn khoa từ trang chính.';
-        document.getElementById('bread-current').textContent = 'Không tìm thấy';
-        document.getElementById('overview-title').textContent = 'Hướng dẫn';
-        document.getElementById('faculty-overview').textContent = 'Bạn có thể quay lại trang chủ và chọn một khoa. Ví dụ: index.html';
-        // list quick links nếu có data
-        if (Object.keys(data).length > 0) {
-            const list = document.createElement('ul');
-            list.style.listStyle = 'none';
-            list.style.padding = 0;
-            Object.keys(data).forEach(k => {
-            const li = document.createElement('li');
-            li.innerHTML = `<a href="faculty.html?id=${k}">${data[k].name || k}</a>`;
-            list.appendChild(li);
-            });
-            document.getElementById('programs').appendChild(list);
-        }
-        return;
-        }
-
-        // 👉 Gọi API lấy môn hot cho sinh viên
-        async function loadHotSubjects(userId) {
-        try {
-            const res = await fetch(`http://127.0.0.1:5000/recommend/${userId}`);
-            const data = await res.json();
-            const hotUl = document.getElementById("hot-courses");
-
-            hotUl.innerHTML = "";
-            data.forEach(subj => {
-            const li = document.createElement("li");
-            li.textContent = subj;
-            hotUl.appendChild(li);
-            });
-        } catch (err) {
-            console.error("Lỗi khi gọi API hot subjects:", err);
-        }
+            document.getElementById('faculty-name').textContent = 'Không tìm thấy khoa';
+            document.getElementById('faculty-tagline').textContent = 'Vui lòng chọn khoa từ trang chính.';
+            document.getElementById('bread-current').textContent = 'Không tìm thấy';
+            document.getElementById('overview-title').textContent = 'Hướng dẫn';
+            document.getElementById('faculty-overview').textContent = 'Bạn có thể quay lại trang chủ và chọn một khoa. Ví dụ: index.html';
+            // list quick links nếu có data
+            if (Object.keys(data).length > 0) {
+                const list = document.createElement('ul');
+                list.style.listStyle = 'none';
+                list.style.padding = 0;
+                Object.keys(data).forEach(k => {
+                    const li = document.createElement('li');
+                    li.innerHTML = `<a href="faculty.html?id=${k}">${data[k].name || k}</a>`;
+                    list.appendChild(li);
+                });
+                document.getElementById('programs').appendChild(list);
+            }
+            return;
         }
 
-        // Test thử với sv1
-        loadHotSubjects("sv1");
-
-        // nếu có faculty -> render
+        // Render thông tin faculty
         document.getElementById('bread-current').textContent = faculty.name || fid;
         document.getElementById('faculty-name').textContent = faculty.name || fid;
         document.getElementById('faculty-tagline').textContent = faculty.description || '';
 
         // subjects -> subject-list
-        const subjUl = document.getElementById('subject-list');
+        const subjUl = document.getElementById('hot-courses');
         subjUl.innerHTML = '';
         (faculty.subjects || []).forEach(s => {
-        const li = document.createElement('li');
-        li.textContent = s;
-        subjUl.appendChild(li);
+            const li = document.createElement('li');
+            li.textContent = s;
+            subjUl.appendChild(li);
         });
 
         // resources
         const resUl = document.getElementById('resources');
         resUl.innerHTML = '';
         (faculty.resources || []).forEach(r => {
-        const li = document.createElement('li');
-        li.innerHTML = (r.url ? `<a href="${r.url}" target="_blank">${r.label || r}</a>` : (r.label || r));
-        resUl.appendChild(li);
-        });
-
-        // hot-courses
-        const hotUl = document.getElementById('hot-courses');
-        hotUl.innerHTML = '';
-        (faculty.hot_courses || []).slice(0,6).forEach(h => {
-        const li = document.createElement('li');
-        li.innerHTML = `<span>${h}</span>`;
-        hotUl.appendChild(li);
+            const li = document.createElement('li');
+            li.innerHTML = (r.url ? `<a href="${r.url}" target="_blank">${r.label || r}</a>` : (r.label || r));
+            resUl.appendChild(li);
         });
 
         // contact
@@ -184,36 +144,33 @@
 
         // copy link
         document.getElementById('btn-copy-link').addEventListener('click', function () {
-        navigator.clipboard?.writeText(window.location.href).then(()=>alert('Đã sao chép liên kết'));
+            navigator.clipboard?.writeText(window.location.href).then(()=>alert('Đã sao chép liên kết'));
         });
 
         console.log('Render finished for', fid);
     })();
 
-    </script>
-        <script>
-        // Gọi API Flask để lấy môn học HOT
+    // Gọi API Flask để lấy môn học
         async function loadHotSubjects(userId) {
             try {
                 const res = await fetch(`http://127.0.0.1:5000/recommend/${userId}`);
                 const data = await res.json();
-                const hotUl = document.getElementById("hot-courses");
 
+                // ✅ Hiển thị danh sách gợi ý từ API (recommendations)
+                const hotUl = document.getElementById("hot-courses");
                 hotUl.innerHTML = "";
                 (data.recommendations || []).forEach(subj => {
                     const li = document.createElement("li");
                     li.textContent = subj;
                     hotUl.appendChild(li);
                 });
+
             } catch (err) {
-                console.error("Lỗi khi gọi API hot subjects:", err);
+                console.error("Lỗi khi gọi API:", err);
             }
         }
-
-        // gọi thử khi trang load xong
-        window.addEventListener("DOMContentLoaded", () => {
-            loadHotSubjects("sv1");
-        });
-        </script>
-    </body>
+        // Gọi hàm với id sinh viên (ví dụ: sv1)
+        loadHotSubjects("sv1");
+    </script>
+</body>
 </html>

@@ -1,0 +1,23 @@
+student_id,year,semester,course_id,course_name,rating
+sv1,1,1,COSC1301,Nhập môn lập trình,5
+sv1,1,1,MATH1301,Giải tích,4
+sv1,1,2,COSC1302,Kỹ thuật lập trình,5
+sv1,1,2,MATH1302,Đại số tuyến tính,4
+sv1,2,1,COSC2301,Lập trình hướng đối tượng,5
+sv1,2,1,COSC2302,Cấu trúc dữ liệu,5
+sv1,2,2,COSC2303,Cơ sở dữ liệu,4
+sv1,2,2,COSC2304,Hệ điều hành,3
+sv1,3,1,COSC3301,Trí tuệ nhân tạo,4
+sv1,3,2,COSC3302,Mạng máy tính,4
+sv2,1,1,COSC1301,Nhập môn lập trình,4
+sv2,1,1,MATH1301,Giải tích,5
+sv2,1,2,COSC1302,Kỹ thuật lập trình,4
+sv2,2,1,COSC2301,Lập trình hướng đối tượng,5
+sv2,2,1,COSC2302,Cấu trúc dữ liệu,4
+sv2,2,2,COSC2303,Cơ sở dữ liệu,3
+sv2,3,1,COSC3301,Trí tuệ nhân tạo,5
+sv3,1,1,COSC1301,Nhập môn lập trình,3
+sv3,1,1,MATH1301,Giải tích,4
+sv3,1,2,COSC1302,Kỹ thuật lập trình,4
+sv3,2,1,COSC2301,Lập trình hướng đối tượng,5
+sv3,2,2,COSC2304,Hệ điều hành,3

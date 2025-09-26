@@ -259,3 +259,86 @@ footer {
     padding: 20px;
     font-size: 0.9rem;
 }
+
+/* Container của toàn bộ section */
+#curriculum {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #fff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+/* Tiêu đề chính */
+#curriculum-title {
+    background: #fff;
+    color: black;
+    margin: 0;
+    padding: 14px 18px;
+    font-size: 18px;
+    border-radius: 8px 8px 0 0;
+}
+
+/* Ẩn các phần bên dưới mặc định */
+#curriculum h3,
+#curriculum #hot-courses {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: all 0.5s ease;
+    margin: 0;
+    padding: 0 18px;
+}
+
+/* Khi hover vào section thì hiện ra */
+#curriculum:hover h3,
+#curriculum:hover #hot-courses {
+    max-height: 600px; /* đủ để chứa danh sách */
+    opacity: 1;
+    margin-top: 12px;
+    padding: 0 18px 14px 18px;
+}
+
+/* Danh sách môn học */
+#hot-courses {
+    list-style: none;
+    padding-left: 0;
+}
+
+#hot-courses li {
+    background: #f5f7fa;
+    margin: 6px 0;
+    padding: 10px 14px;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+}
+
+#hot-courses li:hover {
+    background: #e0f7fa;
+    transform: translateX(6px);
+}
+
+#taken-courses,
+#resources,
+#contact-info{
+    max-height: fit-content;
+    opacity: 1;
+    margin-top: 5px;
+    padding: 0 18px 14px 18px;
+}
+#taken-courses li,
+#resources li,
+#contact-info li {
+    background: #f5f7fa;
+    margin: 6px 0;
+    padding: 10px 14px;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+}
+#taken-courses li:hover,
+#resources li:hover,
+#contact-info li:hover {
+    background: #e0f7fa;
+    transform: translateX(6px);
+}
