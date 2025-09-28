@@ -1117,3 +1117,738 @@ SS050,2,2,SS110,Quan hệ quốc tế,3.08,SSHPR
 SS050,2,3,SS103,Quan hệ công chúng,4.15,SSHPR
 SS050,2,3,SS108,Báo chí học,2.75,SSHPR
 SS050,2,3,SS107,Chính trị học,3.61,SSHPR
+
+//---------------- LAW ----------------//
+LA001,1,1,LAW101,Luật dân sự,3.86,LAW
+LA001,1,1,LAW106,Luật lao động,2.62,LAW
+LA001,1,2,LAW104,Luật thương mại,3.2,LAW
+LA001,1,2,LAW107,Luật hành chính,2.94,LAW
+LA001,1,2,LAW101,Luật dân sự,4.24,LAW
+LA001,2,1,LAW103,Luật quốc tế,2.26,LAW
+LA001,2,1,LAW108,Luật môi trường,4.71,LAW
+LA001,2,2,LAW101,Luật dân sự,2.23,LAW
+LA001,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.87,LAW
+LA001,2,2,LAW104,Luật thương mại,4.26,LAW
+LA002,1,1,LAW101,Luật dân sự,3.0,LAW
+LA002,1,1,LAW102,Luật hình sự,3.51,LAW
+LA002,1,1,LAW109,Luật tài chính - ngân hàng,3.51,LAW
+LA002,1,2,LAW107,Luật hành chính,2.95,LAW
+LA002,1,2,LAW106,Luật lao động,4.46,LAW
+LA002,2,1,LAW103,Luật quốc tế,3.3,LAW
+LA002,2,1,LAW102,Luật hình sự,3.77,LAW
+LA002,2,1,LAW108,Luật môi trường,2.39,LAW
+LA002,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.64,LAW
+LA002,2,2,LAW101,Luật dân sự,4.1,LAW
+LA002,2,2,LAW104,Luật thương mại,3.55,LAW
+LA003,1,1,LAW105,Luật hiến pháp,4.57,LAW
+LA003,1,1,LAW103,Luật quốc tế,4.91,LAW
+LA003,1,1,LAW104,Luật thương mại,2.42,LAW
+LA003,1,2,LAW103,Luật quốc tế,3.25,LAW
+LA003,1,2,LAW108,Luật môi trường,2.71,LAW
+LA003,1,2,LAW106,Luật lao động,2.16,LAW
+LA003,2,1,LAW107,Luật hành chính,3.66,LAW
+LA003,2,1,LAW108,Luật môi trường,4.41,LAW
+LA003,2,1,LAW109,Luật tài chính - ngân hàng,4.95,LAW
+LA003,2,2,LAW102,Luật hình sự,2.89,LAW
+LA003,2,2,LAW104,Luật thương mại,4.87,LAW
+LA004,1,1,LAW102,Luật hình sự,4.64,LAW
+LA004,1,1,LAW104,Luật thương mại,4.34,LAW
+LA004,1,2,LAW103,Luật quốc tế,3.93,LAW
+LA004,1,2,LAW104,Luật thương mại,2.27,LAW
+LA004,1,2,LAW107,Luật hành chính,4.7,LAW
+LA004,2,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.81,LAW
+LA004,2,1,LAW109,Luật tài chính - ngân hàng,4.63,LAW
+LA004,2,2,LAW104,Luật thương mại,4.95,LAW
+LA004,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.0,LAW
+LA004,2,2,LAW101,Luật dân sự,3.44,LAW
+LA004,3,1,LAW104,Luật thương mại,4.15,LAW
+LA004,3,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.93,LAW
+LA004,3,1,LAW108,Luật môi trường,2.19,LAW
+LA004,3,2,LAW101,Luật dân sự,3.57,LAW
+LA004,3,2,LAW106,Luật lao động,4.73,LAW
+LA004,3,2,LAW105,Luật hiến pháp,3.78,LAW
+LA004,4,1,LAW104,Luật thương mại,3.61,LAW
+LA004,4,1,LAW102,Luật hình sự,4.37,LAW
+LA004,4,1,LAW108,Luật môi trường,3.0,LAW
+LA004,4,2,LAW104,Luật thương mại,4.11,LAW
+LA004,4,2,LAW108,Luật môi trường,3.75,LAW
+LA004,4,2,LAW101,Luật dân sự,4.38,LAW
+LA005,1,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.09,LAW
+LA005,1,1,LAW103,Luật quốc tế,2.91,LAW
+LA005,1,1,LAW109,Luật tài chính - ngân hàng,4.37,LAW
+LA005,1,2,LAW104,Luật thương mại,3.47,LAW
+LA005,1,2,LAW109,Luật tài chính - ngân hàng,3.66,LAW
+LA005,2,1,LAW102,Luật hình sự,2.02,LAW
+LA005,2,1,LAW108,Luật môi trường,4.99,LAW
+LA005,2,2,LAW108,Luật môi trường,4.56,LAW
+LA005,2,2,LAW103,Luật quốc tế,2.57,LAW
+LA005,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.36,LAW
+LA006,1,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.55,LAW
+LA006,1,1,LAW108,Luật môi trường,3.07,LAW
+LA006,1,2,LAW107,Luật hành chính,3.03,LAW
+LA006,1,2,LAW103,Luật quốc tế,2.96,LAW
+LA006,1,2,LAW105,Luật hiến pháp,4.15,LAW
+LA006,2,1,LAW101,Luật dân sự,3.21,LAW
+LA006,2,1,LAW109,Luật tài chính - ngân hàng,4.05,LAW
+LA006,2,1,LAW106,Luật lao động,3.65,LAW
+LA006,2,2,LAW107,Luật hành chính,4.04,LAW
+LA006,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.86,LAW
+LA006,3,1,LAW105,Luật hiến pháp,3.43,LAW
+LA006,3,1,LAW107,Luật hành chính,2.3,LAW
+LA006,3,2,LAW103,Luật quốc tế,4.94,LAW
+LA006,3,2,LAW107,Luật hành chính,4.62,LAW
+LA006,4,1,LAW104,Luật thương mại,4.04,LAW
+LA006,4,1,LAW110,Lý luận chung về nhà nước và pháp luật,4.58,LAW
+LA006,4,2,LAW101,Luật dân sự,3.15,LAW
+LA006,4,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.67,LAW
+LA007,1,1,LAW105,Luật hiến pháp,3.92,LAW
+LA007,1,1,LAW103,Luật quốc tế,3.46,LAW
+LA007,1,2,LAW105,Luật hiến pháp,2.94,LAW
+LA007,1,2,LAW101,Luật dân sự,2.11,LAW
+LA007,1,2,LAW108,Luật môi trường,3.72,LAW
+LA007,2,1,LAW101,Luật dân sự,2.79,LAW
+LA007,2,1,LAW109,Luật tài chính - ngân hàng,2.15,LAW
+LA007,2,1,LAW106,Luật lao động,3.21,LAW
+LA007,2,2,LAW104,Luật thương mại,3.63,LAW
+LA007,2,2,LAW102,Luật hình sự,3.2,LAW
+LA007,3,1,LAW101,Luật dân sự,4.06,LAW
+LA007,3,1,LAW105,Luật hiến pháp,4.26,LAW
+LA007,3,1,LAW104,Luật thương mại,3.17,LAW
+LA007,3,2,LAW105,Luật hiến pháp,3.38,LAW
+LA007,3,2,LAW106,Luật lao động,4.04,LAW
+LA007,3,2,LAW109,Luật tài chính - ngân hàng,3.25,LAW
+LA008,1,1,LAW105,Luật hiến pháp,3.44,LAW
+LA008,1,1,LAW104,Luật thương mại,2.6,LAW
+LA008,1,1,LAW108,Luật môi trường,2.35,LAW
+LA008,1,2,LAW105,Luật hiến pháp,2.1,LAW
+LA008,1,2,LAW109,Luật tài chính - ngân hàng,3.26,LAW
+LA008,2,1,LAW103,Luật quốc tế,2.94,LAW
+LA008,2,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.24,LAW
+LA008,2,2,LAW105,Luật hiến pháp,4.34,LAW
+LA008,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.84,LAW
+LA008,3,1,LAW109,Luật tài chính - ngân hàng,3.85,LAW
+LA008,3,1,LAW106,Luật lao động,4.19,LAW
+LA008,3,1,LAW102,Luật hình sự,3.76,LAW
+LA008,3,2,LAW103,Luật quốc tế,3.92,LAW
+LA008,3,2,LAW105,Luật hiến pháp,4.54,LAW
+LA008,3,2,LAW102,Luật hình sự,3.79,LAW
+LA009,1,1,LAW104,Luật thương mại,2.55,LAW
+LA009,1,1,LAW109,Luật tài chính - ngân hàng,3.33,LAW
+LA009,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.05,LAW
+LA009,1,2,LAW105,Luật hiến pháp,2.93,LAW
+LA009,1,2,LAW101,Luật dân sự,4.35,LAW
+LA009,2,1,LAW105,Luật hiến pháp,4.56,LAW
+LA009,2,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.7,LAW
+LA009,2,2,LAW105,Luật hiến pháp,3.23,LAW
+LA009,2,2,LAW108,Luật môi trường,3.62,LAW
+LA009,3,1,LAW105,Luật hiến pháp,3.28,LAW
+LA009,3,1,LAW103,Luật quốc tế,2.49,LAW
+LA009,3,2,LAW103,Luật quốc tế,3.62,LAW
+LA009,3,2,LAW104,Luật thương mại,3.92,LAW
+LA009,3,2,LAW108,Luật môi trường,4.44,LAW
+LA010,1,1,LAW105,Luật hiến pháp,3.36,LAW
+LA010,1,1,LAW107,Luật hành chính,3.92,LAW
+LA010,1,2,LAW103,Luật quốc tế,4.02,LAW
+LA010,1,2,LAW105,Luật hiến pháp,3.4,LAW
+LA010,2,1,LAW108,Luật môi trường,2.99,LAW
+LA010,2,1,LAW103,Luật quốc tế,4.14,LAW
+LA010,2,2,LAW107,Luật hành chính,4.5,LAW
+LA010,2,2,LAW108,Luật môi trường,4.47,LAW
+LA011,1,1,LAW102,Luật hình sự,4.19,LAW
+LA011,1,1,LAW105,Luật hiến pháp,3.08,LAW
+LA011,1,1,LAW101,Luật dân sự,2.82,LAW
+LA011,1,2,LAW106,Luật lao động,3.88,LAW
+LA011,1,2,LAW102,Luật hình sự,3.32,LAW
+LA011,1,2,LAW107,Luật hành chính,4.54,LAW
+LA011,2,1,LAW109,Luật tài chính - ngân hàng,4.02,LAW
+LA011,2,1,LAW102,Luật hình sự,3.16,LAW
+LA011,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.21,LAW
+LA011,2,2,LAW102,Luật hình sự,4.48,LAW
+LA011,3,1,LAW109,Luật tài chính - ngân hàng,3.07,LAW
+LA011,3,1,LAW107,Luật hành chính,3.39,LAW
+LA011,3,1,LAW101,Luật dân sự,2.4,LAW
+LA011,3,2,LAW102,Luật hình sự,4.59,LAW
+LA011,3,2,LAW103,Luật quốc tế,3.08,LAW
+LA011,3,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.0,LAW
+LA011,4,1,LAW108,Luật môi trường,4.43,LAW
+LA011,4,1,LAW102,Luật hình sự,3.93,LAW
+LA011,4,2,LAW109,Luật tài chính - ngân hàng,3.95,LAW
+LA011,4,2,LAW104,Luật thương mại,4.56,LAW
+LA012,1,1,LAW108,Luật môi trường,4.21,LAW
+LA012,1,1,LAW104,Luật thương mại,2.47,LAW
+LA012,1,1,LAW107,Luật hành chính,3.68,LAW
+LA012,1,2,LAW101,Luật dân sự,2.07,LAW
+LA012,1,2,LAW105,Luật hiến pháp,2.07,LAW
+LA012,2,1,LAW109,Luật tài chính - ngân hàng,3.8,LAW
+LA012,2,1,LAW108,Luật môi trường,4.01,LAW
+LA012,2,1,LAW107,Luật hành chính,2.4,LAW
+LA012,2,2,LAW106,Luật lao động,4.73,LAW
+LA012,2,2,LAW102,Luật hình sự,4.25,LAW
+LA012,2,2,LAW108,Luật môi trường,2.78,LAW
+LA012,3,1,LAW109,Luật tài chính - ngân hàng,4.0,LAW
+LA012,3,1,LAW107,Luật hành chính,2.39,LAW
+LA012,3,1,LAW105,Luật hiến pháp,3.02,LAW
+LA012,3,2,LAW107,Luật hành chính,3.92,LAW
+LA012,3,2,LAW108,Luật môi trường,4.65,LAW
+LA012,3,2,LAW102,Luật hình sự,2.66,LAW
+LA012,4,1,LAW107,Luật hành chính,3.43,LAW
+LA012,4,1,LAW101,Luật dân sự,2.82,LAW
+LA012,4,1,LAW103,Luật quốc tế,2.9,LAW
+LA012,4,2,LAW109,Luật tài chính - ngân hàng,2.16,LAW
+LA012,4,2,LAW106,Luật lao động,3.73,LAW
+LA012,4,2,LAW104,Luật thương mại,3.34,LAW
+LA013,1,1,LAW101,Luật dân sự,3.86,LAW
+LA013,1,1,LAW107,Luật hành chính,2.86,LAW
+LA013,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.4,LAW
+LA013,1,2,LAW108,Luật môi trường,4.92,LAW
+LA013,1,2,LAW109,Luật tài chính - ngân hàng,4.99,LAW
+LA013,2,1,LAW102,Luật hình sự,3.31,LAW
+LA013,2,1,LAW108,Luật môi trường,3.65,LAW
+LA013,2,2,LAW101,Luật dân sự,2.1,LAW
+LA013,2,2,LAW109,Luật tài chính - ngân hàng,2.22,LAW
+LA013,2,2,LAW104,Luật thương mại,3.86,LAW
+LA013,3,1,LAW101,Luật dân sự,2.3,LAW
+LA013,3,1,LAW107,Luật hành chính,3.06,LAW
+LA013,3,1,LAW103,Luật quốc tế,4.33,LAW
+LA013,3,2,LAW101,Luật dân sự,2.14,LAW
+LA013,3,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.93,LAW
+LA014,1,1,LAW110,Lý luận chung về nhà nước và pháp luật,4.96,LAW
+LA014,1,1,LAW106,Luật lao động,2.78,LAW
+LA014,1,1,LAW109,Luật tài chính - ngân hàng,4.4,LAW
+LA014,1,2,LAW106,Luật lao động,4.1,LAW
+LA014,1,2,LAW102,Luật hình sự,4.93,LAW
+LA014,2,1,LAW105,Luật hiến pháp,2.15,LAW
+LA014,2,1,LAW107,Luật hành chính,3.41,LAW
+LA014,2,2,LAW101,Luật dân sự,4.05,LAW
+LA014,2,2,LAW108,Luật môi trường,4.39,LAW
+LA014,2,2,LAW107,Luật hành chính,3.69,LAW
+LA014,3,1,LAW105,Luật hiến pháp,3.87,LAW
+LA014,3,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.81,LAW
+LA014,3,2,LAW107,Luật hành chính,4.49,LAW
+LA014,3,2,LAW104,Luật thương mại,2.57,LAW
+LA014,3,2,LAW102,Luật hình sự,4.98,LAW
+LA014,4,1,LAW102,Luật hình sự,4.42,LAW
+LA014,4,1,LAW105,Luật hiến pháp,2.71,LAW
+LA014,4,2,LAW101,Luật dân sự,2.95,LAW
+LA014,4,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.54,LAW
+LA014,4,2,LAW107,Luật hành chính,4.36,LAW
+LA015,1,1,LAW101,Luật dân sự,3.78,LAW
+LA015,1,1,LAW106,Luật lao động,3.79,LAW
+LA015,1,1,LAW103,Luật quốc tế,4.2,LAW
+LA015,1,2,LAW109,Luật tài chính - ngân hàng,4.4,LAW
+LA015,1,2,LAW104,Luật thương mại,2.77,LAW
+LA015,2,1,LAW104,Luật thương mại,3.65,LAW
+LA015,2,1,LAW101,Luật dân sự,2.69,LAW
+LA015,2,1,LAW102,Luật hình sự,3.24,LAW
+LA015,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.89,LAW
+LA015,2,2,LAW107,Luật hành chính,4.3,LAW
+LA015,2,2,LAW101,Luật dân sự,3.88,LAW
+LA016,1,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.45,LAW
+LA016,1,1,LAW106,Luật lao động,2.79,LAW
+LA016,1,1,LAW103,Luật quốc tế,3.16,LAW
+LA016,1,2,LAW109,Luật tài chính - ngân hàng,2.83,LAW
+LA016,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.95,LAW
+LA016,1,2,LAW104,Luật thương mại,3.59,LAW
+LA016,2,1,LAW109,Luật tài chính - ngân hàng,4.24,LAW
+LA016,2,1,LAW106,Luật lao động,3.68,LAW
+LA016,2,2,LAW104,Luật thương mại,3.9,LAW
+LA016,2,2,LAW102,Luật hình sự,2.21,LAW
+LA016,3,1,LAW105,Luật hiến pháp,3.48,LAW
+LA016,3,1,LAW107,Luật hành chính,2.25,LAW
+LA016,3,2,LAW108,Luật môi trường,2.53,LAW
+LA016,3,2,LAW104,Luật thương mại,3.02,LAW
+LA017,1,1,LAW109,Luật tài chính - ngân hàng,4.57,LAW
+LA017,1,1,LAW106,Luật lao động,3.29,LAW
+LA017,1,1,LAW102,Luật hình sự,4.99,LAW
+LA017,1,2,LAW101,Luật dân sự,2.13,LAW
+LA017,1,2,LAW107,Luật hành chính,4.42,LAW
+LA017,1,2,LAW106,Luật lao động,4.07,LAW
+LA017,2,1,LAW105,Luật hiến pháp,4.54,LAW
+LA017,2,1,LAW106,Luật lao động,2.79,LAW
+LA017,2,1,LAW101,Luật dân sự,2.01,LAW
+LA017,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.47,LAW
+LA017,2,2,LAW103,Luật quốc tế,4.11,LAW
+LA017,2,2,LAW104,Luật thương mại,2.1,LAW
+LA017,3,1,LAW105,Luật hiến pháp,2.81,LAW
+LA017,3,1,LAW108,Luật môi trường,4.8,LAW
+LA017,3,2,LAW101,Luật dân sự,4.81,LAW
+LA017,3,2,LAW102,Luật hình sự,3.89,LAW
+LA017,3,2,LAW104,Luật thương mại,2.74,LAW
+LA018,1,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.03,LAW
+LA018,1,1,LAW102,Luật hình sự,4.34,LAW
+LA018,1,2,LAW108,Luật môi trường,3.35,LAW
+LA018,1,2,LAW106,Luật lao động,2.11,LAW
+LA018,1,2,LAW102,Luật hình sự,2.27,LAW
+LA018,2,1,LAW101,Luật dân sự,3.19,LAW
+LA018,2,1,LAW102,Luật hình sự,3.65,LAW
+LA018,2,2,LAW104,Luật thương mại,5.0,LAW
+LA018,2,2,LAW105,Luật hiến pháp,4.93,LAW
+LA018,3,1,LAW106,Luật lao động,2.9,LAW
+LA018,3,1,LAW105,Luật hiến pháp,2.74,LAW
+LA018,3,2,LAW106,Luật lao động,3.05,LAW
+LA018,3,2,LAW103,Luật quốc tế,4.64,LAW
+LA019,1,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.46,LAW
+LA019,1,1,LAW105,Luật hiến pháp,2.96,LAW
+LA019,1,2,LAW105,Luật hiến pháp,4.15,LAW
+LA019,1,2,LAW106,Luật lao động,2.25,LAW
+LA019,1,2,LAW104,Luật thương mại,3.31,LAW
+LA019,2,1,LAW106,Luật lao động,2.68,LAW
+LA019,2,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.28,LAW
+LA019,2,2,LAW108,Luật môi trường,3.78,LAW
+LA019,2,2,LAW107,Luật hành chính,4.81,LAW
+LA019,3,1,LAW104,Luật thương mại,3.44,LAW
+LA019,3,1,LAW107,Luật hành chính,4.13,LAW
+LA019,3,1,LAW109,Luật tài chính - ngân hàng,4.44,LAW
+LA019,3,2,LAW103,Luật quốc tế,2.08,LAW
+LA019,3,2,LAW102,Luật hình sự,3.74,LAW
+LA020,1,1,LAW105,Luật hiến pháp,3.53,LAW
+LA020,1,1,LAW107,Luật hành chính,2.85,LAW
+LA020,1,1,LAW104,Luật thương mại,3.0,LAW
+LA020,1,2,LAW104,Luật thương mại,2.29,LAW
+LA020,1,2,LAW101,Luật dân sự,2.77,LAW
+LA020,1,2,LAW106,Luật lao động,4.92,LAW
+LA020,2,1,LAW101,Luật dân sự,3.86,LAW
+LA020,2,1,LAW102,Luật hình sự,3.13,LAW
+LA020,2,2,LAW103,Luật quốc tế,4.16,LAW
+LA020,2,2,LAW106,Luật lao động,2.76,LAW
+LA020,2,2,LAW102,Luật hình sự,4.88,LAW
+LA021,1,1,LAW107,Luật hành chính,3.1,LAW
+LA021,1,1,LAW103,Luật quốc tế,4.1,LAW
+LA021,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.67,LAW
+LA021,1,2,LAW108,Luật môi trường,2.73,LAW
+LA021,2,1,LAW107,Luật hành chính,3.67,LAW
+LA021,2,1,LAW106,Luật lao động,2.39,LAW
+LA021,2,2,LAW107,Luật hành chính,4.83,LAW
+LA021,2,2,LAW105,Luật hiến pháp,3.23,LAW
+LA022,1,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.98,LAW
+LA022,1,1,LAW107,Luật hành chính,3.27,LAW
+LA022,1,2,LAW101,Luật dân sự,3.71,LAW
+LA022,1,2,LAW104,Luật thương mại,2.2,LAW
+LA022,2,1,LAW101,Luật dân sự,2.35,LAW
+LA022,2,1,LAW108,Luật môi trường,4.67,LAW
+LA022,2,1,LAW103,Luật quốc tế,3.63,LAW
+LA022,2,2,LAW103,Luật quốc tế,4.31,LAW
+LA022,2,2,LAW104,Luật thương mại,2.49,LAW
+LA022,3,1,LAW103,Luật quốc tế,3.43,LAW
+LA022,3,1,LAW109,Luật tài chính - ngân hàng,4.99,LAW
+LA022,3,1,LAW101,Luật dân sự,4.98,LAW
+LA022,3,2,LAW109,Luật tài chính - ngân hàng,4.25,LAW
+LA022,3,2,LAW106,Luật lao động,3.53,LAW
+LA022,4,1,LAW104,Luật thương mại,2.11,LAW
+LA022,4,1,LAW107,Luật hành chính,3.61,LAW
+LA022,4,1,LAW103,Luật quốc tế,2.29,LAW
+LA022,4,2,LAW101,Luật dân sự,4.67,LAW
+LA022,4,2,LAW109,Luật tài chính - ngân hàng,4.14,LAW
+LA022,4,2,LAW104,Luật thương mại,3.08,LAW
+LA023,1,1,LAW101,Luật dân sự,4.33,LAW
+LA023,1,1,LAW104,Luật thương mại,4.91,LAW
+LA023,1,2,LAW105,Luật hiến pháp,3.28,LAW
+LA023,1,2,LAW109,Luật tài chính - ngân hàng,2.48,LAW
+LA023,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.87,LAW
+LA023,2,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.12,LAW
+LA023,2,1,LAW101,Luật dân sự,3.3,LAW
+LA023,2,1,LAW103,Luật quốc tế,4.98,LAW
+LA023,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.46,LAW
+LA023,2,2,LAW104,Luật thương mại,2.24,LAW
+LA023,2,2,LAW108,Luật môi trường,3.89,LAW
+LA024,1,1,LAW102,Luật hình sự,4.96,LAW
+LA024,1,1,LAW101,Luật dân sự,2.2,LAW
+LA024,1,1,LAW105,Luật hiến pháp,2.86,LAW
+LA024,1,2,LAW106,Luật lao động,2.26,LAW
+LA024,1,2,LAW103,Luật quốc tế,2.58,LAW
+LA024,1,2,LAW109,Luật tài chính - ngân hàng,2.85,LAW
+LA024,2,1,LAW105,Luật hiến pháp,4.16,LAW
+LA024,2,1,LAW108,Luật môi trường,4.09,LAW
+LA024,2,2,LAW107,Luật hành chính,3.17,LAW
+LA024,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.83,LAW
+LA025,1,1,LAW108,Luật môi trường,2.18,LAW
+LA025,1,1,LAW102,Luật hình sự,4.66,LAW
+LA025,1,2,LAW106,Luật lao động,2.24,LAW
+LA025,1,2,LAW102,Luật hình sự,2.54,LAW
+LA025,2,1,LAW107,Luật hành chính,4.48,LAW
+LA025,2,1,LAW105,Luật hiến pháp,3.31,LAW
+LA025,2,2,LAW102,Luật hình sự,2.05,LAW
+LA025,2,2,LAW109,Luật tài chính - ngân hàng,3.74,LAW
+LA025,2,2,LAW101,Luật dân sự,4.42,LAW
+LA025,3,1,LAW106,Luật lao động,2.08,LAW
+LA025,3,1,LAW109,Luật tài chính - ngân hàng,2.84,LAW
+LA025,3,1,LAW104,Luật thương mại,4.72,LAW
+LA025,3,2,LAW103,Luật quốc tế,2.25,LAW
+LA025,3,2,LAW109,Luật tài chính - ngân hàng,4.53,LAW
+LA025,3,2,LAW104,Luật thương mại,4.21,LAW
+LA025,4,1,LAW103,Luật quốc tế,4.36,LAW
+LA025,4,1,LAW107,Luật hành chính,4.56,LAW
+LA025,4,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.13,LAW
+LA025,4,2,LAW105,Luật hiến pháp,3.25,LAW
+LA026,1,1,LAW104,Luật thương mại,2.32,LAW
+LA026,1,1,LAW107,Luật hành chính,3.76,LAW
+LA026,1,2,LAW103,Luật quốc tế,3.03,LAW
+LA026,1,2,LAW102,Luật hình sự,4.22,LAW
+LA026,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.24,LAW
+LA026,2,1,LAW101,Luật dân sự,2.21,LAW
+LA026,2,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.6,LAW
+LA026,2,1,LAW102,Luật hình sự,4.8,LAW
+LA026,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.28,LAW
+LA026,2,2,LAW104,Luật thương mại,4.17,LAW
+LA026,2,2,LAW109,Luật tài chính - ngân hàng,2.04,LAW
+LA026,3,1,LAW101,Luật dân sự,3.39,LAW
+LA026,3,1,LAW103,Luật quốc tế,3.38,LAW
+LA026,3,2,LAW107,Luật hành chính,3.2,LAW
+LA026,3,2,LAW109,Luật tài chính - ngân hàng,4.4,LAW
+LA026,3,2,LAW103,Luật quốc tế,2.4,LAW
+LA026,4,1,LAW106,Luật lao động,2.96,LAW
+LA026,4,1,LAW109,Luật tài chính - ngân hàng,2.89,LAW
+LA026,4,2,LAW106,Luật lao động,2.9,LAW
+LA026,4,2,LAW102,Luật hình sự,3.68,LAW
+LA027,1,1,LAW106,Luật lao động,2.44,LAW
+LA027,1,1,LAW108,Luật môi trường,2.34,LAW
+LA027,1,1,LAW103,Luật quốc tế,3.6,LAW
+LA027,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.86,LAW
+LA027,1,2,LAW104,Luật thương mại,3.35,LAW
+LA027,2,1,LAW106,Luật lao động,4.5,LAW
+LA027,2,1,LAW110,Lý luận chung về nhà nước và pháp luật,4.88,LAW
+LA027,2,2,LAW109,Luật tài chính - ngân hàng,3.22,LAW
+LA027,2,2,LAW106,Luật lao động,2.15,LAW
+LA027,2,2,LAW103,Luật quốc tế,4.61,LAW
+LA027,3,1,LAW101,Luật dân sự,2.17,LAW
+LA027,3,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.65,LAW
+LA027,3,1,LAW102,Luật hình sự,2.43,LAW
+LA027,3,2,LAW106,Luật lao động,3.16,LAW
+LA027,3,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.05,LAW
+LA027,3,2,LAW102,Luật hình sự,2.97,LAW
+LA028,1,1,LAW104,Luật thương mại,4.27,LAW
+LA028,1,1,LAW101,Luật dân sự,2.57,LAW
+LA028,1,1,LAW105,Luật hiến pháp,2.38,LAW
+LA028,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.81,LAW
+LA028,1,2,LAW106,Luật lao động,2.58,LAW
+LA028,2,1,LAW103,Luật quốc tế,4.54,LAW
+LA028,2,1,LAW106,Luật lao động,2.41,LAW
+LA028,2,1,LAW102,Luật hình sự,2.77,LAW
+LA028,2,2,LAW102,Luật hình sự,2.3,LAW
+LA028,2,2,LAW103,Luật quốc tế,3.93,LAW
+LA029,1,1,LAW104,Luật thương mại,2.17,LAW
+LA029,1,1,LAW105,Luật hiến pháp,3.39,LAW
+LA029,1,2,LAW108,Luật môi trường,2.69,LAW
+LA029,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.03,LAW
+LA029,2,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.06,LAW
+LA029,2,1,LAW103,Luật quốc tế,3.78,LAW
+LA029,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.81,LAW
+LA029,2,2,LAW102,Luật hình sự,3.12,LAW
+LA030,1,1,LAW109,Luật tài chính - ngân hàng,3.07,LAW
+LA030,1,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.75,LAW
+LA030,1,2,LAW105,Luật hiến pháp,3.29,LAW
+LA030,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.17,LAW
+LA030,2,1,LAW107,Luật hành chính,4.92,LAW
+LA030,2,1,LAW103,Luật quốc tế,2.35,LAW
+LA030,2,2,LAW102,Luật hình sự,3.56,LAW
+LA030,2,2,LAW104,Luật thương mại,4.89,LAW
+LA030,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.02,LAW
+LA030,3,1,LAW101,Luật dân sự,3.69,LAW
+LA030,3,1,LAW102,Luật hình sự,3.83,LAW
+LA030,3,1,LAW103,Luật quốc tế,4.44,LAW
+LA030,3,2,LAW103,Luật quốc tế,2.3,LAW
+LA030,3,2,LAW101,Luật dân sự,2.52,LAW
+LA030,4,1,LAW109,Luật tài chính - ngân hàng,4.41,LAW
+LA030,4,1,LAW103,Luật quốc tế,2.45,LAW
+LA030,4,2,LAW102,Luật hình sự,2.01,LAW
+LA030,4,2,LAW106,Luật lao động,2.39,LAW
+LA030,4,2,LAW103,Luật quốc tế,2.58,LAW
+LA031,1,1,LAW107,Luật hành chính,3.18,LAW
+LA031,1,1,LAW109,Luật tài chính - ngân hàng,3.85,LAW
+LA031,1,2,LAW105,Luật hiến pháp,3.44,LAW
+LA031,1,2,LAW102,Luật hình sự,4.75,LAW
+LA031,2,1,LAW107,Luật hành chính,2.54,LAW
+LA031,2,1,LAW101,Luật dân sự,4.12,LAW
+LA031,2,1,LAW109,Luật tài chính - ngân hàng,4.87,LAW
+LA031,2,2,LAW101,Luật dân sự,4.52,LAW
+LA031,2,2,LAW103,Luật quốc tế,4.31,LAW
+LA031,3,1,LAW105,Luật hiến pháp,2.4,LAW
+LA031,3,1,LAW109,Luật tài chính - ngân hàng,3.74,LAW
+LA031,3,1,LAW108,Luật môi trường,4.14,LAW
+LA031,3,2,LAW106,Luật lao động,2.86,LAW
+LA031,3,2,LAW107,Luật hành chính,4.25,LAW
+LA031,4,1,LAW101,Luật dân sự,4.2,LAW
+LA031,4,1,LAW102,Luật hình sự,2.65,LAW
+LA031,4,2,LAW104,Luật thương mại,2.22,LAW
+LA031,4,2,LAW108,Luật môi trường,3.51,LAW
+LA032,1,1,LAW106,Luật lao động,2.25,LAW
+LA032,1,1,LAW104,Luật thương mại,2.5,LAW
+LA032,1,2,LAW103,Luật quốc tế,3.46,LAW
+LA032,1,2,LAW108,Luật môi trường,3.02,LAW
+LA032,2,1,LAW107,Luật hành chính,4.45,LAW
+LA032,2,1,LAW105,Luật hiến pháp,3.68,LAW
+LA032,2,2,LAW108,Luật môi trường,4.22,LAW
+LA032,2,2,LAW104,Luật thương mại,4.7,LAW
+LA032,2,2,LAW106,Luật lao động,2.72,LAW
+LA032,3,1,LAW106,Luật lao động,2.78,LAW
+LA032,3,1,LAW108,Luật môi trường,4.53,LAW
+LA032,3,1,LAW109,Luật tài chính - ngân hàng,2.25,LAW
+LA032,3,2,LAW106,Luật lao động,4.55,LAW
+LA032,3,2,LAW103,Luật quốc tế,4.58,LAW
+LA032,4,1,LAW107,Luật hành chính,2.94,LAW
+LA032,4,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.21,LAW
+LA032,4,1,LAW103,Luật quốc tế,2.8,LAW
+LA032,4,2,LAW107,Luật hành chính,4.74,LAW
+LA032,4,2,LAW108,Luật môi trường,4.59,LAW
+LA033,1,1,LAW108,Luật môi trường,4.98,LAW
+LA033,1,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.73,LAW
+LA033,1,1,LAW106,Luật lao động,2.24,LAW
+LA033,1,2,LAW103,Luật quốc tế,3.5,LAW
+LA033,1,2,LAW108,Luật môi trường,2.16,LAW
+LA033,2,1,LAW109,Luật tài chính - ngân hàng,2.46,LAW
+LA033,2,1,LAW102,Luật hình sự,3.83,LAW
+LA033,2,1,LAW105,Luật hiến pháp,2.57,LAW
+LA033,2,2,LAW105,Luật hiến pháp,3.47,LAW
+LA033,2,2,LAW104,Luật thương mại,3.0,LAW
+LA033,2,2,LAW106,Luật lao động,3.27,LAW
+LA034,1,1,LAW104,Luật thương mại,2.97,LAW
+LA034,1,1,LAW107,Luật hành chính,2.84,LAW
+LA034,1,1,LAW106,Luật lao động,4.61,LAW
+LA034,1,2,LAW101,Luật dân sự,4.35,LAW
+LA034,1,2,LAW105,Luật hiến pháp,2.9,LAW
+LA034,2,1,LAW106,Luật lao động,2.38,LAW
+LA034,2,1,LAW103,Luật quốc tế,3.55,LAW
+LA034,2,2,LAW104,Luật thương mại,2.79,LAW
+LA034,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.73,LAW
+LA034,2,2,LAW107,Luật hành chính,3.58,LAW
+LA034,3,1,LAW104,Luật thương mại,3.38,LAW
+LA034,3,1,LAW109,Luật tài chính - ngân hàng,3.25,LAW
+LA034,3,2,LAW105,Luật hiến pháp,3.28,LAW
+LA034,3,2,LAW103,Luật quốc tế,4.53,LAW
+LA034,3,2,LAW104,Luật thương mại,3.02,LAW
+LA035,1,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.48,LAW
+LA035,1,1,LAW101,Luật dân sự,2.4,LAW
+LA035,1,2,LAW103,Luật quốc tế,3.61,LAW
+LA035,1,2,LAW109,Luật tài chính - ngân hàng,2.33,LAW
+LA035,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.6,LAW
+LA035,2,1,LAW105,Luật hiến pháp,2.79,LAW
+LA035,2,1,LAW109,Luật tài chính - ngân hàng,2.63,LAW
+LA035,2,1,LAW107,Luật hành chính,5.0,LAW
+LA035,2,2,LAW105,Luật hiến pháp,4.86,LAW
+LA035,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.43,LAW
+LA035,3,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.42,LAW
+LA035,3,1,LAW101,Luật dân sự,4.87,LAW
+LA035,3,1,LAW108,Luật môi trường,4.61,LAW
+LA035,3,2,LAW108,Luật môi trường,2.25,LAW
+LA035,3,2,LAW106,Luật lao động,2.84,LAW
+LA035,4,1,LAW106,Luật lao động,2.75,LAW
+LA035,4,1,LAW110,Lý luận chung về nhà nước và pháp luật,4.3,LAW
+LA035,4,2,LAW104,Luật thương mại,3.61,LAW
+LA035,4,2,LAW102,Luật hình sự,3.68,LAW
+LA036,1,1,LAW101,Luật dân sự,4.24,LAW
+LA036,1,1,LAW102,Luật hình sự,2.53,LAW
+LA036,1,2,LAW107,Luật hành chính,2.45,LAW
+LA036,1,2,LAW104,Luật thương mại,2.18,LAW
+LA036,2,1,LAW104,Luật thương mại,2.09,LAW
+LA036,2,1,LAW108,Luật môi trường,4.05,LAW
+LA036,2,2,LAW106,Luật lao động,3.07,LAW
+LA036,2,2,LAW109,Luật tài chính - ngân hàng,4.64,LAW
+LA036,3,1,LAW104,Luật thương mại,4.05,LAW
+LA036,3,1,LAW105,Luật hiến pháp,3.53,LAW
+LA036,3,1,LAW108,Luật môi trường,2.71,LAW
+LA036,3,2,LAW103,Luật quốc tế,3.61,LAW
+LA036,3,2,LAW105,Luật hiến pháp,2.88,LAW
+LA036,4,1,LAW106,Luật lao động,3.04,LAW
+LA036,4,1,LAW109,Luật tài chính - ngân hàng,3.63,LAW
+LA036,4,2,LAW109,Luật tài chính - ngân hàng,2.61,LAW
+LA036,4,2,LAW106,Luật lao động,2.49,LAW
+LA037,1,1,LAW106,Luật lao động,2.4,LAW
+LA037,1,1,LAW103,Luật quốc tế,4.52,LAW
+LA037,1,2,LAW106,Luật lao động,3.07,LAW
+LA037,1,2,LAW108,Luật môi trường,3.02,LAW
+LA037,2,1,LAW108,Luật môi trường,3.46,LAW
+LA037,2,1,LAW105,Luật hiến pháp,2.77,LAW
+LA037,2,2,LAW102,Luật hình sự,3.18,LAW
+LA037,2,2,LAW101,Luật dân sự,2.88,LAW
+LA037,3,1,LAW105,Luật hiến pháp,3.57,LAW
+LA037,3,1,LAW101,Luật dân sự,4.95,LAW
+LA037,3,2,LAW102,Luật hình sự,3.89,LAW
+LA037,3,2,LAW107,Luật hành chính,3.1,LAW
+LA037,3,2,LAW103,Luật quốc tế,2.07,LAW
+LA038,1,1,LAW101,Luật dân sự,4.38,LAW
+LA038,1,1,LAW103,Luật quốc tế,4.9,LAW
+LA038,1,2,LAW105,Luật hiến pháp,4.67,LAW
+LA038,1,2,LAW102,Luật hình sự,4.11,LAW
+LA038,1,2,LAW104,Luật thương mại,3.73,LAW
+LA038,2,1,LAW105,Luật hiến pháp,2.04,LAW
+LA038,2,1,LAW109,Luật tài chính - ngân hàng,3.8,LAW
+LA038,2,2,LAW104,Luật thương mại,4.2,LAW
+LA038,2,2,LAW103,Luật quốc tế,4.68,LAW
+LA039,1,1,LAW104,Luật thương mại,4.86,LAW
+LA039,1,1,LAW103,Luật quốc tế,3.6,LAW
+LA039,1,1,LAW109,Luật tài chính - ngân hàng,3.16,LAW
+LA039,1,2,LAW105,Luật hiến pháp,3.23,LAW
+LA039,1,2,LAW101,Luật dân sự,4.27,LAW
+LA039,1,2,LAW108,Luật môi trường,4.63,LAW
+LA039,2,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.17,LAW
+LA039,2,1,LAW107,Luật hành chính,4.08,LAW
+LA039,2,1,LAW109,Luật tài chính - ngân hàng,4.23,LAW
+LA039,2,2,LAW107,Luật hành chính,3.56,LAW
+LA039,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.01,LAW
+LA039,2,2,LAW106,Luật lao động,4.43,LAW
+LA040,1,1,LAW106,Luật lao động,3.2,LAW
+LA040,1,1,LAW107,Luật hành chính,2.03,LAW
+LA040,1,2,LAW108,Luật môi trường,3.02,LAW
+LA040,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.73,LAW
+LA040,1,2,LAW109,Luật tài chính - ngân hàng,3.7,LAW
+LA040,2,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.26,LAW
+LA040,2,1,LAW105,Luật hiến pháp,3.59,LAW
+LA040,2,2,LAW106,Luật lao động,3.45,LAW
+LA040,2,2,LAW102,Luật hình sự,3.08,LAW
+LA041,1,1,LAW107,Luật hành chính,4.13,LAW
+LA041,1,1,LAW102,Luật hình sự,2.07,LAW
+LA041,1,1,LAW110,Lý luận chung về nhà nước và pháp luật,3.85,LAW
+LA041,1,2,LAW106,Luật lao động,2.11,LAW
+LA041,1,2,LAW105,Luật hiến pháp,2.75,LAW
+LA041,1,2,LAW104,Luật thương mại,3.3,LAW
+LA041,2,1,LAW108,Luật môi trường,4.66,LAW
+LA041,2,1,LAW105,Luật hiến pháp,2.83,LAW
+LA041,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.44,LAW
+LA041,2,2,LAW107,Luật hành chính,4.76,LAW
+LA041,2,2,LAW102,Luật hình sự,3.08,LAW
+LA042,1,1,LAW107,Luật hành chính,2.53,LAW
+LA042,1,1,LAW105,Luật hiến pháp,3.51,LAW
+LA042,1,2,LAW103,Luật quốc tế,3.58,LAW
+LA042,1,2,LAW107,Luật hành chính,4.97,LAW
+LA042,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.22,LAW
+LA042,2,1,LAW101,Luật dân sự,3.85,LAW
+LA042,2,1,LAW103,Luật quốc tế,4.95,LAW
+LA042,2,1,LAW106,Luật lao động,3.07,LAW
+LA042,2,2,LAW102,Luật hình sự,3.45,LAW
+LA042,2,2,LAW104,Luật thương mại,2.21,LAW
+LA042,3,1,LAW107,Luật hành chính,2.44,LAW
+LA042,3,1,LAW102,Luật hình sự,3.66,LAW
+LA042,3,2,LAW107,Luật hành chính,4.15,LAW
+LA042,3,2,LAW103,Luật quốc tế,4.5,LAW
+LA042,3,2,LAW106,Luật lao động,2.16,LAW
+LA042,4,1,LAW104,Luật thương mại,3.25,LAW
+LA042,4,1,LAW101,Luật dân sự,3.91,LAW
+LA042,4,1,LAW107,Luật hành chính,4.49,LAW
+LA042,4,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.16,LAW
+LA042,4,2,LAW108,Luật môi trường,4.15,LAW
+LA042,4,2,LAW103,Luật quốc tế,2.26,LAW
+LA043,1,1,LAW107,Luật hành chính,4.1,LAW
+LA043,1,1,LAW106,Luật lao động,2.9,LAW
+LA043,1,2,LAW102,Luật hình sự,4.41,LAW
+LA043,1,2,LAW108,Luật môi trường,4.42,LAW
+LA043,1,2,LAW107,Luật hành chính,2.9,LAW
+LA043,2,1,LAW109,Luật tài chính - ngân hàng,2.49,LAW
+LA043,2,1,LAW107,Luật hành chính,3.11,LAW
+LA043,2,2,LAW106,Luật lao động,3.2,LAW
+LA043,2,2,LAW103,Luật quốc tế,3.38,LAW
+LA044,1,1,LAW105,Luật hiến pháp,4.02,LAW
+LA044,1,1,LAW107,Luật hành chính,2.06,LAW
+LA044,1,1,LAW106,Luật lao động,4.21,LAW
+LA044,1,2,LAW109,Luật tài chính - ngân hàng,3.33,LAW
+LA044,1,2,LAW103,Luật quốc tế,2.71,LAW
+LA044,1,2,LAW102,Luật hình sự,2.61,LAW
+LA044,2,1,LAW109,Luật tài chính - ngân hàng,3.01,LAW
+LA044,2,1,LAW101,Luật dân sự,4.45,LAW
+LA044,2,1,LAW107,Luật hành chính,4.75,LAW
+LA044,2,2,LAW101,Luật dân sự,3.11,LAW
+LA044,2,2,LAW102,Luật hình sự,4.46,LAW
+LA044,2,2,LAW105,Luật hiến pháp,3.1,LAW
+LA044,3,1,LAW106,Luật lao động,3.88,LAW
+LA044,3,1,LAW109,Luật tài chính - ngân hàng,2.34,LAW
+LA044,3,1,LAW107,Luật hành chính,3.57,LAW
+LA044,3,2,LAW102,Luật hình sự,3.26,LAW
+LA044,3,2,LAW104,Luật thương mại,4.54,LAW
+LA044,3,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.69,LAW
+LA044,4,1,LAW103,Luật quốc tế,3.7,LAW
+LA044,4,1,LAW106,Luật lao động,5.0,LAW
+LA044,4,2,LAW106,Luật lao động,3.8,LAW
+LA044,4,2,LAW109,Luật tài chính - ngân hàng,3.86,LAW
+LA045,1,1,LAW104,Luật thương mại,4.83,LAW
+LA045,1,1,LAW109,Luật tài chính - ngân hàng,4.74,LAW
+LA045,1,1,LAW102,Luật hình sự,2.66,LAW
+LA045,1,2,LAW109,Luật tài chính - ngân hàng,2.53,LAW
+LA045,1,2,LAW106,Luật lao động,2.24,LAW
+LA045,1,2,LAW108,Luật môi trường,4.85,LAW
+LA045,2,1,LAW106,Luật lao động,3.91,LAW
+LA045,2,1,LAW107,Luật hành chính,3.33,LAW
+LA045,2,1,LAW101,Luật dân sự,3.0,LAW
+LA045,2,2,LAW105,Luật hiến pháp,4.13,LAW
+LA045,2,2,LAW101,Luật dân sự,2.58,LAW
+LA046,1,1,LAW102,Luật hình sự,3.13,LAW
+LA046,1,1,LAW108,Luật môi trường,2.76,LAW
+LA046,1,1,LAW105,Luật hiến pháp,3.31,LAW
+LA046,1,2,LAW105,Luật hiến pháp,4.26,LAW
+LA046,1,2,LAW101,Luật dân sự,3.82,LAW
+LA046,2,1,LAW106,Luật lao động,3.85,LAW
+LA046,2,1,LAW102,Luật hình sự,4.2,LAW
+LA046,2,1,LAW107,Luật hành chính,2.59,LAW
+LA046,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.16,LAW
+LA046,2,2,LAW103,Luật quốc tế,3.33,LAW
+LA046,3,1,LAW109,Luật tài chính - ngân hàng,2.96,LAW
+LA046,3,1,LAW102,Luật hình sự,3.62,LAW
+LA046,3,2,LAW102,Luật hình sự,4.0,LAW
+LA046,3,2,LAW107,Luật hành chính,4.47,LAW
+LA047,1,1,LAW102,Luật hình sự,2.78,LAW
+LA047,1,1,LAW108,Luật môi trường,4.97,LAW
+LA047,1,2,LAW106,Luật lao động,3.22,LAW
+LA047,1,2,LAW102,Luật hình sự,3.12,LAW
+LA047,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.32,LAW
+LA047,2,1,LAW108,Luật môi trường,3.39,LAW
+LA047,2,1,LAW103,Luật quốc tế,2.97,LAW
+LA047,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.14,LAW
+LA047,2,2,LAW101,Luật dân sự,4.66,LAW
+LA047,3,1,LAW104,Luật thương mại,4.53,LAW
+LA047,3,1,LAW110,Lý luận chung về nhà nước và pháp luật,2.63,LAW
+LA047,3,2,LAW104,Luật thương mại,3.95,LAW
+LA047,3,2,LAW103,Luật quốc tế,2.63,LAW
+LA047,3,2,LAW105,Luật hiến pháp,2.22,LAW
+LA047,4,1,LAW105,Luật hiến pháp,4.24,LAW
+LA047,4,1,LAW101,Luật dân sự,4.99,LAW
+LA047,4,2,LAW110,Lý luận chung về nhà nước và pháp luật,4.73,LAW
+LA047,4,2,LAW103,Luật quốc tế,3.42,LAW
+LA048,1,1,LAW109,Luật tài chính - ngân hàng,3.15,LAW
+LA048,1,1,LAW108,Luật môi trường,4.4,LAW
+LA048,1,1,LAW106,Luật lao động,2.08,LAW
+LA048,1,2,LAW106,Luật lao động,4.66,LAW
+LA048,1,2,LAW108,Luật môi trường,4.49,LAW
+LA048,1,2,LAW102,Luật hình sự,3.85,LAW
+LA048,2,1,LAW107,Luật hành chính,3.78,LAW
+LA048,2,1,LAW103,Luật quốc tế,4.55,LAW
+LA048,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.3,LAW
+LA048,2,2,LAW105,Luật hiến pháp,2.12,LAW
+LA048,2,2,LAW101,Luật dân sự,4.17,LAW
+LA049,1,1,LAW101,Luật dân sự,4.99,LAW
+LA049,1,1,LAW104,Luật thương mại,2.0,LAW
+LA049,1,2,LAW103,Luật quốc tế,2.91,LAW
+LA049,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.3,LAW
+LA049,2,1,LAW109,Luật tài chính - ngân hàng,2.7,LAW
+LA049,2,1,LAW105,Luật hiến pháp,2.88,LAW
+LA049,2,2,LAW110,Lý luận chung về nhà nước và pháp luật,2.81,LAW
+LA049,2,2,LAW109,Luật tài chính - ngân hàng,2.5,LAW
+LA049,3,1,LAW108,Luật môi trường,3.54,LAW
+LA049,3,1,LAW105,Luật hiến pháp,4.48,LAW
+LA049,3,1,LAW102,Luật hình sự,3.76,LAW
+LA049,3,2,LAW101,Luật dân sự,2.18,LAW
+LA049,3,2,LAW108,Luật môi trường,2.74,LAW
+LA049,3,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.61,LAW
+LA049,4,1,LAW102,Luật hình sự,2.01,LAW
+LA049,4,1,LAW105,Luật hiến pháp,3.64,LAW
+LA049,4,2,LAW107,Luật hành chính,4.77,LAW
+LA049,4,2,LAW101,Luật dân sự,3.46,LAW
+LA050,1,1,LAW102,Luật hình sự,2.99,LAW
+LA050,1,1,LAW104,Luật thương mại,4.21,LAW
+LA050,1,2,LAW105,Luật hiến pháp,2.34,LAW
+LA050,1,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.32,LAW
+LA050,2,1,LAW106,Luật lao động,4.55,LAW
+LA050,2,1,LAW110,Lý luận chung về nhà nước và pháp luật,4.52,LAW
+LA050,2,1,LAW103,Luật quốc tế,4.65,LAW
+LA050,2,2,LAW103,Luật quốc tế,3.43,LAW
+LA050,2,2,LAW108,Luật môi trường,2.21,LAW
+LA050,2,2,LAW105,Luật hiến pháp,3.4,LAW
+LA050,3,1,LAW101,Luật dân sự,4.59,LAW
+LA050,3,1,LAW104,Luật thương mại,3.47,LAW
+LA050,3,1,LAW106,Luật lao động,3.25,LAW
+LA050,3,2,LAW109,Luật tài chính - ngân hàng,3.01,LAW
+LA050,3,2,LAW104,Luật thương mại,2.73,LAW
+LA050,3,2,LAW110,Lý luận chung về nhà nước và pháp luật,3.97,LAW
+LA050,4,1,LAW106,Luật lao động,3.67,LAW
+LA050,4,1,LAW103,Luật quốc tế,3.87,LAW
+LA050,4,1,LAW110,Lý luận chung về nhà nước và pháp luật,4.0,LAW
+LA050,4,2,LAW108,Luật môi trường,3.6,LAW
+LA050,4,2,LAW105,Luật hiến pháp,4.52,LAW
+LA050,4,2,LAW103,Luật quốc tế,4.5,LAW
