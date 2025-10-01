@@ -1854,1210 +1854,1312 @@ LA050,4,2,LAW105,Luật hiến pháp,4.52,LAW
 LA050,4,2,LAW103,Luật quốc tế,4.5,LAW
 
 // ----------------- JAPAN -----------------//
-JA001,4,1,JP104,Đọc hiểu nâng cao,3.02,JAPAN
-JA001,4,2,JP106,Tiếng Nhật thương mại,4.34,JAPAN
-JA001,4,1,JP102,Văn hóa Nhật Bản,3.93,JAPAN
-JA001,4,2,JP103,Hội thoại tiếng Nhật,2.5,JAPAN
-JA001,4,2,JP101,Văn hóa đại chúng Nhật Bản (Anime & Manga),2.73,JAPAN
-JA001,4,1,JP105,Viết luận tiếng Nhật,2.85,JAPAN
-JA002,1,1,JP104,Đọc hiểu nâng cao,4.32,JAPAN
-JA002,1,2,JP105,Viết luận tiếng Nhật,2.55,JAPAN
-JA002,1,1,JP106,Tiếng Nhật thương mại,3.44,JAPAN
-JA002,1,1,JP103,Hội thoại tiếng Nhật,2.53,JAPAN
-JA002,1,2,JP102,Văn hóa Nhật Bản,4.92,JAPAN
-JA002,1,2,JP101,Ngữ pháp tiếng Nhật,4.5,JAPAN
-JA003,4,1,JP104,Đọc hiểu nâng cao,2.17,JAPAN
-JA003,4,2,JP106,Tiếng Nhật thương mại,3.99,JAPAN
-JA003,4,3,JP103,Hội thoại tiếng Nhật,3.46,JAPAN
-JA003,4,4,JP102,Văn hóa Nhật Bản,3.41,JAPAN
-JA003,4,5,JP101,Ngữ pháp tiếng Nhật,3.19,JAPAN
-JA003,4,6,JP105,Viết luận tiếng Nhật,2.77,JAPAN
-JA004,1,1,JP103,Hội thoại tiếng Nhật,4.38,JAPAN
-JA004,1,2,JP102,Văn hóa Nhật Bản,3.1,JAPAN
-JA004,1,3,JP106,Tiếng Nhật thương mại,4.51,JAPAN
-JA004,1,4,JP105,Viết luận tiếng Nhật,3.34,JAPAN
-JA004,1,5,JP101,Ngữ pháp tiếng Nhật,4.94,JAPAN
-JA004,1,6,JP104,Đọc hiểu nâng cao,4.02,JAPAN
-JA005,4,1,JP103,Hội thoại tiếng Nhật,2.34,JAPAN
-JA005,4,2,JP101,Ngữ pháp tiếng Nhật,3.22,JAPAN
-JA005,4,3,JP106,Tiếng Nhật thương mại,3.14,JAPAN
-JA005,4,4,JP105,Viết luận tiếng Nhật,4.07,JAPAN
-JA005,4,5,JP102,Văn hóa Nhật Bản,2.24,JAPAN
-JA005,4,6,JP104,Đọc hiểu nâng cao,3.57,JAPAN
-JA006,3,1,JP106,Tiếng Nhật thương mại,3.9,JAPAN
-JA006,3,2,JP104,Đọc hiểu nâng cao,4.97,JAPAN
-JA006,3,3,JP102,Văn hóa Nhật Bản,2.82,JAPAN
-JA006,3,4,JP101,Ngữ pháp tiếng Nhật,4.2,JAPAN
-JA006,3,5,JP105,Viết luận tiếng Nhật,2.08,JAPAN
-JA006,3,6,JP103,Hội thoại tiếng Nhật,2.93,JAPAN
-JA007,2,1,JP102,Văn hóa Nhật Bản,2.44,JAPAN
-JA007,2,2,JP104,Đọc hiểu nâng cao,3.87,JAPAN
-JA007,2,3,JP101,Ngữ pháp tiếng Nhật,2.18,JAPAN
-JA007,2,4,JP103,Hội thoại tiếng Nhật,4.47,JAPAN
-JA007,2,5,JP105,Viết luận tiếng Nhật,4.18,JAPAN
-JA007,2,6,JP106,Tiếng Nhật thương mại,3.1,JAPAN
-JA008,4,1,JP104,Đọc hiểu nâng cao,4.08,JAPAN
-JA008,4,2,JP106,Tiếng Nhật thương mại,3.57,JAPAN
-JA008,4,3,JP103,Hội thoại tiếng Nhật,3.34,JAPAN
-JA008,4,4,JP101,Ngữ pháp tiếng Nhật,3.14,JAPAN
-JA008,4,5,JP102,Văn hóa Nhật Bản,4.85,JAPAN
-JA008,4,6,JP105,Viết luận tiếng Nhật,4.07,JAPAN
-JA009,1,1,JP106,Tiếng Nhật thương mại,3.24,JAPAN
-JA009,1,2,JP104,Đọc hiểu nâng cao,4.87,JAPAN
-JA009,1,3,JP102,Văn hóa Nhật Bản,4.83,JAPAN
-JA009,1,4,JP105,Viết luận tiếng Nhật,4.35,JAPAN
-JA009,1,5,JP103,Hội thoại tiếng Nhật,4.19,JAPAN
-JA009,1,6,JP101,Ngữ pháp tiếng Nhật,4.17,JAPAN
-JA010,2,1,JP104,Đọc hiểu nâng cao,3.4,JAPAN
-JA010,2,2,JP101,Ngữ pháp tiếng Nhật,2.98,JAPAN
-JA010,2,3,JP106,Tiếng Nhật thương mại,2.77,JAPAN
-JA010,2,4,JP102,Văn hóa Nhật Bản,2.34,JAPAN
-JA010,2,5,JP103,Hội thoại tiếng Nhật,2.66,JAPAN
-JA010,2,6,JP105,Viết luận tiếng Nhật,2.98,JAPAN
-JA011,3,1,JP106,Tiếng Nhật thương mại,2.38,JAPAN
-JA011,3,2,JP102,Văn hóa Nhật Bản,4.33,JAPAN
-JA011,3,3,JP101,Ngữ pháp tiếng Nhật,2.02,JAPAN
-JA011,3,4,JP104,Đọc hiểu nâng cao,2.25,JAPAN
-JA011,3,5,JP105,Viết luận tiếng Nhật,2.27,JAPAN
-JA011,3,6,JP103,Hội thoại tiếng Nhật,2.57,JAPAN
-JA012,4,1,JP106,Tiếng Nhật thương mại,2.24,JAPAN
-JA012,4,2,JP104,Đọc hiểu nâng cao,4.66,JAPAN
-JA012,4,3,JP101,Ngữ pháp tiếng Nhật,4.54,JAPAN
-JA012,4,4,JP105,Viết luận tiếng Nhật,3.84,JAPAN
-JA012,4,5,JP103,Hội thoại tiếng Nhật,3.17,JAPAN
-JA012,4,6,JP102,Văn hóa Nhật Bản,3.38,JAPAN
-JA013,1,1,JP104,Đọc hiểu nâng cao,2.52,JAPAN
-JA013,1,2,JP105,Viết luận tiếng Nhật,4.9,JAPAN
-JA013,1,3,JP106,Tiếng Nhật thương mại,4.56,JAPAN
-JA013,1,4,JP102,Văn hóa Nhật Bản,4.84,JAPAN
-JA013,1,5,JP101,Ngữ pháp tiếng Nhật,2.27,JAPAN
-JA013,1,6,JP103,Hội thoại tiếng Nhật,4.99,JAPAN
-JA014,3,1,JP105,Viết luận tiếng Nhật,2.71,JAPAN
-JA014,3,2,JP101,Ngữ pháp tiếng Nhật,2.73,JAPAN
-JA014,3,3,JP102,Văn hóa Nhật Bản,4.86,JAPAN
-JA014,3,4,JP103,Hội thoại tiếng Nhật,4.59,JAPAN
-JA014,3,5,JP104,Đọc hiểu nâng cao,2.63,JAPAN
-JA014,3,6,JP106,Tiếng Nhật thương mại,2.95,JAPAN
-JA015,3,1,JP105,Viết luận tiếng Nhật,4.29,JAPAN
-JA015,3,2,JP103,Hội thoại tiếng Nhật,2.05,JAPAN
-JA015,3,3,JP104,Đọc hiểu nâng cao,2.29,JAPAN
-JA015,3,4,JP101,Ngữ pháp tiếng Nhật,3.84,JAPAN
-JA015,3,5,JP102,Văn hóa Nhật Bản,4.66,JAPAN
-JA015,3,6,JP106,Tiếng Nhật thương mại,4.26,JAPAN
-JA016,4,1,JP105,Viết luận tiếng Nhật,4.62,JAPAN
-JA016,4,2,JP101,Ngữ pháp tiếng Nhật,4.58,JAPAN
-JA016,4,3,JP104,Đọc hiểu nâng cao,3.53,JAPAN
-JA016,4,4,JP106,Tiếng Nhật thương mại,4.79,JAPAN
-JA016,4,5,JP102,Văn hóa Nhật Bản,3.26,JAPAN
-JA016,4,6,JP103,Hội thoại tiếng Nhật,4.42,JAPAN
-JA017,1,1,JP102,Văn hóa Nhật Bản,4.44,JAPAN
-JA017,1,2,JP101,Ngữ pháp tiếng Nhật,3.75,JAPAN
-JA017,1,3,JP103,Hội thoại tiếng Nhật,4.42,JAPAN
-JA017,1,4,JP105,Viết luận tiếng Nhật,2.6,JAPAN
-JA017,1,5,JP106,Tiếng Nhật thương mại,4.16,JAPAN
-JA017,1,6,JP104,Đọc hiểu nâng cao,4.9,JAPAN
-JA018,3,1,JP104,Đọc hiểu nâng cao,3.52,JAPAN
-JA018,3,2,JP105,Viết luận tiếng Nhật,4.55,JAPAN
-JA018,3,3,JP103,Hội thoại tiếng Nhật,3.42,JAPAN
-JA018,3,4,JP101,Ngữ pháp tiếng Nhật,2.12,JAPAN
-JA018,3,5,JP102,Văn hóa Nhật Bản,4.21,JAPAN
-JA018,3,6,JP106,Tiếng Nhật thương mại,3.87,JAPAN
-JA019,4,1,JP106,Tiếng Nhật thương mại,3.25,JAPAN
-JA019,4,2,JP104,Đọc hiểu nâng cao,4.89,JAPAN
-JA019,4,3,JP103,Hội thoại tiếng Nhật,3.32,JAPAN
-JA019,4,4,JP101,Ngữ pháp tiếng Nhật,4.43,JAPAN
-JA019,4,5,JP105,Viết luận tiếng Nhật,2.12,JAPAN
-JA019,4,6,JP102,Văn hóa Nhật Bản,3.9,JAPAN
-JA020,2,1,JP104,Đọc hiểu nâng cao,4.46,JAPAN
-JA020,2,2,JP103,Hội thoại tiếng Nhật,3.13,JAPAN
-JA020,2,3,JP101,Ngữ pháp tiếng Nhật,2.04,JAPAN
-JA020,2,4,JP102,Văn hóa Nhật Bản,3.16,JAPAN
-JA020,2,5,JP106,Tiếng Nhật thương mại,2.09,JAPAN
-JA020,2,6,JP105,Viết luận tiếng Nhật,2.48,JAPAN
-JA021,1,1,JP104,Đọc hiểu nâng cao,4.54,JAPAN
-JA021,1,2,JP105,Viết luận tiếng Nhật,2.27,JAPAN
-JA021,1,3,JP103,Hội thoại tiếng Nhật,4.3,JAPAN
-JA021,1,4,JP102,Văn hóa Nhật Bản,2.59,JAPAN
-JA021,1,5,JP106,Tiếng Nhật thương mại,4.38,JAPAN
-JA021,1,6,JP101,Ngữ pháp tiếng Nhật,4.69,JAPAN
-JA022,1,1,JP106,Tiếng Nhật thương mại,3.45,JAPAN
-JA022,1,2,JP102,Văn hóa Nhật Bản,3.63,JAPAN
-JA022,1,3,JP103,Hội thoại tiếng Nhật,4.29,JAPAN
-JA022,1,4,JP101,Ngữ pháp tiếng Nhật,2.95,JAPAN
-JA022,1,5,JP104,Đọc hiểu nâng cao,3.44,JAPAN
-JA022,1,6,JP105,Viết luận tiếng Nhật,2.44,JAPAN
-JA023,4,1,JP103,Hội thoại tiếng Nhật,2.15,JAPAN
-JA023,4,2,JP105,Viết luận tiếng Nhật,3.29,JAPAN
-JA023,4,3,JP101,Ngữ pháp tiếng Nhật,4.27,JAPAN
-JA023,4,4,JP104,Đọc hiểu nâng cao,3.44,JAPAN
-JA023,4,5,JP102,Văn hóa Nhật Bản,3.94,JAPAN
-JA023,4,6,JP106,Tiếng Nhật thương mại,3.23,JAPAN
-JA024,2,1,JP102,Văn hóa Nhật Bản,4.64,JAPAN
-JA024,2,2,JP105,Viết luận tiếng Nhật,3.09,JAPAN
-JA024,2,3,JP104,Đọc hiểu nâng cao,2.75,JAPAN
-JA024,2,4,JP103,Hội thoại tiếng Nhật,4.55,JAPAN
-JA024,2,5,JP101,Ngữ pháp tiếng Nhật,3.16,JAPAN
-JA024,2,6,JP106,Tiếng Nhật thương mại,2.73,JAPAN
-JA025,4,1,JP103,Hội thoại tiếng Nhật,4.83,JAPAN
-JA025,4,2,JP101,Ngữ pháp tiếng Nhật,2.09,JAPAN
-JA025,4,3,JP104,Đọc hiểu nâng cao,3.94,JAPAN
-JA025,4,4,JP106,Tiếng Nhật thương mại,2.63,JAPAN
-JA025,4,5,JP102,Văn hóa Nhật Bản,4.52,JAPAN
-JA025,4,6,JP105,Viết luận tiếng Nhật,2.16,JAPAN
-JA026,1,1,JP101,Ngữ pháp tiếng Nhật,2.54,JAPAN
-JA026,1,2,JP102,Văn hóa Nhật Bản,2.31,JAPAN
-JA026,1,3,JP106,Tiếng Nhật thương mại,4.19,JAPAN
-JA026,1,4,JP105,Viết luận tiếng Nhật,4.42,JAPAN
-JA026,1,5,JP104,Đọc hiểu nâng cao,3.0,JAPAN
-JA026,1,6,JP103,Hội thoại tiếng Nhật,2.74,JAPAN
-JA027,3,1,JP106,Tiếng Nhật thương mại,2.36,JAPAN
-JA027,3,2,JP104,Đọc hiểu nâng cao,2.85,JAPAN
-JA027,3,3,JP105,Viết luận tiếng Nhật,2.86,JAPAN
-JA027,3,4,JP101,Ngữ pháp tiếng Nhật,2.83,JAPAN
-JA027,3,5,JP102,Văn hóa Nhật Bản,4.65,JAPAN
-JA027,3,6,JP103,Hội thoại tiếng Nhật,5.0,JAPAN
-JA028,4,1,JP106,Tiếng Nhật thương mại,2.98,JAPAN
-JA028,4,2,JP104,Đọc hiểu nâng cao,4.0,JAPAN
-JA028,4,3,JP101,Ngữ pháp tiếng Nhật,4.5,JAPAN
-JA028,4,4,JP102,Văn hóa Nhật Bản,4.96,JAPAN
-JA028,4,5,JP105,Viết luận tiếng Nhật,3.08,JAPAN
-JA028,4,6,JP103,Hội thoại tiếng Nhật,4.07,JAPAN
-JA029,1,1,JP104,Đọc hiểu nâng cao,4.63,JAPAN
-JA029,1,2,JP106,Tiếng Nhật thương mại,4.99,JAPAN
-JA029,1,3,JP105,Viết luận tiếng Nhật,3.43,JAPAN
-JA029,1,4,JP103,Hội thoại tiếng Nhật,3.99,JAPAN
-JA029,1,5,JP101,Ngữ pháp tiếng Nhật,2.53,JAPAN
-JA029,1,6,JP102,Văn hóa Nhật Bản,3.34,JAPAN
-JA030,2,1,JP102,Văn hóa Nhật Bản,3.11,JAPAN
-JA030,2,2,JP105,Viết luận tiếng Nhật,2.47,JAPAN
-JA030,2,3,JP106,Tiếng Nhật thương mại,2.13,JAPAN
-JA030,2,4,JP104,Đọc hiểu nâng cao,2.13,JAPAN
-JA030,2,5,JP103,Hội thoại tiếng Nhật,3.01,JAPAN
-JA030,2,6,JP101,Ngữ pháp tiếng Nhật,3.37,JAPAN
-JA031,3,1,JP101,Ngữ pháp tiếng Nhật,3.53,JAPAN
-JA031,3,2,JP105,Viết luận tiếng Nhật,2.24,JAPAN
-JA031,3,3,JP103,Hội thoại tiếng Nhật,3.01,JAPAN
-JA031,3,4,JP102,Văn hóa Nhật Bản,2.89,JAPAN
-JA031,3,5,JP106,Tiếng Nhật thương mại,4.89,JAPAN
-JA031,3,6,JP104,Đọc hiểu nâng cao,2.95,JAPAN
-JA032,1,1,JP106,Tiếng Nhật thương mại,3.37,JAPAN
-JA032,1,2,JP105,Viết luận tiếng Nhật,2.29,JAPAN
-JA032,1,3,JP102,Văn hóa Nhật Bản,4.28,JAPAN
-JA032,1,4,JP101,Ngữ pháp tiếng Nhật,2.48,JAPAN
-JA032,1,5,JP104,Đọc hiểu nâng cao,4.2,JAPAN
-JA032,1,6,JP103,Hội thoại tiếng Nhật,4.71,JAPAN
-JA033,3,1,JP103,Hội thoại tiếng Nhật,2.14,JAPAN
-JA033,3,2,JP105,Viết luận tiếng Nhật,4.69,JAPAN
-JA033,3,3,JP101,Ngữ pháp tiếng Nhật,2.99,JAPAN
-JA033,3,4,JP104,Đọc hiểu nâng cao,3.06,JAPAN
-JA033,3,5,JP102,Văn hóa Nhật Bản,4.99,JAPAN
-JA033,3,6,JP106,Tiếng Nhật thương mại,2.8,JAPAN
-JA034,4,1,JP104,Đọc hiểu nâng cao,4.79,JAPAN
-JA034,4,2,JP101,Ngữ pháp tiếng Nhật,3.63,JAPAN
-JA034,4,3,JP102,Văn hóa Nhật Bản,3.74,JAPAN
-JA034,4,4,JP105,Viết luận tiếng Nhật,3.04,JAPAN
-JA034,4,5,JP106,Tiếng Nhật thương mại,4.67,JAPAN
-JA034,4,6,JP103,Hội thoại tiếng Nhật,3.23,JAPAN
-JA035,3,1,JP102,Văn hóa Nhật Bản,4.81,JAPAN
-JA035,3,2,JP104,Đọc hiểu nâng cao,4.28,JAPAN
-JA035,3,3,JP106,Tiếng Nhật thương mại,2.1,JAPAN
-JA035,3,4,JP101,Ngữ pháp tiếng Nhật,3.55,JAPAN
-JA035,3,5,JP105,Viết luận tiếng Nhật,4.97,JAPAN
-JA035,3,6,JP103,Hội thoại tiếng Nhật,3.47,JAPAN
-JA036,4,1,JP105,Viết luận tiếng Nhật,2.08,JAPAN
-JA036,4,2,JP104,Đọc hiểu nâng cao,3.37,JAPAN
-JA036,4,3,JP101,Ngữ pháp tiếng Nhật,3.93,JAPAN
-JA036,4,4,JP102,Văn hóa Nhật Bản,2.52,JAPAN
-JA036,4,5,JP103,Hội thoại tiếng Nhật,4.64,JAPAN
-JA036,4,6,JP106,Tiếng Nhật thương mại,3.53,JAPAN
-JA037,4,1,JP106,Tiếng Nhật thương mại,2.87,JAPAN
-JA037,4,2,JP103,Hội thoại tiếng Nhật,4.75,JAPAN
-JA037,4,3,JP105,Viết luận tiếng Nhật,4.23,JAPAN
-JA037,4,4,JP101,Ngữ pháp tiếng Nhật,4.22,JAPAN
-JA037,4,5,JP102,Văn hóa Nhật Bản,4.81,JAPAN
-JA037,4,6,JP104,Đọc hiểu nâng cao,3.31,JAPAN
-JA038,1,1,JP106,Tiếng Nhật thương mại,4.75,JAPAN
-JA038,1,2,JP103,Hội thoại tiếng Nhật,3.54,JAPAN
-JA038,1,3,JP104,Đọc hiểu nâng cao,4.48,JAPAN
-JA038,1,4,JP101,Ngữ pháp tiếng Nhật,2.39,JAPAN
-JA038,1,5,JP102,Văn hóa Nhật Bản,4.79,JAPAN
-JA038,1,6,JP105,Viết luận tiếng Nhật,3.27,JAPAN
-JA039,2,1,JP102,Văn hóa Nhật Bản,4.66,JAPAN
-JA039,2,2,JP106,Tiếng Nhật thương mại,4.39,JAPAN
-JA039,2,3,JP101,Ngữ pháp tiếng Nhật,4.02,JAPAN
-JA039,2,4,JP104,Đọc hiểu nâng cao,3.7,JAPAN
-JA039,2,5,JP105,Viết luận tiếng Nhật,2.49,JAPAN
-JA039,2,6,JP103,Hội thoại tiếng Nhật,4.91,JAPAN
-JA040,3,1,JP105,Viết luận tiếng Nhật,2.65,JAPAN
-JA040,3,2,JP102,Văn hóa Nhật Bản,3.15,JAPAN
-JA040,3,3,JP103,Hội thoại tiếng Nhật,3.3,JAPAN
-JA040,3,4,JP101,Ngữ pháp tiếng Nhật,2.16,JAPAN
-JA040,3,5,JP106,Tiếng Nhật thương mại,3.72,JAPAN
-JA040,3,6,JP104,Đọc hiểu nâng cao,3.14,JAPAN
-JA041,2,1,JP105,Viết luận tiếng Nhật,3.88,JAPAN
-JA041,2,2,JP104,Đọc hiểu nâng cao,4.88,JAPAN
-JA041,2,3,JP102,Văn hóa Nhật Bản,4.04,JAPAN
-JA041,2,4,JP103,Hội thoại tiếng Nhật,3.05,JAPAN
-JA041,2,5,JP101,Ngữ pháp tiếng Nhật,2.74,JAPAN
-JA041,2,6,JP106,Tiếng Nhật thương mại,3.7,JAPAN
-JA042,2,1,JP102,Văn hóa Nhật Bản,3.67,JAPAN
-JA042,2,2,JP104,Đọc hiểu nâng cao,2.91,JAPAN
-JA042,2,3,JP106,Tiếng Nhật thương mại,2.19,JAPAN
-JA042,2,4,JP103,Hội thoại tiếng Nhật,2.05,JAPAN
-JA042,2,5,JP101,Ngữ pháp tiếng Nhật,2.95,JAPAN
-JA042,2,6,JP105,Viết luận tiếng Nhật,4.79,JAPAN
-JA043,4,1,JP103,Hội thoại tiếng Nhật,4.38,JAPAN
-JA043,4,2,JP101,Ngữ pháp tiếng Nhật,3.79,JAPAN
-JA043,4,3,JP104,Đọc hiểu nâng cao,4.94,JAPAN
-JA043,4,4,JP102,Văn hóa Nhật Bản,2.66,JAPAN
-JA043,4,5,JP105,Viết luận tiếng Nhật,3.28,JAPAN
-JA043,4,6,JP106,Tiếng Nhật thương mại,2.39,JAPAN
-JA044,3,1,JP106,Tiếng Nhật thương mại,3.46,JAPAN
-JA044,3,2,JP105,Viết luận tiếng Nhật,3.13,JAPAN
-JA044,3,3,JP102,Văn hóa Nhật Bản,2.55,JAPAN
-JA044,3,4,JP103,Hội thoại tiếng Nhật,2.47,JAPAN
-JA044,3,5,JP101,Ngữ pháp tiếng Nhật,4.18,JAPAN
-JA044,3,6,JP104,Đọc hiểu nâng cao,4.74,JAPAN
-JA045,1,1,JP101,Ngữ pháp tiếng Nhật,2.27,JAPAN
-JA045,1,2,JP103,Hội thoại tiếng Nhật,3.44,JAPAN
-JA045,1,3,JP102,Văn hóa Nhật Bản,2.97,JAPAN
-JA045,1,4,JP104,Đọc hiểu nâng cao,4.95,JAPAN
-JA045,1,5,JP105,Viết luận tiếng Nhật,2.69,JAPAN
-JA045,1,6,JP106,Tiếng Nhật thương mại,3.2,JAPAN
-JA046,1,1,JP101,Ngữ pháp tiếng Nhật,4.85,JAPAN
-JA046,1,2,JP102,Văn hóa Nhật Bản,4.19,JAPAN
-JA046,1,3,JP105,Viết luận tiếng Nhật,2.4,JAPAN
-JA046,1,4,JP103,Hội thoại tiếng Nhật,4.82,JAPAN
-JA046,1,5,JP104,Đọc hiểu nâng cao,3.26,JAPAN
-JA046,1,6,JP106,Tiếng Nhật thương mại,4.82,JAPAN
-JA047,3,1,JP102,Văn hóa Nhật Bản,3.03,JAPAN
-JA047,3,2,JP103,Hội thoại tiếng Nhật,2.5,JAPAN
-JA047,3,3,JP104,Đọc hiểu nâng cao,4.81,JAPAN
-JA047,3,4,JP106,Tiếng Nhật thương mại,2.01,JAPAN
-JA047,3,5,JP101,Ngữ pháp tiếng Nhật,4.97,JAPAN
-JA047,3,6,JP105,Viết luận tiếng Nhật,4.53,JAPAN
-JA048,1,1,JP105,Viết luận tiếng Nhật,3.63,JAPAN
-JA048,1,2,JP106,Tiếng Nhật thương mại,2.42,JAPAN
-JA048,1,3,JP103,Hội thoại tiếng Nhật,2.26,JAPAN
-JA048,1,4,JP104,Đọc hiểu nâng cao,3.27,JAPAN
-JA048,1,5,JP101,Ngữ pháp tiếng Nhật,4.23,JAPAN
-JA048,1,6,JP102,Văn hóa Nhật Bản,2.95,JAPAN
-JA049,1,1,JP101,Ngữ pháp tiếng Nhật,4.43,JAPAN
-JA049,1,2,JP106,Tiếng Nhật thương mại,3.18,JAPAN
-JA049,1,3,JP102,Văn hóa Nhật Bản,2.99,JAPAN
-JA049,1,4,JP103,Hội thoại tiếng Nhật,2.84,JAPAN
-JA049,1,5,JP104,Đọc hiểu nâng cao,4.66,JAPAN
-JA049,1,6,JP105,Viết luận tiếng Nhật,4.02,JAPAN
-JA050,3,1,JP101,Ngữ pháp tiếng Nhật,4.62,JAPAN
-JA050,3,2,JP103,Hội thoại tiếng Nhật,2.66,JAPAN
-JA050,3,3,JP102,Văn hóa Nhật Bản,4.37,JAPAN
-JA050,3,4,JP104,Đọc hiểu nâng cao,4.69,JAPAN
-JA050,3,5,JP105,Viết luận tiếng Nhật,3.63,JAPAN
-JA050,3,6,JP106,Tiếng Nhật thương mại,2.37,JAPAN
+JA001,2,1,JP116,Chính trị và kinh tế Nhật Bản đương đại,3.04,JAPAN
+JA001,2,2,JP101,Ngữ pháp tiếng Nhật,2.69,JAPAN
+JA001,2,1,JP109,Phiên dịch Nhật – Việt,3.84,JAPAN
+JA001,2,2,JP105,Viết luận tiếng Nhật,2.28,JAPAN
+JA001,2,1,JP106,Tiếng Nhật thương mại,4.12,JAPAN
+JA001,2,2,JP111,Viết học thuật bằng tiếng Nhật,3.8,JAPAN
+JA001,2,1,JP112,Lịch sử Nhật Bản,4.61,JAPAN
+JA002,3,1,JP112,Lịch sử Nhật Bản,3.15,JAPAN
+JA002,3,2,JP110,Luyện thi JLPT N2/N1,2.61,JAPAN
+JA002,3,1,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,4.89,JAPAN
+JA002,3,2,JP105,Viết luận tiếng Nhật,3.26,JAPAN
+JA002,3,1,JP115,Tôn giáo và tín ngưỡng Nhật Bản,3.11,JAPAN
+JA002,3,2,JP107,Nghe hiểu nâng cao,3.25,JAPAN
+JA003,4,1,JP115,Tôn giáo và tín ngưỡng Nhật Bản,2.26,JAPAN
+JA003,4,2,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,2.32,JAPAN
+JA003,4,1,JP112,Lịch sử Nhật Bản,2.22,JAPAN
+JA003,4,2,JP106,Tiếng Nhật thương mại,3.0,JAPAN
+JA003,4,1,JP108,Biên dịch Nhật – Việt,4.77,JAPAN
+JA003,4,2,JP114,Văn học Nhật Bản hiện đại,4.99,JAPAN
+JA003,4,1,JP109,Phiên dịch Nhật – Việt,3.96,JAPAN
+JA003,4,2,JP104,Đọc hiểu nâng cao,3.97,JAPAN
+JA004,4,1,JP115,Tôn giáo và tín ngưỡng Nhật Bản,2.99,JAPAN
+JA004,4,2,JP107,Nghe hiểu nâng cao,3.18,JAPAN
+JA004,4,1,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,4.22,JAPAN
+JA004,4,2,JP114,Văn học Nhật Bản hiện đại,3.5,JAPAN
+JA004,4,1,JP112,Lịch sử Nhật Bản,2.64,JAPAN
+JA004,4,2,JP105,Viết luận tiếng Nhật,4.32,JAPAN
+JA004,4,1,JP102,Văn hóa Nhật Bản,3.14,JAPAN
+JA005,4,1,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,4.94,JAPAN
+JA005,4,2,JP109,Phiên dịch Nhật – Việt,2.58,JAPAN
+JA005,4,1,JP104,Đọc hiểu nâng cao,3.74,JAPAN
+JA005,4,2,JP111,Viết học thuật bằng tiếng Nhật,2.72,JAPAN
+JA005,4,1,JP113,Văn học Nhật Bản cổ điển,4.28,JAPAN
+JA005,4,2,JP118,Văn hóa doanh nghiệp Nhật Bản,4.59,JAPAN
+JA005,4,1,JP115,Tôn giáo và tín ngưỡng Nhật Bản,2.89,JAPAN
+JA005,4,2,JP114,Văn học Nhật Bản hiện đại,3.82,JAPAN
+JA006,4,1,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,3.17,JAPAN
+JA006,4,2,JP102,Văn hóa Nhật Bản,4.66,JAPAN
+JA006,4,1,JP107,Nghe hiểu nâng cao,2.55,JAPAN
+JA006,4,2,JP109,Phiên dịch Nhật – Việt,3.9,JAPAN
+JA006,4,1,JP111,Viết học thuật bằng tiếng Nhật,2.98,JAPAN
+JA006,4,2,JP104,Đọc hiểu nâng cao,4.99,JAPAN
+JA007,3,1,JP106,Tiếng Nhật thương mại,4.41,JAPAN
+JA007,3,2,JP110,Luyện thi JLPT N2/N1,4.81,JAPAN
+JA007,3,1,JP102,Văn hóa Nhật Bản,3.34,JAPAN
+JA007,3,2,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,3.37,JAPAN
+JA007,3,1,JP111,Viết học thuật bằng tiếng Nhật,3.45,JAPAN
+JA007,3,2,JP101,Ngữ pháp tiếng Nhật,3.06,JAPAN
+JA007,3,1,JP107,Nghe hiểu nâng cao,2.38,JAPAN
+JA007,3,2,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,4.04,JAPAN
+JA008,2,1,JP111,Viết học thuật bằng tiếng Nhật,2.59,JAPAN
+JA008,2,2,JP108,Biên dịch Nhật – Việt,2.71,JAPAN
+JA008,2,1,JP115,Tôn giáo và tín ngưỡng Nhật Bản,3.18,JAPAN
+JA008,2,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,4.14,JAPAN
+JA008,2,1,JP103,Hội thoại tiếng Nhật,2.85,JAPAN
+JA008,2,2,JP112,Lịch sử Nhật Bản,4.53,JAPAN
+JA008,2,1,JP106,Tiếng Nhật thương mại,4.64,JAPAN
+JA009,3,1,JP110,Luyện thi JLPT N2/N1,2.56,JAPAN
+JA009,3,2,JP107,Nghe hiểu nâng cao,2.37,JAPAN
+JA009,3,1,JP112,Lịch sử Nhật Bản,2.92,JAPAN
+JA009,3,2,JP101,Ngữ pháp tiếng Nhật,3.16,JAPAN
+JA009,3,1,JP105,Viết luận tiếng Nhật,3.33,JAPAN
+JA009,3,2,JP118,Văn hóa doanh nghiệp Nhật Bản,2.83,JAPAN
+JA010,2,1,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,4.63,JAPAN
+JA010,2,2,JP108,Biên dịch Nhật – Việt,2.51,JAPAN
+JA010,2,1,JP101,Ngữ pháp tiếng Nhật,4.06,JAPAN
+JA010,2,2,JP112,Lịch sử Nhật Bản,2.84,JAPAN
+JA010,2,1,JP107,Nghe hiểu nâng cao,4.25,JAPAN
+JA010,2,2,JP114,Văn học Nhật Bản hiện đại,4.36,JAPAN
+JA010,2,1,JP104,Đọc hiểu nâng cao,2.32,JAPAN
+JA010,2,2,JP118,Văn hóa doanh nghiệp Nhật Bản,3.82,JAPAN
+JA011,2,1,JP109,Phiên dịch Nhật – Việt,3.36,JAPAN
+JA011,2,2,JP107,Nghe hiểu nâng cao,4.86,JAPAN
+JA011,2,1,JP104,Đọc hiểu nâng cao,2.29,JAPAN
+JA011,2,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,2.93,JAPAN
+JA011,2,1,JP108,Biên dịch Nhật – Việt,2.14,JAPAN
+JA011,2,2,JP115,Tôn giáo và tín ngưỡng Nhật Bản,3.99,JAPAN
+JA011,2,1,JP101,Ngữ pháp tiếng Nhật,3.47,JAPAN
+JA012,3,1,JP108,Biên dịch Nhật – Việt,4.84,JAPAN
+JA012,3,2,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,4.32,JAPAN
+JA012,3,1,JP101,Ngữ pháp tiếng Nhật,4.66,JAPAN
+JA012,3,2,JP107,Nghe hiểu nâng cao,2.72,JAPAN
+JA012,3,1,JP110,Luyện thi JLPT N2/N1,2.06,JAPAN
+JA012,3,2,JP106,Tiếng Nhật thương mại,3.63,JAPAN
+JA012,3,1,JP103,Hội thoại tiếng Nhật,2.43,JAPAN
+JA013,1,1,JP109,Phiên dịch Nhật – Việt,2.56,JAPAN
+JA013,1,2,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,4.73,JAPAN
+JA013,1,1,JP111,Viết học thuật bằng tiếng Nhật,2.43,JAPAN
+JA013,1,2,JP106,Tiếng Nhật thương mại,2.02,JAPAN
+JA013,1,1,JP101,Ngữ pháp tiếng Nhật,2.75,JAPAN
+JA013,1,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,3.2,JAPAN
+JA014,1,1,JP114,Văn học Nhật Bản hiện đại,3.4,JAPAN
+JA014,1,2,JP118,Văn hóa doanh nghiệp Nhật Bản,2.9,JAPAN
+JA014,1,1,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,2.54,JAPAN
+JA014,1,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,3.03,JAPAN
+JA014,1,1,JP101,Ngữ pháp tiếng Nhật,4.07,JAPAN
+JA014,1,2,JP105,Viết luận tiếng Nhật,2.72,JAPAN
+JA014,1,1,JP111,Viết học thuật bằng tiếng Nhật,4.76,JAPAN
+JA014,1,2,JP107,Nghe hiểu nâng cao,3.99,JAPAN
+JA015,2,1,JP108,Biên dịch Nhật – Việt,4.99,JAPAN
+JA015,2,2,JP101,Ngữ pháp tiếng Nhật,4.28,JAPAN
+JA015,2,1,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,4.36,JAPAN
+JA015,2,2,JP104,Đọc hiểu nâng cao,3.64,JAPAN
+JA015,2,1,JP110,Luyện thi JLPT N2/N1,4.76,JAPAN
+JA015,2,2,JP103,Hội thoại tiếng Nhật,3.3,JAPAN
+JA015,2,1,JP109,Phiên dịch Nhật – Việt,4.32,JAPAN
+JA016,4,1,JP102,Văn hóa Nhật Bản,4.75,JAPAN
+JA016,4,2,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,3.89,JAPAN
+JA016,4,1,JP113,Văn học Nhật Bản cổ điển,3.01,JAPAN
+JA016,4,2,JP109,Phiên dịch Nhật – Việt,2.66,JAPAN
+JA016,4,1,JP110,Luyện thi JLPT N2/N1,3.1,JAPAN
+JA016,4,2,JP104,Đọc hiểu nâng cao,3.06,JAPAN
+JA016,4,1,JP103,Hội thoại tiếng Nhật,2.54,JAPAN
+JA016,4,2,JP101,Ngữ pháp tiếng Nhật,3.39,JAPAN
+JA017,4,1,JP103,Hội thoại tiếng Nhật,2.79,JAPAN
+JA017,4,2,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,3.42,JAPAN
+JA017,4,1,JP112,Lịch sử Nhật Bản,4.32,JAPAN
+JA017,4,2,JP118,Văn hóa doanh nghiệp Nhật Bản,3.72,JAPAN
+JA017,4,1,JP104,Đọc hiểu nâng cao,3.8,JAPAN
+JA017,4,2,JP107,Nghe hiểu nâng cao,3.09,JAPAN
+JA017,4,1,JP116,Chính trị và kinh tế Nhật Bản đương đại,2.17,JAPAN
+JA017,4,2,JP115,Tôn giáo và tín ngưỡng Nhật Bản,2.8,JAPAN
+JA018,2,1,JP104,Đọc hiểu nâng cao,4.42,JAPAN
+JA018,2,2,JP115,Tôn giáo và tín ngưỡng Nhật Bản,2.21,JAPAN
+JA018,2,1,JP110,Luyện thi JLPT N2/N1,3.47,JAPAN
+JA018,2,2,JP109,Phiên dịch Nhật – Việt,4.5,JAPAN
+JA018,2,1,JP116,Chính trị và kinh tế Nhật Bản đương đại,2.36,JAPAN
+JA018,2,2,JP105,Viết luận tiếng Nhật,4.39,JAPAN
+JA018,2,1,JP114,Văn học Nhật Bản hiện đại,3.64,JAPAN
+JA019,3,1,JP104,Đọc hiểu nâng cao,2.46,JAPAN
+JA019,3,2,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,4.88,JAPAN
+JA019,3,1,JP107,Nghe hiểu nâng cao,4.74,JAPAN
+JA019,3,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,2.2,JAPAN
+JA019,3,1,JP103,Hội thoại tiếng Nhật,4.15,JAPAN
+JA019,3,2,JP115,Tôn giáo và tín ngưỡng Nhật Bản,2.81,JAPAN
+JA019,3,1,JP109,Phiên dịch Nhật – Việt,4.56,JAPAN
+JA019,3,2,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,4.58,JAPAN
+JA020,3,1,JP106,Tiếng Nhật thương mại,2.51,JAPAN
+JA020,3,2,JP110,Luyện thi JLPT N2/N1,2.23,JAPAN
+JA020,3,1,JP101,Ngữ pháp tiếng Nhật,2.64,JAPAN
+JA020,3,2,JP107,Nghe hiểu nâng cao,4.83,JAPAN
+JA020,3,1,JP105,Viết luận tiếng Nhật,3.95,JAPAN
+JA020,3,2,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,4.38,JAPAN
+JA020,3,1,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,4.53,JAPAN
+JA021,3,1,JP107,Nghe hiểu nâng cao,2.44,JAPAN
+JA021,3,2,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,4.46,JAPAN
+JA021,3,1,JP104,Đọc hiểu nâng cao,3.92,JAPAN
+JA021,3,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,2.04,JAPAN
+JA021,3,1,JP113,Văn học Nhật Bản cổ điển,2.28,JAPAN
+JA021,3,2,JP103,Hội thoại tiếng Nhật,4.26,JAPAN
+JA021,3,1,JP102,Văn hóa Nhật Bản,2.83,JAPAN
+JA022,2,1,JP104,Đọc hiểu nâng cao,3.89,JAPAN
+JA022,2,2,JP109,Phiên dịch Nhật – Việt,3.68,JAPAN
+JA022,2,1,JP107,Nghe hiểu nâng cao,3.14,JAPAN
+JA022,2,2,JP108,Biên dịch Nhật – Việt,2.4,JAPAN
+JA022,2,1,JP110,Luyện thi JLPT N2/N1,3.88,JAPAN
+JA022,2,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,4.99,JAPAN
+JA022,2,1,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,3.35,JAPAN
+JA022,2,2,JP114,Văn học Nhật Bản hiện đại,4.43,JAPAN
+JA023,4,1,JP112,Lịch sử Nhật Bản,4.02,JAPAN
+JA023,4,2,JP111,Viết học thuật bằng tiếng Nhật,3.98,JAPAN
+JA023,4,1,JP102,Văn hóa Nhật Bản,4.72,JAPAN
+JA023,4,2,JP114,Văn học Nhật Bản hiện đại,3.75,JAPAN
+JA023,4,1,JP108,Biên dịch Nhật – Việt,4.57,JAPAN
+JA023,4,2,JP118,Văn hóa doanh nghiệp Nhật Bản,2.43,JAPAN
+JA024,4,1,JP102,Văn hóa Nhật Bản,2.6,JAPAN
+JA024,4,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,4.62,JAPAN
+JA024,4,1,JP115,Tôn giáo và tín ngưỡng Nhật Bản,3.1,JAPAN
+JA024,4,2,JP107,Nghe hiểu nâng cao,2.5,JAPAN
+JA024,4,1,JP112,Lịch sử Nhật Bản,2.74,JAPAN
+JA024,4,2,JP109,Phiên dịch Nhật – Việt,4.61,JAPAN
+JA024,4,1,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,2.91,JAPAN
+JA024,4,2,JP103,Hội thoại tiếng Nhật,4.29,JAPAN
+JA025,2,1,JP116,Chính trị và kinh tế Nhật Bản đương đại,2.67,JAPAN
+JA025,2,2,JP113,Văn học Nhật Bản cổ điển,2.56,JAPAN
+JA025,2,1,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,2.83,JAPAN
+JA025,2,2,JP111,Viết học thuật bằng tiếng Nhật,2.15,JAPAN
+JA025,2,1,JP114,Văn học Nhật Bản hiện đại,4.29,JAPAN
+JA025,2,2,JP110,Luyện thi JLPT N2/N1,2.95,JAPAN
+JA025,2,1,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,4.41,JAPAN
+JA025,2,2,JP108,Biên dịch Nhật – Việt,2.93,JAPAN
+JA026,1,1,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,2.51,JAPAN
+JA026,1,2,JP103,Hội thoại tiếng Nhật,2.17,JAPAN
+JA026,1,1,JP102,Văn hóa Nhật Bản,4.41,JAPAN
+JA026,1,2,JP105,Viết luận tiếng Nhật,2.71,JAPAN
+JA026,1,1,JP111,Viết học thuật bằng tiếng Nhật,4.15,JAPAN
+JA026,1,2,JP113,Văn học Nhật Bản cổ điển,4.01,JAPAN
+JA027,3,1,JP110,Luyện thi JLPT N2/N1,4.6,JAPAN
+JA027,3,2,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,2.82,JAPAN
+JA027,3,1,JP115,Tôn giáo và tín ngưỡng Nhật Bản,4.53,JAPAN
+JA027,3,2,JP118,Văn hóa doanh nghiệp Nhật Bản,4.54,JAPAN
+JA027,3,1,JP108,Biên dịch Nhật – Việt,3.65,JAPAN
+JA027,3,2,JP112,Lịch sử Nhật Bản,4.42,JAPAN
+JA027,3,1,JP109,Phiên dịch Nhật – Việt,4.77,JAPAN
+JA028,4,1,JP114,Văn học Nhật Bản hiện đại,2.25,JAPAN
+JA028,4,2,JP107,Nghe hiểu nâng cao,4.63,JAPAN
+JA028,4,1,JP109,Phiên dịch Nhật – Việt,4.74,JAPAN
+JA028,4,2,JP101,Ngữ pháp tiếng Nhật,2.54,JAPAN
+JA028,4,1,JP111,Viết học thuật bằng tiếng Nhật,3.21,JAPAN
+JA028,4,2,JP103,Hội thoại tiếng Nhật,3.67,JAPAN
+JA028,4,1,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,3.05,JAPAN
+JA028,4,2,JP108,Biên dịch Nhật – Việt,3.18,JAPAN
+JA029,2,1,JP106,Tiếng Nhật thương mại,4.73,JAPAN
+JA029,2,2,JP114,Văn học Nhật Bản hiện đại,4.69,JAPAN
+JA029,2,1,JP110,Luyện thi JLPT N2/N1,3.86,JAPAN
+JA029,2,2,JP102,Văn hóa Nhật Bản,3.12,JAPAN
+JA029,2,1,JP105,Viết luận tiếng Nhật,3.46,JAPAN
+JA029,2,2,JP115,Tôn giáo và tín ngưỡng Nhật Bản,3.59,JAPAN
+JA029,2,1,JP108,Biên dịch Nhật – Việt,3.34,JAPAN
+JA030,4,1,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,3.0,JAPAN
+JA030,4,2,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,3.84,JAPAN
+JA030,4,1,JP108,Biên dịch Nhật – Việt,3.27,JAPAN
+JA030,4,2,JP112,Lịch sử Nhật Bản,2.13,JAPAN
+JA030,4,1,JP109,Phiên dịch Nhật – Việt,4.82,JAPAN
+JA030,4,2,JP104,Đọc hiểu nâng cao,3.32,JAPAN
+JA030,4,1,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,2.46,JAPAN
+JA030,4,2,JP103,Hội thoại tiếng Nhật,3.12,JAPAN
+JA031,4,1,JP107,Nghe hiểu nâng cao,3.0,JAPAN
+JA031,4,2,JP115,Tôn giáo và tín ngưỡng Nhật Bản,4.21,JAPAN
+JA031,4,1,JP109,Phiên dịch Nhật – Việt,3.1,JAPAN
+JA031,4,2,JP103,Hội thoại tiếng Nhật,4.76,JAPAN
+JA031,4,1,JP108,Biên dịch Nhật – Việt,3.17,JAPAN
+JA031,4,2,JP118,Văn hóa doanh nghiệp Nhật Bản,4.64,JAPAN
+JA031,4,1,JP105,Viết luận tiếng Nhật,3.25,JAPAN
+JA032,4,1,JP102,Văn hóa Nhật Bản,2.81,JAPAN
+JA032,4,2,JP112,Lịch sử Nhật Bản,2.08,JAPAN
+JA032,4,1,JP116,Chính trị và kinh tế Nhật Bản đương đại,2.23,JAPAN
+JA032,4,2,JP108,Biên dịch Nhật – Việt,4.73,JAPAN
+JA032,4,1,JP104,Đọc hiểu nâng cao,4.7,JAPAN
+JA032,4,2,JP105,Viết luận tiếng Nhật,2.62,JAPAN
+JA033,2,1,JP105,Viết luận tiếng Nhật,4.97,JAPAN
+JA033,2,2,JP111,Viết học thuật bằng tiếng Nhật,3.44,JAPAN
+JA033,2,1,JP118,Văn hóa doanh nghiệp Nhật Bản,3.01,JAPAN
+JA033,2,2,JP103,Hội thoại tiếng Nhật,4.02,JAPAN
+JA033,2,1,JP113,Văn học Nhật Bản cổ điển,4.88,JAPAN
+JA033,2,2,JP101,Ngữ pháp tiếng Nhật,4.76,JAPAN
+JA033,2,1,JP109,Phiên dịch Nhật – Việt,4.6,JAPAN
+JA033,2,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,3.32,JAPAN
+JA034,1,1,JP116,Chính trị và kinh tế Nhật Bản đương đại,4.5,JAPAN
+JA034,1,2,JP101,Ngữ pháp tiếng Nhật,4.09,JAPAN
+JA034,1,1,JP113,Văn học Nhật Bản cổ điển,4.83,JAPAN
+JA034,1,2,JP114,Văn học Nhật Bản hiện đại,4.48,JAPAN
+JA034,1,1,JP107,Nghe hiểu nâng cao,4.37,JAPAN
+JA034,1,2,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,4.65,JAPAN
+JA035,3,1,JP108,Biên dịch Nhật – Việt,2.85,JAPAN
+JA035,3,2,JP107,Nghe hiểu nâng cao,2.89,JAPAN
+JA035,3,1,JP103,Hội thoại tiếng Nhật,4.39,JAPAN
+JA035,3,2,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,4.56,JAPAN
+JA035,3,1,JP118,Văn hóa doanh nghiệp Nhật Bản,2.03,JAPAN
+JA035,3,2,JP113,Văn học Nhật Bản cổ điển,3.94,JAPAN
+JA035,3,1,JP106,Tiếng Nhật thương mại,2.62,JAPAN
+JA035,3,2,JP105,Viết luận tiếng Nhật,3.13,JAPAN
+JA036,2,1,JP108,Biên dịch Nhật – Việt,3.51,JAPAN
+JA036,2,2,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,4.31,JAPAN
+JA036,2,1,JP114,Văn học Nhật Bản hiện đại,2.86,JAPAN
+JA036,2,2,JP111,Viết học thuật bằng tiếng Nhật,4.86,JAPAN
+JA036,2,1,JP107,Nghe hiểu nâng cao,3.97,JAPAN
+JA036,2,2,JP113,Văn học Nhật Bản cổ điển,3.25,JAPAN
+JA037,1,1,JP118,Văn hóa doanh nghiệp Nhật Bản,3.19,JAPAN
+JA037,1,2,JP101,Ngữ pháp tiếng Nhật,4.41,JAPAN
+JA037,1,1,JP114,Văn học Nhật Bản hiện đại,2.37,JAPAN
+JA037,1,2,JP109,Phiên dịch Nhật – Việt,2.24,JAPAN
+JA037,1,1,JP105,Viết luận tiếng Nhật,2.96,JAPAN
+JA037,1,2,JP103,Hội thoại tiếng Nhật,4.77,JAPAN
+JA037,1,1,JP112,Lịch sử Nhật Bản,3.18,JAPAN
+JA037,1,2,JP115,Tôn giáo và tín ngưỡng Nhật Bản,3.29,JAPAN
+JA038,2,1,JP118,Văn hóa doanh nghiệp Nhật Bản,4.94,JAPAN
+JA038,2,2,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,4.96,JAPAN
+JA038,2,1,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,2.87,JAPAN
+JA038,2,2,JP108,Biên dịch Nhật – Việt,4.8,JAPAN
+JA038,2,1,JP101,Ngữ pháp tiếng Nhật,3.6,JAPAN
+JA038,2,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,3.91,JAPAN
+JA039,4,1,JP106,Tiếng Nhật thương mại,3.48,JAPAN
+JA039,4,2,JP105,Viết luận tiếng Nhật,3.34,JAPAN
+JA039,4,1,JP115,Tôn giáo và tín ngưỡng Nhật Bản,2.49,JAPAN
+JA039,4,2,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,4.47,JAPAN
+JA039,4,1,JP109,Phiên dịch Nhật – Việt,4.67,JAPAN
+JA039,4,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,4.38,JAPAN
+JA039,4,1,JP114,Văn học Nhật Bản hiện đại,4.08,JAPAN
+JA040,4,1,JP111,Viết học thuật bằng tiếng Nhật,4.31,JAPAN
+JA040,4,2,JP112,Lịch sử Nhật Bản,2.4,JAPAN
+JA040,4,1,JP108,Biên dịch Nhật – Việt,3.11,JAPAN
+JA040,4,2,JP118,Văn hóa doanh nghiệp Nhật Bản,5.0,JAPAN
+JA040,4,1,JP110,Luyện thi JLPT N2/N1,3.35,JAPAN
+JA040,4,2,JP109,Phiên dịch Nhật – Việt,3.85,JAPAN
+JA040,4,1,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,2.84,JAPAN
+JA041,1,1,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,2.05,JAPAN
+JA041,1,2,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,2.97,JAPAN
+JA041,1,1,JP108,Biên dịch Nhật – Việt,2.71,JAPAN
+JA041,1,2,JP115,Tôn giáo và tín ngưỡng Nhật Bản,2.12,JAPAN
+JA041,1,1,JP101,Ngữ pháp tiếng Nhật,4.42,JAPAN
+JA041,1,2,JP110,Luyện thi JLPT N2/N1,4.89,JAPAN
+JA041,1,1,JP111,Viết học thuật bằng tiếng Nhật,3.29,JAPAN
+JA042,3,1,JP113,Văn học Nhật Bản cổ điển,3.84,JAPAN
+JA042,3,2,JP115,Tôn giáo và tín ngưỡng Nhật Bản,2.39,JAPAN
+JA042,3,1,JP108,Biên dịch Nhật – Việt,4.18,JAPAN
+JA042,3,2,JP118,Văn hóa doanh nghiệp Nhật Bản,4.39,JAPAN
+JA042,3,1,JP106,Tiếng Nhật thương mại,2.74,JAPAN
+JA042,3,2,JP102,Văn hóa Nhật Bản,4.2,JAPAN
+JA042,3,1,JP110,Luyện thi JLPT N2/N1,4.79,JAPAN
+JA042,3,2,JP107,Nghe hiểu nâng cao,4.13,JAPAN
+JA043,4,1,JP113,Văn học Nhật Bản cổ điển,4.12,JAPAN
+JA043,4,2,JP107,Nghe hiểu nâng cao,3.9,JAPAN
+JA043,4,1,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,2.41,JAPAN
+JA043,4,2,JP106,Tiếng Nhật thương mại,2.47,JAPAN
+JA043,4,1,JP112,Lịch sử Nhật Bản,2.48,JAPAN
+JA043,4,2,JP110,Luyện thi JLPT N2/N1,3.7,JAPAN
+JA043,4,1,JP108,Biên dịch Nhật – Việt,3.66,JAPAN
+JA044,3,1,JP102,Văn hóa Nhật Bản,2.42,JAPAN
+JA044,3,2,JP108,Biên dịch Nhật – Việt,2.68,JAPAN
+JA044,3,1,JP104,Đọc hiểu nâng cao,3.09,JAPAN
+JA044,3,2,JP109,Phiên dịch Nhật – Việt,2.54,JAPAN
+JA044,3,1,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,3.83,JAPAN
+JA044,3,2,JP112,Lịch sử Nhật Bản,4.23,JAPAN
+JA044,3,1,JP118,Văn hóa doanh nghiệp Nhật Bản,3.96,JAPAN
+JA044,3,2,JP116,Chính trị và kinh tế Nhật Bản đương đại,3.68,JAPAN
+JA045,2,1,JP112,Lịch sử Nhật Bản,2.5,JAPAN
+JA045,2,2,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,4.89,JAPAN
+JA045,2,1,JP108,Biên dịch Nhật – Việt,2.01,JAPAN
+JA045,2,2,JP115,Tôn giáo và tín ngưỡng Nhật Bản,2.86,JAPAN
+JA045,2,1,JP111,Viết học thuật bằng tiếng Nhật,2.93,JAPAN
+JA045,2,2,JP105,Viết luận tiếng Nhật,2.04,JAPAN
+JA045,2,1,JP101,Ngữ pháp tiếng Nhật,2.15,JAPAN
+JA046,2,1,JP105,Viết luận tiếng Nhật,4.94,JAPAN
+JA046,2,2,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,3.53,JAPAN
+JA046,2,1,JP104,Đọc hiểu nâng cao,2.85,JAPAN
+JA046,2,2,JP110,Luyện thi JLPT N2/N1,2.64,JAPAN
+JA046,2,1,JP101,Ngữ pháp tiếng Nhật,4.94,JAPAN
+JA046,2,2,JP107,Nghe hiểu nâng cao,2.32,JAPAN
+JA046,2,1,JP111,Viết học thuật bằng tiếng Nhật,3.35,JAPAN
+JA046,2,2,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,3.23,JAPAN
+JA047,2,1,JP101,Ngữ pháp tiếng Nhật,2.41,JAPAN
+JA047,2,2,JP115,Tôn giáo và tín ngưỡng Nhật Bản,3.38,JAPAN
+JA047,2,1,JP109,Phiên dịch Nhật – Việt,2.54,JAPAN
+JA047,2,2,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,2.59,JAPAN
+JA047,2,1,JP112,Lịch sử Nhật Bản,2.48,JAPAN
+JA047,2,2,JP114,Văn học Nhật Bản hiện đại,2.41,JAPAN
+JA048,3,1,JP115,Tôn giáo và tín ngưỡng Nhật Bản,2.65,JAPAN
+JA048,3,2,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,4.9,JAPAN
+JA048,3,1,JP109,Phiên dịch Nhật – Việt,4.72,JAPAN
+JA048,3,2,JP114,Văn học Nhật Bản hiện đại,2.32,JAPAN
+JA048,3,1,JP113,Văn học Nhật Bản cổ điển,2.71,JAPAN
+JA048,3,2,JP107,Nghe hiểu nâng cao,3.48,JAPAN
+JA049,1,1,JP117,Giao tiếp doanh nghiệp bằng tiếng Nhật,4.96,JAPAN
+JA049,1,2,JP106,Tiếng Nhật thương mại,3.42,JAPAN
+JA049,1,1,JP118,Văn hóa doanh nghiệp Nhật Bản,2.06,JAPAN
+JA049,1,2,JP105,Viết luận tiếng Nhật,4.4,JAPAN
+JA049,1,1,JP107,Nghe hiểu nâng cao,3.42,JAPAN
+JA049,1,2,JP119,Du lịch Nhật Bản và hướng dẫn viên song ngữ,2.24,JAPAN
+JA049,1,1,JP101,Ngữ pháp tiếng Nhật,2.51,JAPAN
+JA049,1,2,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,4.44,JAPAN
+JA050,3,1,JP104,Đọc hiểu nâng cao,3.86,JAPAN
+JA050,3,2,JP111,Viết học thuật bằng tiếng Nhật,4.16,JAPAN
+JA050,3,1,JP108,Biên dịch Nhật – Việt,2.31,JAPAN
+JA050,3,2,JP102,Văn hóa Nhật Bản,4.9,JAPAN
+JA050,3,1,JP120,Tiếng Nhật chuyên ngành IT/Kỹ thuật,2.36,JAPAN
+JA050,3,2,JP110,Luyện thi JLPT N2/N1,3.56,JAPAN
 
 // ----------------- FINANCE -----------------//
-FI001,1,1,FI103,Tài chính quốc tế,2.12,FINANCE
-FI001,1,2,FI101,Nguyên lý tài chính,3.77,FINANCE
-FI001,1,3,FI102,Kế toán doanh nghiệp,3.67,FINANCE
-FI001,1,4,FI106,Quản trị rủi ro tài chính,3.99,FINANCE
-FI001,1,5,FI104,Đầu tư chứng khoán,2.58,FINANCE
-FI001,1,6,FI105,Ngân hàng thương mại,3.45,FINANCE
-FI002,2,1,FI101,Nguyên lý tài chính,3.83,FINANCE
-FI002,2,2,FI103,Tài chính quốc tế,4.38,FINANCE
-FI002,2,3,FI105,Ngân hàng thương mại,4.68,FINANCE
-FI002,2,4,FI102,Kế toán doanh nghiệp,2.79,FINANCE
-FI002,2,5,FI104,Đầu tư chứng khoán,4.58,FINANCE
-FI002,2,6,FI106,Quản trị rủi ro tài chính,2.35,FINANCE
-FI003,1,1,FI104,Đầu tư chứng khoán,4.47,FINANCE
-FI003,1,2,FI101,Nguyên lý tài chính,4.48,FINANCE
-FI003,1,3,FI102,Kế toán doanh nghiệp,4.81,FINANCE
-FI003,1,4,FI103,Tài chính quốc tế,3.5,FINANCE
-FI003,1,5,FI106,Quản trị rủi ro tài chính,2.08,FINANCE
-FI003,1,6,FI105,Ngân hàng thương mại,3.2,FINANCE
-FI004,1,1,FI106,Quản trị rủi ro tài chính,2.87,FINANCE
-FI004,1,2,FI105,Ngân hàng thương mại,4.1,FINANCE
-FI004,1,3,FI102,Kế toán doanh nghiệp,2.49,FINANCE
-FI004,1,4,FI101,Nguyên lý tài chính,2.6,FINANCE
-FI004,1,5,FI104,Đầu tư chứng khoán,2.96,FINANCE
-FI004,1,6,FI103,Tài chính quốc tế,3.35,FINANCE
-FI005,2,1,FI104,Đầu tư chứng khoán,2.95,FINANCE
-FI005,2,2,FI105,Ngân hàng thương mại,2.39,FINANCE
-FI005,2,3,FI106,Quản trị rủi ro tài chính,3.47,FINANCE
-FI005,2,4,FI103,Tài chính quốc tế,4.78,FINANCE
-FI005,2,5,FI102,Kế toán doanh nghiệp,4.5,FINANCE
-FI005,2,6,FI101,Nguyên lý tài chính,2.65,FINANCE
-FI006,1,1,FI102,Kế toán doanh nghiệp,2.56,FINANCE
-FI006,1,2,FI106,Quản trị rủi ro tài chính,3.34,FINANCE
-FI006,1,3,FI104,Đầu tư chứng khoán,4.01,FINANCE
-FI006,1,4,FI103,Tài chính quốc tế,3.08,FINANCE
-FI006,1,5,FI105,Ngân hàng thương mại,4.25,FINANCE
-FI006,1,6,FI101,Nguyên lý tài chính,2.43,FINANCE
-FI007,3,1,FI105,Ngân hàng thương mại,4.51,FINANCE
-FI007,3,2,FI103,Tài chính quốc tế,4.16,FINANCE
-FI007,3,3,FI101,Nguyên lý tài chính,3.32,FINANCE
-FI007,3,4,FI104,Đầu tư chứng khoán,4.07,FINANCE
-FI007,3,5,FI102,Kế toán doanh nghiệp,2.45,FINANCE
-FI007,3,6,FI106,Quản trị rủi ro tài chính,4.48,FINANCE
-FI008,3,1,FI106,Quản trị rủi ro tài chính,4.6,FINANCE
-FI008,3,2,FI105,Ngân hàng thương mại,3.61,FINANCE
-FI008,3,3,FI104,Đầu tư chứng khoán,3.94,FINANCE
-FI008,3,4,FI101,Nguyên lý tài chính,2.93,FINANCE
-FI008,3,5,FI103,Tài chính quốc tế,4.85,FINANCE
-FI008,3,6,FI102,Kế toán doanh nghiệp,3.17,FINANCE
-FI009,4,1,FI104,Đầu tư chứng khoán,2.49,FINANCE
-FI009,4,2,FI106,Quản trị rủi ro tài chính,3.21,FINANCE
-FI009,4,3,FI105,Ngân hàng thương mại,2.58,FINANCE
-FI009,4,4,FI103,Tài chính quốc tế,3.68,FINANCE
-FI009,4,5,FI102,Kế toán doanh nghiệp,3.95,FINANCE
-FI009,4,6,FI101,Nguyên lý tài chính,2.97,FINANCE
-FI010,2,1,FI104,Đầu tư chứng khoán,2.89,FINANCE
-FI010,2,2,FI103,Tài chính quốc tế,4.8,FINANCE
-FI010,2,3,FI105,Ngân hàng thương mại,3.57,FINANCE
-FI010,2,4,FI102,Kế toán doanh nghiệp,4.55,FINANCE
-FI010,2,5,FI101,Nguyên lý tài chính,3.13,FINANCE
-FI010,2,6,FI106,Quản trị rủi ro tài chính,3.64,FINANCE
-FI011,3,1,FI105,Ngân hàng thương mại,3.51,FINANCE
-FI011,3,2,FI106,Quản trị rủi ro tài chính,2.67,FINANCE
-FI011,3,3,FI102,Kế toán doanh nghiệp,3.68,FINANCE
-FI011,3,4,FI103,Tài chính quốc tế,4.17,FINANCE
-FI011,3,5,FI101,Nguyên lý tài chính,2.87,FINANCE
-FI011,3,6,FI104,Đầu tư chứng khoán,3.1,FINANCE
-FI012,4,1,FI104,Đầu tư chứng khoán,4.7,FINANCE
-FI012,4,2,FI106,Quản trị rủi ro tài chính,3.64,FINANCE
-FI012,4,3,FI102,Kế toán doanh nghiệp,4.89,FINANCE
-FI012,4,4,FI105,Ngân hàng thương mại,3.94,FINANCE
-FI012,4,5,FI101,Nguyên lý tài chính,4.03,FINANCE
-FI012,4,6,FI103,Tài chính quốc tế,3.57,FINANCE
-FI013,3,1,FI104,Đầu tư chứng khoán,2.82,FINANCE
-FI013,3,2,FI103,Tài chính quốc tế,2.38,FINANCE
-FI013,3,3,FI105,Ngân hàng thương mại,4.33,FINANCE
-FI013,3,4,FI102,Kế toán doanh nghiệp,4.09,FINANCE
-FI013,3,5,FI101,Nguyên lý tài chính,2.68,FINANCE
-FI013,3,6,FI106,Quản trị rủi ro tài chính,3.22,FINANCE
-FI014,1,1,FI106,Quản trị rủi ro tài chính,4.27,FINANCE
-FI014,1,2,FI105,Ngân hàng thương mại,2.42,FINANCE
-FI014,1,3,FI102,Kế toán doanh nghiệp,3.54,FINANCE
-FI014,1,4,FI103,Tài chính quốc tế,4.3,FINANCE
-FI014,1,5,FI104,Đầu tư chứng khoán,3.04,FINANCE
-FI014,1,6,FI101,Nguyên lý tài chính,4.34,FINANCE
-FI015,4,1,FI106,Quản trị rủi ro tài chính,3.22,FINANCE
-FI015,4,2,FI103,Tài chính quốc tế,3.29,FINANCE
-FI015,4,3,FI104,Đầu tư chứng khoán,4.03,FINANCE
-FI015,4,4,FI102,Kế toán doanh nghiệp,2.42,FINANCE
-FI015,4,5,FI101,Nguyên lý tài chính,3.2,FINANCE
-FI015,4,6,FI105,Ngân hàng thương mại,3.44,FINANCE
-FI016,4,1,FI103,Tài chính quốc tế,2.85,FINANCE
-FI016,4,2,FI106,Quản trị rủi ro tài chính,2.65,FINANCE
-FI016,4,3,FI101,Nguyên lý tài chính,2.88,FINANCE
-FI016,4,4,FI102,Kế toán doanh nghiệp,4.39,FINANCE
-FI016,4,5,FI105,Ngân hàng thương mại,2.55,FINANCE
-FI016,4,6,FI104,Đầu tư chứng khoán,3.42,FINANCE
-FI017,3,1,FI104,Đầu tư chứng khoán,3.7,FINANCE
-FI017,3,2,FI102,Kế toán doanh nghiệp,2.5,FINANCE
-FI017,3,3,FI105,Ngân hàng thương mại,3.64,FINANCE
-FI017,3,4,FI103,Tài chính quốc tế,3.07,FINANCE
-FI017,3,5,FI106,Quản trị rủi ro tài chính,4.12,FINANCE
-FI017,3,6,FI101,Nguyên lý tài chính,2.28,FINANCE
-FI018,4,1,FI105,Ngân hàng thương mại,4.05,FINANCE
-FI018,4,2,FI103,Tài chính quốc tế,4.68,FINANCE
-FI018,4,3,FI104,Đầu tư chứng khoán,2.92,FINANCE
-FI018,4,4,FI102,Kế toán doanh nghiệp,3.36,FINANCE
-FI018,4,5,FI106,Quản trị rủi ro tài chính,4.22,FINANCE
-FI018,4,6,FI101,Nguyên lý tài chính,2.11,FINANCE
-FI019,1,1,FI104,Đầu tư chứng khoán,3.79,FINANCE
-FI019,1,2,FI103,Tài chính quốc tế,2.74,FINANCE
-FI019,1,3,FI106,Quản trị rủi ro tài chính,2.78,FINANCE
-FI019,1,4,FI101,Nguyên lý tài chính,3.86,FINANCE
-FI019,1,5,FI102,Kế toán doanh nghiệp,4.34,FINANCE
-FI019,1,6,FI105,Ngân hàng thương mại,4.25,FINANCE
-FI020,2,1,FI103,Tài chính quốc tế,3.83,FINANCE
-FI020,2,2,FI102,Kế toán doanh nghiệp,4.73,FINANCE
-FI020,2,3,FI105,Ngân hàng thương mại,2.59,FINANCE
-FI020,2,4,FI101,Nguyên lý tài chính,2.77,FINANCE
-FI020,2,5,FI104,Đầu tư chứng khoán,2.5,FINANCE
-FI020,2,6,FI106,Quản trị rủi ro tài chính,2.18,FINANCE
-FI021,4,1,FI101,Nguyên lý tài chính,2.81,FINANCE
-FI021,4,2,FI106,Quản trị rủi ro tài chính,2.56,FINANCE
-FI021,4,3,FI105,Ngân hàng thương mại,4.94,FINANCE
-FI021,4,4,FI104,Đầu tư chứng khoán,4.57,FINANCE
-FI021,4,5,FI102,Kế toán doanh nghiệp,4.45,FINANCE
-FI021,4,6,FI103,Tài chính quốc tế,4.45,FINANCE
-FI022,4,1,FI106,Quản trị rủi ro tài chính,2.34,FINANCE
-FI022,4,2,FI103,Tài chính quốc tế,3.56,FINANCE
-FI022,4,3,FI104,Đầu tư chứng khoán,2.91,FINANCE
-FI022,4,4,FI101,Nguyên lý tài chính,2.6,FINANCE
-FI022,4,5,FI102,Kế toán doanh nghiệp,3.55,FINANCE
-FI022,4,6,FI105,Ngân hàng thương mại,4.84,FINANCE
-FI023,2,1,FI104,Đầu tư chứng khoán,3.76,FINANCE
-FI023,2,2,FI106,Quản trị rủi ro tài chính,4.6,FINANCE
-FI023,2,3,FI105,Ngân hàng thương mại,2.76,FINANCE
-FI023,2,4,FI103,Tài chính quốc tế,2.59,FINANCE
-FI023,2,5,FI102,Kế toán doanh nghiệp,2.69,FINANCE
-FI023,2,6,FI101,Nguyên lý tài chính,3.32,FINANCE
-FI024,2,1,FI106,Quản trị rủi ro tài chính,4.93,FINANCE
-FI024,2,2,FI101,Nguyên lý tài chính,2.01,FINANCE
-FI024,2,3,FI105,Ngân hàng thương mại,2.1,FINANCE
-FI024,2,4,FI102,Kế toán doanh nghiệp,2.35,FINANCE
-FI024,2,5,FI103,Tài chính quốc tế,4.72,FINANCE
-FI024,2,6,FI104,Đầu tư chứng khoán,2.88,FINANCE
-FI025,1,1,FI104,Đầu tư chứng khoán,3.43,FINANCE
-FI025,1,2,FI101,Nguyên lý tài chính,3.4,FINANCE
-FI025,1,3,FI103,Tài chính quốc tế,2.38,FINANCE
-FI025,1,4,FI105,Ngân hàng thương mại,4.34,FINANCE
-FI025,1,5,FI106,Quản trị rủi ro tài chính,4.64,FINANCE
-FI025,1,6,FI102,Kế toán doanh nghiệp,4.22,FINANCE
-FI026,2,1,FI106,Quản trị rủi ro tài chính,2.89,FINANCE
-FI026,2,2,FI102,Kế toán doanh nghiệp,4.76,FINANCE
-FI026,2,3,FI104,Đầu tư chứng khoán,2.07,FINANCE
-FI026,2,4,FI101,Nguyên lý tài chính,2.98,FINANCE
-FI026,2,5,FI103,Tài chính quốc tế,2.28,FINANCE
-FI026,2,6,FI105,Ngân hàng thương mại,3.75,FINANCE
-FI027,3,1,FI101,Nguyên lý tài chính,2.61,FINANCE
-FI027,3,2,FI104,Đầu tư chứng khoán,4.11,FINANCE
-FI027,3,3,FI106,Quản trị rủi ro tài chính,4.39,FINANCE
-FI027,3,4,FI105,Ngân hàng thương mại,2.05,FINANCE
-FI027,3,5,FI102,Kế toán doanh nghiệp,4.62,FINANCE
-FI027,3,6,FI103,Tài chính quốc tế,4.76,FINANCE
-FI028,2,1,FI105,Ngân hàng thương mại,2.49,FINANCE
-FI028,2,2,FI103,Tài chính quốc tế,2.34,FINANCE
-FI028,2,3,FI101,Nguyên lý tài chính,2.13,FINANCE
-FI028,2,4,FI106,Quản trị rủi ro tài chính,2.88,FINANCE
-FI028,2,5,FI104,Đầu tư chứng khoán,2.02,FINANCE
-FI028,2,6,FI102,Kế toán doanh nghiệp,4.81,FINANCE
-FI029,1,1,FI106,Quản trị rủi ro tài chính,2.87,FINANCE
-FI029,1,2,FI105,Ngân hàng thương mại,5.0,FINANCE
-FI029,1,3,FI104,Đầu tư chứng khoán,2.23,FINANCE
-FI029,1,4,FI102,Kế toán doanh nghiệp,3.71,FINANCE
-FI029,1,5,FI103,Tài chính quốc tế,2.3,FINANCE
-FI029,1,6,FI101,Nguyên lý tài chính,4.09,FINANCE
-FI030,3,1,FI106,Quản trị rủi ro tài chính,3.94,FINANCE
-FI030,3,2,FI104,Đầu tư chứng khoán,2.04,FINANCE
-FI030,3,3,FI101,Nguyên lý tài chính,4.54,FINANCE
-FI030,3,4,FI102,Kế toán doanh nghiệp,5.0,FINANCE
-FI030,3,5,FI103,Tài chính quốc tế,4.28,FINANCE
-FI030,3,6,FI105,Ngân hàng thương mại,3.37,FINANCE
-FI031,3,1,FI102,Kế toán doanh nghiệp,2.75,FINANCE
-FI031,3,2,FI101,Nguyên lý tài chính,3.7,FINANCE
-FI031,3,3,FI104,Đầu tư chứng khoán,2.98,FINANCE
-FI031,3,4,FI105,Ngân hàng thương mại,4.2,FINANCE
-FI031,3,5,FI103,Tài chính quốc tế,2.67,FINANCE
-FI031,3,6,FI106,Quản trị rủi ro tài chính,2.85,FINANCE
-FI032,1,1,FI102,Kế toán doanh nghiệp,2.85,FINANCE
-FI032,1,2,FI101,Nguyên lý tài chính,4.17,FINANCE
-FI032,1,3,FI104,Đầu tư chứng khoán,2.71,FINANCE
-FI032,1,4,FI106,Quản trị rủi ro tài chính,2.58,FINANCE
-FI032,1,5,FI105,Ngân hàng thương mại,3.43,FINANCE
-FI032,1,6,FI103,Tài chính quốc tế,2.38,FINANCE
-FI033,1,1,FI106,Quản trị rủi ro tài chính,3.54,FINANCE
-FI033,1,2,FI101,Nguyên lý tài chính,2.71,FINANCE
-FI033,1,3,FI102,Kế toán doanh nghiệp,2.05,FINANCE
-FI033,1,4,FI104,Đầu tư chứng khoán,2.35,FINANCE
-FI033,1,5,FI103,Tài chính quốc tế,4.3,FINANCE
-FI033,1,6,FI105,Ngân hàng thương mại,2.24,FINANCE
-FI034,2,1,FI106,Quản trị rủi ro tài chính,3.81,FINANCE
-FI034,2,2,FI103,Tài chính quốc tế,4.18,FINANCE
-FI034,2,3,FI104,Đầu tư chứng khoán,2.29,FINANCE
-FI034,2,4,FI101,Nguyên lý tài chính,3.14,FINANCE
-FI034,2,5,FI102,Kế toán doanh nghiệp,3.51,FINANCE
-FI034,2,6,FI105,Ngân hàng thương mại,3.52,FINANCE
-FI035,1,1,FI101,Nguyên lý tài chính,4.69,FINANCE
-FI035,1,2,FI103,Tài chính quốc tế,4.59,FINANCE
-FI035,1,3,FI105,Ngân hàng thương mại,4.23,FINANCE
-FI035,1,4,FI102,Kế toán doanh nghiệp,2.1,FINANCE
-FI035,1,5,FI104,Đầu tư chứng khoán,4.32,FINANCE
-FI035,1,6,FI106,Quản trị rủi ro tài chính,3.24,FINANCE
-FI036,4,1,FI102,Kế toán doanh nghiệp,2.94,FINANCE
-FI036,4,2,FI106,Quản trị rủi ro tài chính,2.44,FINANCE
-FI036,4,3,FI101,Nguyên lý tài chính,3.11,FINANCE
-FI036,4,4,FI104,Đầu tư chứng khoán,2.16,FINANCE
-FI036,4,5,FI103,Tài chính quốc tế,5.0,FINANCE
-FI036,4,6,FI105,Ngân hàng thương mại,4.92,FINANCE
-FI037,2,1,FI102,Kế toán doanh nghiệp,3.8,FINANCE
-FI037,2,2,FI105,Ngân hàng thương mại,4.46,FINANCE
-FI037,2,3,FI101,Nguyên lý tài chính,3.61,FINANCE
-FI037,2,4,FI103,Tài chính quốc tế,3.19,FINANCE
-FI037,2,5,FI106,Quản trị rủi ro tài chính,2.6,FINANCE
-FI037,2,6,FI104,Đầu tư chứng khoán,2.92,FINANCE
-FI038,3,1,FI101,Nguyên lý tài chính,2.52,FINANCE
-FI038,3,2,FI102,Kế toán doanh nghiệp,3.16,FINANCE
-FI038,3,3,FI104,Đầu tư chứng khoán,4.9,FINANCE
-FI038,3,4,FI106,Quản trị rủi ro tài chính,2.31,FINANCE
-FI038,3,5,FI103,Tài chính quốc tế,4.88,FINANCE
-FI038,3,6,FI105,Ngân hàng thương mại,3.03,FINANCE
-FI039,3,1,FI103,Tài chính quốc tế,2.35,FINANCE
-FI039,3,2,FI105,Ngân hàng thương mại,2.75,FINANCE
-FI039,3,3,FI106,Quản trị rủi ro tài chính,2.23,FINANCE
-FI039,3,4,FI101,Nguyên lý tài chính,3.73,FINANCE
-FI039,3,5,FI102,Kế toán doanh nghiệp,3.14,FINANCE
-FI039,3,6,FI104,Đầu tư chứng khoán,3.51,FINANCE
-FI040,3,1,FI101,Nguyên lý tài chính,4.03,FINANCE
-FI040,3,2,FI106,Quản trị rủi ro tài chính,3.02,FINANCE
-FI040,3,3,FI102,Kế toán doanh nghiệp,4.18,FINANCE
-FI040,3,4,FI104,Đầu tư chứng khoán,4.57,FINANCE
-FI040,3,5,FI103,Tài chính quốc tế,2.07,FINANCE
-FI040,3,6,FI105,Ngân hàng thương mại,3.31,FINANCE
-FI041,1,1,FI101,Nguyên lý tài chính,2.01,FINANCE
-FI041,1,2,FI103,Tài chính quốc tế,4.77,FINANCE
-FI041,1,3,FI102,Kế toán doanh nghiệp,3.95,FINANCE
-FI041,1,4,FI105,Ngân hàng thương mại,4.35,FINANCE
-FI041,1,5,FI104,Đầu tư chứng khoán,3.03,FINANCE
-FI041,1,6,FI106,Quản trị rủi ro tài chính,2.43,FINANCE
-FI042,1,1,FI101,Nguyên lý tài chính,2.08,FINANCE
-FI042,1,2,FI102,Kế toán doanh nghiệp,4.36,FINANCE
-FI042,1,3,FI106,Quản trị rủi ro tài chính,4.59,FINANCE
-FI042,1,4,FI104,Đầu tư chứng khoán,4.82,FINANCE
-FI042,1,5,FI105,Ngân hàng thương mại,3.69,FINANCE
-FI042,1,6,FI103,Tài chính quốc tế,3.92,FINANCE
-FI043,2,1,FI104,Đầu tư chứng khoán,3.98,FINANCE
-FI043,2,2,FI102,Kế toán doanh nghiệp,3.92,FINANCE
-FI043,2,3,FI105,Ngân hàng thương mại,3.65,FINANCE
-FI043,2,4,FI101,Nguyên lý tài chính,4.88,FINANCE
-FI043,2,5,FI103,Tài chính quốc tế,3.34,FINANCE
-FI043,2,6,FI106,Quản trị rủi ro tài chính,3.23,FINANCE
-FI044,1,1,FI103,Tài chính quốc tế,4.79,FINANCE
-FI044,1,2,FI106,Quản trị rủi ro tài chính,4.47,FINANCE
-FI044,1,3,FI105,Ngân hàng thương mại,3.58,FINANCE
-FI044,1,4,FI102,Kế toán doanh nghiệp,3.25,FINANCE
-FI044,1,5,FI101,Nguyên lý tài chính,3.98,FINANCE
-FI044,1,6,FI104,Đầu tư chứng khoán,4.54,FINANCE
-FI045,3,1,FI105,Ngân hàng thương mại,3.56,FINANCE
-FI045,3,2,FI104,Đầu tư chứng khoán,4.03,FINANCE
-FI045,3,3,FI101,Nguyên lý tài chính,4.9,FINANCE
-FI045,3,4,FI102,Kế toán doanh nghiệp,4.07,FINANCE
-FI045,3,5,FI106,Quản trị rủi ro tài chính,3.47,FINANCE
-FI045,3,6,FI103,Tài chính quốc tế,2.35,FINANCE
-FI046,1,1,FI104,Đầu tư chứng khoán,2.56,FINANCE
-FI046,1,2,FI101,Nguyên lý tài chính,3.22,FINANCE
-FI046,1,3,FI106,Quản trị rủi ro tài chính,3.35,FINANCE
-FI046,1,4,FI102,Kế toán doanh nghiệp,2.11,FINANCE
-FI046,1,5,FI105,Ngân hàng thương mại,2.75,FINANCE
-FI046,1,6,FI103,Tài chính quốc tế,2.54,FINANCE
-FI047,4,1,FI103,Tài chính quốc tế,3.55,FINANCE
-FI047,4,2,FI101,Nguyên lý tài chính,3.43,FINANCE
-FI047,4,3,FI104,Đầu tư chứng khoán,2.11,FINANCE
-FI047,4,4,FI102,Kế toán doanh nghiệp,3.63,FINANCE
-FI047,4,5,FI106,Quản trị rủi ro tài chính,4.67,FINANCE
-FI047,4,6,FI105,Ngân hàng thương mại,3.75,FINANCE
-FI048,1,1,FI106,Quản trị rủi ro tài chính,4.38,FINANCE
-FI048,1,2,FI103,Tài chính quốc tế,2.56,FINANCE
-FI048,1,3,FI105,Ngân hàng thương mại,3.4,FINANCE
-FI048,1,4,FI101,Nguyên lý tài chính,3.46,FINANCE
-FI048,1,5,FI104,Đầu tư chứng khoán,3.43,FINANCE
-FI048,1,6,FI102,Kế toán doanh nghiệp,4.9,FINANCE
-FI049,1,1,FI105,Ngân hàng thương mại,3.43,FINANCE
-FI049,1,2,FI103,Tài chính quốc tế,4.96,FINANCE
-FI049,1,3,FI106,Quản trị rủi ro tài chính,2.9,FINANCE
-FI049,1,4,FI104,Đầu tư chứng khoán,4.43,FINANCE
-FI049,1,5,FI101,Nguyên lý tài chính,3.11,FINANCE
-FI049,1,6,FI102,Kế toán doanh nghiệp,2.93,FINANCE
-FI050,3,1,FI106,Quản trị rủi ro tài chính,3.53,FINANCE
-FI050,3,2,FI102,Kế toán doanh nghiệp,3.29,FINANCE
-FI050,3,3,FI104,Đầu tư chứng khoán,4.11,FINANCE
-FI050,3,4,FI105,Ngân hàng thương mại,2.7,FINANCE
-FI050,3,5,FI101,Nguyên lý tài chính,3.36,FINANCE
-FI050,3,6,FI103,Tài chính quốc tế,4.15,FINANCE
+FI001,3,2,FI107,Phân tích báo cáo tài chính,2.55,FINANCE
+FI001,1,2,FI110,Thuế và quản lý thuế trong tài chính,4.53,FINANCE
+FI001,4,2,FI109,Thị trường tài chính và tiền tệ,4.88,FINANCE
+FI001,2,2,FI104,Đầu tư chứng khoán,4.03,FINANCE
+FI001,1,2,FI106,Quản trị rủi ro tài chính,2.9,FINANCE
+FI001,4,2,FI111,Tài chính công,3.5,FINANCE
+FI001,3,2,FI108,Quản trị tài chính doanh nghiệp,4.9,FINANCE
+FI001,2,2,FI102,Kế toán doanh nghiệp,4.35,FINANCE
+FI001,1,2,FI103,Tài chính quốc tế,2.62,FINANCE
+FI002,4,1,FI110,Thuế và quản lý thuế trong tài chính,3.56,FINANCE
+FI002,3,1,FI109,Thị trường tài chính và tiền tệ,2.89,FINANCE
+FI002,1,1,FI111,Tài chính công,2.8,FINANCE
+FI002,2,1,FI105,Ngân hàng thương mại,2.05,FINANCE
+FI002,4,1,FI115,Tài chính hành vi (Behavioral Finance),4.59,FINANCE
+FI002,3,1,FI108,Quản trị tài chính doanh nghiệp,3.98,FINANCE
+FI002,1,1,FI106,Quản trị rủi ro tài chính,2.46,FINANCE
+FI002,2,1,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,2.35,FINANCE
+FI002,4,1,FI103,Tài chính quốc tế,2.3,FINANCE
+FI002,3,1,FI102,Kế toán doanh nghiệp,2.14,FINANCE
+FI003,1,2,FI113,Quản lý danh mục đầu tư,3.99,FINANCE
+FI003,4,2,FI116,Tài chính bất động sản,3.25,FINANCE
+FI003,3,2,FI105,Ngân hàng thương mại,2.73,FINANCE
+FI003,2,2,FI111,Tài chính công,2.63,FINANCE
+FI003,1,2,FI112,Tài chính định lượng,3.15,FINANCE
+FI003,4,2,FI110,Thuế và quản lý thuế trong tài chính,3.74,FINANCE
+FI003,3,2,FI106,Quản trị rủi ro tài chính,2.4,FINANCE
+FI003,2,2,FI103,Tài chính quốc tế,2.52,FINANCE
+FI004,1,3,FI111,Tài chính công,3.96,FINANCE
+FI004,4,3,FI112,Tài chính định lượng,3.87,FINANCE
+FI004,3,3,FI103,Tài chính quốc tế,4.97,FINANCE
+FI004,2,3,FI104,Đầu tư chứng khoán,2.08,FINANCE
+FI004,1,3,FI110,Thuế và quản lý thuế trong tài chính,3.59,FINANCE
+FI004,4,3,FI102,Kế toán doanh nghiệp,4.39,FINANCE
+FI004,3,3,FI116,Tài chính bất động sản,4.64,FINANCE
+FI004,2,3,FI115,Tài chính hành vi (Behavioral Finance),4.72,FINANCE
+FI004,1,3,FI113,Quản lý danh mục đầu tư,4.14,FINANCE
+FI005,4,3,FI103,Tài chính quốc tế,3.12,FINANCE
+FI005,3,3,FI107,Phân tích báo cáo tài chính,3.9,FINANCE
+FI005,2,3,FI108,Quản trị tài chính doanh nghiệp,3.46,FINANCE
+FI005,1,3,FI113,Quản lý danh mục đầu tư,4.18,FINANCE
+FI005,4,3,FI101,Nguyên lý tài chính,2.19,FINANCE
+FI005,3,3,FI104,Đầu tư chứng khoán,2.49,FINANCE
+FI005,2,3,FI102,Kế toán doanh nghiệp,4.11,FINANCE
+FI005,1,3,FI111,Tài chính công,2.93,FINANCE
+FI005,4,3,FI109,Thị trường tài chính và tiền tệ,2.47,FINANCE
+FI006,3,2,FI109,Thị trường tài chính và tiền tệ,3.35,FINANCE
+FI006,2,2,FI113,Quản lý danh mục đầu tư,3.41,FINANCE
+FI006,1,2,FI101,Nguyên lý tài chính,4.42,FINANCE
+FI006,4,2,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,4.43,FINANCE
+FI006,3,2,FI105,Ngân hàng thương mại,4.97,FINANCE
+FI006,2,2,FI116,Tài chính bất động sản,4.99,FINANCE
+FI006,1,2,FI107,Phân tích báo cáo tài chính,2.58,FINANCE
+FI006,4,2,FI112,Tài chính định lượng,4.0,FINANCE
+FI007,3,2,FI107,Phân tích báo cáo tài chính,3.89,FINANCE
+FI007,2,2,FI112,Tài chính định lượng,4.36,FINANCE
+FI007,1,2,FI111,Tài chính công,3.5,FINANCE
+FI007,4,2,FI106,Quản trị rủi ro tài chính,4.83,FINANCE
+FI007,3,2,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,4.6,FINANCE
+FI007,2,2,FI104,Đầu tư chứng khoán,2.37,FINANCE
+FI008,1,3,FI105,Ngân hàng thương mại,2.23,FINANCE
+FI008,4,3,FI103,Tài chính quốc tế,4.25,FINANCE
+FI008,3,3,FI111,Tài chính công,2.95,FINANCE
+FI008,2,3,FI113,Quản lý danh mục đầu tư,4.59,FINANCE
+FI008,1,3,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,4.4,FINANCE
+FI008,4,3,FI108,Quản trị tài chính doanh nghiệp,4.17,FINANCE
+FI008,3,3,FI107,Phân tích báo cáo tài chính,4.32,FINANCE
+FI008,2,3,FI104,Đầu tư chứng khoán,3.33,FINANCE
+FI009,1,1,FI116,Tài chính bất động sản,3.71,FINANCE
+FI009,4,1,FI107,Phân tích báo cáo tài chính,3.18,FINANCE
+FI009,3,1,FI104,Đầu tư chứng khoán,4.77,FINANCE
+FI009,2,1,FI101,Nguyên lý tài chính,3.77,FINANCE
+FI009,1,1,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,2.12,FINANCE
+FI009,4,1,FI113,Quản lý danh mục đầu tư,4.2,FINANCE
+FI009,3,1,FI108,Quản trị tài chính doanh nghiệp,3.96,FINANCE
+FI009,2,1,FI109,Thị trường tài chính và tiền tệ,2.11,FINANCE
+FI010,1,3,FI107,Phân tích báo cáo tài chính,4.66,FINANCE
+FI010,4,3,FI102,Kế toán doanh nghiệp,4.03,FINANCE
+FI010,3,3,FI110,Thuế và quản lý thuế trong tài chính,4.74,FINANCE
+FI010,2,3,FI116,Tài chính bất động sản,4.57,FINANCE
+FI010,1,3,FI113,Quản lý danh mục đầu tư,2.17,FINANCE
+FI010,4,3,FI103,Tài chính quốc tế,4.05,FINANCE
+FI010,3,3,FI104,Đầu tư chứng khoán,2.32,FINANCE
+FI010,2,3,FI105,Ngân hàng thương mại,3.59,FINANCE
+FI011,1,1,FI102,Kế toán doanh nghiệp,4.26,FINANCE
+FI011,4,1,FI106,Quản trị rủi ro tài chính,2.55,FINANCE
+FI011,3,1,FI116,Tài chính bất động sản,3.05,FINANCE
+FI011,2,1,FI112,Tài chính định lượng,4.53,FINANCE
+FI011,1,1,FI107,Phân tích báo cáo tài chính,2.96,FINANCE
+FI011,4,1,FI101,Nguyên lý tài chính,3.43,FINANCE
+FI011,3,1,FI113,Quản lý danh mục đầu tư,2.94,FINANCE
+FI011,2,1,FI104,Đầu tư chứng khoán,3.69,FINANCE
+FI012,1,2,FI115,Tài chính hành vi (Behavioral Finance),3.14,FINANCE
+FI012,4,2,FI110,Thuế và quản lý thuế trong tài chính,2.24,FINANCE
+FI012,3,2,FI107,Phân tích báo cáo tài chính,3.55,FINANCE
+FI012,2,2,FI108,Quản trị tài chính doanh nghiệp,3.51,FINANCE
+FI012,1,2,FI105,Ngân hàng thương mại,4.63,FINANCE
+FI012,4,2,FI111,Tài chính công,4.02,FINANCE
+FI012,3,2,FI112,Tài chính định lượng,3.32,FINANCE
+FI013,2,1,FI112,Tài chính định lượng,4.34,FINANCE
+FI013,1,1,FI113,Quản lý danh mục đầu tư,4.94,FINANCE
+FI013,4,1,FI101,Nguyên lý tài chính,4.66,FINANCE
+FI013,3,1,FI110,Thuế và quản lý thuế trong tài chính,2.87,FINANCE
+FI013,2,1,FI104,Đầu tư chứng khoán,4.56,FINANCE
+FI013,1,1,FI115,Tài chính hành vi (Behavioral Finance),4.83,FINANCE
+FI013,4,1,FI111,Tài chính công,3.46,FINANCE
+FI013,3,1,FI106,Quản trị rủi ro tài chính,3.72,FINANCE
+FI014,2,1,FI116,Tài chính bất động sản,3.49,FINANCE
+FI014,1,1,FI106,Quản trị rủi ro tài chính,2.25,FINANCE
+FI014,4,1,FI111,Tài chính công,4.07,FINANCE
+FI014,3,1,FI109,Thị trường tài chính và tiền tệ,4.3,FINANCE
+FI014,2,1,FI107,Phân tích báo cáo tài chính,4.05,FINANCE
+FI014,1,1,FI110,Thuế và quản lý thuế trong tài chính,3.04,FINANCE
+FI014,4,1,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,2.75,FINANCE
+FI014,3,1,FI105,Ngân hàng thương mại,3.41,FINANCE
+FI014,2,1,FI113,Quản lý danh mục đầu tư,4.0,FINANCE
+FI015,1,2,FI108,Quản trị tài chính doanh nghiệp,4.13,FINANCE
+FI015,4,2,FI102,Kế toán doanh nghiệp,4.94,FINANCE
+FI015,3,2,FI113,Quản lý danh mục đầu tư,2.78,FINANCE
+FI015,2,2,FI115,Tài chính hành vi (Behavioral Finance),3.42,FINANCE
+FI015,1,2,FI111,Tài chính công,3.82,FINANCE
+FI015,4,2,FI101,Nguyên lý tài chính,4.6,FINANCE
+FI015,3,2,FI116,Tài chính bất động sản,4.4,FINANCE
+FI015,2,2,FI105,Ngân hàng thương mại,3.41,FINANCE
+FI015,1,2,FI109,Thị trường tài chính và tiền tệ,2.53,FINANCE
+FI015,4,2,FI104,Đầu tư chứng khoán,3.7,FINANCE
+FI016,3,3,FI110,Thuế và quản lý thuế trong tài chính,3.15,FINANCE
+FI016,2,3,FI105,Ngân hàng thương mại,2.85,FINANCE
+FI016,1,3,FI104,Đầu tư chứng khoán,3.27,FINANCE
+FI016,4,3,FI109,Thị trường tài chính và tiền tệ,4.99,FINANCE
+FI016,3,3,FI113,Quản lý danh mục đầu tư,2.47,FINANCE
+FI016,2,3,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,4.9,FINANCE
+FI017,1,2,FI105,Ngân hàng thương mại,4.27,FINANCE
+FI017,4,2,FI109,Thị trường tài chính và tiền tệ,2.63,FINANCE
+FI017,3,2,FI115,Tài chính hành vi (Behavioral Finance),2.5,FINANCE
+FI017,2,2,FI102,Kế toán doanh nghiệp,4.58,FINANCE
+FI017,1,2,FI116,Tài chính bất động sản,4.2,FINANCE
+FI017,4,2,FI112,Tài chính định lượng,3.98,FINANCE
+FI017,3,2,FI113,Quản lý danh mục đầu tư,4.46,FINANCE
+FI018,2,2,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,2.92,FINANCE
+FI018,1,2,FI111,Tài chính công,2.94,FINANCE
+FI018,4,2,FI103,Tài chính quốc tế,2.8,FINANCE
+FI018,3,2,FI116,Tài chính bất động sản,4.28,FINANCE
+FI018,2,2,FI110,Thuế và quản lý thuế trong tài chính,3.75,FINANCE
+FI018,1,2,FI113,Quản lý danh mục đầu tư,2.91,FINANCE
+FI018,4,2,FI107,Phân tích báo cáo tài chính,4.75,FINANCE
+FI018,3,2,FI112,Tài chính định lượng,2.87,FINANCE
+FI018,2,2,FI108,Quản trị tài chính doanh nghiệp,4.9,FINANCE
+FI018,1,2,FI102,Kế toán doanh nghiệp,2.99,FINANCE
+FI019,4,2,FI102,Kế toán doanh nghiệp,2.31,FINANCE
+FI019,3,2,FI112,Tài chính định lượng,2.97,FINANCE
+FI019,2,2,FI110,Thuế và quản lý thuế trong tài chính,3.34,FINANCE
+FI019,1,2,FI105,Ngân hàng thương mại,2.48,FINANCE
+FI019,4,2,FI113,Quản lý danh mục đầu tư,2.36,FINANCE
+FI019,3,2,FI109,Thị trường tài chính và tiền tệ,4.66,FINANCE
+FI020,2,3,FI103,Tài chính quốc tế,3.67,FINANCE
+FI020,1,3,FI102,Kế toán doanh nghiệp,2.05,FINANCE
+FI020,4,3,FI112,Tài chính định lượng,3.37,FINANCE
+FI020,3,3,FI104,Đầu tư chứng khoán,2.26,FINANCE
+FI020,2,3,FI110,Thuế và quản lý thuế trong tài chính,3.54,FINANCE
+FI020,1,3,FI106,Quản trị rủi ro tài chính,3.82,FINANCE
+FI021,4,2,FI107,Phân tích báo cáo tài chính,3.01,FINANCE
+FI021,3,2,FI111,Tài chính công,4.39,FINANCE
+FI021,2,2,FI102,Kế toán doanh nghiệp,2.18,FINANCE
+FI021,1,2,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,2.86,FINANCE
+FI021,4,2,FI109,Thị trường tài chính và tiền tệ,3.94,FINANCE
+FI021,3,2,FI104,Đầu tư chứng khoán,4.1,FINANCE
+FI021,2,2,FI108,Quản trị tài chính doanh nghiệp,3.39,FINANCE
+FI022,1,1,FI111,Tài chính công,4.45,FINANCE
+FI022,4,1,FI105,Ngân hàng thương mại,3.54,FINANCE
+FI022,3,1,FI106,Quản trị rủi ro tài chính,4.5,FINANCE
+FI022,2,1,FI107,Phân tích báo cáo tài chính,3.63,FINANCE
+FI022,1,1,FI104,Đầu tư chứng khoán,3.96,FINANCE
+FI022,4,1,FI102,Kế toán doanh nghiệp,4.6,FINANCE
+FI022,3,1,FI110,Thuế và quản lý thuế trong tài chính,4.8,FINANCE
+FI023,2,3,FI108,Quản trị tài chính doanh nghiệp,3.48,FINANCE
+FI023,1,3,FI113,Quản lý danh mục đầu tư,4.19,FINANCE
+FI023,4,3,FI101,Nguyên lý tài chính,4.0,FINANCE
+FI023,3,3,FI105,Ngân hàng thương mại,4.7,FINANCE
+FI023,2,3,FI104,Dầu tư chứng khoán,2.99,FINANCE
+FI023,1,3,FI107,Pân tích báo cáo tài chính  ,4.25 ,FINANCE
+FI024,4,1,FI104,Đầu tư chứng khoán,3.39,FINANCE
+FI024,3,1,FI102,Kế toán doanh nghiệp,3.96,FINANCE
+FI024,2,1,FI110,Thuế và quản lý thuế trong tài chính,4.25,FINANCE
+FI024,1,1,FI111,Tài chính công,4.5,FINANCE
+FI024,4,1,FI108,Quản trị tài chính doanh nghiệp,3.34,FINANCE
+FI024,3,1,FI107,Phân tích báo cáo tài chính,3.48,FINANCE
+FI025,2,2,FI105,Ngân hàng thương mại,4.19,FINANCE
+FI025,1,2,FI113,Quản lý danh mục đầu tư,4.6,FINANCE
+FI025,4,2,FI101,Nguyên lý tài chính,3.63,FINANCE
+FI025,3,2,FI104,Dầu tư chứng khoán ,3.39 ,FINANCE
+FI025,2,2,FI107,Pân tích báo cáo tài chính  ,4.18 ,FINANCE
+FI026,1,1,FI105,Ngân hàng thương mại,2.19,FINANCE
+FI026,4,1,FI109,Thị trường tài chính và tiền tệ,3.25,FINANCE
+FI026,3,1,FI106,Quản trị rủi ro tài chính,4.39,FINANCE
+FI026,2,1,FI107,Phân tích báo cáo tài chính,4.6,FINANCE
+FI026,1,1,FI104,Đầu tư chứng khoán,3.96,FINANCE
+FI026,4,1,FI102,Kế toán doanh nghiệp,3.34,FINANCE
+FI027,3,3,FI110,Thuế và quản lý thuế trong tài chính,4.0,FINANCE
+FI027,2,3,FI113,Quản lý danh mục đầu tư,4.45,FINANCE
+FI027,1,3,FI101,Nguyên lý tài chính,4.24,FINANCE
+FI027,4,3,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,4.99,FINANCE
+FI027,3,3,FI105,Ngân hàng thương mại,4.12,FINANCE
+FI028,2,1,FI112,Tài chính định lượng,3.39,FINANCE
+FI028,1,1,FI113,Quản lý danh mục đầu tư,4.54,FINANCE
+FI028,4,1,FI101,Nguyên lý tài chính,3.97,FINANCE
+FI028,3,1,FI110,Thuế và quản lý thuế trong tài chính,4.0,FINANCE
+FI028,2,1,FI104,Đầu tư chứng khoán,3.26,FINANCE
+FI029,1,3,FI107,Phân tích báo cáo tài chính,4.5,FINANCE
+FI029,4,3,FI102,Kế toán doanh nghiệp,4.29,FINANCE
+FI029,3,3,FI110,Thuế và quản lý thuế trong tài chính,2.95,FINANCE
+FI029,2,3,FI116,Tài chính bất động sản,4.15,FINANCE
+FI030,1,2,FI108,Quản trị tài chính doanh nghiệp,4.19,FINANCE
+FI030,4,2,FI102,Kế toán doanh nghiệp,4.94,FINANCE
+FI030,3,2,FI113,Quản lý danh mục đầu tư,2.78,FINANCE
+FI030,2,2,FI115,Tài chính hành vi (Behavioral Finance),3.42,FINANCE
+FI030,1,2,FI111,Tài chính công,3.82,FINANCE
+FI030,4,2,FI101,Nguyên lý tài chính,4.6,FINANCE
+FI030,3,2,FI116,Tài chính bất động sản,4.4,FINANCE
+FI030,2,2,FI105,Ngân hàng thương mại,3.41,FINANCE
+FI030,1,2,FI109,Thị trường tài chính và tiền tệ,2.53,FINANCE
+FI030,4,2,FI104,Đầu tư chứng khoán ,3.7 ,FINANCE
+FI031,3,3,FI110,Thuế và quản lý thuế trong tài chính,3.15,FINANCE
+FI031,2,3,FI105,Ngân hàng thương mại,2.85,FINANCE
+FI031,1,3,FI104,Đầu tư chứng khoán,3.27,FINANCE
+FI031,4,3,FI109,Thị trường tài chính và tiền tệ,4.99,FINANCE
+FI031,3,3,FI113,Quản lý danh mục đầu tư,2.47,FINANCE
+FI031,2,3,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,4.9,FINANCE
+FI032,1,1,FI105,Ngân hàng thương mại,2.19,FINANCE
+FI032,4,1,FI109,Thị trường tài chính và tiền tệ,3.25,FINANCE
+FI032,3,1,FI106,Quản trị rủi ro tài chính,4.39,FINANCE
+FI032,2,1,FI107,Phân tích báo cáo tài chính,4.6,FINANCE
+FI032,1,1,FI104,Đầu tư chứng khoán,3.96,FINANCE
+FI032,4,1,FI102,Kế toán doanh nghiệp,3.34,FINANCE
+FI033,3,3,FI110,Thuế và quản lý thuế trong tài chính,4.0,FINANCE
+FI033,2,3,FI113,Quản lý danh mục đầu tư,4.45,FINANCE
+FI033,1,3,FI101,Nguyên lý tài chính,4.24,FINANCE
+FI033,4,3,FI114,Nuyên lý bảo hiểm và tài chính bảo hiểm,4.99,FINANCE
+FI033,3,3,FI105,Ngan hàng thương mại,4.12,FINANCE
+FI034,2,1,FI112,Tài chính định lượng,3.39,FINANCE
+FI034,1,1,FI113,Quản lý danh mục đầu tư,4.54,FINANCE
+FI034,4,1,FI101,Nguyên lý tài chính,3.97,FINANCE
+FI034,3,1,FI110,Thuế và quản lý thuế trong tài chính,4.0,FINANCE
+FI034,2,1,FI104,Đầu tư chứng khoán,3.26,FINANCE
+FI035,1,3,FI107,Phân tích báo cáo tài chính,4.5,FINANCE
+FI035,4,3,FI102,Kế toán doanh nghiệp,4.29,FINANCE
+FI035,3,3,FI110,Thuế và quản lý thuế trong tài chính,2.95,FINANCE
+FI035,2,3,FI116,Tài chính bất động sản,4.15,FINANCE
+FI036,1,2,FI108,Quản trị tài chính doanh nghiệp,4.19,FINANCE
+FI036,4,2,FI102,Kế toán doanh nghiệp,4.94,FINANCE
+FI036,3,2,FI113,Quản lý danh mục đầu tư,2.78,FINANCE
+FI036,2,2,FI115,Tài chính hành vi (Behavioral Finance),3.42,FINANCE
+FI036,1,2,FI111,Tài chính công,3.82,FINANCE
+FI036,4,2,FI101,Nguyên lý tài chính,4.6,FINANCE
+FI036,3,2,FI116,Tài chính bất động sản,4.4,FINANCE
+FI036,2,2,FI105,Ngân hàng thương mại,3.41,FINANCE
+FI036,1,2,FI109,Thị trường tài chính và tiền tệ,2.53,FINANCE
+FI036,4,2,FI104,Đầu tư chứng khoán,3.7,FINANCE
+FI037,3,3,FI110,Thuế và quản lý thuế trong tài chính,3.15,FINANCE
+FI037,2,3,FI105,Ngân hàng thương mại,2.85,FINANCE
+FI037,1,3,FI104,Đầu tư chứng khoán,3.27,FINANCE
+FI037,4,3,FI109,Thị trường tài chính và tiền tệ,4.99,FINANCE
+FI037,3,3,FI113,Quản lý danh mục đầu tư,2.47,FINANCE
+FI037,2,3,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,4.9,FINANCE
+FI038,1,1,FI105,Ngân hàng thương mại,2.19,FINANCE
+FI038,4,1,FI109,Thị trường tài chính và tiền tệ,3.25,FINANCE
+FI038,3,1,FI106,Quản trị rủi ro tài chính,4.39,FINANCE
+FI038,2,1,FI107,Phân tích báo cáo tài chính,4.6,FINANCE
+FI038,1,1,FI104,Đầu tư chứng khoán,3.96,FINANCE
+FI038,4,1,FI102,Kế toán doanh nghiệp,3.34,FINANCE
+FI039,3,3,FI110,Thuế và quản lý thuế trong tài chính,4.0,FINANCE
+FI039,2,3,FI113,Quản lý danh mục đầu tư,4.45,FINANCE
+FI039,1,3,FI101,Nguyên lý tài chính,4.24,FINANCE
+FI039,4,3,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,4.99,FINANCE
+FI039,3,3,FI105,Ngân hàng thương mại,4.12,FINANCE
+FI040,2,1,FI112,Tài chính định lượng,3.39,FINANCE
+FI040,1,1,FI113,Quản lý danh mục đầu tư,4.54,FINANCE
+FI040,4,1,FI101,Nguyên lý tài chính,3.97,FINANCE
+FI040,3,1,FI110,Thuế và quản lý thuế trong tài chính,4.0,FINANCE
+FI040,2,1,FI104,Đầu tư chứng khoán,3.26,FINANCE
+FI041,1,3,FI107,Phân tích báo cáo tài chính,4.5,FINANCE
+FI041,4,3,FI102,Kế toán doanh nghiệp,4.29,FINANCE
+FI041,3,3,FI110,Thuế và quản lý thuế trong tài chính,2.95,FINANCE
+FI041,2,3,FI116,Tài chính bất động sản,4.15,FINANCE
+FI042,1,2,FI108,Quản trị tài chính doanh nghiệp,4.19,FINANCE
+FI042,4,2,FI102,Kế toán doanh nghiệp,4.94,FINANCE
+FI042,3,2,FI113,Quản lý danh mục đầu tư,2.78,FINANCE
+FI042,2,2,FI115,Tài chính hành vi (Behavioral Finance),3.42,FINANCE
+FI042,1,2,FI111,Tài chính công,3.82,FINANCE
+FI042,4,2,FI101,Nguyên lý tài chính,4.6,FINANCE
+FI042,3,2,FI116,Tài chính bất động sản,4.4,FINANCE
+FI042,2,2,FI105,Ngân hàng thương mại,3.41,FINANCE
+FI042,1,2,FI109,Thị trường tài chính và tiền tệ,2.53,FINANCE
+FI042,4,2,FI104,Đầu tư chứng khoán,3.7,FINANCE
+FI043,3,3,FI110,Thuế và quản lý thuế trong tài chính,3.15,FINANCE
+FI043,2,3,FI105,Ngân hàng thương mại,2.85,FINANCE
+FI043,1,3,FI104,Đầu tư chứng khoán,3.27,FINANCE
+FI043,4,3,FI109,Thị trường tài chính và tiền tệ,4.99,FINANCE
+FI043,3,3,FI113,Quản lý danh mục đầu tư,2.47,FINANCE
+FI043,2,3,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,4.9,FINANCE
+FI044,1,1,FI105,Ngân hàng thương mại,2.19,FINANCE
+FI044,4,1,FI109,Thị trường tài chính và tiền tệ,3.25,FINANCE
+FI044,3,1,FI106,Quản trị rủi ro tài chính,4.39,FINANCE
+FI044,2,1,FI107,Phân tích báo cáo tài chính,4.6,FINANCE
+FI044,1,1,FI104,Đầu tư chứng khoán,3.96,FINANCE
+FI044,4,1,FI102,Kế toán doanh nghiệp,3.34,FINANCE
+FI045,3,3,FI110,Thuế và quản lý thuế trong tài chính,4.0,FINANCE
+FI045,2,3,FI113,Quản lý danh mục đầu tư,4.45,FINANCE
+FI045,1,3,FI101,Nguyên lý tài chính,4.24,FINANCE
+FI045,4,3,FI114,Nuyên lý bảo hiểm và tài chính bảo hiểm,4.99,FINANCE
+FI045,3,3,FI105,Ngan hàng thương mại,4.12,FINANCE
+FI046,2,1,FI112,Tài chính định lượng,3.39,FINANCE
+FI046,1,1,FI113,Quản lý danh mục đầu tư,4.54,FINANCE
+FI046,4,1,FI101,Nguyên lý tài chính,3.97,FINANCE
+FI046,3,1,FI110,Thuế và quản lý thuế trong tài chính,4.0,FINANCE
+FI046,2,1,FI104,Đầu tư chứng khoán,3.26,FINANCE
+FI047,1,3,FI107,Phân tích báo cáo tài chính,4.5,FINANCE
+FI047,4,3,FI102,Kế toán doanh nghiệp,4.29,FINANCE
+FI047,3,3,FI110,Thuế và quản lý thuế trong tài chính,2.95,FINANCE
+FI047,2,3,FI116,Tài chính bất động sản,4.15,FINANCE
+FI048,1,2,FI108,Quản trị tài chính doanh nghiệp,4.19,FINANCE
+FI048,4,2,FI102,Kế toán doanh nghiệp,4.94,FINANCE
+FI048,3,2,FI113,Quản lý danh mục đầu tư,2.78,FINANCE
+FI048,2,2,FI115,Tài chính hành vi (Behavioral Finance),3.42,FINANCE
+FI048,1,2,FI111,Tài chính công,3.82,FINANCE
+FI048,4,2,FI101,Nguyên lý tài chính,4.6,FINANCE
+FI048,3,2,FI116,Tài chính bất động sản,4.4,FINANCE
+FI048,2,2,FI105,Ngân hàng thương mại,3.41,FINANCE
+FI048,1,2,FI109,Thị trường tài chính và tiền tệ,2.53,FINANCE
+FI048,4,2,FI104,Đầu tư chứng khoán,3.7,FINANCE
+FI049,3,3,FI110,Thuế và quản lý thuế trong tài chính,3.15,FINANCE
+FI049,2,3,FI105,Ngân hàng thương mại,2.85,FINANCE
+FI049,1,3,FI104,Đầu tư chứng khoán,3.27,FINANCE
+FI049,4,3,FI109,Thị trường tài chính và tiền tệ,4.99,FINANCE
+FI049,3,3,FI113,Quản lý danh mục đầu tư,2.47,FINANCE
+FI049,2,3,FI114,Nguyên lý bảo hiểm và tài chính bảo hiểm,4.9,FINANCE
+FI050,1,1,FI105,Ngân hàng thương mại,2.19,FINANCE
+FI050,4,1,FI109,Thị trường tài chính và tiền tệ,3.25,FINANCE
+FI050,3,1,FI106,Quản trị rủi ro tài chính,4.39,FINANCE
+FI050,2,1,FI107,Phân tích báo cáo tài chính,4.6,FINANCE
+FI050,1,1,FI104,Đầu tư chứng khoán,3.96,FINANCE
+FI050,4,1,FI102,Kế toán doanh nghiệp,3.34,FINANCE
 
 // ----------------- BUSINESS ADMINISTRATION -----------------//
-BA001,3,1,BA101,Quản trị học,3.15,BA
-BA001,3,2,BA106,Quản trị marketing,2.61,BA
-BA001,3,3,BA103,Chiến lược kinh doanh,4.65,BA
-BA001,3,4,BA105,Quản trị nhân lực,2.06,BA
-BA001,3,5,BA104,Khởi nghiệp,3.09,BA
-BA001,3,6,BA102,Hành vi tổ chức,2.94,BA
-BA002,4,1,BA103,Chiến lược kinh doanh,2.34,BA
-BA002,4,2,BA102,Hành vi tổ chức,2.54,BA
-BA002,4,3,BA105,Quản trị nhân lực,2.67,BA
-BA002,4,4,BA101,Quản trị học,3.34,BA
-BA002,4,5,BA106,Quản trị marketing,2.58,BA
-BA002,4,6,BA104,Khởi nghiệp,4.71,BA
-BA003,4,1,BA103,Chiến lược kinh doanh,2.33,BA
-BA003,4,2,BA105,Quản trị nhân lực,4.88,BA
-BA003,4,3,BA106,Quản trị marketing,4.3,BA
-BA003,4,4,BA102,Hành vi tổ chức,3.42,BA
-BA003,4,5,BA104,Khởi nghiệp,4.29,BA
-BA003,4,6,BA101,Quản trị học,2.8,BA
-BA004,3,1,BA101,Quản trị học,3.3,BA
-BA004,3,2,BA105,Quản trị nhân lực,2.4,BA
-BA004,3,3,BA106,Quản trị marketing,2.46,BA
-BA004,3,4,BA104,Khởi nghiệp,4.87,BA
-BA004,3,5,BA102,Hành vi tổ chức,2.82,BA
-BA004,3,6,BA103,Chiến lược kinh doanh,4.06,BA
-BA005,1,1,BA105,Quản trị nhân lực,4.2,BA
-BA005,1,2,BA106,Quản trị marketing,2.19,BA
-BA005,1,3,BA102,Hành vi tổ chức,4.79,BA
-BA005,1,4,BA101,Quản trị học,2.17,BA
-BA005,1,5,BA103,Chiến lược kinh doanh,2.48,BA
-BA005,1,6,BA104,Khởi nghiệp,3.33,BA
-BA006,2,1,BA104,Khởi nghiệp,2.67,BA
-BA006,2,2,BA103,Chiến lược kinh doanh,2.81,BA
-BA006,2,3,BA105,Quản trị nhân lực,3.86,BA
-BA006,2,4,BA106,Quản trị marketing,4.43,BA
-BA006,2,5,BA101,Quản trị học,2.59,BA
-BA006,2,6,BA102,Hành vi tổ chức,3.33,BA
-BA007,4,1,BA103,Chiến lược kinh doanh,4.42,BA
-BA007,4,2,BA101,Quản trị học,4.21,BA
-BA007,4,3,BA105,Quản trị nhân lực,2.87,BA
-BA007,4,4,BA106,Quản trị marketing,3.18,BA
-BA007,4,5,BA102,Hành vi tổ chức,3.14,BA
-BA007,4,6,BA104,Khởi nghiệp,3.0,BA
-BA008,1,1,BA104,Khởi nghiệp,2.62,BA
-BA008,1,2,BA102,Hành vi tổ chức,2.01,BA
-BA008,1,3,BA105,Quản trị nhân lực,3.17,BA
-BA008,1,4,BA101,Quản trị học,2.26,BA
-BA008,1,5,BA103,Chiến lược kinh doanh,2.52,BA
-BA008,1,6,BA106,Quản trị marketing,2.61,BA
-BA009,2,1,BA101,Quản trị học,4.94,BA
-BA009,2,2,BA102,Hành vi tổ chức,3.74,BA
-BA009,2,3,BA103,Chiến lược kinh doanh,3.22,BA
-BA009,2,4,BA104,Khởi nghiệp,2.78,BA
-BA009,2,5,BA105,Quản trị nhân lực,3.84,BA
-BA009,2,6,BA106,Quản trị marketing,2.65,BA
-BA010,4,1,BA103,Chiến lược kinh doanh,2.34,BA
-BA010,4,2,BA101,Quản trị học,3.43,BA
-BA010,4,3,BA104,Khởi nghiệp,4.02,BA
-BA010,4,4,BA106,Quản trị marketing,4.93,BA
-BA010,4,5,BA105,Quản trị nhân lực,3.0,BA
-BA010,4,6,BA102,Hành vi tổ chức,2.54,BA
-BA011,4,1,BA103,Chiến lược kinh doanh,3.7,BA
-BA011,4,2,BA102,Hành vi tổ chức,4.23,BA
-BA011,4,3,BA101,Quản trị học,4.66,BA
-BA011,4,4,BA105,Quản trị nhân lực,4.63,BA
-BA011,4,5,BA104,Khởi nghiệp,3.57,BA
-BA011,4,6,BA106,Quản trị marketing,3.6,BA
-BA012,1,1,BA101,Quản trị học,3.52,BA
-BA012,1,2,BA105,Quản trị nhân lực,4.92,BA
-BA012,1,3,BA104,Khởi nghiệp,2.7,BA
-BA012,1,4,BA103,Chiến lược kinh doanh,2.74,BA
-BA012,1,5,BA102,Hành vi tổ chức,3.85,BA
-BA012,1,6,BA106,Quản trị marketing,4.17,BA
-BA013,1,1,BA101,Quản trị học,4.82,BA
-BA013,1,2,BA103,Chiến lược kinh doanh,2.84,BA
-BA013,1,3,BA106,Quản trị marketing,2.35,BA
-BA013,1,4,BA102,Hành vi tổ chức,3.71,BA
-BA013,1,5,BA105,Quản trị nhân lực,3.38,BA
-BA013,1,6,BA104,Khởi nghiệp,3.83,BA
-BA014,3,1,BA104,Khởi nghiệp,3.38,BA
-BA014,3,2,BA106,Quản trị marketing,3.17,BA
-BA014,3,3,BA102,Hành vi tổ chức,3.9,BA
-BA014,3,4,BA103,Chiến lược kinh doanh,2.77,BA
-BA014,3,5,BA101,Quản trị học,2.19,BA
-BA014,3,6,BA105,Quản trị nhân lực,3.37,BA
-BA015,1,1,BA102,Hành vi tổ chức,3.84,BA
-BA015,1,2,BA105,Quản trị nhân lực,3.42,BA
-BA015,1,3,BA103,Chiến lược kinh doanh,4.05,BA
-BA015,1,4,BA101,Quản trị học,3.24,BA
-BA015,1,5,BA106,Quản trị marketing,4.59,BA
-BA015,1,6,BA104,Khởi nghiệp,2.9,BA
-BA016,2,1,BA103,Chiến lược kinh doanh,4.56,BA
-BA016,2,2,BA106,Quản trị marketing,3.97,BA
-BA016,2,3,BA105,Quản trị nhân lực,4.61,BA
-BA016,2,4,BA102,Hành vi tổ chức,3.93,BA
-BA016,2,5,BA101,Quản trị học,3.35,BA
-BA016,2,6,BA104,Khởi nghiệp,2.05,BA
-BA017,4,1,BA103,Chiến lược kinh doanh,2.86,BA
-BA017,4,2,BA104,Khởi nghiệp,4.32,BA
-BA017,4,3,BA106,Quản trị marketing,4.34,BA
-BA017,4,4,BA102,Hành vi tổ chức,2.62,BA
-BA017,4,5,BA101,Quản trị học,3.22,BA
-BA017,4,6,BA105,Quản trị nhân lực,3.66,BA
-BA018,1,1,BA103,Chiến lược kinh doanh,4.33,BA
-BA018,1,2,BA101,Quản trị học,2.02,BA
-BA018,1,3,BA102,Hành vi tổ chức,2.69,BA
-BA018,1,4,BA106,Quản trị marketing,3.27,BA
-BA018,1,5,BA105,Quản trị nhân lực,3.61,BA
-BA018,1,6,BA104,Khởi nghiệp,2.38,BA
-BA019,1,1,BA104,Khởi nghiệp,4.22,BA
-BA019,1,2,BA103,Chiến lược kinh doanh,4.4,BA
-BA019,1,3,BA106,Quản trị marketing,4.51,BA
-BA019,1,4,BA102,Hành vi tổ chức,3.06,BA
-BA019,1,5,BA105,Quản trị nhân lực,4.43,BA
-BA019,1,6,BA101,Quản trị học,4.38,BA
-BA020,3,1,BA104,Khởi nghiệp,3.42,BA
-BA020,3,2,BA102,Hành vi tổ chức,3.53,BA
-BA020,3,3,BA106,Quản trị marketing,3.12,BA
-BA020,3,4,BA105,Quản trị nhân lực,4.3,BA
-BA020,3,5,BA101,Quản trị học,3.0,BA
-BA020,3,6,BA103,Chiến lược kinh doanh,4.98,BA
-BA021,4,1,BA105,Quản trị nhân lực,3.32,BA
-BA021,4,2,BA103,Chiến lược kinh doanh,4.75,BA
-BA021,4,3,BA104,Khởi nghiệp,4.22,BA
-BA021,4,4,BA101,Quản trị học,3.38,BA
-BA021,4,5,BA102,Hành vi tổ chức,4.09,BA
-BA021,4,6,BA106,Quản trị marketing,3.25,BA
-BA022,2,1,BA101,Quản trị học,2.06,BA
-BA022,2,2,BA105,Quản trị nhân lực,2.2,BA
-BA022,2,3,BA106,Quản trị marketing,4.37,BA
-BA022,2,4,BA102,Hành vi tổ chức,2.24,BA
-BA022,2,5,BA104,Khởi nghiệp,2.93,BA
-BA022,2,6,BA103,Chiến lược kinh doanh,3.02,BA
-BA023,1,1,BA105,Quản trị nhân lực,2.35,BA
-BA023,1,2,BA104,Khởi nghiệp,3.48,BA
-BA023,1,3,BA101,Quản trị học,2.1,BA
-BA023,1,4,BA102,Hành vi tổ chức,2.17,BA
-BA023,1,5,BA103,Chiến lược kinh doanh,2.31,BA
-BA023,1,6,BA106,Quản trị marketing,2.55,BA
-BA024,2,1,BA105,Quản trị nhân lực,3.36,BA
-BA024,2,2,BA103,Chiến lược kinh doanh,2.11,BA
-BA024,2,3,BA104,Khởi nghiệp,2.08,BA
-BA024,2,4,BA106,Quản trị marketing,3.29,BA
-BA024,2,5,BA102,Hành vi tổ chức,4.53,BA
-BA024,2,6,BA101,Quản trị học,3.35,BA
-BA025,4,1,BA104,Khởi nghiệp,2.37,BA
-BA025,4,2,BA101,Quản trị học,2.25,BA
-BA025,4,3,BA103,Chiến lược kinh doanh,3.68,BA
-BA025,4,4,BA106,Quản trị marketing,3.85,BA
-BA025,4,5,BA105,Quản trị nhân lực,3.88,BA
-BA025,4,6,BA102,Hành vi tổ chức,3.43,BA
-BA026,1,1,BA103,Chiến lược kinh doanh,2.84,BA
-BA026,1,2,BA102,Hành vi tổ chức,4.17,BA
-BA026,1,3,BA105,Quản trị nhân lực,3.98,BA
-BA026,1,4,BA104,Khởi nghiệp,2.7,BA
-BA026,1,5,BA106,Quản trị marketing,2.85,BA
-BA026,1,6,BA101,Quản trị học,3.89,BA
-BA027,1,1,BA102,Hành vi tổ chức,2.12,BA
-BA027,1,2,BA103,Chiến lược kinh doanh,3.65,BA
-BA027,1,3,BA101,Quản trị học,3.88,BA
-BA027,1,4,BA105,Quản trị nhân lực,2.53,BA
-BA027,1,5,BA106,Quản trị marketing,4.42,BA
-BA027,1,6,BA104,Khởi nghiệp,4.4,BA
-BA028,2,1,BA106,Quản trị marketing,4.49,BA
-BA028,2,2,BA102,Hành vi tổ chức,2.46,BA
-BA028,2,3,BA101,Quản trị học,4.57,BA
-BA028,2,4,BA103,Chiến lược kinh doanh,3.21,BA
-BA028,2,5,BA104,Khởi nghiệp,3.49,BA
-BA028,2,6,BA105,Quản trị nhân lực,3.5,BA
-BA029,4,1,BA104,Khởi nghiệp,3.56,BA
-BA029,4,2,BA105,Quản trị nhân lực,4.91,BA
-BA029,4,3,BA102,Hành vi tổ chức,4.25,BA
-BA029,4,4,BA106,Quản trị marketing,2.56,BA
-BA029,4,5,BA103,Chiến lược kinh doanh,4.21,BA
-BA029,4,6,BA101,Quản trị học,2.56,BA
-BA030,3,1,BA105,Quản trị nhân lực,3.91,BA
-BA030,3,2,BA103,Chiến lược kinh doanh,4.4,BA
-BA030,3,3,BA101,Quản trị học,2.55,BA
-BA030,3,4,BA104,Khởi nghiệp,4.84,BA
-BA030,3,5,BA106,Quản trị marketing,2.37,BA
-BA030,3,6,BA102,Hành vi tổ chức,4.63,BA
-BA031,3,1,BA101,Quản trị học,2.03,BA
-BA031,3,2,BA105,Quản trị nhân lực,4.5,BA
-BA031,3,3,BA104,Khởi nghiệp,2.0,BA
-BA031,3,4,BA103,Chiến lược kinh doanh,2.62,BA
-BA031,3,5,BA106,Quản trị marketing,2.67,BA
-BA031,3,6,BA102,Hành vi tổ chức,2.04,BA
-BA032,1,1,BA104,Khởi nghiệp,4.0,BA
-BA032,1,2,BA106,Quản trị marketing,3.34,BA
-BA032,1,3,BA105,Quản trị nhân lực,2.99,BA
-BA032,1,4,BA102,Hành vi tổ chức,4.62,BA
-BA032,1,5,BA101,Quản trị học,4.72,BA
-BA032,1,6,BA103,Chiến lược kinh doanh,4.74,BA
-BA033,3,1,BA104,Khởi nghiệp,3.49,BA
-BA033,3,2,BA103,Chiến lược kinh doanh,3.57,BA
-BA033,3,3,BA106,Quản trị marketing,4.35,BA
-BA033,3,4,BA101,Quản trị học,3.28,BA
-BA033,3,5,BA105,Quản trị nhân lực,2.14,BA
-BA033,3,6,BA102,Hành vi tổ chức,3.92,BA
-BA034,3,1,BA105,Quản trị nhân lực,3.21,BA
-BA034,3,2,BA103,Chiến lược kinh doanh,2.75,BA
-BA034,3,3,BA106,Quản trị marketing,4.9,BA
-BA034,3,4,BA104,Khởi nghiệp,3.17,BA
-BA034,3,5,BA101,Quản trị học,3.2,BA
-BA034,3,6,BA102,Hành vi tổ chức,3.18,BA
-BA035,2,1,BA104,Khởi nghiệp,3.41,BA
-BA035,2,2,BA105,Quản trị nhân lực,2.82,BA
-BA035,2,3,BA103,Chiến lược kinh doanh,2.79,BA
-BA035,2,4,BA102,Hành vi tổ chức,2.0,BA
-BA035,2,5,BA101,Quản trị học,4.14,BA
-BA035,2,6,BA106,Quản trị marketing,3.77,BA
-BA036,4,1,BA103,Chiến lược kinh doanh,2.73,BA
-BA036,4,2,BA104,Khởi nghiệp,4.24,BA
-BA036,4,3,BA102,Hành vi tổ chức,2.43,BA
-BA036,4,4,BA101,Quản trị học,3.55,BA
-BA036,4,5,BA106,Quản trị marketing,4.87,BA
-BA036,4,6,BA105,Quản trị nhân lực,4.58,BA
-BA037,4,1,BA105,Quản trị nhân lực,3.79,BA
-BA037,4,2,BA102,Hành vi tổ chức,4.74,BA
-BA037,4,3,BA101,Quản trị học,4.95,BA
-BA037,4,4,BA106,Quản trị marketing,4.63,BA
-BA037,4,5,BA104,Khởi nghiệp,2.79,BA
-BA037,4,6,BA103,Chiến lược kinh doanh,5.0,BA
-BA038,1,1,BA104,Khởi nghiệp,2.61,BA
-BA038,1,2,BA103,Chiến lược kinh doanh,4.54,BA
-BA038,1,3,BA106,Quản trị marketing,4.76,BA
-BA038,1,4,BA102,Hành vi tổ chức,3.31,BA
-BA038,1,5,BA101,Quản trị học,4.58,BA
-BA038,1,6,BA105,Quản trị nhân lực,4.53,BA
-BA039,2,1,BA104,Khởi nghiệp,3.93,BA
-BA039,2,2,BA101,Quản trị học,2.46,BA
-BA039,2,3,BA105,Quản trị nhân lực,2.1,BA
-BA039,2,4,BA102,Hành vi tổ chức,4.09,BA
-BA039,2,5,BA106,Quản trị marketing,2.75,BA
-BA039,2,6,BA103,Chiến lược kinh doanh,4.54,BA
-BA040,4,1,BA102,Hành vi tổ chức,3.93,BA
-BA040,4,2,BA105,Quản trị nhân lực,3.06,BA
-BA040,4,3,BA101,Quản trị học,3.81,BA
-BA040,4,4,BA103,Chiến lược kinh doanh,3.27,BA
-BA040,4,5,BA104,Khởi nghiệp,3.56,BA
-BA040,4,6,BA106,Quản trị marketing,2.76,BA
-BA041,4,1,BA103,Chiến lược kinh doanh,2.0,BA
-BA041,4,2,BA102,Hành vi tổ chức,3.89,BA
-BA041,4,3,BA101,Quản trị học,4.93,BA
-BA041,4,4,BA106,Quản trị marketing,4.07,BA
-BA041,4,5,BA105,Quản trị nhân lực,3.91,BA
-BA041,4,6,BA104,Khởi nghiệp,4.5,BA
-BA042,2,1,BA106,Quản trị marketing,3.49,BA
-BA042,2,2,BA102,Hành vi tổ chức,3.03,BA
-BA042,2,3,BA103,Chiến lược kinh doanh,3.65,BA
-BA042,2,4,BA105,Quản trị nhân lực,3.13,BA
-BA042,2,5,BA101,Quản trị học,4.25,BA
-BA042,2,6,BA104,Khởi nghiệp,4.17,BA
-BA043,4,1,BA101,Quản trị học,4.03,BA
-BA043,4,2,BA104,Khởi nghiệp,2.51,BA
-BA043,4,3,BA103,Chiến lược kinh doanh,3.9,BA
-BA043,4,4,BA105,Quản trị nhân lực,4.61,BA
-BA043,4,5,BA106,Quản trị marketing,3.93,BA
-BA043,4,6,BA102,Hành vi tổ chức,4.45,BA
-BA044,2,1,BA105,Quản trị nhân lực,3.33,BA
-BA044,2,2,BA106,Quản trị marketing,4.0,BA
-BA044,2,3,BA103,Chiến lược kinh doanh,3.41,BA
-BA044,2,4,BA102,Hành vi tổ chức,4.54,BA
-BA044,2,5,BA101,Quản trị học,3.57,BA
-BA044,2,6,BA104,Khởi nghiệp,3.1,BA
-BA045,3,1,BA101,Quản trị học,4.18,BA
-BA045,3,2,BA102,Hành vi tổ chức,4.45,BA
-BA045,3,3,BA106,Quản trị marketing,4.49,BA
-BA045,3,4,BA103,Chiến lược kinh doanh,3.26,BA
-BA045,3,5,BA104,Khởi nghiệp,3.0,BA
-BA045,3,6,BA105,Quản trị nhân lực,4.73,BA
-BA046,2,1,BA103,Chiến lược kinh doanh,4.65,BA
-BA046,2,2,BA101,Quản trị học,4.65,BA
-BA046,2,3,BA106,Quản trị marketing,3.67,BA
-BA046,2,4,BA104,Khởi nghiệp,3.41,BA
-BA046,2,5,BA102,Hành vi tổ chức,4.24,BA
-BA046,2,6,BA105,Quản trị nhân lực,4.6,BA
-BA047,3,1,BA105,Quản trị nhân lực,2.05,BA
-BA047,3,2,BA101,Quản trị học,4.29,BA
-BA047,3,3,BA106,Quản trị marketing,3.11,BA
-BA047,3,4,BA104,Khởi nghiệp,3.58,BA
-BA047,3,5,BA103,Chiến lược kinh doanh,4.41,BA
-BA047,3,6,BA102,Hành vi tổ chức,2.72,BA
-BA048,3,1,BA102,Hành vi tổ chức,3.37,BA
-BA048,3,2,BA101,Quản trị học,3.82,BA
-BA048,3,3,BA105,Quản trị nhân lực,3.91,BA
-BA048,3,4,BA106,Quản trị marketing,3.13,BA
-BA048,3,5,BA103,Chiến lược kinh doanh,2.5,BA
-BA048,3,6,BA104,Khởi nghiệp,2.81,BA
-BA049,1,1,BA103,Chiến lược kinh doanh,4.82,BA
-BA049,1,2,BA105,Quản trị nhân lực,3.16,BA
-BA049,1,3,BA101,Quản trị học,4.19,BA
-BA049,1,4,BA102,Hành vi tổ chức,3.86,BA
-BA049,1,5,BA106,Quản trị marketing,4.36,BA
-BA049,1,6,BA104,Khởi nghiệp,4.95,BA
-BA050,2,1,BA106,Quản trị marketing,3.7,BA
-BA050,2,2,BA103,Chiến lược kinh doanh,2.08,BA
-BA050,2,3,BA104,Khởi nghiệp,3.98,BA
-BA050,2,4,BA105,Quản trị nhân lực,4.18,BA
-BA050,2,5,BA101,Quản trị học,2.28,BA
-BA050,2,6,BA102,Hành vi tổ chức,4.59,BA
-MD001,1,1,MD104,Dược lý,2.54,MD
-MD001,1,2,MD103,Y học cơ sở,4.81,MD
-MD001,1,3,MD105,Ký sinh trùng học,3.04,MD
-MD001,1,4,MD102,Sinh lý học,3.49,MD
-MD001,1,5,MD106,Miễn dịch học,2.11,MD
-MD001,1,6,MD101,Giải phẫu học,2.58,MD
-MD002,4,1,MD104,Dược lý,3.89,MD
-MD002,4,2,MD103,Y học cơ sở,4.14,MD
-MD002,4,3,MD101,Giải phẫu học,3.53,MD
-MD002,4,4,MD106,Miễn dịch học,3.18,MD
-MD002,4,5,MD102,Sinh lý học,3.4,MD
-MD002,4,6,MD105,Ký sinh trùng học,4.69,MD
-MD003,2,1,MD101,Giải phẫu học,2.27,MD
-MD003,2,2,MD106,Miễn dịch học,2.92,MD
-MD003,2,3,MD103,Y học cơ sở,3.74,MD
-MD003,2,4,MD104,Dược lý,2.03,MD
-MD003,2,5,MD102,Sinh lý học,4.63,MD
-MD003,2,6,MD105,Ký sinh trùng học,2.38,MD
-MD004,2,1,MD104,Dược lý,4.97,MD
-MD004,2,2,MD102,Sinh lý học,4.45,MD
-MD004,2,3,MD103,Y học cơ sở,4.66,MD
-MD004,2,4,MD105,Ký sinh trùng học,3.28,MD
-MD004,2,5,MD106,Miễn dịch học,4.48,MD
-MD004,2,6,MD101,Giải phẫu học,2.11,MD
-MD005,4,1,MD106,Miễn dịch học,2.69,MD
-MD005,4,2,MD104,Dược lý,4.17,MD
-MD005,4,3,MD103,Y học cơ sở,2.2,MD
-MD005,4,4,MD105,Ký sinh trùng học,2.53,MD
-MD005,4,5,MD101,Giải phẫu học,2.7,MD
-MD005,4,6,MD102,Sinh lý học,4.09,MD
-MD006,1,1,MD102,Sinh lý học,2.68,MD
-MD006,1,2,MD103,Y học cơ sở,2.49,MD
-MD006,1,3,MD106,Miễn dịch học,4.54,MD
-MD006,1,4,MD105,Ký sinh trùng học,2.33,MD
-MD006,1,5,MD104,Dược lý,2.97,MD
-MD006,1,6,MD101,Giải phẫu học,2.05,MD
-MD007,2,1,MD104,Dược lý,3.92,MD
-MD007,2,2,MD105,Ký sinh trùng học,4.11,MD
-MD007,2,3,MD101,Giải phẫu học,3.91,MD
-MD007,2,4,MD102,Sinh lý học,3.12,MD
-MD007,2,5,MD106,Miễn dịch học,4.66,MD
-MD007,2,6,MD103,Y học cơ sở,3.07,MD
-MD008,3,1,MD102,Sinh lý học,3.71,MD
-MD008,3,2,MD104,Dược lý,3.48,MD
-MD008,3,3,MD106,Miễn dịch học,2.5,MD
-MD008,3,4,MD103,Y học cơ sở,2.85,MD
-MD008,3,5,MD101,Giải phẫu học,4.74,MD
-MD008,3,6,MD105,Ký sinh trùng học,3.73,MD
-MD009,2,1,MD102,Sinh lý học,4.08,MD
-MD009,2,2,MD101,Giải phẫu học,2.2,MD
-MD009,2,3,MD105,Ký sinh trùng học,4.94,MD
-MD009,2,4,MD103,Y học cơ sở,3.33,MD
-MD009,2,5,MD104,Dược lý,3.92,MD
-MD009,2,6,MD106,Miễn dịch học,2.7,MD
-MD010,4,1,MD101,Giải phẫu học,2.8,MD
-MD010,4,2,MD103,Y học cơ sở,3.31,MD
-MD010,4,3,MD104,Dược lý,3.45,MD
-MD010,4,4,MD106,Miễn dịch học,3.99,MD
-MD010,4,5,MD102,Sinh lý học,3.89,MD
-MD010,4,6,MD105,Ký sinh trùng học,3.1,MD
-MD011,2,1,MD106,Miễn dịch học,4.47,MD
-MD011,2,2,MD104,Dược lý,2.58,MD
-MD011,2,3,MD102,Sinh lý học,4.7,MD
-MD011,2,4,MD105,Ký sinh trùng học,2.76,MD
-MD011,2,5,MD103,Y học cơ sở,2.66,MD
-MD011,2,6,MD101,Giải phẫu học,4.45,MD
-MD012,2,1,MD102,Sinh lý học,4.06,MD
-MD012,2,2,MD101,Giải phẫu học,4.77,MD
-MD012,2,3,MD103,Y học cơ sở,4.56,MD
-MD012,2,4,MD105,Ký sinh trùng học,4.85,MD
-MD012,2,5,MD106,Miễn dịch học,4.08,MD
-MD012,2,6,MD104,Dược lý,3.1,MD
-MD013,3,1,MD106,Miễn dịch học,4.2,MD
-MD013,3,2,MD103,Y học cơ sở,2.45,MD
-MD013,3,3,MD101,Giải phẫu học,4.64,MD
-MD013,3,4,MD102,Sinh lý học,3.57,MD
-MD013,3,5,MD104,Dược lý,2.11,MD
-MD013,3,6,MD105,Ký sinh trùng học,3.93,MD
-MD014,1,1,MD106,Miễn dịch học,3.19,MD
-MD014,1,2,MD103,Y học cơ sở,2.4,MD
-MD014,1,3,MD101,Giải phẫu học,3.17,MD
-MD014,1,4,MD102,Sinh lý học,2.03,MD
-MD014,1,5,MD105,Ký sinh trùng học,2.59,MD
-MD014,1,6,MD104,Dược lý,4.91,MD
-MD015,1,1,MD104,Dược lý,4.31,MD
-MD015,1,2,MD101,Giải phẫu học,4.65,MD
-MD015,1,3,MD102,Sinh lý học,2.73,MD
-MD015,1,4,MD106,Miễn dịch học,3.19,MD
-MD015,1,5,MD103,Y học cơ sở,4.42,MD
-MD015,1,6,MD105,Ký sinh trùng học,4.1,MD
-MD016,1,1,MD101,Giải phẫu học,2.86,MD
-MD016,1,2,MD106,Miễn dịch học,4.55,MD
-MD016,1,3,MD102,Sinh lý học,4.89,MD
-MD016,1,4,MD105,Ký sinh trùng học,3.57,MD
-MD016,1,5,MD104,Dược lý,3.84,MD
-MD016,1,6,MD103,Y học cơ sở,4.74,MD
-MD017,2,1,MD102,Sinh lý học,4.8,MD
-MD017,2,2,MD105,Ký sinh trùng học,2.41,MD
-MD017,2,3,MD101,Giải phẫu học,2.03,MD
-MD017,2,4,MD104,Dược lý,5.0,MD
-MD017,2,5,MD106,Miễn dịch học,2.47,MD
-MD017,2,6,MD103,Y học cơ sở,3.56,MD
-MD018,4,1,MD101,Giải phẫu học,3.7,MD
-MD018,4,2,MD106,Miễn dịch học,2.99,MD
-MD018,4,3,MD104,Dược lý,3.62,MD
-MD018,4,4,MD102,Sinh lý học,4.58,MD
-MD018,4,5,MD103,Y học cơ sở,2.47,MD
-MD018,4,6,MD105,Ký sinh trùng học,4.61,MD
-MD019,3,1,MD106,Miễn dịch học,4.94,MD
-MD019,3,2,MD105,Ký sinh trùng học,2.28,MD
-MD019,3,3,MD104,Dược lý,3.35,MD
-MD019,3,4,MD103,Y học cơ sở,2.54,MD
-MD019,3,5,MD101,Giải phẫu học,4.71,MD
-MD019,3,6,MD102,Sinh lý học,2.73,MD
-MD020,2,1,MD104,Dược lý,2.51,MD
-MD020,2,2,MD105,Ký sinh trùng học,4.95,MD
-MD020,2,3,MD102,Sinh lý học,2.44,MD
-MD020,2,4,MD101,Giải phẫu học,3.02,MD
-MD020,2,5,MD103,Y học cơ sở,4.26,MD
-MD020,2,6,MD106,Miễn dịch học,4.42,MD
-MD021,2,1,MD103,Y học cơ sở,3.04,MD
-MD021,2,2,MD104,Dược lý,4.66,MD
-MD021,2,3,MD105,Ký sinh trùng học,4.4,MD
-MD021,2,4,MD101,Giải phẫu học,2.45,MD
-MD021,2,5,MD106,Miễn dịch học,3.91,MD
-MD021,2,6,MD102,Sinh lý học,3.33,MD
-MD022,3,1,MD101,Giải phẫu học,4.69,MD
-MD022,3,2,MD105,Ký sinh trùng học,2.98,MD
-MD022,3,3,MD106,Miễn dịch học,3.48,MD
-MD022,3,4,MD103,Y học cơ sở,2.71,MD
-MD022,3,5,MD102,Sinh lý học,4.63,MD
-MD022,3,6,MD104,Dược lý,2.17,MD
-MD023,1,1,MD102,Sinh lý học,3.29,MD
-MD023,1,2,MD101,Giải phẫu học,4.27,MD
-MD023,1,3,MD106,Miễn dịch học,2.58,MD
-MD023,1,4,MD104,Dược lý,2.07,MD
-MD023,1,5,MD103,Y học cơ sở,4.23,MD
-MD023,1,6,MD105,Ký sinh trùng học,3.26,MD
-MD024,3,1,MD101,Giải phẫu học,2.25,MD
-MD024,3,2,MD103,Y học cơ sở,4.06,MD
-MD024,3,3,MD105,Ký sinh trùng học,3.9,MD
-MD024,3,4,MD104,Dược lý,2.69,MD
-MD024,3,5,MD106,Miễn dịch học,4.56,MD
-MD024,3,6,MD102,Sinh lý học,4.35,MD
-MD025,3,1,MD105,Ký sinh trùng học,2.92,MD
-MD025,3,2,MD101,Giải phẫu học,3.85,MD
-MD025,3,3,MD104,Dược lý,2.33,MD
-MD025,3,4,MD106,Miễn dịch học,3.39,MD
-MD025,3,5,MD102,Sinh lý học,4.12,MD
-MD025,3,6,MD103,Y học cơ sở,2.96,MD
-MD026,1,1,MD101,Giải phẫu học,4.68,MD
-MD026,1,2,MD105,Ký sinh trùng học,2.74,MD
-MD026,1,3,MD102,Sinh lý học,4.16,MD
-MD026,1,4,MD104,Dược lý,3.39,MD
-MD026,1,5,MD106,Miễn dịch học,4.16,MD
-MD026,1,6,MD103,Y học cơ sở,3.96,MD
-MD027,1,1,MD102,Sinh lý học,2.4,MD
-MD027,1,2,MD103,Y học cơ sở,2.89,MD
-MD027,1,3,MD104,Dược lý,4.18,MD
-MD027,1,4,MD106,Miễn dịch học,3.29,MD
-MD027,1,5,MD105,Ký sinh trùng học,2.68,MD
-MD027,1,6,MD101,Giải phẫu học,2.52,MD
-MD028,4,1,MD102,Sinh lý học,3.21,MD
-MD028,4,2,MD105,Ký sinh trùng học,3.94,MD
-MD028,4,3,MD104,Dược lý,3.01,MD
-MD028,4,4,MD103,Y học cơ sở,4.06,MD
-MD028,4,5,MD106,Miễn dịch học,3.2,MD
-MD028,4,6,MD101,Giải phẫu học,4.3,MD
-MD029,3,1,MD106,Miễn dịch học,4.95,MD
-MD029,3,2,MD101,Giải phẫu học,3.16,MD
-MD029,3,3,MD105,Ký sinh trùng học,3.56,MD
-MD029,3,4,MD104,Dược lý,3.78,MD
-MD029,3,5,MD103,Y học cơ sở,2.6,MD
-MD029,3,6,MD102,Sinh lý học,3.99,MD
-MD030,2,1,MD101,Giải phẫu học,2.06,MD
-MD030,2,2,MD105,Ký sinh trùng học,3.65,MD
-MD030,2,3,MD104,Dược lý,4.92,MD
-MD030,2,4,MD103,Y học cơ sở,2.37,MD
-MD030,2,5,MD106,Miễn dịch học,2.33,MD
-MD030,2,6,MD102,Sinh lý học,3.7,MD
-MD031,1,1,MD105,Ký sinh trùng học,3.88,MD
-MD031,1,2,MD103,Y học cơ sở,3.2,MD
-MD031,1,3,MD104,Dược lý,4.05,MD
-MD031,1,4,MD102,Sinh lý học,3.76,MD
-MD031,1,5,MD101,Giải phẫu học,2.4,MD
-MD031,1,6,MD106,Miễn dịch học,2.45,MD
-MD032,1,1,MD101,Giải phẫu học,3.49,MD
-MD032,1,2,MD102,Sinh lý học,3.57,MD
-MD032,1,3,MD105,Ký sinh trùng học,4.98,MD
-MD032,1,4,MD104,Dược lý,3.53,MD
-MD032,1,5,MD106,Miễn dịch học,3.57,MD
-MD032,1,6,MD103,Y học cơ sở,3.38,MD
-MD033,3,1,MD105,Ký sinh trùng học,2.52,MD
-MD033,3,2,MD101,Giải phẫu học,3.15,MD
-MD033,3,3,MD102,Sinh lý học,3.27,MD
-MD033,3,4,MD106,Miễn dịch học,3.8,MD
-MD033,3,5,MD104,Dược lý,3.05,MD
-MD033,3,6,MD103,Y học cơ sở,4.47,MD
-MD034,4,1,MD105,Ký sinh trùng học,2.55,MD
-MD034,4,2,MD102,Sinh lý học,2.14,MD
-MD034,4,3,MD101,Giải phẫu học,4.72,MD
-MD034,4,4,MD104,Dược lý,3.82,MD
-MD034,4,5,MD106,Miễn dịch học,2.02,MD
-MD034,4,6,MD103,Y học cơ sở,4.15,MD
-MD035,4,1,MD101,Giải phẫu học,4.41,MD
-MD035,4,2,MD106,Miễn dịch học,4.06,MD
-MD035,4,3,MD103,Y học cơ sở,2.46,MD
-MD035,4,4,MD105,Ký sinh trùng học,4.61,MD
-MD035,4,5,MD102,Sinh lý học,4.06,MD
-MD035,4,6,MD104,Dược lý,4.42,MD
-MD036,1,1,MD106,Miễn dịch học,2.64,MD
-MD036,1,2,MD103,Y học cơ sở,3.72,MD
-MD036,1,3,MD102,Sinh lý học,3.68,MD
-MD036,1,4,MD101,Giải phẫu học,4.9,MD
-MD036,1,5,MD104,Dược lý,4.3,MD
-MD036,1,6,MD105,Ký sinh trùng học,2.26,MD
-MD037,1,1,MD102,Sinh lý học,4.44,MD
-MD037,1,2,MD103,Y học cơ sở,3.03,MD
-MD037,1,3,MD106,Miễn dịch học,3.97,MD
-MD037,1,4,MD104,Dược lý,3.94,MD
-MD037,1,5,MD101,Giải phẫu học,4.92,MD
-MD037,1,6,MD105,Ký sinh trùng học,4.52,MD
-MD038,1,1,MD103,Y học cơ sở,2.52,MD
-MD038,1,2,MD105,Ký sinh trùng học,2.41,MD
-MD038,1,3,MD102,Sinh lý học,3.42,MD
-MD038,1,4,MD101,Giải phẫu học,4.74,MD
-MD038,1,5,MD106,Miễn dịch học,3.82,MD
-MD038,1,6,MD104,Dược lý,4.66,MD
-MD039,3,1,MD104,Dược lý,2.05,MD
-MD039,3,2,MD102,Sinh lý học,2.21,MD
-MD039,3,3,MD106,Miễn dịch học,2.51,MD
-MD039,3,4,MD101,Giải phẫu học,4.39,MD
-MD039,3,5,MD103,Y học cơ sở,3.9,MD
-MD039,3,6,MD105,Ký sinh trùng học,3.02,MD
-MD040,1,1,MD105,Ký sinh trùng học,4.82,MD
-MD040,1,2,MD104,Dược lý,4.12,MD
-MD040,1,3,MD101,Giải phẫu học,2.67,MD
-MD040,1,4,MD102,Sinh lý học,2.66,MD
-MD040,1,5,MD106,Miễn dịch học,3.08,MD
-MD040,1,6,MD103,Y học cơ sở,2.24,MD
-MD041,1,1,MD101,Giải phẫu học,2.43,MD
-MD041,1,2,MD104,Dược lý,3.24,MD
-MD041,1,3,MD103,Y học cơ sở,2.58,MD
-MD041,1,4,MD102,Sinh lý học,4.07,MD
-MD041,1,5,MD106,Miễn dịch học,4.97,MD
-MD041,1,6,MD105,Ký sinh trùng học,4.82,MD
-MD042,2,1,MD106,Miễn dịch học,2.36,MD
-MD042,2,2,MD105,Ký sinh trùng học,4.99,MD
-MD042,2,3,MD102,Sinh lý học,4.62,MD
-MD042,2,4,MD104,Dược lý,3.25,MD
-MD042,2,5,MD101,Giải phẫu học,2.07,MD
-MD042,2,6,MD103,Y học cơ sở,2.06,MD
-MD043,2,1,MD103,Y học cơ sở,4.73,MD
-MD043,2,2,MD105,Ký sinh trùng học,2.83,MD
-MD043,2,3,MD101,Giải phẫu học,3.11,MD
-MD043,2,4,MD104,Dược lý,2.13,MD
-MD043,2,5,MD102,Sinh lý học,4.7,MD
-MD043,2,6,MD106,Miễn dịch học,3.44,MD
-MD044,2,1,MD105,Ký sinh trùng học,2.63,MD
-MD044,2,2,MD101,Giải phẫu học,3.36,MD
-MD044,2,3,MD106,Miễn dịch học,4.7,MD
-MD044,2,4,MD104,Dược lý,3.36,MD
-MD044,2,5,MD103,Y học cơ sở,2.87,MD
-MD044,2,6,MD102,Sinh lý học,4.29,MD
-MD045,3,1,MD102,Sinh lý học,2.55,MD
-MD045,3,2,MD101,Giải phẫu học,4.71,MD
-MD045,3,3,MD106,Miễn dịch học,2.48,MD
-MD045,3,4,MD105,Ký sinh trùng học,2.11,MD
-MD045,3,5,MD103,Y học cơ sở,2.23,MD
-MD045,3,6,MD104,Dược lý,2.39,MD
-MD046,4,1,MD103,Y học cơ sở,3.98,MD
-MD046,4,2,MD106,Miễn dịch học,3.35,MD
-MD046,4,3,MD101,Giải phẫu học,3.74,MD
-MD046,4,4,MD102,Sinh lý học,4.42,MD
-MD046,4,5,MD104,Dược lý,2.7,MD
-MD046,4,6,MD105,Ký sinh trùng học,2.91,MD
-MD047,3,1,MD105,Ký sinh trùng học,2.27,MD
-MD047,3,2,MD101,Giải phẫu học,2.7,MD
-MD047,3,3,MD103,Y học cơ sở,3.89,MD
-MD047,3,4,MD104,Dược lý,4.84,MD
-MD047,3,5,MD106,Miễn dịch học,2.79,MD
-MD047,3,6,MD102,Sinh lý học,4.02,MD
-MD048,1,1,MD105,Ký sinh trùng học,4.23,MD
-MD048,1,2,MD102,Sinh lý học,4.68,MD
-MD048,1,3,MD103,Y học cơ sở,3.38,MD
-MD048,1,4,MD104,Dược lý,4.08,MD
-MD048,1,5,MD106,Miễn dịch học,3.68,MD
-MD048,1,6,MD101,Giải phẫu học,3.18,MD
-MD049,4,1,MD101,Giải phẫu học,3.55,MD
-MD049,4,2,MD106,Miễn dịch học,4.7,MD
-MD049,4,3,MD104,Dược lý,4.58,MD
-MD049,4,4,MD103,Y học cơ sở,3.85,MD
-MD049,4,5,MD105,Ký sinh trùng học,4.05,MD
-MD049,4,6,MD102,Sinh lý học,3.82,MD
-MD050,1,1,MD103,Y học cơ sở,4.75,MD
-MD050,1,2,MD104,Dược lý,2.16,MD
-MD050,1,3,MD102,Sinh lý học,3.71,MD
-MD050,1,4,MD105,Ký sinh trùng học,2.8,MD
-MD050,1,5,MD101,Giải phẫu học,4.2,MD
-MD050,1,6,MD106,Miễn dịch học,3.75,MD
+BA001,3,1,BA110,Quản trị Hành vi Tổ chức,3.15,BA
+BA001,1,2,BA114,Quản trị Khởi nghiệp,2.61,BA
+BA001,4,3,BA107,Quản trị Chuỗi Cung ứng,4.65,BA
+BA001,2,4,BA101,Nguyên lý Quản trị học,2.06,BA
+BA001,3,5,BA115,Quản trị Thương mại điện tử (E-Commerce),3.09,BA
+BA001,1,6,BA112,Quản trị Kinh doanh Quốc tế,2.94,BA
+BA002,4,1,BA108,Quản trị Dự án,2.34,BA
+BA002,2,2,BA105,Quản trị Chiến lược,2.54,BA
+BA002,3,3,BA103,Quản trị Nhân sự,2.67,BA
+BA002,1,4,BA111,Quản trị Đổi mới & Sáng tạo,3.34,BA
+BA002,4,5,BA109,Quản trị Rủi ro,2.58,BA
+BA002,2,6,BA106,Quản trị Sản xuất & Tác nghiệp,4.71,BA
+BA003,3,1,BA104,Quản trị Tài chính,2.33,BA
+BA003,1,2,BA113,Quản trị Doanh nghiệp nhỏ và vừa (SME),4.88,BA
+BA003,4,3,BA102,Quản trị Marketing,4.3,BA
+BA003,2,4,BA107,Quản trị Chuỗi Cung ứng,3.42,BA
+BA003,3,5,BA110,Quản trị Hành vi Tổ chức,4.29,BA
+BA003,1,6,BA101,Nguyên lý Quản trị học,2.8,BA
+BA004,4,1,BA115,Quản trị Thương mại điện tử (E-Commerce),3.3,BA
+BA004,2,2,BA108,Quản trị Dự án,2.4,BA
+BA004,3,3,BA111,Quản trị Đổi mới & Sáng tạo,2.46,BA
+BA004,1,4,BA114,Quản trị Khởi nghiệp,4.87,BA
+BA004,4,5,BA110,Quản trị Hành vi Tổ chức,2.82,BA
+BA004,2,6,BA103,Quản trị Nhân sự,4.06,BA
+BA005,3,1,BA105,Quản trị Chiến lược,4.2,BA
+BA005,1,2,BA106,Quản trị Sản xuất & Tác nghiệp,2.19,BA
+BA005,4,3,BA102,Quản trị Marketing,4.79,BA
+BA005,2,4,BA101,Nguyên lý Quản trị học,2.17,BA
+BA005,3,5,BA103,Quản trị Nhân sự,2.48,BA
+BA005,1,6,BA104,Quản trị Tài chính,3.33,BA
+BA006,4,1,BA114,Quản trị Khởi nghiệp,2.67,BA
+BA006,2,2,BA103,Quản trị Nhân sự,2.81,BA
+BA006,3,3,BA105,Quản trị Chiến lược,3.86,BA
+BA006,1,4,BA106,Quản trị Sản xuất & Tác nghiệp,4.43,BA
+BA006,4,5,BA101,Nguyên lý Quản trị học,2.59,BA
+BA006,2,6,BA110,Quản trị Hành vi Tổ chức,3.33,BA
+BA007,3,1,BA103,Quản trị Nhân sự,4.42,BA
+BA007,1,2,BA101,Nguyên lý Quản trị học,4.21,BA
+BA007,4,3,BA105,Quản trị Chiến lược,2.87,BA
+BA007,2,4,BA106,Quản trị Sản xuất & Tác nghiệp,3.18,BA
+BA007,3,5,BA102,Quản trị Marketing,3.14,BA
+BA007,1,6,BA114,Quản trị Khởi nghiệp,3.0,BA
+BA008,4,1,BA104,Quản trị Tài chính,2.62,BA
+BA008,2,2,BA110,Quản trị Hành vi Tổ chức,2.01,BA
+BA008,3,3,BA105,Quản trị Chiến lược,3.17,BA
+BA008,1,4,BA101,Nguyên lý Quản trị học,2.26,BA
+BA008,4,5,BA103,Quản trị Nhân sự,2.52,BA
+BA008,2,6,BA106,Quản trị Sản xuất & Tác nghiệp,2.61,BA
+BA009,3,1,BA101,Nguyên lý Quản trị học,4.94,BA
+BA009,1,2,BA110,Quản trị Hành vi Tổ chức,3.74,BA
+BA009,4,3,BA103,Quản trị Nhân sự,3.22,BA
+BA009,2,4,BA114,Quản trị Khởi nghiệp,2.78,BA
+BA009,3,5,BA105,Quản trị Chiến lược,3.84,BA
+BA009,1,6,BA106,Quản trị Sản xuất & Tác nghiệp,2.65,BA
+BA010,4,1,BA103,Quản trị Nhân sự,2.34,BA
+BA010,2,2,BA101,Nguyên lý Quản trị học,3.43,BA
+BA010,3,3,BA114,Quản trị Khởi nghiệp,4.02,BA
+BA010,1,4,BA106,Quản trị Sản xuất & Tác nghiệp,4.93,BA
+BA010,4,5,BA105,Quản trị Chiến lược,3.0,BA
+BA010,2,6,BA110,Quản trị Hành vi Tổ chức,2.54,BA
+BA011,1,1,BA102,Quản trị Marketing,3.7,BA
+BA011,3,2,BA108,Quản trị Dự án,4.23,BA
+BA011,4,3,BA111,Quản trị Đổi mới & Sáng tạo,4.66,BA
+BA011,2,4,BA113,Quản trị Doanh nghiệp nhỏ và vừa (SME),4.63,BA
+BA011,1,5,BA109,Quản trị Rủi ro,3.57,BA
+BA011,3,6,BA115,Quản trị Thương mại điện tử (E-Commerce),3.6,BA
+BA012,4,1,BA101,Nguyên lý Quản trị học,3.52,BA
+BA012,2,2,BA105,Quản trị Chiến lược,4.92,BA
+BA012,3,3,BA114,Quản trị Khởi nghiệp,2.7,BA
+BA012,1,4,BA103,Quản trị Nhân sự,2.74,BA
+BA012,4,5,BA110,Quản trị Hành vi Tổ chức,3.85,BA
+BA012,2,6,BA106,Quản trị Sản xuất & Tác nghiệp,4.17,BA
+BA013,3,1,BA101,Nguyên lý Quản trị học,4.82,BA
+BA013,1,2,BA103,Quản trị Nhân sự,2.84,BA
+BA013,4,3,BA106,Quản trị Sản xuất & Tác nghiệp,2.35,BA
+BA013,2,4,BA110,Quản trị Hành vi Tổ chức,3.71,BA
+BA013,3,5,BA105,Quản trị Chiến lược,3.38,BA
+BA013,1,6,BA114,Quản trị Khởi nghiệp,3.83,BA
+BA014,4,1,BA114,Quản trị Khởi nghiệp,3.38,BA
+BA014,2,2,BA106,Quản trị Sản xuất & Tác nghiệp,3.17,BA
+BA014,3,3,BA110,Quản trị Hành vi Tổ chức,3.9,BA
+BA014,1,4,BA103,Quản trị Nhân sự,2.77,BA
+BA014,4,5,BA101,Nguyên lý Quản trị học,2.19,BA
+BA014,2,6,BA105,Quản trị Chiến lược,3.37,BA
+BA015,3,1,BA102,Quản trị Marketing,3.84,BA
+BA015,1,2,BA105,Quản trị Chiến lược,3.42,BA
+BA015,4,3,BA103,Quản trị Nhân sự,4.05,BA
+BA015,2,4,BA101,Nguyên lý Quản trị học,3.24,BA
+BA015,3,5,BA106,Quản trị Sản xuất & Tác nghiệp,4.59,BA
+BA015,1,6,BA114,Quản trị Khởi nghiệp,2.9,BA
+BA016,4,1,BA103,Quản trị Nhân sự,4.56,BA
+BA016,2,2,BA106,Quản trị Sản xuất & Tác nghiệp,3.97,BA
+BA016,3,3,BA105,Quản trị Chiến lược,4.61,BA
+BA016,1,4,BA110,Quản trị Hành vi Tổ chức,3.93,BA
+BA016,4,5,BA101,Nguyên lý Quản trị học,3.35,BA
+BA016,2,6,BA114,Quản trị Khởi nghiệp,2.05,BA
+BA017,3,1,BA103,Quản trị Nhân sự,2.86,BA
+BA017,1,2,BA114,Quản trị Khởi nghiệp,4.32,BA
+BA017,4,3,BA106,Quản trị Sản xuất & Tác nghiệp,4.34,BA
+BA017,2,4,BA110,Quản trị Hành vi Tổ chức,2.62,BA
+BA017,3,5,BA101,Nguyên lý Quản trị học,3.22,BA
+BA017,1,6,BA105,Quản trị Chiến lược,3.66,BA
+BA018,4,1,BA103,Quản trị Nhân sự,4.33,BA
+BA018,2,2,BA101,Nguyên lý Quản trị học,2.02,BA
+BA018,3,3,BA110,Quản trị Hành vi Tổ chức,2.69,BA
+BA018,1,4,BA106,Quản trị Sản xuất & Tác nghiệp,3.27,BA
+BA018,4,5,BA105,Quản trị Chiến lược,3.61,BA
+BA018,2,6,BA114,Quản trị Khởi nghiệp,2.38,BA
+BA019,3,1,BA114,Quản trị Khởi nghiệp,4.22,BA
+BA019,1,2,BA103,Quản trị Nhân sự,4.4,BA
+BA019,4,3,BA106,Quản trị Sản xuất & Tác nghiệp,4.51,BA
+BA019,2,4,BA110,Quản trị Hành vi Tổ chức,3.06,BA
+BA019,3,5,BA105,Quản trị Chiến lược,4.43,BA
+BA019,1,6,BA101,Nguyên lý Quản trị học,4.38,BA
+BA020,4,1,BA114,Quản trị Khởi nghiệp,3.42,BA
+BA020,2,2,BA110,Quản trị Hành vi Tổ chức,3.53,BA
+BA020,3,3,BA106,Quản trị Sản xuất & Tác nghiệp,3.12,BA
+BA020,1,4,BA105,Quản trị Chiến lược,4.3,BA
+BA020,4,5,BA101,Nguyên lý Quản trị học,3.0,BA
+BA020,2,6,BA103,Quản trị Nhân sự,4.98,BA
+BA021,3,1,BA105,Quản trị Chiến lược,3.32,BA
+BA021,1,2,BA103,Quản trị Nhân sự,4.75,BA
+BA021,4,3,BA114,Quản trị Khởi nghiệp,4.22,BA
+BA021,2,4,BA101,Nguyên lý Quản trị học,3.38,BA
+BA021,3,5,BA110,Quản trị Hành vi Tổ chức,4.09,BA
+BA021,1,6,BA106,Quản trị Sản xuất & Tác nghiệp,3.25,BA
+BA022,4,1,BA101,Nguyên lý Quản trị học,2.06,BA
+BA022,2,2,BA105,Quản trị Chiến lược,2.2,BA
+BA022,3,3,BA106,Quản trị Sản xuất & Tác nghiệp,4.37,BA
+BA022,1,4,BA110,Quản trị Hành vi Tổ chức,2.24,BA
+BA022,4,5,BA114,Quản trị Khởi nghiệp,2.93,BA
+BA022,2,6,BA103,Quản trị Nhân sự,3.02,BA
+BA023,3,1,BA105,Quản trị Chiến lược,2.35,BA
+BA023,1,2,BA114,Quản trị Khởi nghiệp,3.48,BA
+BA023,4,3,BA101,Nguyên lý Quản trị học,2.1,BA
+BA023,2,4,BA110,Quản trị Hành vi Tổ chức,2.17,BA
+BA023,3,5,BA103,Quản trị Nhân sự,2.31,BA
+BA023,1,6,BA106,Quản trị Sản xuất & Tác nghiệp,2.55,BA
+BA024,4,1,BA105,Quản trị Chiến lược,3.36,BA
+BA024,2,2,BA103,Quản trị Nhân sự,2.11,BA
+BA024,3,3,BA114,Quản trị Khởi nghiệp,2.08,BA
+BA024,1,4,BA106,Quản trị Sản xuất & Tác nghiệp,3.29,BA
+BA024,4,5,BA110,Quản trị Hành vi Tổ chức,4.53,BA
+BA024,2,6,BA101,Nguyên lý Quản trị học,3.35,BA
+BA025,3,1,BA114,Quản trị Khởi nghiệp,2.37,BA
+BA025,1,2,BA101,Nguyên lý Quản trị học,2.25,BA
+BA025,4,3,BA103,Quản trị Nhân sự,3.68,BA
+BA025,2,4,BA106,Quản trị Sản xuất & Tác nghiệp,3.85,BA
+BA025,3,5,BA105,Quản trị Chiến lược,3.88,BA
+BA025,1,6,BA110,Quản trị Hành vi Tổ chức,3.43,BA
+BA026,4,1,BA103,Quản trị Nhân sự,2.84,BA
+BA026,2,2,BA110,Quản trị Hành vi Tổ chức,4.17,BA
+BA026,3,3,BA105,Quản trị Chiến lược,3.98,BA
+BA026,1,4,BA114,Quản trị Khởi nghiệp,2.7,BA
+BA026,4,5,BA106,Quản trị Sản xuất & Tác nghiệp,2.85,BA
+BA026,2,6,BA101,Nguyên lý Quản trị học,3.89,BA
+BA027,3,1,BA110,Quản trị Hành vi Tổ chức,2.12,BA
+BA027,1,2,BA103,Quản trị Nhân sự,3.65,BA
+BA027,4,3,BA101,Nguyên lý Quản trị học,3.88,BA
+BA027,2,4,BA105,Quản trị Chiến lược,2.53,BA
+BA027,3,5,BA106,Quản trị Sản xuất & Tác nghiệp,4.42,BA
+BA027,1,6,BA114,Quản trị Khởi nghiệp,4.4,BA
+BA028,4,1,BA106,Quản trị Sản xuất & Tác nghiệp,4.49,BA
+BA028,2,2,BA102,Quản trị Marketing,2.46,BA
+BA028,3,3,BA101,Nguyên lý Quản trị học,4.57,BA
+BA028,1,4,BA103,Quản trị Nhân sự,3.21,BA
+BA028,4,5,BA114,Quản trị Khởi nghiệp,3.49,BA
+BA028,2,6,BA105,Quản trị Chiến lược,3.5,BA
+BA029,3,1,BA104,Quản trị Tài chính,3.56,BA
+BA029,1,2,BA105,Quản trị Chiến lược,4.91,BA
+BA029,4,3,BA102,Quản trị Marketing,4.25,BA
+BA029,2,4,BA106,Quản trị Sản xuất & Tác nghiệp,2.56,BA
+BA029,3,5,BA103,Quản trị Nhân sự,4.21,BA
+BA029,1,6,BA101,Nguyên lý Quản trị học,2.56,BA
+BA030,4,1,BA105,Quản trị Chiến lược,3.91,BA
+BA030,2,2,BA103,Quản trị Nhân sự,4.4,BA
+BA030,3,3,BA101,Nguyên lý Quản trị học,2.55,BA
+BA030,1,4,BA114,Quản trị Khởi nghiệp,4.84,BA
+BA030,4,5,BA106,Quản trị Sản xuất & Tác nghiệp,2.37,BA
+BA030,2,6,BA110,Quản trị Hành vi Tổ chức,4.63,BA
+BA031,3,1,BA101,Nguyên lý Quản trị học,2.03,BA
+BA031,1,2,BA105,Quản trị Chiến lược,4.5,BA
+BA031,4,3,BA114,Quản trị Khởi nghiệp,2.0,BA
+BA031,2,4,BA103,Quản trị Nhân sự,2.62,BA
+BA031,3,5,BA106,Quản trị Sản xuất & Tác nghiệp,2.67,BA
+BA031,1,6,BA102,Quản trị Marketing,2.04,BA
+BA032,4,1,BA114,Quản trị Khởi nghiệp,4.0,BA
+BA032,2,2,BA106,Quản trị Sản xuất & Tác nghiệp,3.34,BA
+BA032,3,3,BA105,Quản trị Chiến lược,2.99,BA
+BA032,1,4,BA110,Quản trị Hành vi Tổ chức,4.62,BA
+BA032,4,5,BA101,Nguyên lý Quản trị học,4.72,BA
+BA032,2,6,BA103,Quản trị Nhân sự,4.74,BA
+BA033,3,1,BA114,Quản trị Khởi nghiệp,3.49,BA
+BA033,1,2,BA103,Quản trị Nhân sự,3.57,BA
+BA033,4,3,BA106,Quản trị Sản xuất & Tác nghiệp,4.35,BA
+BA033,2,4,BA101,Nguyên lý Quản trị học,3.28,BA
+BA033,3,5,BA105,Quản trị Chiến lược,2.14,BA
+BA033,1,6,BA102,Quản trị Marketing,3.92,BA
+BA034,4,1,BA105,Quản trị Chiến lược,3.21,BA
+BA034,2,2,BA103,Quản trị Nhân sự,2.75,BA
+BA034,3,3,BA106,Quản trị Sản xuất & Tác nghiệp,4.9,BA
+BA034,1,4,BA114,Quản trị Khởi nghiệp,3.17,BA
+BA034,4,5,BA101,Nguyên lý Quản trị học,3.2,BA
+BA034,2,6,BA102,Quản trị Marketing,3.18,BA
+BA035,3,1,BA114,Quản trị Khởi nghiệp,3.41,BA
+BA035,1,2,BA105,Quản trị Chiến lược,2.82,BA
+BA035,4,3,BA103,Quản trị Nhân sự,2.79,BA
+BA035,2,4,BA110,Quản trị Hành vi Tổ chức,2.0,BA
+BA035,3,5,BA101,Nguyên lý Quản trị học,4.14,BA
+BA035,1,6,BA106,Quản trị Sản xuất & Tác nghiệp,3.77,BA
+BA036,4,1,BA103,Quản trị Nhân sự,2.73,BA
+BA036,2,2,BA114,Quản trị Khởi nghiệp,4.24,BA
+BA036,3,3,BA110,Quản trị Hành vi Tổ chức,2.43,BA
+BA036,1,4,BA101,Nguyên lý Quản trị học,3.55,BA
+BA036,4,5,BA106,Quản trị Sản xuất & Tác nghiệp,4.87,BA
+BA036,2,6,BA105,Quản trị Chiến lược,4.58,BA
+BA037,3,1,BA105,Quản trị Chiến lược,3.79,BA
+BA037,1,2,BA102,Quản trị Marketing,4.74,BA
+BA037,4,3,BA101,Nguyên lý Quản trị học,4.95,BA
+BA037,2,4,BA106,Quản trị Sản xuất & Tác nghiệp,4.63,BA
+BA037,3,5,BA114,Quản trị Khởi nghiệp,2.79,BA
+BA037,1,6,BA103,Quản trị Nhân sự,5.0,BA
+BA038,4,1,BA114,Quản trị Khởi nghiệp,2.61,BA
+BA038,2,2,BA103,Quản trị Nhân sự,4.54,BA
+BA038,3,3,BA106,Quản trị Sản xuất & Tác nghiệp,4.76,BA
+BA038,1,4,BA110,Quản trị Hành vi Tổ chức,3.31,BA
+BA038,4,5,BA101,Nguyên lý Quản trị học,4.58,BA
+BA038,2,6,BA105,Quản trị Chiến lược,4.53,BA
+BA039,3,1,BA114,Quản trị Khởi nghiệp,3.93,BA
+BA039,1,2,BA101,Nguyên lý Quản trị học,2.46,BA
+BA039,4,3,BA105,Quản trị Chiến lược,2.1,BA
+BA039,2,4,BA110,Quản trị Hành vi Tổ chức,4.09,BA
+BA039,3,5,BA106,Quản trị Sản xuất & Tác nghiệp,2.75,BA
+BA039,1,6,BA103,Quản trị Nhân sự,4.54,BA
+BA040,4,1,BA102,Quản trị Marketing,3.93,BA
+BA040,2,2,BA105,Quản trị Chiến lược,3.06,BA
+BA040,3,3,BA101,Nguyên lý Quản trị học,3.81,BA
+BA040,1,4,BA103,Quản trị Nhân sự,3.27,BA
+BA040,4,5,BA114,Quản trị Khởi nghiệp,3.56,BA
+BA040,2,6,BA106,Quản trị Sản xuất & Tác nghiệp,2.76,BA
+BA041,3,1,BA103,Quản trị Nhân sự,2.0,BA
+BA041,1,2,BA102,Quản trị Marketing,3.89,BA
+BA041,4,3,BA101,Nguyên lý Quản trị học,4.93,BA
+BA041,2,4,BA106,Quản trị Sản xuất & Tác nghiệp,4.07,BA
+BA041,3,5,BA105,Quản trị Chiến lược,3.91,BA
+BA041,1,6,BA114,Quản trị Khởi nghiệp,4.5,BA
+BA042,4,1,BA106,Quản trị Sản xuất & Tác nghiệp,3.49,BA
+BA042,2,2,BA102,Quản trị Marketing,3.03,BA
+BA042,3,3,BA103,Quản trị Nhân sự,3.65,BA
+BA042,1,4,BA105,Quản trị Chiến lược,3.13,BA
+BA042,4,5,BA101,Nguyên lý Quản trị học,4.25,BA
+BA042,2,6,BA114,Quản trị Khởi nghiệp,4.17,BA
+BA043,3,1,BA101,Nguyên lý Quản trị học,4.03,BA
+BA043,1,2,BA114,Quản trị Khởi nghiệp,2.51,BA
+BA043,4,3,BA103,Quản trị Nhân sự,3.9,BA
+BA043,2,4,BA105,Quản trị Chiến lược,4.61,BA
+BA043,3,5,BA106,Quản trị Sản xuất & Tác nghiệp,3.93,BA
+BA043,1,6,BA102,Quản trị Marketing,4.45,BA
+BA044,4,1,BA105,Quản trị Chiến lược,3.33,BA
+BA044,2,2,BA106,Quản trị Sản xuất & Tác nghiệp,4.0,BA
+BA044,3,3,BA103,Quản trị Nhân sự,3.41,BA
+BA044,1,4,BA110,Quản trị Hành vi Tổ chức,4.54,BA
+BA044,4,5,BA101,Nguyên lý Quản trị học,3.57,BA
+BA044,2,6,BA114,Quản trị Khởi nghiệp,3.1,BA
+BA045,3,1,BA101,Nguyên lý Quản trị học,4.18,BA
+BA045,1,2,BA102,Quản trị Marketing,4.45,BA
+BA045,4,3,BA106,Quản trị Sản xuất & Tác nghiệp,4.49,BA
+BA045,2,4,BA103,Quản trị Nhân sự,3.26,BA
+BA045,3,5,BA114,Quản trị Khởi nghiệp,3.0,BA
+BA045,1,6,BA105,Quản trị Chiến lược,4.73,BA
+BA046,4,1,BA103,Quản trị Nhân sự,4.65,BA
+BA046,2,2,BA101,Nguyên lý Quản trị học,4.65,BA
+BA046,3,3,BA106,Quản trị Sản xuất & Tác nghiệp,3.67,BA
+BA046,1,4,BA114,Quản trị Khởi nghiệp,3.41,BA
+BA046,4,5,BA102,Quản trị Marketing,4.24,BA
+BA046,2,6,BA105,Quản trị Chiến lược,4.6,BA
+BA047,3,1,BA105,Quản trị Chiến lược,2.05,BA
+BA047,1,2,BA101,Nguyên lý Quản trị học,4.29,BA
+BA047,4,3,BA106,Quản trị Sản xuất & Tác nghiệp,3.11,BA
+BA047,2,4,BA114,Quản trị Khởi nghiệp,3.58,BA
+BA047,3,5,BA103,Quản trị Nhân sự,4.41,BA
+BA047,1,6,BA102,Quản trị Marketing,2.72,BA
+BA048,4,1,BA102,Quản trị Marketing,3.37,BA
+BA048,2,2,BA101,Nguyên lý Quản trị học,3.82,BA
+BA048,3,3,BA105,Quản trị Chiến lược,3.91,BA
+BA048,1,4,BA106,Quản trị Sản xuất & Tác nghiệp,3.13,BA
+BA048,4,5,BA103,Quản trị Nhân sự,2.5,BA
+BA048,2,6,BA114,Quản trị Khởi nghiệp,2.81,BA
+BA049,3,1,BA103,Quản trị Nhân sự,4.82,BA
+BA049,1,2,BA105,Quản trị Chiến lược,3.16,BA
+BA049,4,3,BA101,Nguyên lý Quản trị học,4.19,BA
+BA049,2,4,BA102,Quản trị Marketing,3.86,BA
+BA049,3,5,BA106,Quản trị Sản xuất & Tác nghiệp,4.36,BA
+BA049,1,6,BA114,Quản trị Khởi nghiệp,4.95,BA
+BA050,4,1,BA106,Quản trị Sản xuất & Tác nghiệp,3.7,BA
+BA050,2,2,BA103,Quản trị Nhân sự,2.08,BA
+BA050,3,3,BA114,Quản trị Khởi nghiệp,3.98,BA
+BA050,1,4,BA105,Quản trị Chiến lược,4.18,BA
+BA050,4,5,BA101,Nguyên lý Quản trị học,2.28,BA
+BA050,2,6,BA102,Quản trị Marketing,4.59,BA
+
+
+MD001,3,1,MD110,Quản lý Dự án Thiết kế,3.45,MD
+MD001,1,2,MD114,Thiết kế Tương tác,4.12,MD
+MD001,4,3,MD101,Thiết kế Đồ họa,3.78,MD
+MD001,2,4,MD115,Thiết kế Thương hiệu,2.95,MD
+MD001,3,5,MD106,Thiết kế Web,4.33,MD
+MD001,1,6,MD112,Thiết kế 3D,3.67,MD
+MD002,4,1,MD108,Thiết kế Nội thất,3.12,MD
+MD002,2,2,MD105,Đồ họa Chuyển động,4.01,MD
+MD002,3,3,MD114,Thiết kế Tương tác,3.56,MD
+MD002,1,4,MD102,Thiết kế Giao diện Người dùng (UI),3.89,MD
+MD002,4,5,MD111,Thiết kế Đa phương tiện,4.22,MD
+MD002,2,6,MD109,Thiết kế Thời trang,3.44,MD
+MD003,3,1,MD107,Thiết kế Sản phẩm,3.67,MD
+MD003,1,2,MD101,Thiết kế Đồ họa,3.98,MD
+MD003,4,3,MD110,Quản lý Dự án Thiết kế,4.15,MD
+MD003,2,4,MD113,Lịch sử và Lý thuyết Thiết kế,3.21,MD
+MD003,3,5,MD104,Nhiếp ảnh Kỹ thuật số,3.77,MD
+MD003,1,6,MD115,Thiết kế Thương hiệu,3.9,MD
+MD004,4,1,MD112,Thiết kế 3D,4.05,MD
+MD004,2,2,MD106,Thiết kế Web,3.33,MD
+MD004,3,3,MD108,Thiết kế Nội thất,3.88,MD
+MD004,1,4,MD102,Thiết kế Giao diện Người dùng (UI),3.45,MD
+MD004,4,5,MD111,Thiết kế Đa phương tiện,4.0,MD
+MD004,2,6,MD109,Thiết kế Thời trang,3.56,MD
+MD005,3,1,MD101,Thiết kế Đồ họa,3.78,MD
+MD005,1,2,MD114,Thiết kế Tương tác,3.12,MD
+MD005,4,3,MD105,Đồ họa Chuyển động,3.9,MD
+MD005,2,4,MD110,Quản lý Dự án Thiết kế,4.22,MD
+MD005,3,5,MD107,Thiết kế Sản phẩm,3.67,MD
+MD005,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD006,4,1,MD115,Thiết kế Thương hiệu,3.56,MD
+MD006,2,2,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD006,3,3,MD102,Thiết kế Giao diện Người dùng (UI),4.01,MD
+MD006,1,4,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD006,4,5,MD106,Thiết kế Web,3.78,MD
+MD006,2,6,MD108,Thiết kế Nội thất,3.45,MD
+MD007,3,1,MD109,Thiết kế Thời trang,3.12,MD
+MD007,1,2,MD101,Thiết kế Đồ họa,3.56,MD
+MD007,4,3,MD110,Quản lý Dự án Thiết kế,3.89,MD
+MD007,2,4,MD114,Thiết kế Tương tác,4.22,MD
+MD007,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD007,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD008,4,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD008,2,2,MD115,Thiết kế Thương hiệu,3.12,MD
+MD008,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.9,MD
+MD008,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD008,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD008,2,6,MD106,Thiết kế Web,3.44,MD
+MD009,3,1,MD108,Thiết kế Nội thất,3.56,MD
+MD009,1,2,MD109,Thiết kế Thời trang,3.89,MD
+MD009,4,3,MD101,Thiết kế Đồ họa,4.01,MD
+MD009,2,4,MD110,Quản lý Dự án Thiết kế,3.67,MD
+MD009,3,5,MD114,Thiết kế Tương tác,3.78,MD
+MD009,1,6,MD105,Đồ họa Chuyển động,3.45,MD
+MD010,4,1,MD113,Lịch sử và Lý thuyết Thiết kế,3.12,MD
+MD010,2,2,MD115,Thiết kế Thương hiệu,3.56,MD
+MD010,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD010,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD010,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD010,2,6,MD106,Thiết kế Web,3.44,MD
+MD011,1,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD011,3,2,MD110,Quản lý Dự án Thiết kế,3.12,MD
+MD011,4,3,MD114,Thiết kế Tương tác,3.9,MD
+MD011,2,4,MD101,Thiết kế Đồ họa,4.22,MD
+MD011,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD011,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD012,4,1,MD115,Thiết kế Thương hiệu,3.56,MD
+MD012,2,2,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD012,3,3,MD102,Thiết kế Giao diện Người dùng (UI),4.01,MD
+MD012,1,4,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD012,4,5,MD106,Thiết kế Web,3.78,MD
+MD012,2,6,MD108,Thiết kế Nội thất,3.45,MD
+MD013,3,1,MD109,Thiết kế Thời trang,3.12,MD
+MD013,1,2,MD101,Thiết kế Đồ họa,3.56,MD
+MD013,4,3,MD110,Quản lý Dự án Thiết kế,3.89,MD
+MD013,2,4,MD114,Thiết kế Tương tác,4.22,MD
+MD013,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD013,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD014,4,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD014,2,2,MD115,Thiết kế Thương hiệu,3.12,MD
+MD014,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.9,MD
+MD014,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD014,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD014,2,6,MD106,Thiết kế Web,3.44,MD
+MD015,3,1,MD108,Thiết kế Nội thất,3.56,MD
+MD015,1,2,MD109,Thiết kế Thời trang,3.89,MD
+MD015,4,3,MD101,Thiết kế Đồ họa,4.01,MD
+MD015,2,4,MD110,Quản lý Dự án Thiết kế,3.67,MD
+MD015,3,5,MD114,Thiết kế Tương tác,3.78,MD
+MD015,1,6,MD105,Đồ họa Chuyển động,3.45,MD
+MD016,4,1,MD113,Lịch sử và Lý thuyết Thiết kế,3.12,MD
+MD016,2,2,MD115,Thiết kế Thương hiệu,3.56,MD
+MD016,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD016,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD016,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD016,2,6,MD106,Thiết kế Web,3.44,MD
+MD017,3,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD017,1,2,MD110,Quản lý Dự án Thiết kế,3.12,MD
+MD017,4,3,MD114,Thiết kế Tương tác,3.9,MD
+MD017,2,4,MD101,Thiết kế Đồ họa,4.22,MD
+MD017,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD017,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD018,4,1,MD115,Thiết kế Thương hiệu,3.56,MD
+MD018,2,2,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD018,3,3,MD102,Thiết kế Giao diện Người dùng (UI),4.01,MD
+MD018,1,4,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD018,4,5,MD106,Thiết kế Web,3.78,MD
+MD018,2,6,MD108,Thiết kế Nội thất,3.45,MD
+MD019,3,1,MD109,Thiết kế Thời trang,3.12,MD
+MD019,1,2,MD101,Thiết kế Đồ họa,3.56,MD
+MD019,4,3,MD110,Quản lý Dự án Thiết kế,3.89,MD
+MD019,2,4,MD114,Thiết kế Tương tác,4.22,MD
+MD019,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD019,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD020,4,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD020,2,2,MD115,Thiết kế Thương hiệu,3.12,MD
+MD020,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.9,MD
+MD020,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD020,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD020,2,6,MD106,Thiết kế Web,3.44,MD
+MD021,3,1,MD108,Thiết kế Nội thất,3.56,MD
+MD021,1,2,MD109,Thiết kế Thời trang,3.89,MD
+MD021,4,3,MD101,Thiết kế Đồ họa,4.01,MD
+MD021,2,4,MD110,Quản lý Dự án Thiết kế,3.67,MD
+MD021,3,5,MD114,Thiết kế Tương tác,3.78,MD
+MD021,1,6,MD105,Đồ họa Chuyển động,3.45,MD
+MD022,4,1,MD113,Lịch sử và Lý thuyết Thiết kế,3.12,MD
+MD022,2,2,MD115,Thiết kế Thương hiệu,3.56,MD
+MD022,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD022,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD022,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD022,2,6,MD106,Thiết kế Web,3.44,MD
+MD023,3,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD023,1,2,MD110,Quản lý Dự án Thiết kế,3.12,MD
+MD023,4,3,MD114,Thiết kế Tương tác,3.9,MD
+MD023,2,4,MD101,Thiết kế Đồ họa,4.22,MD
+MD023,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD023,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD024,4,1,MD115,Thiết kế Thương hiệu,3.56,MD
+MD024,2,2,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD024,3,3,MD102,Thiết kế Giao diện Người dùng (UI),4.01,MD
+MD024,1,4,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD024,4,5,MD106,Thiết kế Web,3.78,MD
+MD024,2,6,MD108,Thiết kế Nội thất,3.45,MD
+MD025,3,1,MD109,Thiết kế Thời trang,3.12,MD
+MD025,1,2,MD101,Thiết kế Đồ họa,3.56,MD
+MD025,4,3,MD110,Quản lý Dự án Thiết kế,3.89,MD
+MD025,2,4,MD114,Thiết kế Tương tác,4.22,MD
+MD025,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD025,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD026,4,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD026,2,2,MD115,Thiết kế Thương hiệu,3.12,MD
+MD026,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.9,MD
+MD026,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD026,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD026,2,6,MD106,Thiết kế Web,3.44,MD
+MD027,3,1,MD108,Thiết kế Nội thất,3.56,MD
+MD027,1,2,MD109,Thiết kế Thời trang,3.89,MD
+MD027,4,3,MD101,Thiết kế Đồ họa,4.01,MD
+MD027,2,4,MD110,Quản lý Dự án Thiết kế,3.67,MD
+MD027,3,5,MD114,Thiết kế Tương tác,3.78,MD
+MD027,1,6,MD105,Đồ họa Chuyển động,3.45,MD
+MD028,4,1,MD113,Lịch sử và Lý thuyết Thiết kế,3.12,MD
+MD028,2,2,MD115,Thiết kế Thương hiệu,3.56,MD
+MD028,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD028,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD028,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD028,2,6,MD106,Thiết kế Web,3.44,MD
+MD029,3,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD029,1,2,MD110,Quản lý Dự án Thiết kế,3.12,MD
+MD029,4,3,MD114,Thiết kế Tương tác,3.9,MD
+MD029,2,4,MD101,Thiết kế Đồ họa,4.22,MD
+MD029,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD029,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD030,4,1,MD115,Thiết kế Thương hiệu,3.56,MD
+MD030,2,2,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD030,3,3,MD102,Thiết kế Giao diện Người dùng (UI),4.01,MD
+MD030,1,4,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD030,4,5,MD106,Thiết kế Web,3.78,MD
+MD030,2,6,MD108,Thiết kế Nội thất,3.45,MD
+MD031,3,1,MD109,Thiết kế Thời trang,3.12,MD
+MD031,1,2,MD101,Thiết kế Đồ họa,3.56,MD
+MD031,4,3,MD110,Quản lý Dự án Thiết kế,3.89,MD
+MD031,2,4,MD114,Thiết kế Tương tác,4.22,MD
+MD031,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD031,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD032,4,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD032,2,2,MD115,Thiết kế Thương hiệu,3.12,MD
+MD032,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.9,MD
+MD032,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD032,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD032,2,6,MD106,Thiết kế Web,3.44,MD
+MD033,3,1,MD108,Thiết kế Nội thất,3.56,MD
+MD033,1,2,MD109,Thiết kế Thời trang,3.89,MD
+MD033,4,3,MD101,Thiết kế Đồ họa,4.01,MD
+MD033,2,4,MD110,Quản lý Dự án Thiết kế,3.67,MD
+MD033,3,5,MD114,Thiết kế Tương tác,3.78,MD
+MD033,1,6,MD105,Đồ họa Chuyển động,3.45,MD
+MD034,4,1,MD113,Lịch sử và Lý thuyết Thiết kế,3.12,MD
+MD034,2,2,MD115,Thiết kế Thương hiệu,3.56,MD
+MD034,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD034,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD034,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD034,2,6,MD106,Thiết kế Web,3.44,MD
+MD035,3,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD035,1,2,MD110,Quản lý Dự án Thiết kế,3.12,MD
+MD035,4,3,MD114,Thiết kế Tương tác,3.9,MD
+MD035,2,4,MD101,Thiết kế Đồ họa,4.22,MD
+MD035,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD035,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD036,4,1,MD115,Thiết kế Thương hiệu,3.56,MD
+MD036,2,2,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD036,3,3,MD102,Thiết kế Giao diện Người dùng (UI),4.01,MD
+MD036,1,4,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD036,4,5,MD106,Thiết kế Web,3.78,MD
+MD036,2,6,MD108,Thiết kế Nội thất,3.45,MD
+MD037,3,1,MD109,Thiết kế Thời trang,3.12,MD
+MD037,1,2,MD101,Thiết kế Đồ họa,3.56,MD
+MD037,4,3,MD110,Quản lý Dự án Thiết kế,3.89,MD
+MD037,2,4,MD114,Thiết kế Tương tác,4.22,MD
+MD037,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD037,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD038,4,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD038,2,2,MD115,Thiết kế Thương hiệu,3.12,MD
+MD038,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.9,MD
+MD038,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD038,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD038,2,6,MD106,Thiết kế Web,3.44,MD
+MD039,3,1,MD108,Thiết kế Nội thất,3.56,MD
+MD039,1,2,MD109,Thiết kế Thời trang,3.89,MD
+MD039,4,3,MD101,Thiết kế Đồ họa,4.01,MD
+MD039,2,4,MD110,Quản lý Dự án Thiết kế,3.67,MD
+MD039,3,5,MD114,Thiết kế Tương tác,3.78,MD
+MD039,1,6,MD105,Đồ họa Chuyển động,3.45,MD
+MD040,4,1,MD113,Lịch sử và Lý thuyết Thiết kế,3.12,MD
+MD040,2,2,MD115,Thiết kế Thương hiệu,3.56,MD
+MD040,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD040,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD040,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD040,2,6,MD106,Thiết kế Web,3.44,MD
+MD041,3,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD041,1,2,MD110,Quản lý Dự án Thiết kế,3.12,MD
+MD041,4,3,MD114,Thiết kế Tương tác,3.9,MD
+MD041,2,4,MD101,Thiết kế Đồ họa,4.22,MD
+MD041,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD041,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD042,4,1,MD115,Thiết kế Thương hiệu,3.56,MD
+MD042,2,2,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD042,3,3,MD102,Thiết kế Giao diện Người dùng (UI),4.01,MD
+MD042,1,4,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD042,4,5,MD106,Thiết kế Web,3.78,MD
+MD042,2,6,MD108,Thiết kế Nội thất,3.45,MD
+MD043,3,1,MD109,Thiết kế Thời trang,3.12,MD
+MD043,1,2,MD101,Thiết kế Đồ họa,3.56,MD
+MD043,4,3,MD110,Quản lý Dự án Thiết kế,3.89,MD
+MD043,2,4,MD114,Thiết kế Tương tác,4.22,MD
+MD043,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD043,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD044,4,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD044,2,2,MD115,Thiết kế Thương hiệu,3.12,MD
+MD044,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.9,MD
+MD044,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD044,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD044,2,6,MD106,Thiết kế Web,3.44,MD
+MD045,3,1,MD108,Thiết kế Nội thất,3.56,MD
+MD045,1,2,MD109,Thiết kế Thời trang,3.89,MD
+MD045,4,3,MD101,Thiết kế Đồ họa,4.01,MD
+MD045,2,4,MD110,Quản lý Dự án Thiết kế,3.67,MD
+MD045,3,5,MD114,Thiết kế Tương tác,3.78,MD
+MD045,1,6,MD105,Đồ họa Chuyển động,3.45,MD
+MD046,4,1,MD113,Lịch sử và Lý thuyết Thiết kế,3.12,MD
+MD046,2,2,MD115,Thiết kế Thương hiệu,3.56,MD
+MD046,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD046,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD046,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD046,2,6,MD106,Thiết kế Web,3.44,MD
+MD047,3,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD047,1,2,MD110,Quản lý Dự án Thiết kế,3.12,MD
+MD047,4,3,MD114,Thiết kế Tương tác,3.9,MD
+MD047,2,4,MD101,Thiết kế Đồ họa,4.22,MD
+MD047,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD047,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD048,4,1,MD115,Thiết kế Thương hiệu,3.56,MD
+MD048,2,2,MD104,Nhiếp ảnh Kỹ thuật số,3.89,MD
+MD048,3,3,MD102,Thiết kế Giao diện Người dùng (UI),4.01,MD
+MD048,1,4,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD048,4,5,MD106,Thiết kế Web,3.78,MD
+MD048,2,6,MD108,Thiết kế Nội thất,3.45,MD
+MD049,3,1,MD109,Thiết kế Thời trang,3.12,MD
+MD049,1,2,MD101,Thiết kế Đồ họa,3.56,MD
+MD049,4,3,MD110,Quản lý Dự án Thiết kế,3.89,MD
+MD049,2,4,MD114,Thiết kế Tương tác,4.22,MD
+MD049,3,5,MD105,Đồ họa Chuyển động,3.67,MD
+MD049,1,6,MD113,Lịch sử và Lý thuyết Thiết kế,3.44,MD
+MD050,4,1,MD107,Thiết kế Sản phẩm,3.78,MD
+MD050,2,2,MD115,Thiết kế Thương hiệu,3.12,MD
+MD050,3,3,MD104,Nhiếp ảnh Kỹ thuật số,3.9,MD
+MD050,1,4,MD102,Thiết kế Giao diện Người dùng (UI),4.22,MD
+MD050,4,5,MD111,Thiết kế Đa phương tiện,3.67,MD
+MD050,2,6,MD106,Thiết kế Web,3.44,MD
+
+
 VK001,1,1,VK104,Mạng máy tính,4.37,VKIT
 VK001,1,2,VK101,Công nghệ phần mềm,3.33,VKIT
 VK001,1,3,VK102,Hệ điều hành,3.51,VKIT
