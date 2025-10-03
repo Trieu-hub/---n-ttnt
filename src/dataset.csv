@@ -1,377 +1,377 @@
 student_id,year,semester,course_id,course_name,rating,faculty_id
 //------------------IT------------------//
-SV001,3,1,IT101,Nhập môn lập trình,4.94,IT
-SV001,3,1,IT104,Cơ sở dữ liệu,2.85,IT
-SV001,3,2,IT110,Kỹ thuật phần mềm,2.82,IT
-SV001,3,2,IT105,Mạng máy tính,2.4,IT
-SV001,3,2,IT108,Lập trình web,4.1,IT
-SV001,3,3,IT104,Cơ sở dữ liệu,2.08,IT
-SV001,3,3,IT102,Cấu trúc dữ liệu,2.22,IT
-SV001,3,3,IT106,Hệ điều hành,3.81,IT
-SV002,3,1,IT105,Mạng máy tính,3.61,IT
-SV002,3,1,IT103,Lập trình hướng đối tượng,3.18,IT
-SV002,3,1,IT104,Cơ sở dữ liệu,3.91,IT
-SV002,3,2,IT108,Lập trình web,4.3,IT
-SV002,3,2,IT101,Nhập môn lập trình,4.67,IT
-SV002,3,2,IT104,Cơ sở dữ liệu,4.31,IT
-SV002,3,3,IT106,Hệ điều hành,2.45,IT
-SV002,3,3,IT103,Lập trình hướng đối tượng,3.85,IT
-SV002,3,3,IT109,An toàn thông tin,3.91,IT
-SV003,1,1,IT107,Trí tuệ nhân tạo,2.21,IT
-SV003,1,1,IT105,Mạng máy tính,2.2,IT
-SV003,1,2,IT103,Lập trình hướng đối tượng,3.26,IT
-SV003,1,2,IT102,Cấu trúc dữ liệu,2.3,IT
-SV003,1,2,IT101,Nhập môn lập trình,2.43,IT
-SV003,1,3,IT106,Hệ điều hành,4.74,IT
-SV003,1,3,IT101,Nhập môn lập trình,2.9,IT
-SV003,1,3,IT110,Kỹ thuật phần mềm,4.21,IT
-SV004,1,1,IT107,Trí tuệ nhân tạo,2.32,IT
-SV004,1,1,IT101,Nhập môn lập trình,3.57,IT
-SV004,1,1,IT106,Hệ điều hành,3.05,IT
-SV004,1,2,IT109,An toàn thông tin,2.95,IT
-SV004,1,2,IT108,Lập trình web,4.71,IT
-SV004,1,3,IT103,Lập trình hướng đối tượng,2.01,IT
-SV004,1,3,IT104,Cơ sở dữ liệu,4.85,IT
-SV004,1,3,IT101,Nhập môn lập trình,2.87,IT
-SV005,1,1,IT106,Hệ điều hành,4.35,IT
-SV005,1,1,IT107,Trí tuệ nhân tạo,2.18,IT
-SV005,1,2,IT103,Lập trình hướng đối tượng,3.61,IT
-SV005,1,2,IT108,Lập trình web,3.51,IT
-SV005,1,3,IT107,Trí tuệ nhân tạo,2.67,IT
-SV005,1,3,IT101,Nhập môn lập trình,3.45,IT
-SV005,1,3,IT105,Mạng máy tính,3.12,IT
-SV006,2,1,IT106,Hệ điều hành,2.31,IT
-SV006,2,1,IT103,Lập trình hướng đối tượng,4.87,IT
-SV006,2,2,IT104,Cơ sở dữ liệu,2.89,IT
-SV006,2,2,IT103,Lập trình hướng đối tượng,2.92,IT
-SV006,2,3,IT107,Trí tuệ nhân tạo,4.7,IT
-SV006,2,3,IT109,An toàn thông tin,3.2,IT
-SV007,2,1,IT107,Trí tuệ nhân tạo,4.01,IT
-SV007,2,1,IT103,Lập trình hướng đối tượng,3.38,IT
-SV007,2,1,IT106,Hệ điều hành,3.4,IT
-SV007,2,2,IT105,Mạng máy tính,3.07,IT
-SV007,2,2,IT104,Cơ sở dữ liệu,2.95,IT
-SV007,2,3,IT107,Trí tuệ nhân tạo,2.86,IT
-SV007,2,3,IT109,An toàn thông tin,3.31,IT
-SV007,2,3,IT102,Cấu trúc dữ liệu,4.3,IT
-SV008,1,1,IT107,Trí tuệ nhân tạo,3.16,IT
-SV008,1,1,IT101,Nhập môn lập trình,3.7,IT
-SV008,1,1,IT109,An toàn thông tin,4.3,IT
-SV008,1,2,IT105,Mạng máy tính,2.44,IT
-SV008,1,2,IT108,Lập trình web,4.06,IT
-SV008,1,2,IT101,Nhập môn lập trình,4.01,IT
-SV008,1,3,IT107,Trí tuệ nhân tạo,2.39,IT
-SV008,1,3,IT109,An toàn thông tin,3.51,IT
-SV008,1,3,IT108,Lập trình web,3.58,IT
-SV009,1,1,IT107,Trí tuệ nhân tạo,4.33,IT
-SV009,1,1,IT105,Mạng máy tính,4.88,IT
-SV009,1,2,IT109,An toàn thông tin,2.84,IT
-SV009,1,2,IT110,Kỹ thuật phần mềm,2.81,IT
-SV009,1,2,IT104,Cơ sở dữ liệu,4.35,IT
-SV009,1,3,IT110,Kỹ thuật phần mềm,2.76,IT
-SV009,1,3,IT103,Lập trình hướng đối tượng,2.27,IT
-SV010,1,1,IT107,Trí tuệ nhân tạo,3.32,IT
-SV010,1,1,IT110,Kỹ thuật phần mềm,3.1,IT
-SV010,1,2,IT105,Mạng máy tính,3.66,IT
-SV010,1,2,IT103,Lập trình hướng đối tượng,3.53,IT
-SV010,1,3,IT110,Kỹ thuật phần mềm,3.62,IT
-SV010,1,3,IT108,Lập trình web,3.69,IT
-SV011,1,1,IT104,Cơ sở dữ liệu,2.47,IT
-SV011,1,1,IT110,Kỹ thuật phần mềm,2.98,IT
-SV011,1,2,IT104,Cơ sở dữ liệu,3.26,IT
-SV011,1,2,IT107,Trí tuệ nhân tạo,4.82,IT
-SV011,1,2,IT105,Mạng máy tính,3.82,IT
-SV011,1,3,IT109,An toàn thông tin,4.49,IT
-SV011,1,3,IT102,Cấu trúc dữ liệu,2.85,IT
-SV012,1,1,IT110,Kỹ thuật phần mềm,3.52,IT
-SV012,1,1,IT103,Lập trình hướng đối tượng,3.47,IT
-SV012,1,2,IT101,Nhập môn lập trình,4.69,IT
-SV012,1,2,IT102,Cấu trúc dữ liệu,2.92,IT
-SV012,1,3,IT103,Lập trình hướng đối tượng,2.32,IT
-SV012,1,3,IT106,Hệ điều hành,3.95,IT
-SV012,1,3,IT107,Trí tuệ nhân tạo,4.72,IT
-SV013,2,1,IT107,Trí tuệ nhân tạo,4.68,IT
-SV013,2,1,IT101,Nhập môn lập trình,3.67,IT
-SV013,2,1,IT105,Mạng máy tính,3.72,IT
-SV013,2,2,IT107,Trí tuệ nhân tạo,3.15,IT
-SV013,2,2,IT101,Nhập môn lập trình,4.58,IT
-SV013,2,2,IT105,Mạng máy tính,2.9,IT
-SV013,2,3,IT108,Lập trình web,3.47,IT
-SV013,2,3,IT102,Cấu trúc dữ liệu,4.44,IT
-SV013,2,3,IT105,Mạng máy tính,2.75,IT
-SV014,2,1,IT107,Trí tuệ nhân tạo,2.42,IT
-SV014,2,1,IT110,Kỹ thuật phần mềm,4.13,IT
-SV014,2,1,IT106,Hệ điều hành,2.5,IT
-SV014,2,2,IT102,Cấu trúc dữ liệu,2.85,IT
-SV014,2,2,IT109,An toàn thông tin,3.85,IT
-SV014,2,2,IT108,Lập trình web,2.16,IT
-SV014,2,3,IT106,Hệ điều hành,2.8,IT
-SV014,2,3,IT101,Nhập môn lập trình,2.24,IT
-SV015,4,1,IT104,Cơ sở dữ liệu,2.14,IT
-SV015,4,1,IT107,Trí tuệ nhân tạo,4.45,IT
-SV015,4,1,IT109,An toàn thông tin,2.49,IT
-SV015,4,2,IT103,Lập trình hướng đối tượng,4.14,IT
-SV015,4,2,IT107,Trí tuệ nhân tạo,2.42,IT
-SV015,4,2,IT110,Kỹ thuật phần mềm,3.22,IT
-SV015,4,3,IT106,Hệ điều hành,4.14,IT
-SV015,4,3,IT104,Cơ sở dữ liệu,4.74,IT
-SV016,4,1,IT108,Lập trình web,3.86,IT
-SV016,4,1,IT105,Mạng máy tính,4.46,IT
-SV016,4,2,IT109,An toàn thông tin,4.07,IT
-SV016,4,2,IT104,Cơ sở dữ liệu,3.55,IT
-SV016,4,2,IT105,Mạng máy tính,3.92,IT
-SV016,4,3,IT102,Cấu trúc dữ liệu,2.27,IT
-SV016,4,3,IT105,Mạng máy tính,3.26,IT
-SV017,4,1,IT105,Mạng máy tính,2.82,IT
-SV017,4,1,IT106,Hệ điều hành,3.52,IT
-SV017,4,1,IT103,Lập trình hướng đối tượng,4.32,IT
-SV017,4,2,IT102,Cấu trúc dữ liệu,4.33,IT
-SV017,4,2,IT104,Cơ sở dữ liệu,4.36,IT
-SV017,4,2,IT103,Lập trình hướng đối tượng,4.07,IT
-SV017,4,3,IT110,Kỹ thuật phần mềm,2.58,IT
-SV017,4,3,IT107,Trí tuệ nhân tạo,2.88,IT
-SV017,4,3,IT106,Hệ điều hành,2.89,IT
-SV018,4,1,IT105,Mạng máy tính,3.42,IT
-SV018,4,1,IT103,Lập trình hướng đối tượng,3.0,IT
-SV018,4,2,IT106,Hệ điều hành,4.48,IT
-SV018,4,2,IT109,An toàn thông tin,4.05,IT
-SV018,4,3,IT101,Nhập môn lập trình,4.11,IT
-SV018,4,3,IT106,Hệ điều hành,4.62,IT
-SV018,4,3,IT110,Kỹ thuật phần mềm,2.38,IT
-SV019,2,1,IT104,Cơ sở dữ liệu,2.27,IT
-SV019,2,1,IT103,Lập trình hướng đối tượng,4.77,IT
-SV019,2,2,IT107,Trí tuệ nhân tạo,4.84,IT
-SV019,2,2,IT108,Lập trình web,4.23,IT
-SV019,2,2,IT102,Cấu trúc dữ liệu,3.63,IT
-SV019,2,3,IT109,An toàn thông tin,3.89,IT
-SV019,2,3,IT105,Mạng máy tính,4.21,IT
-SV019,2,3,IT102,Cấu trúc dữ liệu,2.47,IT
-SV020,4,1,IT108,Lập trình web,4.66,IT
-SV020,4,1,IT107,Trí tuệ nhân tạo,4.04,IT
-SV020,4,2,IT106,Hệ điều hành,4.04,IT
-SV020,4,2,IT103,Lập trình hướng đối tượng,3.35,IT
-SV020,4,3,IT106,Hệ điều hành,3.9,IT
-SV020,4,3,IT101,Nhập môn lập trình,2.64,IT
-SV020,4,3,IT102,Cấu trúc dữ liệu,4.65,IT
-SV021,2,1,IT107,Trí tuệ nhân tạo,2.39,IT
-SV021,2,1,IT101,Nhập môn lập trình,2.87,IT
-SV021,2,1,IT104,Cơ sở dữ liệu,2.89,IT
-SV021,2,2,IT103,Lập trình hướng đối tượng,2.88,IT
-SV021,2,2,IT105,Mạng máy tính,3.13,IT
-SV021,2,3,IT110,Kỹ thuật phần mềm,3.26,IT
-SV021,2,3,IT109,An toàn thông tin,2.65,IT
-SV022,2,1,IT101,Nhập môn lập trình,4.47,IT
-SV022,2,1,IT105,Mạng máy tính,2.45,IT
-SV022,2,2,IT107,Trí tuệ nhân tạo,3.83,IT
-SV022,2,2,IT109,An toàn thông tin,3.46,IT
-SV022,2,2,IT102,Cấu trúc dữ liệu,3.96,IT
-SV022,2,3,IT105,Mạng máy tính,3.64,IT
-SV022,2,3,IT103,Lập trình hướng đối tượng,2.58,IT
-SV022,2,3,IT106,Hệ điều hành,3.08,IT
-SV023,4,1,IT106,Hệ điều hành,4.94,IT
-SV023,4,1,IT101,Nhập môn lập trình,3.97,IT
-SV023,4,2,IT106,Hệ điều hành,3.04,IT
-SV023,4,2,IT105,Mạng máy tính,2.4,IT
-SV023,4,3,IT104,Cơ sở dữ liệu,2.35,IT
-SV023,4,3,IT109,An toàn thông tin,2.03,IT
-SV024,3,1,IT105,Mạng máy tính,4.02,IT
-SV024,3,1,IT108,Lập trình web,3.7,IT
-SV024,3,2,IT102,Cấu trúc dữ liệu,3.66,IT
-SV024,3,2,IT110,Kỹ thuật phần mềm,3.26,IT
-SV024,3,3,IT110,Kỹ thuật phần mềm,2.59,IT
-SV024,3,3,IT106,Hệ điều hành,2.34,IT
-SV025,3,1,IT104,Cơ sở dữ liệu,3.52,IT
-SV025,3,1,IT101,Nhập môn lập trình,4.66,IT
-SV025,3,2,IT103,Lập trình hướng đối tượng,4.62,IT
-SV025,3,2,IT110,Kỹ thuật phần mềm,4.22,IT
-SV025,3,2,IT102,Cấu trúc dữ liệu,4.81,IT
-SV025,3,3,IT108,Lập trình web,2.08,IT
-SV025,3,3,IT101,Nhập môn lập trình,4.82,IT
-SV025,3,3,IT103,Lập trình hướng đối tượng,3.87,IT
-SV026,4,1,IT106,Hệ điều hành,4.88,IT
-SV026,4,1,IT104,Cơ sở dữ liệu,4.58,IT
-SV026,4,1,IT107,Trí tuệ nhân tạo,3.58,IT
-SV026,4,2,IT105,Mạng máy tính,2.64,IT
-SV026,4,2,IT102,Cấu trúc dữ liệu,3.62,IT
-SV026,4,3,IT102,Cấu trúc dữ liệu,3.0,IT
-SV026,4,3,IT101,Nhập môn lập trình,3.1,IT
-SV027,3,1,IT103,Lập trình hướng đối tượng,3.75,IT
-SV027,3,1,IT106,Hệ điều hành,3.9,IT
-SV027,3,1,IT108,Lập trình web,3.8,IT
-SV027,3,2,IT107,Trí tuệ nhân tạo,4.43,IT
-SV027,3,2,IT104,Cơ sở dữ liệu,4.67,IT
-SV027,3,2,IT106,Hệ điều hành,3.12,IT
-SV027,3,3,IT110,Kỹ thuật phần mềm,4.28,IT
-SV027,3,3,IT107,Trí tuệ nhân tạo,2.67,IT
-SV027,3,3,IT109,An toàn thông tin,2.29,IT
-SV028,1,1,IT104,Cơ sở dữ liệu,3.04,IT
-SV028,1,1,IT103,Lập trình hướng đối tượng,4.39,IT
-SV028,1,2,IT110,Kỹ thuật phần mềm,2.01,IT
-SV028,1,2,IT109,An toàn thông tin,4.85,IT
-SV028,1,2,IT102,Cấu trúc dữ liệu,3.57,IT
-SV028,1,3,IT103,Lập trình hướng đối tượng,3.8,IT
-SV028,1,3,IT105,Mạng máy tính,2.9,IT
-SV029,1,1,IT104,Cơ sở dữ liệu,2.72,IT
-SV029,1,1,IT109,An toàn thông tin,2.43,IT
-SV029,1,2,IT101,Nhập môn lập trình,4.07,IT
-SV029,1,2,IT106,Hệ điều hành,4.04,IT
-SV029,1,3,IT105,Mạng máy tính,2.66,IT
-SV029,1,3,IT104,Cơ sở dữ liệu,2.67,IT
-SV030,1,1,IT109,An toàn thông tin,4.38,IT
-SV030,1,1,IT104,Cơ sở dữ liệu,3.17,IT
-SV030,1,1,IT108,Lập trình web,2.46,IT
-SV030,1,2,IT102,Cấu trúc dữ liệu,4.53,IT
-SV030,1,2,IT108,Lập trình web,2.62,IT
-SV030,1,3,IT107,Trí tuệ nhân tạo,4.32,IT
-SV030,1,3,IT103,Lập trình hướng đối tượng,4.22,IT
-SV031,1,1,IT105,Mạng máy tính,3.95,IT
-SV031,1,1,IT110,Kỹ thuật phần mềm,2.62,IT
-SV031,1,1,IT109,An toàn thông tin,4.16,IT
-SV031,1,2,IT106,Hệ điều hành,2.43,IT
-SV031,1,2,IT107,Trí tuệ nhân tạo,4.33,IT
-SV031,1,3,IT109,An toàn thông tin,2.92,IT
-SV031,1,3,IT103,Lập trình hướng đối tượng,3.26,IT
-SV032,1,1,IT108,Lập trình web,2.2,IT
-SV032,1,1,IT110,Kỹ thuật phần mềm,3.6,IT
-SV032,1,1,IT104,Cơ sở dữ liệu,3.69,IT
-SV032,1,2,IT108,Lập trình web,5.0,IT
-SV032,1,2,IT109,An toàn thông tin,3.27,IT
-SV032,1,2,IT107,Trí tuệ nhân tạo,2.69,IT
-SV032,1,3,IT103,Lập trình hướng đối tượng,2.76,IT
-SV032,1,3,IT105,Mạng máy tính,3.08,IT
-SV033,1,1,IT101,Nhập môn lập trình,4.39,IT
-SV033,1,1,IT102,Cấu trúc dữ liệu,4.8,IT
-SV033,1,2,IT105,Mạng máy tính,4.93,IT
-SV033,1,2,IT104,Cơ sở dữ liệu,4.46,IT
-SV033,1,2,IT110,Kỹ thuật phần mềm,4.95,IT
-SV033,1,3,IT109,An toàn thông tin,4.3,IT
-SV033,1,3,IT104,Cơ sở dữ liệu,4.01,IT
-SV034,2,1,IT109,An toàn thông tin,3.86,IT
-SV034,2,1,IT102,Cấu trúc dữ liệu,4.25,IT
-SV034,2,1,IT108,Lập trình web,2.06,IT
-SV034,2,2,IT103,Lập trình hướng đối tượng,3.16,IT
-SV034,2,2,IT102,Cấu trúc dữ liệu,4.52,IT
-SV034,2,3,IT104,Cơ sở dữ liệu,3.61,IT
-SV034,2,3,IT102,Cấu trúc dữ liệu,2.35,IT
-SV035,1,1,IT106,Hệ điều hành,3.76,IT
-SV035,1,1,IT101,Nhập môn lập trình,4.34,IT
-SV035,1,1,IT109,An toàn thông tin,4.4,IT
-SV035,1,2,IT104,Cơ sở dữ liệu,2.7,IT
-SV035,1,2,IT102,Cấu trúc dữ liệu,3.73,IT
-SV035,1,2,IT107,Trí tuệ nhân tạo,2.84,IT
-SV035,1,3,IT102,Cấu trúc dữ liệu,2.45,IT
-SV035,1,3,IT108,Lập trình web,4.33,IT
-SV036,2,1,IT110,Kỹ thuật phần mềm,4.76,IT
-SV036,2,1,IT101,Nhập môn lập trình,3.6,IT
-SV036,2,2,IT108,Lập trình web,2.9,IT
-SV036,2,2,IT105,Mạng máy tính,4.05,IT
-SV036,2,2,IT104,Cơ sở dữ liệu,3.91,IT
-SV036,2,3,IT102,Cấu trúc dữ liệu,4.0,IT
-SV036,2,3,IT108,Lập trình web,4.1,IT
-SV036,2,3,IT101,Nhập môn lập trình,3.23,IT
-SV037,4,1,IT104,Cơ sở dữ liệu,2.59,IT
-SV037,4,1,IT107,Trí tuệ nhân tạo,2.84,IT
-SV037,4,1,IT105,Mạng máy tính,2.56,IT
-SV037,4,2,IT101,Nhập môn lập trình,3.53,IT
-SV037,4,2,IT106,Hệ điều hành,4.41,IT
-SV037,4,2,IT107,Trí tuệ nhân tạo,3.1,IT
-SV037,4,3,IT109,An toàn thông tin,3.34,IT
-SV037,4,3,IT105,Mạng máy tính,4.23,IT
-SV038,2,1,IT104,Cơ sở dữ liệu,2.33,IT
-SV038,2,1,IT110,Kỹ thuật phần mềm,3.93,IT
-SV038,2,2,IT101,Nhập môn lập trình,2.85,IT
-SV038,2,2,IT104,Cơ sở dữ liệu,3.65,IT
-SV038,2,3,IT103,Lập trình hướng đối tượng,4.38,IT
-SV038,2,3,IT110,Kỹ thuật phần mềm,3.11,IT
-SV039,2,1,IT104,Cơ sở dữ liệu,4.99,IT
-SV039,2,1,IT103,Lập trình hướng đối tượng,3.96,IT
-SV039,2,1,IT108,Lập trình web,4.72,IT
-SV039,2,2,IT107,Trí tuệ nhân tạo,2.15,IT
-SV039,2,2,IT101,Nhập môn lập trình,2.57,IT
-SV039,2,3,IT108,Lập trình web,3.61,IT
-SV039,2,3,IT103,Lập trình hướng đối tượng,3.01,IT
-SV040,3,1,IT107,Trí tuệ nhân tạo,4.74,IT
-SV040,3,1,IT106,Hệ điều hành,3.94,IT
-SV040,3,2,IT103,Lập trình hướng đối tượng,3.69,IT
-SV040,3,2,IT109,An toàn thông tin,4.72,IT
-SV040,3,2,IT102,Cấu trúc dữ liệu,3.55,IT
-SV040,3,3,IT109,An toàn thông tin,2.16,IT
-SV040,3,3,IT108,Lập trình web,4.29,IT
-SV041,2,1,IT102,Cấu trúc dữ liệu,3.84,IT
-SV041,2,1,IT105,Mạng máy tính,2.26,IT
-SV041,2,2,IT109,An toàn thông tin,4.67,IT
-SV041,2,2,IT110,Kỹ thuật phần mềm,2.99,IT
-SV041,2,3,IT108,Lập trình web,2.81,IT
-SV041,2,3,IT101,Nhập môn lập trình,2.56,IT
-SV041,2,3,IT109,An toàn thông tin,3.24,IT
-SV042,1,1,IT103,Lập trình hướng đối tượng,2.99,IT
-SV042,1,1,IT104,Cơ sở dữ liệu,4.15,IT
-SV042,1,1,IT102,Cấu trúc dữ liệu,2.29,IT
-SV042,1,2,IT104,Cơ sở dữ liệu,4.16,IT
-SV042,1,2,IT102,Cấu trúc dữ liệu,2.98,IT
-SV042,1,2,IT108,Lập trình web,2.34,IT
-SV042,1,3,IT106,Hệ điều hành,2.2,IT
-SV042,1,3,IT104,Cơ sở dữ liệu,4.85,IT
-SV042,1,3,IT110,Kỹ thuật phần mềm,2.7,IT
-SV043,1,1,IT103,Lập trình hướng đối tượng,3.79,IT
-SV043,1,1,IT107,Trí tuệ nhân tạo,3.73,IT
-SV043,1,2,IT101,Nhập môn lập trình,2.65,IT
-SV043,1,2,IT107,Trí tuệ nhân tạo,2.95,IT
-SV043,1,3,IT102,Cấu trúc dữ liệu,3.83,IT
-SV043,1,3,IT109,An toàn thông tin,4.89,IT
-SV044,3,1,IT102,Cấu trúc dữ liệu,2.85,IT
-SV044,3,1,IT106,Hệ điều hành,2.37,IT
-SV044,3,1,IT110,Kỹ thuật phần mềm,3.05,IT
-SV044,3,2,IT106,Hệ điều hành,4.32,IT
-SV044,3,2,IT108,Lập trình web,3.26,IT
-SV044,3,2,IT103,Lập trình hướng đối tượng,4.53,IT
-SV044,3,3,IT102,Cấu trúc dữ liệu,4.88,IT
-SV044,3,3,IT110,Kỹ thuật phần mềm,4.87,IT
-SV044,3,3,IT104,Cơ sở dữ liệu,3.17,IT
-SV045,2,1,IT102,Cấu trúc dữ liệu,4.45,IT
-SV045,2,1,IT108,Lập trình web,3.43,IT
-SV045,2,1,IT106,Hệ điều hành,4.98,IT
-SV045,2,2,IT107,Trí tuệ nhân tạo,3.23,IT
-SV045,2,2,IT102,Cấu trúc dữ liệu,2.99,IT
-SV045,2,2,IT105,Mạng máy tính,4.98,IT
-SV045,2,3,IT102,Cấu trúc dữ liệu,4.09,IT
-SV045,2,3,IT108,Lập trình web,3.57,IT
-SV046,4,1,IT110,Kỹ thuật phần mềm,2.01,IT
-SV046,4,1,IT103,Lập trình hướng đối tượng,4.88,IT
-SV046,4,2,IT108,Lập trình web,4.37,IT
-SV046,4,2,IT109,An toàn thông tin,3.96,IT
-SV046,4,3,IT106,Hệ điều hành,4.25,IT
-SV046,4,3,IT102,Cấu trúc dữ liệu,2.33,IT
-SV047,1,1,IT109,An toàn thông tin,3.42,IT
-SV047,1,1,IT108,Lập trình web,4.16,IT
-SV047,1,2,IT107,Trí tuệ nhân tạo,3.34,IT
-SV047,1,2,IT102,Cấu trúc dữ liệu,3.57,IT
-SV047,1,3,IT107,Trí tuệ nhân tạo,2.46,IT
-SV047,1,3,IT103,Lập trình hướng đối tượng,2.57,IT
-SV047,1,3,IT101,Nhập môn lập trình,4.08,IT
-SV048,3,1,IT104,Cơ sở dữ liệu,3.18,IT
-SV048,3,1,IT108,Lập trình web,3.77,IT
-SV048,3,2,IT108,Lập trình web,4.93,IT
-SV048,3,2,IT109,An toàn thông tin,3.77,IT
-SV048,3,3,IT105,Mạng máy tính,3.84,IT
-SV048,3,3,IT109,An toàn thông tin,4.56,IT
-SV048,3,3,IT110,Kỹ thuật phần mềm,3.44,IT
-SV049,3,1,IT110,Kỹ thuật phần mềm,3.79,IT
-SV049,3,1,IT106,Hệ điều hành,2.42,IT
-SV049,3,1,IT104,Cơ sở dữ liệu,3.45,IT
-SV049,3,2,IT108,Lập trình web,4.76,IT
-SV049,3,2,IT106,Hệ điều hành,4.92,IT
-SV049,3,2,IT103,Lập trình hướng đối tượng,3.54,IT
-SV049,3,3,IT107,Trí tuệ nhân tạo,4.72,IT
-SV049,3,3,IT102,Cấu trúc dữ liệu,2.48,IT
-SV049,3,3,IT103,Lập trình hướng đối tượng,3.75,IT
-SV050,1,1,IT107,Trí tuệ nhân tạo,3.97,IT
-SV050,1,1,IT102,Cấu trúc dữ liệu,3.07,IT
-SV050,1,1,IT104,Cơ sở dữ liệu,4.18,IT
-SV050,1,2,IT103,Lập trình hướng đối tượng,2.2,IT
-SV050,1,2,IT104,Cơ sở dữ liệu,3.72,IT
-SV050,1,3,IT104,Cơ sở dữ liệu,4.28,IT
-SV050,1,3,IT101,Nhập môn lập trình,3.57,IT
+IT001,3,1,IT101,Nhập môn lập trình,4.94,IT
+IT001,3,1,IT104,Cơ sở dữ liệu,2.85,IT
+IT001,3,2,IT110,Kỹ thuật phần mềm,2.82,IT
+IT001,3,2,IT105,Mạng máy tính,2.4,IT
+IT001,3,2,IT108,Lập trình web,4.1,IT
+IT001,3,3,IT104,Cơ sở dữ liệu,2.08,IT
+IT001,3,3,IT102,Cấu trúc dữ liệu,2.22,IT
+IT001,3,3,IT106,Hệ điều hành,3.81,IT
+IT002,3,1,IT105,Mạng máy tính,3.61,IT
+IT002,3,1,IT103,Lập trình hướng đối tượng,3.18,IT
+IT002,3,1,IT104,Cơ sở dữ liệu,3.91,IT
+IT002,3,2,IT108,Lập trình web,4.3,IT
+IT002,3,2,IT101,Nhập môn lập trình,4.67,IT
+IT002,3,2,IT104,Cơ sở dữ liệu,4.31,IT
+IT002,3,3,IT106,Hệ điều hành,2.45,IT
+IT002,3,3,IT103,Lập trình hướng đối tượng,3.85,IT
+IT002,3,3,IT109,An toàn thông tin,3.91,IT
+IT003,1,1,IT107,Trí tuệ nhân tạo,2.21,IT
+IT003,1,1,IT105,Mạng máy tính,2.2,IT
+IT003,1,2,IT103,Lập trình hướng đối tượng,3.26,IT
+IT003,1,2,IT102,Cấu trúc dữ liệu,2.3,IT
+IT003,1,2,IT101,Nhập môn lập trình,2.43,IT
+IT003,1,3,IT106,Hệ điều hành,4.74,IT
+IT003,1,3,IT101,Nhập môn lập trình,2.9,IT
+IT003,1,3,IT110,Kỹ thuật phần mềm,4.21,IT
+IT004,1,1,IT107,Trí tuệ nhân tạo,2.32,IT
+IT004,1,1,IT101,Nhập môn lập trình,3.57,IT
+IT004,1,1,IT106,Hệ điều hành,3.05,IT
+IT004,1,2,IT109,An toàn thông tin,2.95,IT
+IT004,1,2,IT108,Lập trình web,4.71,IT
+IT004,1,3,IT103,Lập trình hướng đối tượng,2.01,IT
+IT004,1,3,IT104,Cơ sở dữ liệu,4.85,IT
+IT004,1,3,IT101,Nhập môn lập trình,2.87,IT
+IT005,1,1,IT106,Hệ điều hành,4.35,IT
+IT005,1,1,IT107,Trí tuệ nhân tạo,2.18,IT
+IT005,1,2,IT103,Lập trình hướng đối tượng,3.61,IT
+IT005,1,2,IT108,Lập trình web,3.51,IT
+IT005,1,3,IT107,Trí tuệ nhân tạo,2.67,IT
+IT005,1,3,IT101,Nhập môn lập trình,3.45,IT
+IT005,1,3,IT105,Mạng máy tính,3.12,IT
+IT006,2,1,IT106,Hệ điều hành,2.31,IT
+IT006,2,1,IT103,Lập trình hướng đối tượng,4.87,IT
+IT006,2,2,IT104,Cơ sở dữ liệu,2.89,IT
+IT006,2,2,IT103,Lập trình hướng đối tượng,2.92,IT
+IT006,2,3,IT107,Trí tuệ nhân tạo,4.7,IT
+IT006,2,3,IT109,An toàn thông tin,3.2,IT
+IT007,2,1,IT107,Trí tuệ nhân tạo,4.01,IT
+IT007,2,1,IT103,Lập trình hướng đối tượng,3.38,IT
+IT007,2,1,IT106,Hệ điều hành,3.4,IT
+IT007,2,2,IT105,Mạng máy tính,3.07,IT
+IT007,2,2,IT104,Cơ sở dữ liệu,2.95,IT
+IT007,2,3,IT107,Trí tuệ nhân tạo,2.86,IT
+IT007,2,3,IT109,An toàn thông tin,3.31,IT
+IT007,2,3,IT102,Cấu trúc dữ liệu,4.3,IT
+IT008,1,1,IT107,Trí tuệ nhân tạo,3.16,IT
+IT008,1,1,IT101,Nhập môn lập trình,3.7,IT
+IT008,1,1,IT109,An toàn thông tin,4.3,IT
+IT008,1,2,IT105,Mạng máy tính,2.44,IT
+IT008,1,2,IT108,Lập trình web,4.06,IT
+IT008,1,2,IT101,Nhập môn lập trình,4.01,IT
+IT008,1,3,IT107,Trí tuệ nhân tạo,2.39,IT
+IT008,1,3,IT109,An toàn thông tin,3.51,IT
+IT008,1,3,IT108,Lập trình web,3.58,IT
+IT009,1,1,IT107,Trí tuệ nhân tạo,4.33,IT
+IT009,1,1,IT105,Mạng máy tính,4.88,IT
+IT009,1,2,IT109,An toàn thông tin,2.84,IT
+IT009,1,2,IT110,Kỹ thuật phần mềm,2.81,IT
+IT009,1,2,IT104,Cơ sở dữ liệu,4.35,IT
+IT009,1,3,IT110,Kỹ thuật phần mềm,2.76,IT
+IT009,1,3,IT103,Lập trình hướng đối tượng,2.27,IT
+IT010,1,1,IT107,Trí tuệ nhân tạo,3.32,IT
+IT010,1,1,IT110,Kỹ thuật phần mềm,3.1,IT
+IT010,1,2,IT105,Mạng máy tính,3.66,IT
+IT010,1,2,IT103,Lập trình hướng đối tượng,3.53,IT
+IT010,1,3,IT110,Kỹ thuật phần mềm,3.62,IT
+IT010,1,3,IT108,Lập trình web,3.69,IT
+IT011,1,1,IT104,Cơ sở dữ liệu,2.47,IT
+IT011,1,1,IT110,Kỹ thuật phần mềm,2.98,IT
+IT011,1,2,IT104,Cơ sở dữ liệu,3.26,IT
+IT011,1,2,IT107,Trí tuệ nhân tạo,4.82,IT
+IT011,1,2,IT105,Mạng máy tính,3.82,IT
+IT011,1,3,IT109,An toàn thông tin,4.49,IT
+IT011,1,3,IT102,Cấu trúc dữ liệu,2.85,IT
+IT012,1,1,IT110,Kỹ thuật phần mềm,3.52,IT
+IT012,1,1,IT103,Lập trình hướng đối tượng,3.47,IT
+IT012,1,2,IT101,Nhập môn lập trình,4.69,IT
+IT012,1,2,IT102,Cấu trúc dữ liệu,2.92,IT
+IT012,1,3,IT103,Lập trình hướng đối tượng,2.32,IT
+IT012,1,3,IT106,Hệ điều hành,3.95,IT
+IT012,1,3,IT107,Trí tuệ nhân tạo,4.72,IT
+IT013,2,1,IT107,Trí tuệ nhân tạo,4.68,IT
+IT013,2,1,IT101,Nhập môn lập trình,3.67,IT
+IT013,2,1,IT105,Mạng máy tính,3.72,IT
+IT013,2,2,IT107,Trí tuệ nhân tạo,3.15,IT
+IT013,2,2,IT101,Nhập môn lập trình,4.58,IT
+IT013,2,2,IT105,Mạng máy tính,2.9,IT
+IT013,2,3,IT108,Lập trình web,3.47,IT
+IT013,2,3,IT102,Cấu trúc dữ liệu,4.44,IT
+IT013,2,3,IT105,Mạng máy tính,2.75,IT
+IT014,2,1,IT107,Trí tuệ nhân tạo,2.42,IT
+IT014,2,1,IT110,Kỹ thuật phần mềm,4.13,IT
+IT014,2,1,IT106,Hệ điều hành,2.5,IT
+IT014,2,2,IT102,Cấu trúc dữ liệu,2.85,IT
+IT014,2,2,IT109,An toàn thông tin,3.85,IT
+IT014,2,2,IT108,Lập trình web,2.16,IT
+IT014,2,3,IT106,Hệ điều hành,2.8,IT
+IT014,2,3,IT101,Nhập môn lập trình,2.24,IT
+IT015,4,1,IT104,Cơ sở dữ liệu,2.14,IT
+IT015,4,1,IT107,Trí tuệ nhân tạo,4.45,IT
+IT015,4,1,IT109,An toàn thông tin,2.49,IT
+IT015,4,2,IT103,Lập trình hướng đối tượng,4.14,IT
+IT015,4,2,IT107,Trí tuệ nhân tạo,2.42,IT
+IT015,4,2,IT110,Kỹ thuật phần mềm,3.22,IT
+IT015,4,3,IT106,Hệ điều hành,4.14,IT
+IT015,4,3,IT104,Cơ sở dữ liệu,4.74,IT
+IT016,4,1,IT108,Lập trình web,3.86,IT
+IT016,4,1,IT105,Mạng máy tính,4.46,IT
+IT016,4,2,IT109,An toàn thông tin,4.07,IT
+IT016,4,2,IT104,Cơ sở dữ liệu,3.55,IT
+IT016,4,2,IT105,Mạng máy tính,3.92,IT
+IT016,4,3,IT102,Cấu trúc dữ liệu,2.27,IT
+IT016,4,3,IT105,Mạng máy tính,3.26,IT
+IT017,4,1,IT105,Mạng máy tính,2.82,IT
+IT017,4,1,IT106,Hệ điều hành,3.52,IT
+IT017,4,1,IT103,Lập trình hướng đối tượng,4.32,IT
+IT017,4,2,IT102,Cấu trúc dữ liệu,4.33,IT
+IT017,4,2,IT104,Cơ sở dữ liệu,4.36,IT
+IT017,4,2,IT103,Lập trình hướng đối tượng,4.07,IT
+IT017,4,3,IT110,Kỹ thuật phần mềm,2.58,IT
+IT017,4,3,IT107,Trí tuệ nhân tạo,2.88,IT
+IT017,4,3,IT106,Hệ điều hành,2.89,IT
+IT018,4,1,IT105,Mạng máy tính,3.42,IT
+IT018,4,1,IT103,Lập trình hướng đối tượng,3.0,IT
+IT018,4,2,IT106,Hệ điều hành,4.48,IT
+IT018,4,2,IT109,An toàn thông tin,4.05,IT
+IT018,4,3,IT101,Nhập môn lập trình,4.11,IT
+IT018,4,3,IT106,Hệ điều hành,4.62,IT
+IT018,4,3,IT110,Kỹ thuật phần mềm,2.38,IT
+IT019,2,1,IT104,Cơ sở dữ liệu,2.27,IT
+IT019,2,1,IT103,Lập trình hướng đối tượng,4.77,IT
+IT019,2,2,IT107,Trí tuệ nhân tạo,4.84,IT
+IT019,2,2,IT108,Lập trình web,4.23,IT
+IT019,2,2,IT102,Cấu trúc dữ liệu,3.63,IT
+IT019,2,3,IT109,An toàn thông tin,3.89,IT
+IT019,2,3,IT105,Mạng máy tính,4.21,IT
+IT019,2,3,IT102,Cấu trúc dữ liệu,2.47,IT
+IT020,4,1,IT108,Lập trình web,4.66,IT
+IT020,4,1,IT107,Trí tuệ nhân tạo,4.04,IT
+IT020,4,2,IT106,Hệ điều hành,4.04,IT
+IT020,4,2,IT103,Lập trình hướng đối tượng,3.35,IT
+IT020,4,3,IT106,Hệ điều hành,3.9,IT
+IT020,4,3,IT101,Nhập môn lập trình,2.64,IT
+IT020,4,3,IT102,Cấu trúc dữ liệu,4.65,IT
+IT021,2,1,IT107,Trí tuệ nhân tạo,2.39,IT
+IT021,2,1,IT101,Nhập môn lập trình,2.87,IT
+IT021,2,1,IT104,Cơ sở dữ liệu,2.89,IT
+IT021,2,2,IT103,Lập trình hướng đối tượng,2.88,IT
+IT021,2,2,IT105,Mạng máy tính,3.13,IT
+IT021,2,3,IT110,Kỹ thuật phần mềm,3.26,IT
+IT021,2,3,IT109,An toàn thông tin,2.65,IT
+IT022,2,1,IT101,Nhập môn lập trình,4.47,IT
+IT022,2,1,IT105,Mạng máy tính,2.45,IT
+IT022,2,2,IT107,Trí tuệ nhân tạo,3.83,IT
+IT022,2,2,IT109,An toàn thông tin,3.46,IT
+IT022,2,2,IT102,Cấu trúc dữ liệu,3.96,IT
+IT022,2,3,IT105,Mạng máy tính,3.64,IT
+IT022,2,3,IT103,Lập trình hướng đối tượng,2.58,IT
+IT022,2,3,IT106,Hệ điều hành,3.08,IT
+IT023,4,1,IT106,Hệ điều hành,4.94,IT
+IT023,4,1,IT101,Nhập môn lập trình,3.97,IT
+IT023,4,2,IT106,Hệ điều hành,3.04,IT
+IT023,4,2,IT105,Mạng máy tính,2.4,IT
+IT023,4,3,IT104,Cơ sở dữ liệu,2.35,IT
+IT023,4,3,IT109,An toàn thông tin,2.03,IT
+IT024,3,1,IT105,Mạng máy tính,4.02,IT
+IT024,3,1,IT108,Lập trình web,3.7,IT
+IT024,3,2,IT102,Cấu trúc dữ liệu,3.66,IT
+IT024,3,2,IT110,Kỹ thuật phần mềm,3.26,IT
+IT024,3,3,IT110,Kỹ thuật phần mềm,2.59,IT
+IT024,3,3,IT106,Hệ điều hành,2.34,IT
+IT025,3,1,IT104,Cơ sở dữ liệu,3.52,IT
+IT025,3,1,IT101,Nhập môn lập trình,4.66,IT
+IT025,3,2,IT103,Lập trình hướng đối tượng,4.62,IT
+IT025,3,2,IT110,Kỹ thuật phần mềm,4.22,IT
+IT025,3,2,IT102,Cấu trúc dữ liệu,4.81,IT
+IT025,3,3,IT108,Lập trình web,2.08,IT
+IT025,3,3,IT101,Nhập môn lập trình,4.82,IT
+IT025,3,3,IT103,Lập trình hướng đối tượng,3.87,IT
+IT026,4,1,IT106,Hệ điều hành,4.88,IT
+IT026,4,1,IT104,Cơ sở dữ liệu,4.58,IT
+IT026,4,1,IT107,Trí tuệ nhân tạo,3.58,IT
+IT026,4,2,IT105,Mạng máy tính,2.64,IT
+IT026,4,2,IT102,Cấu trúc dữ liệu,3.62,IT
+IT026,4,3,IT102,Cấu trúc dữ liệu,3.0,IT
+IT026,4,3,IT101,Nhập môn lập trình,3.1,IT
+IT027,3,1,IT103,Lập trình hướng đối tượng,3.75,IT
+IT027,3,1,IT106,Hệ điều hành,3.9,IT
+IT027,3,1,IT108,Lập trình web,3.8,IT
+IT027,3,2,IT107,Trí tuệ nhân tạo,4.43,IT
+IT027,3,2,IT104,Cơ sở dữ liệu,4.67,IT
+IT027,3,2,IT106,Hệ điều hành,3.12,IT
+IT027,3,3,IT110,Kỹ thuật phần mềm,4.28,IT
+IT027,3,3,IT107,Trí tuệ nhân tạo,2.67,IT
+IT027,3,3,IT109,An toàn thông tin,2.29,IT
+IT028,1,1,IT104,Cơ sở dữ liệu,3.04,IT
+IT028,1,1,IT103,Lập trình hướng đối tượng,4.39,IT
+IT028,1,2,IT110,Kỹ thuật phần mềm,2.01,IT
+IT028,1,2,IT109,An toàn thông tin,4.85,IT
+IT028,1,2,IT102,Cấu trúc dữ liệu,3.57,IT
+IT028,1,3,IT103,Lập trình hướng đối tượng,3.8,IT
+IT028,1,3,IT105,Mạng máy tính,2.9,IT
+IT029,1,1,IT104,Cơ sở dữ liệu,2.72,IT
+IT029,1,1,IT109,An toàn thông tin,2.43,IT
+IT029,1,2,IT101,Nhập môn lập trình,4.07,IT
+IT029,1,2,IT106,Hệ điều hành,4.04,IT
+IT029,1,3,IT105,Mạng máy tính,2.66,IT
+IT029,1,3,IT104,Cơ sở dữ liệu,2.67,IT
+IT030,1,1,IT109,An toàn thông tin,4.38,IT
+IT030,1,1,IT104,Cơ sở dữ liệu,3.17,IT
+IT030,1,1,IT108,Lập trình web,2.46,IT
+IT030,1,2,IT102,Cấu trúc dữ liệu,4.53,IT
+IT030,1,2,IT108,Lập trình web,2.62,IT
+IT030,1,3,IT107,Trí tuệ nhân tạo,4.32,IT
+IT030,1,3,IT103,Lập trình hướng đối tượng,4.22,IT
+IT031,1,1,IT105,Mạng máy tính,3.95,IT
+IT031,1,1,IT110,Kỹ thuật phần mềm,2.62,IT
+IT031,1,1,IT109,An toàn thông tin,4.16,IT
+IT031,1,2,IT106,Hệ điều hành,2.43,IT
+IT031,1,2,IT107,Trí tuệ nhân tạo,4.33,IT
+IT031,1,3,IT109,An toàn thông tin,2.92,IT
+IT031,1,3,IT103,Lập trình hướng đối tượng,3.26,IT
+IT032,1,1,IT108,Lập trình web,2.2,IT
+IT032,1,1,IT110,Kỹ thuật phần mềm,3.6,IT
+IT032,1,1,IT104,Cơ sở dữ liệu,3.69,IT
+IT032,1,2,IT108,Lập trình web,5.0,IT
+IT032,1,2,IT109,An toàn thông tin,3.27,IT
+IT032,1,2,IT107,Trí tuệ nhân tạo,2.69,IT
+IT032,1,3,IT103,Lập trình hướng đối tượng,2.76,IT
+IT032,1,3,IT105,Mạng máy tính,3.08,IT
+IT033,1,1,IT101,Nhập môn lập trình,4.39,IT
+IT033,1,1,IT102,Cấu trúc dữ liệu,4.8,IT
+IT033,1,2,IT105,Mạng máy tính,4.93,IT
+IT033,1,2,IT104,Cơ sở dữ liệu,4.46,IT
+IT033,1,2,IT110,Kỹ thuật phần mềm,4.95,IT
+IT033,1,3,IT109,An toàn thông tin,4.3,IT
+IT033,1,3,IT104,Cơ sở dữ liệu,4.01,IT
+IT034,2,1,IT109,An toàn thông tin,3.86,IT
+IT034,2,1,IT102,Cấu trúc dữ liệu,4.25,IT
+IT034,2,1,IT108,Lập trình web,2.06,IT
+IT034,2,2,IT103,Lập trình hướng đối tượng,3.16,IT
+IT034,2,2,IT102,Cấu trúc dữ liệu,4.52,IT
+IT034,2,3,IT104,Cơ sở dữ liệu,3.61,IT
+IT034,2,3,IT102,Cấu trúc dữ liệu,2.35,IT
+IT035,1,1,IT106,Hệ điều hành,3.76,IT
+IT035,1,1,IT101,Nhập môn lập trình,4.34,IT
+IT035,1,1,IT109,An toàn thông tin,4.4,IT
+IT035,1,2,IT104,Cơ sở dữ liệu,2.7,IT
+IT035,1,2,IT102,Cấu trúc dữ liệu,3.73,IT
+IT035,1,2,IT107,Trí tuệ nhân tạo,2.84,IT
+IT035,1,3,IT102,Cấu trúc dữ liệu,2.45,IT
+IT035,1,3,IT108,Lập trình web,4.33,IT
+IT036,2,1,IT110,Kỹ thuật phần mềm,4.76,IT
+IT036,2,1,IT101,Nhập môn lập trình,3.6,IT
+IT036,2,2,IT108,Lập trình web,2.9,IT
+IT036,2,2,IT105,Mạng máy tính,4.05,IT
+IT036,2,2,IT104,Cơ sở dữ liệu,3.91,IT
+IT036,2,3,IT102,Cấu trúc dữ liệu,4.0,IT
+IT036,2,3,IT108,Lập trình web,4.1,IT
+IT036,2,3,IT101,Nhập môn lập trình,3.23,IT
+IT037,4,1,IT104,Cơ sở dữ liệu,2.59,IT
+IT037,4,1,IT107,Trí tuệ nhân tạo,2.84,IT
+IT037,4,1,IT105,Mạng máy tính,2.56,IT
+IT037,4,2,IT101,Nhập môn lập trình,3.53,IT
+IT037,4,2,IT106,Hệ điều hành,4.41,IT
+IT037,4,2,IT107,Trí tuệ nhân tạo,3.1,IT
+IT037,4,3,IT109,An toàn thông tin,3.34,IT
+IT037,4,3,IT105,Mạng máy tính,4.23,IT
+IT038,2,1,IT104,Cơ sở dữ liệu,2.33,IT
+IT038,2,1,IT110,Kỹ thuật phần mềm,3.93,IT
+IT038,2,2,IT101,Nhập môn lập trình,2.85,IT
+IT038,2,2,IT104,Cơ sở dữ liệu,3.65,IT
+IT038,2,3,IT103,Lập trình hướng đối tượng,4.38,IT
+IT038,2,3,IT110,Kỹ thuật phần mềm,3.11,IT
+IT039,2,1,IT104,Cơ sở dữ liệu,4.99,IT
+IT039,2,1,IT103,Lập trình hướng đối tượng,3.96,IT
+IT039,2,1,IT108,Lập trình web,4.72,IT
+IT039,2,2,IT107,Trí tuệ nhân tạo,2.15,IT
+IT039,2,2,IT101,Nhập môn lập trình,2.57,IT
+IT039,2,3,IT108,Lập trình web,3.61,IT
+IT039,2,3,IT103,Lập trình hướng đối tượng,3.01,IT
+IT040,3,1,IT107,Trí tuệ nhân tạo,4.74,IT
+IT040,3,1,IT106,Hệ điều hành,3.94,IT
+IT040,3,2,IT103,Lập trình hướng đối tượng,3.69,IT
+IT040,3,2,IT109,An toàn thông tin,4.72,IT
+IT040,3,2,IT102,Cấu trúc dữ liệu,3.55,IT
+IT040,3,3,IT109,An toàn thông tin,2.16,IT
+IT040,3,3,IT108,Lập trình web,4.29,IT
+IT041,2,1,IT102,Cấu trúc dữ liệu,3.84,IT
+IT041,2,1,IT105,Mạng máy tính,2.26,IT
+IT041,2,2,IT109,An toàn thông tin,4.67,IT
+IT041,2,2,IT110,Kỹ thuật phần mềm,2.99,IT
+IT041,2,3,IT108,Lập trình web,2.81,IT
+IT041,2,3,IT101,Nhập môn lập trình,2.56,IT
+IT041,2,3,IT109,An toàn thông tin,3.24,IT
+IT042,1,1,IT103,Lập trình hướng đối tượng,2.99,IT
+IT042,1,1,IT104,Cơ sở dữ liệu,4.15,IT
+IT042,1,1,IT102,Cấu trúc dữ liệu,2.29,IT
+IT042,1,2,IT104,Cơ sở dữ liệu,4.16,IT
+IT042,1,2,IT102,Cấu trúc dữ liệu,2.98,IT
+IT042,1,2,IT108,Lập trình web,2.34,IT
+IT042,1,3,IT106,Hệ điều hành,2.2,IT
+IT042,1,3,IT104,Cơ sở dữ liệu,4.85,IT
+IT042,1,3,IT110,Kỹ thuật phần mềm,2.7,IT
+IT043,1,1,IT103,Lập trình hướng đối tượng,3.79,IT
+IT043,1,1,IT107,Trí tuệ nhân tạo,3.73,IT
+IT043,1,2,IT101,Nhập môn lập trình,2.65,IT
+IT043,1,2,IT107,Trí tuệ nhân tạo,2.95,IT
+IT043,1,3,IT102,Cấu trúc dữ liệu,3.83,IT
+IT043,1,3,IT109,An toàn thông tin,4.89,IT
+IT044,3,1,IT102,Cấu trúc dữ liệu,2.85,IT
+IT044,3,1,IT106,Hệ điều hành,2.37,IT
+IT044,3,1,IT110,Kỹ thuật phần mềm,3.05,IT
+IT044,3,2,IT106,Hệ điều hành,4.32,IT
+IT044,3,2,IT108,Lập trình web,3.26,IT
+IT044,3,2,IT103,Lập trình hướng đối tượng,4.53,IT
+IT044,3,3,IT102,Cấu trúc dữ liệu,4.88,IT
+IT044,3,3,IT110,Kỹ thuật phần mềm,4.87,IT
+IT044,3,3,IT104,Cơ sở dữ liệu,3.17,IT
+IT045,2,1,IT102,Cấu trúc dữ liệu,4.45,IT
+IT045,2,1,IT108,Lập trình web,3.43,IT
+IT045,2,1,IT106,Hệ điều hành,4.98,IT
+IT045,2,2,IT107,Trí tuệ nhân tạo,3.23,IT
+IT045,2,2,IT102,Cấu trúc dữ liệu,2.99,IT
+IT045,2,2,IT105,Mạng máy tính,4.98,IT
+IT045,2,3,IT102,Cấu trúc dữ liệu,4.09,IT
+IT045,2,3,IT108,Lập trình web,3.57,IT
+IT046,4,1,IT110,Kỹ thuật phần mềm,2.01,IT
+IT046,4,1,IT103,Lập trình hướng đối tượng,4.88,IT
+IT046,4,2,IT108,Lập trình web,4.37,IT
+IT046,4,2,IT109,An toàn thông tin,3.96,IT
+IT046,4,3,IT106,Hệ điều hành,4.25,IT
+IT046,4,3,IT102,Cấu trúc dữ liệu,2.33,IT
+IT047,1,1,IT109,An toàn thông tin,3.42,IT
+IT047,1,1,IT108,Lập trình web,4.16,IT
+IT047,1,2,IT107,Trí tuệ nhân tạo,3.34,IT
+IT047,1,2,IT102,Cấu trúc dữ liệu,3.57,IT
+IT047,1,3,IT107,Trí tuệ nhân tạo,2.46,IT
+IT047,1,3,IT103,Lập trình hướng đối tượng,2.57,IT
+IT047,1,3,IT101,Nhập môn lập trình,4.08,IT
+IT048,3,1,IT104,Cơ sở dữ liệu,3.18,IT
+IT048,3,1,IT108,Lập trình web,3.77,IT
+IT048,3,2,IT108,Lập trình web,4.93,IT
+IT048,3,2,IT109,An toàn thông tin,3.77,IT
+IT048,3,3,IT105,Mạng máy tính,3.84,IT
+IT048,3,3,IT109,An toàn thông tin,4.56,IT
+IT048,3,3,IT110,Kỹ thuật phần mềm,3.44,IT
+IT049,3,1,IT110,Kỹ thuật phần mềm,3.79,IT
+IT049,3,1,IT106,Hệ điều hành,2.42,IT
+IT049,3,1,IT104,Cơ sở dữ liệu,3.45,IT
+IT049,3,2,IT108,Lập trình web,4.76,IT
+IT049,3,2,IT106,Hệ điều hành,4.92,IT
+IT049,3,2,IT103,Lập trình hướng đối tượng,3.54,IT
+IT049,3,3,IT107,Trí tuệ nhân tạo,4.72,IT
+IT049,3,3,IT102,Cấu trúc dữ liệu,2.48,IT
+IT049,3,3,IT103,Lập trình hướng đối tượng,3.75,IT
+IT050,1,1,IT107,Trí tuệ nhân tạo,3.97,IT
+IT050,1,1,IT102,Cấu trúc dữ liệu,3.07,IT
+IT050,1,1,IT104,Cơ sở dữ liệu,4.18,IT
+IT050,1,2,IT103,Lập trình hướng đối tượng,2.2,IT
+IT050,1,2,IT104,Cơ sở dữ liệu,3.72,IT
+IT050,1,3,IT104,Cơ sở dữ liệu,4.28,IT
+IT050,1,3,IT101,Nhập môn lập trình,3.57,IT
 
 //------------------PHARMA------------------//
 PH001,4,1,PH102,Dược lý học,4.36,PHARMA
