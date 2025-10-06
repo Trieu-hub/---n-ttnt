@@ -3763,1510 +3763,1350 @@ IEI050,2,6,IEI114,International Finance,4.22,IEI
 IEI050,3,2,IEI103,Global Marketing,3.67,IEI
 IEI050,4,4,IEI115,Tourism and Hospitality International,3.44,IEI
 
-KO001,3,1,KR105,Viết tiếng Hàn,3.89,KOREAN
-KO001,3,2,KR106,Tiếng Hàn thương mại,2.26,KOREAN
-KO001,3,3,KR102,Hội thoại tiếng Hàn,2.42,KOREAN
-KO001,3,4,KR103,Văn hóa Hàn Quốc,2.86,KOREAN
-KO001,3,5,KR104,Đọc hiểu tiếng Hàn,2.09,KOREAN
-KO001,3,6,KR101,Ngữ pháp tiếng Hàn,4.87,KOREAN
-KO002,2,1,KR102,Hội thoại tiếng Hàn,3.09,KOREAN
-KO002,2,2,KR105,Viết tiếng Hàn,3.24,KOREAN
-KO002,2,3,KR104,Đọc hiểu tiếng Hàn,4.73,KOREAN
-KO002,2,4,KR106,Tiếng Hàn thương mại,3.45,KOREAN
-KO002,2,5,KR101,Ngữ pháp tiếng Hàn,2.7,KOREAN
-KO002,2,6,KR103,Văn hóa Hàn Quốc,2.18,KOREAN
-KO003,1,1,KR102,Hội thoại tiếng Hàn,3.57,KOREAN
-KO003,1,2,KR106,Tiếng Hàn thương mại,2.94,KOREAN
-KO003,1,3,KR103,Văn hóa Hàn Quốc,2.41,KOREAN
-KO003,1,4,KR104,Đọc hiểu tiếng Hàn,3.45,KOREAN
-KO003,1,5,KR101,Ngữ pháp tiếng Hàn,2.43,KOREAN
-KO003,1,6,KR105,Viết tiếng Hàn,4.88,KOREAN
-KO004,3,1,KR106,Tiếng Hàn thương mại,3.14,KOREAN
-KO004,3,2,KR102,Hội thoại tiếng Hàn,4.3,KOREAN
-KO004,3,3,KR103,Văn hóa Hàn Quốc,2.36,KOREAN
-KO004,3,4,KR101,Ngữ pháp tiếng Hàn,3.67,KOREAN
-KO004,3,5,KR105,Viết tiếng Hàn,3.06,KOREAN
-KO004,3,6,KR104,Đọc hiểu tiếng Hàn,3.87,KOREAN
-KO005,2,1,KR102,Hội thoại tiếng Hàn,4.01,KOREAN
-KO005,2,2,KR105,Viết tiếng Hàn,2.92,KOREAN
-KO005,2,3,KR103,Văn hóa Hàn Quốc,3.1,KOREAN
-KO005,2,4,KR106,Tiếng Hàn thương mại,2.68,KOREAN
-KO005,2,5,KR101,Ngữ pháp tiếng Hàn,3.6,KOREAN
-KO005,2,6,KR104,Đọc hiểu tiếng Hàn,3.22,KOREAN
-KO006,3,1,KR106,Tiếng Hàn thương mại,3.83,KOREAN
-KO006,3,2,KR102,Hội thoại tiếng Hàn,3.25,KOREAN
-KO006,3,3,KR104,Đọc hiểu tiếng Hàn,2.85,KOREAN
-KO006,3,4,KR101,Ngữ pháp tiếng Hàn,4.33,KOREAN
-KO006,3,5,KR103,Văn hóa Hàn Quốc,2.21,KOREAN
-KO006,3,6,KR105,Viết tiếng Hàn,3.06,KOREAN
-KO007,1,1,KR102,Hội thoại tiếng Hàn,3.85,KOREAN
-KO007,1,2,KR104,Đọc hiểu tiếng Hàn,2.47,KOREAN
-KO007,1,3,KR105,Viết tiếng Hàn,2.29,KOREAN
-KO007,1,4,KR101,Ngữ pháp tiếng Hàn,4.69,KOREAN
-KO007,1,5,KR106,Tiếng Hàn thương mại,4.68,KOREAN
-KO007,1,6,KR103,Văn hóa Hàn Quốc,2.25,KOREAN
-KO008,2,1,KR105,Viết tiếng Hàn,2.39,KOREAN
-KO008,2,2,KR103,Văn hóa Hàn Quốc,4.26,KOREAN
-KO008,2,3,KR102,Hội thoại tiếng Hàn,2.73,KOREAN
-KO008,2,4,KR106,Tiếng Hàn thương mại,3.77,KOREAN
-KO008,2,5,KR101,Ngữ pháp tiếng Hàn,3.14,KOREAN
-KO008,2,6,KR104,Đọc hiểu tiếng Hàn,4.93,KOREAN
-KO009,4,1,KR103,Văn hóa Hàn Quốc,2.37,KOREAN
-KO009,4,2,KR101,Ngữ pháp tiếng Hàn,3.68,KOREAN
-KO009,4,3,KR105,Viết tiếng Hàn,2.84,KOREAN
-KO009,4,4,KR106,Tiếng Hàn thương mại,2.51,KOREAN
-KO009,4,5,KR104,Đọc hiểu tiếng Hàn,2.49,KOREAN
-KO009,4,6,KR102,Hội thoại tiếng Hàn,3.33,KOREAN
-KO010,4,1,KR106,Tiếng Hàn thương mại,2.8,KOREAN
-KO010,4,2,KR101,Ngữ pháp tiếng Hàn,3.72,KOREAN
-KO010,4,3,KR104,Đọc hiểu tiếng Hàn,4.75,KOREAN
-KO010,4,4,KR103,Văn hóa Hàn Quốc,3.64,KOREAN
-KO010,4,5,KR102,Hội thoại tiếng Hàn,2.93,KOREAN
-KO010,4,6,KR105,Viết tiếng Hàn,4.34,KOREAN
-KO011,4,1,KR104,Đọc hiểu tiếng Hàn,2.44,KOREAN
-KO011,4,2,KR103,Văn hóa Hàn Quốc,3.22,KOREAN
-KO011,4,3,KR102,Hội thoại tiếng Hàn,3.29,KOREAN
-KO011,4,4,KR101,Ngữ pháp tiếng Hàn,4.78,KOREAN
-KO011,4,5,KR106,Tiếng Hàn thương mại,2.63,KOREAN
-KO011,4,6,KR105,Viết tiếng Hàn,4.07,KOREAN
-KO012,3,1,KR105,Viết tiếng Hàn,4.14,KOREAN
-KO012,3,2,KR102,Hội thoại tiếng Hàn,2.99,KOREAN
-KO012,3,3,KR101,Ngữ pháp tiếng Hàn,4.15,KOREAN
-KO012,3,4,KR106,Tiếng Hàn thương mại,2.48,KOREAN
-KO012,3,5,KR103,Văn hóa Hàn Quốc,2.96,KOREAN
-KO012,3,6,KR104,Đọc hiểu tiếng Hàn,2.2,KOREAN
-KO013,2,1,KR102,Hội thoại tiếng Hàn,3.06,KOREAN
-KO013,2,2,KR103,Văn hóa Hàn Quốc,4.86,KOREAN
-KO013,2,3,KR105,Viết tiếng Hàn,4.45,KOREAN
-KO013,2,4,KR104,Đọc hiểu tiếng Hàn,3.88,KOREAN
-KO013,2,5,KR101,Ngữ pháp tiếng Hàn,2.64,KOREAN
-KO013,2,6,KR106,Tiếng Hàn thương mại,4.81,KOREAN
-KO014,4,1,KR102,Hội thoại tiếng Hàn,3.32,KOREAN
-KO014,4,2,KR103,Văn hóa Hàn Quốc,4.48,KOREAN
-KO014,4,3,KR106,Tiếng Hàn thương mại,4.14,KOREAN
-KO014,4,4,KR101,Ngữ pháp tiếng Hàn,4.13,KOREAN
-KO014,4,5,KR105,Viết tiếng Hàn,4.55,KOREAN
-KO014,4,6,KR104,Đọc hiểu tiếng Hàn,4.04,KOREAN
-KO015,1,1,KR104,Đọc hiểu tiếng Hàn,2.85,KOREAN
-KO015,1,2,KR101,Ngữ pháp tiếng Hàn,4.4,KOREAN
-KO015,1,3,KR105,Viết tiếng Hàn,2.93,KOREAN
-KO015,1,4,KR102,Hội thoại tiếng Hàn,3.69,KOREAN
-KO015,1,5,KR106,Tiếng Hàn thương mại,3.12,KOREAN
-KO015,1,6,KR103,Văn hóa Hàn Quốc,4.9,KOREAN
-KO016,2,1,KR103,Văn hóa Hàn Quốc,2.91,KOREAN
-KO016,2,2,KR102,Hội thoại tiếng Hàn,4.71,KOREAN
-KO016,2,3,KR101,Ngữ pháp tiếng Hàn,2.42,KOREAN
-KO016,2,4,KR106,Tiếng Hàn thương mại,3.18,KOREAN
-KO016,2,5,KR104,Đọc hiểu tiếng Hàn,2.96,KOREAN
-KO016,2,6,KR105,Viết tiếng Hàn,3.22,KOREAN
-KO017,4,1,KR104,Đọc hiểu tiếng Hàn,3.67,KOREAN
-KO017,4,2,KR102,Hội thoại tiếng Hàn,3.6,KOREAN
-KO017,4,3,KR106,Tiếng Hàn thương mại,4.68,KOREAN
-KO017,4,4,KR103,Văn hóa Hàn Quốc,3.76,KOREAN
-KO017,4,5,KR101,Ngữ pháp tiếng Hàn,3.72,KOREAN
-KO017,4,6,KR105,Viết tiếng Hàn,3.12,KOREAN
-KO018,2,1,KR101,Ngữ pháp tiếng Hàn,4.26,KOREAN
-KO018,2,2,KR102,Hội thoại tiếng Hàn,3.44,KOREAN
-KO018,2,3,KR104,Đọc hiểu tiếng Hàn,3.58,KOREAN
-KO018,2,4,KR105,Viết tiếng Hàn,2.69,KOREAN
-KO018,2,5,KR106,Tiếng Hàn thương mại,3.29,KOREAN
-KO018,2,6,KR103,Văn hóa Hàn Quốc,3.57,KOREAN
-KO019,1,1,KR102,Hội thoại tiếng Hàn,3.37,KOREAN
-KO019,1,2,KR104,Đọc hiểu tiếng Hàn,2.07,KOREAN
-KO019,1,3,KR103,Văn hóa Hàn Quốc,2.75,KOREAN
-KO019,1,4,KR106,Tiếng Hàn thương mại,4.22,KOREAN
-KO019,1,5,KR101,Ngữ pháp tiếng Hàn,3.38,KOREAN
-KO019,1,6,KR105,Viết tiếng Hàn,4.21,KOREAN
-KO020,1,1,KR104,Đọc hiểu tiếng Hàn,3.09,KOREAN
-KO020,1,2,KR105,Viết tiếng Hàn,3.67,KOREAN
-KO020,1,3,KR106,Tiếng Hàn thương mại,4.73,KOREAN
-KO020,1,4,KR102,Hội thoại tiếng Hàn,4.41,KOREAN
-KO020,1,5,KR103,Văn hóa Hàn Quốc,3.94,KOREAN
-KO020,1,6,KR101,Ngữ pháp tiếng Hàn,3.71,KOREAN
-KO021,4,1,KR106,Tiếng Hàn thương mại,2.58,KOREAN
-KO021,4,2,KR105,Viết tiếng Hàn,2.93,KOREAN
-KO021,4,3,KR104,Đọc hiểu tiếng Hàn,3.8,KOREAN
-KO021,4,4,KR103,Văn hóa Hàn Quốc,3.23,KOREAN
-KO021,4,5,KR101,Ngữ pháp tiếng Hàn,2.72,KOREAN
-KO021,4,6,KR102,Hội thoại tiếng Hàn,3.83,KOREAN
-KO022,2,1,KR103,Văn hóa Hàn Quốc,3.8,KOREAN
-KO022,2,2,KR101,Ngữ pháp tiếng Hàn,3.56,KOREAN
-KO022,2,3,KR102,Hội thoại tiếng Hàn,3.74,KOREAN
-KO022,2,4,KR106,Tiếng Hàn thương mại,3.7,KOREAN
-KO022,2,5,KR104,Đọc hiểu tiếng Hàn,2.43,KOREAN
-KO022,2,6,KR105,Viết tiếng Hàn,3.46,KOREAN
-KO023,2,1,KR102,Hội thoại tiếng Hàn,2.44,KOREAN
-KO023,2,2,KR105,Viết tiếng Hàn,2.08,KOREAN
-KO023,2,3,KR104,Đọc hiểu tiếng Hàn,2.0,KOREAN
-KO023,2,4,KR106,Tiếng Hàn thương mại,4.64,KOREAN
-KO023,2,5,KR103,Văn hóa Hàn Quốc,2.34,KOREAN
-KO023,2,6,KR101,Ngữ pháp tiếng Hàn,2.85,KOREAN
-KO024,1,1,KR101,Ngữ pháp tiếng Hàn,4.26,KOREAN
-KO024,1,2,KR104,Đọc hiểu tiếng Hàn,2.12,KOREAN
-KO024,1,3,KR102,Hội thoại tiếng Hàn,4.85,KOREAN
-KO024,1,4,KR106,Tiếng Hàn thương mại,3.24,KOREAN
-KO024,1,5,KR103,Văn hóa Hàn Quốc,3.99,KOREAN
-KO024,1,6,KR105,Viết tiếng Hàn,4.0,KOREAN
-KO025,3,1,KR103,Văn hóa Hàn Quốc,3.02,KOREAN
-KO025,3,2,KR101,Ngữ pháp tiếng Hàn,3.43,KOREAN
-KO025,3,3,KR106,Tiếng Hàn thương mại,2.05,KOREAN
-KO025,3,4,KR102,Hội thoại tiếng Hàn,2.2,KOREAN
-KO025,3,5,KR104,Đọc hiểu tiếng Hàn,3.13,KOREAN
-KO025,3,6,KR105,Viết tiếng Hàn,2.2,KOREAN
-KO026,4,1,KR106,Tiếng Hàn thương mại,2.95,KOREAN
-KO026,4,2,KR103,Văn hóa Hàn Quốc,4.88,KOREAN
-KO026,4,3,KR102,Hội thoại tiếng Hàn,2.32,KOREAN
-KO026,4,4,KR105,Viết tiếng Hàn,2.28,KOREAN
-KO026,4,5,KR101,Ngữ pháp tiếng Hàn,3.17,KOREAN
-KO026,4,6,KR104,Đọc hiểu tiếng Hàn,4.7,KOREAN
-KO027,3,1,KR103,Văn hóa Hàn Quốc,3.24,KOREAN
-KO027,3,2,KR102,Hội thoại tiếng Hàn,2.23,KOREAN
-KO027,3,3,KR101,Ngữ pháp tiếng Hàn,2.45,KOREAN
-KO027,3,4,KR105,Viết tiếng Hàn,2.03,KOREAN
-KO027,3,5,KR104,Đọc hiểu tiếng Hàn,4.66,KOREAN
-KO027,3,6,KR106,Tiếng Hàn thương mại,4.81,KOREAN
-KO028,1,1,KR101,Ngữ pháp tiếng Hàn,4.83,KOREAN
-KO028,1,2,KR105,Viết tiếng Hàn,2.49,KOREAN
-KO028,1,3,KR103,Văn hóa Hàn Quốc,3.02,KOREAN
-KO028,1,4,KR106,Tiếng Hàn thương mại,4.24,KOREAN
-KO028,1,5,KR104,Đọc hiểu tiếng Hàn,2.77,KOREAN
-KO028,1,6,KR102,Hội thoại tiếng Hàn,3.16,KOREAN
-KO029,3,1,KR106,Tiếng Hàn thương mại,2.7,KOREAN
-KO029,3,2,KR102,Hội thoại tiếng Hàn,4.17,KOREAN
-KO029,3,3,KR105,Viết tiếng Hàn,2.36,KOREAN
-KO029,3,4,KR101,Ngữ pháp tiếng Hàn,4.73,KOREAN
-KO029,3,5,KR104,Đọc hiểu tiếng Hàn,4.08,KOREAN
-KO029,3,6,KR103,Văn hóa Hàn Quốc,4.48,KOREAN
-KO030,3,1,KR101,Ngữ pháp tiếng Hàn,2.11,KOREAN
-KO030,3,2,KR103,Văn hóa Hàn Quốc,2.83,KOREAN
-KO030,3,3,KR104,Đọc hiểu tiếng Hàn,3.81,KOREAN
-KO030,3,4,KR105,Viết tiếng Hàn,2.61,KOREAN
-KO030,3,5,KR106,Tiếng Hàn thương mại,2.33,KOREAN
-KO030,3,6,KR102,Hội thoại tiếng Hàn,4.96,KOREAN
-KO031,2,1,KR102,Hội thoại tiếng Hàn,3.3,KOREAN
-KO031,2,2,KR101,Ngữ pháp tiếng Hàn,2.17,KOREAN
-KO031,2,3,KR103,Văn hóa Hàn Quốc,3.24,KOREAN
-KO031,2,4,KR104,Đọc hiểu tiếng Hàn,3.7,KOREAN
-KO031,2,5,KR105,Viết tiếng Hàn,2.25,KOREAN
-KO031,2,6,KR106,Tiếng Hàn thương mại,4.14,KOREAN
-KO032,2,1,KR105,Viết tiếng Hàn,4.15,KOREAN
-KO032,2,2,KR103,Văn hóa Hàn Quốc,3.97,KOREAN
-KO032,2,3,KR104,Đọc hiểu tiếng Hàn,2.73,KOREAN
-KO032,2,4,KR102,Hội thoại tiếng Hàn,3.63,KOREAN
-KO032,2,5,KR101,Ngữ pháp tiếng Hàn,3.4,KOREAN
-KO032,2,6,KR106,Tiếng Hàn thương mại,2.93,KOREAN
-KO033,2,1,KR106,Tiếng Hàn thương mại,4.75,KOREAN
-KO033,2,2,KR104,Đọc hiểu tiếng Hàn,3.0,KOREAN
-KO033,2,3,KR101,Ngữ pháp tiếng Hàn,2.19,KOREAN
-KO033,2,4,KR105,Viết tiếng Hàn,2.42,KOREAN
-KO033,2,5,KR103,Văn hóa Hàn Quốc,3.01,KOREAN
-KO033,2,6,KR102,Hội thoại tiếng Hàn,2.78,KOREAN
-KO034,1,1,KR105,Viết tiếng Hàn,2.58,KOREAN
-KO034,1,2,KR104,Đọc hiểu tiếng Hàn,2.82,KOREAN
-KO034,1,3,KR106,Tiếng Hàn thương mại,3.38,KOREAN
-KO034,1,4,KR101,Ngữ pháp tiếng Hàn,4.54,KOREAN
-KO034,1,5,KR102,Hội thoại tiếng Hàn,4.49,KOREAN
-KO034,1,6,KR103,Văn hóa Hàn Quốc,2.44,KOREAN
-KO035,1,1,KR103,Văn hóa Hàn Quốc,4.67,KOREAN
-KO035,1,2,KR101,Ngữ pháp tiếng Hàn,2.83,KOREAN
-KO035,1,3,KR104,Đọc hiểu tiếng Hàn,2.38,KOREAN
-KO035,1,4,KR102,Hội thoại tiếng Hàn,4.73,KOREAN
-KO035,1,5,KR105,Viết tiếng Hàn,3.96,KOREAN
-KO035,1,6,KR106,Tiếng Hàn thương mại,3.61,KOREAN
-KO036,4,1,KR105,Viết tiếng Hàn,2.65,KOREAN
-KO036,4,2,KR102,Hội thoại tiếng Hàn,3.17,KOREAN
-KO036,4,3,KR106,Tiếng Hàn thương mại,4.28,KOREAN
-KO036,4,4,KR104,Đọc hiểu tiếng Hàn,2.11,KOREAN
-KO036,4,5,KR101,Ngữ pháp tiếng Hàn,2.07,KOREAN
-KO036,4,6,KR103,Văn hóa Hàn Quốc,3.85,KOREAN
-KO037,4,1,KR106,Tiếng Hàn thương mại,2.96,KOREAN
-KO037,4,2,KR102,Hội thoại tiếng Hàn,4.89,KOREAN
-KO037,4,3,KR103,Văn hóa Hàn Quốc,4.22,KOREAN
-KO037,4,4,KR101,Ngữ pháp tiếng Hàn,3.34,KOREAN
-KO037,4,5,KR104,Đọc hiểu tiếng Hàn,2.94,KOREAN
-KO037,4,6,KR105,Viết tiếng Hàn,4.02,KOREAN
-KO038,4,1,KR106,Tiếng Hàn thương mại,3.34,KOREAN
-KO038,4,2,KR105,Viết tiếng Hàn,2.8,KOREAN
-KO038,4,3,KR101,Ngữ pháp tiếng Hàn,3.41,KOREAN
-KO038,4,4,KR102,Hội thoại tiếng Hàn,4.63,KOREAN
-KO038,4,5,KR104,Đọc hiểu tiếng Hàn,2.97,KOREAN
-KO038,4,6,KR103,Văn hóa Hàn Quốc,3.06,KOREAN
-KO039,4,1,KR101,Ngữ pháp tiếng Hàn,3.72,KOREAN
-KO039,4,2,KR106,Tiếng Hàn thương mại,3.94,KOREAN
-KO039,4,3,KR104,Đọc hiểu tiếng Hàn,3.86,KOREAN
-KO039,4,4,KR105,Viết tiếng Hàn,2.96,KOREAN
-KO039,4,5,KR102,Hội thoại tiếng Hàn,4.83,KOREAN
-KO039,4,6,KR103,Văn hóa Hàn Quốc,2.64,KOREAN
-KO040,1,1,KR102,Hội thoại tiếng Hàn,4.78,KOREAN
-KO040,1,2,KR105,Viết tiếng Hàn,2.78,KOREAN
-KO040,1,3,KR104,Đọc hiểu tiếng Hàn,4.26,KOREAN
-KO040,1,4,KR101,Ngữ pháp tiếng Hàn,3.08,KOREAN
-KO040,1,5,KR106,Tiếng Hàn thương mại,3.91,KOREAN
-KO040,1,6,KR103,Văn hóa Hàn Quốc,4.35,KOREAN
-KO041,2,1,KR101,Ngữ pháp tiếng Hàn,3.74,KOREAN
-KO041,2,2,KR106,Tiếng Hàn thương mại,4.63,KOREAN
-KO041,2,3,KR102,Hội thoại tiếng Hàn,4.21,KOREAN
-KO041,2,4,KR103,Văn hóa Hàn Quốc,3.59,KOREAN
-KO041,2,5,KR104,Đọc hiểu tiếng Hàn,3.23,KOREAN
-KO041,2,6,KR105,Viết tiếng Hàn,3.46,KOREAN
-KO042,3,1,KR103,Văn hóa Hàn Quốc,2.37,KOREAN
-KO042,3,2,KR101,Ngữ pháp tiếng Hàn,4.24,KOREAN
-KO042,3,3,KR104,Đọc hiểu tiếng Hàn,3.11,KOREAN
-KO042,3,4,KR105,Viết tiếng Hàn,2.68,KOREAN
-KO042,3,5,KR102,Hội thoại tiếng Hàn,2.41,KOREAN
-KO042,3,6,KR106,Tiếng Hàn thương mại,3.74,KOREAN
-KO043,4,1,KR104,Đọc hiểu tiếng Hàn,2.45,KOREAN
-KO043,4,2,KR106,Tiếng Hàn thương mại,4.26,KOREAN
-KO043,4,3,KR101,Ngữ pháp tiếng Hàn,2.56,KOREAN
-KO043,4,4,KR105,Viết tiếng Hàn,3.19,KOREAN
-KO043,4,5,KR102,Hội thoại tiếng Hàn,2.63,KOREAN
-KO043,4,6,KR103,Văn hóa Hàn Quốc,4.64,KOREAN
-KO044,1,1,KR102,Hội thoại tiếng Hàn,3.18,KOREAN
-KO044,1,2,KR101,Ngữ pháp tiếng Hàn,4.06,KOREAN
-KO044,1,3,KR104,Đọc hiểu tiếng Hàn,2.28,KOREAN
-KO044,1,4,KR103,Văn hóa Hàn Quốc,4.48,KOREAN
-KO044,1,5,KR105,Viết tiếng Hàn,2.16,KOREAN
-KO044,1,6,KR106,Tiếng Hàn thương mại,4.89,KOREAN
-KO045,4,1,KR106,Tiếng Hàn thương mại,2.09,KOREAN
-KO045,4,2,KR102,Hội thoại tiếng Hàn,2.26,KOREAN
-KO045,4,3,KR105,Viết tiếng Hàn,4.58,KOREAN
-KO045,4,4,KR103,Văn hóa Hàn Quốc,2.37,KOREAN
-KO045,4,5,KR101,Ngữ pháp tiếng Hàn,2.33,KOREAN
-KO045,4,6,KR104,Đọc hiểu tiếng Hàn,2.84,KOREAN
-KO046,3,1,KR104,Đọc hiểu tiếng Hàn,2.69,KOREAN
-KO046,3,2,KR102,Hội thoại tiếng Hàn,3.24,KOREAN
-KO046,3,3,KR105,Viết tiếng Hàn,2.36,KOREAN
-KO046,3,4,KR106,Tiếng Hàn thương mại,4.87,KOREAN
-KO046,3,5,KR103,Văn hóa Hàn Quốc,2.15,KOREAN
-KO046,3,6,KR101,Ngữ pháp tiếng Hàn,4.19,KOREAN
-KO047,3,1,KR105,Viết tiếng Hàn,2.34,KOREAN
-KO047,3,2,KR106,Tiếng Hàn thương mại,3.93,KOREAN
-KO047,3,3,KR102,Hội thoại tiếng Hàn,3.48,KOREAN
-KO047,3,4,KR101,Ngữ pháp tiếng Hàn,3.52,KOREAN
-KO047,3,5,KR103,Văn hóa Hàn Quốc,3.56,KOREAN
-KO047,3,6,KR104,Đọc hiểu tiếng Hàn,4.26,KOREAN
-KO048,2,1,KR104,Đọc hiểu tiếng Hàn,3.99,KOREAN
-KO048,2,2,KR105,Viết tiếng Hàn,4.39,KOREAN
-KO048,2,3,KR106,Tiếng Hàn thương mại,4.37,KOREAN
-KO048,2,4,KR103,Văn hóa Hàn Quốc,3.64,KOREAN
-KO048,2,5,KR101,Ngữ pháp tiếng Hàn,2.9,KOREAN
-KO048,2,6,KR102,Hội thoại tiếng Hàn,3.38,KOREAN
-KO049,2,1,KR101,Ngữ pháp tiếng Hàn,3.52,KOREAN
-KO049,2,2,KR104,Đọc hiểu tiếng Hàn,4.8,KOREAN
-KO049,2,3,KR102,Hội thoại tiếng Hàn,3.84,KOREAN
-KO049,2,4,KR103,Văn hóa Hàn Quốc,2.37,KOREAN
-KO049,2,5,KR105,Viết tiếng Hàn,4.31,KOREAN
-KO049,2,6,KR106,Tiếng Hàn thương mại,3.76,KOREAN
-KO050,1,1,KR105,Viết tiếng Hàn,4.03,KOREAN
-KO050,1,2,KR106,Tiếng Hàn thương mại,4.86,KOREAN
-KO050,1,3,KR101,Ngữ pháp tiếng Hàn,2.11,KOREAN
-KO050,1,4,KR104,Đọc hiểu tiếng Hàn,3.39,KOREAN
-KO050,1,5,KR102,Hội thoại tiếng Hàn,4.09,KOREAN
-KO050,1,6,KR103,Văn hóa Hàn Quốc,4.18,KOREAN
-TO001,2,1,TO105,Quản trị khách sạn,3.89,TOURISM
-TO001,2,2,TO102,Quản trị lữ hành,2.9,TOURISM
-TO001,2,3,TO106,Du lịch bền vững,3.69,TOURISM
-TO001,2,4,TO101,Địa lý du lịch,2.95,TOURISM
-TO001,2,5,TO103,Marketing du lịch,2.8,TOURISM
-TO001,2,6,TO104,Hướng dẫn viên du lịch,2.17,TOURISM
-TO002,2,1,TO106,Du lịch bền vững,4.9,TOURISM
-TO002,2,2,TO105,Quản trị khách sạn,3.95,TOURISM
-TO002,2,3,TO101,Địa lý du lịch,4.72,TOURISM
-TO002,2,4,TO102,Quản trị lữ hành,2.5,TOURISM
-TO002,2,5,TO104,Hướng dẫn viên du lịch,4.12,TOURISM
-TO002,2,6,TO103,Marketing du lịch,4.23,TOURISM
-TO003,4,1,TO106,Du lịch bền vững,3.61,TOURISM
-TO003,4,2,TO101,Địa lý du lịch,2.06,TOURISM
-TO003,4,3,TO103,Marketing du lịch,2.87,TOURISM
-TO003,4,4,TO104,Hướng dẫn viên du lịch,3.71,TOURISM
-TO003,4,5,TO102,Quản trị lữ hành,3.89,TOURISM
-TO003,4,6,TO105,Quản trị khách sạn,2.14,TOURISM
-TO004,2,1,TO101,Địa lý du lịch,4.08,TOURISM
-TO004,2,2,TO103,Marketing du lịch,2.29,TOURISM
-TO004,2,3,TO102,Quản trị lữ hành,5.0,TOURISM
-TO004,2,4,TO104,Hướng dẫn viên du lịch,3.07,TOURISM
-TO004,2,5,TO105,Quản trị khách sạn,4.54,TOURISM
-TO004,2,6,TO106,Du lịch bền vững,4.47,TOURISM
-TO005,3,1,TO103,Marketing du lịch,2.53,TOURISM
-TO005,3,2,TO106,Du lịch bền vững,4.29,TOURISM
-TO005,3,3,TO104,Hướng dẫn viên du lịch,2.53,TOURISM
-TO005,3,4,TO101,Địa lý du lịch,4.7,TOURISM
-TO005,3,5,TO102,Quản trị lữ hành,2.19,TOURISM
-TO005,3,6,TO105,Quản trị khách sạn,4.11,TOURISM
-TO006,2,1,TO106,Du lịch bền vững,3.28,TOURISM
-TO006,2,2,TO103,Marketing du lịch,4.93,TOURISM
-TO006,2,3,TO101,Địa lý du lịch,4.25,TOURISM
-TO006,2,4,TO102,Quản trị lữ hành,2.48,TOURISM
-TO006,2,5,TO105,Quản trị khách sạn,3.45,TOURISM
-TO006,2,6,TO104,Hướng dẫn viên du lịch,4.62,TOURISM
-TO007,1,1,TO104,Hướng dẫn viên du lịch,2.54,TOURISM
-TO007,1,2,TO101,Địa lý du lịch,2.53,TOURISM
-TO007,1,3,TO105,Quản trị khách sạn,4.74,TOURISM
-TO007,1,4,TO102,Quản trị lữ hành,2.28,TOURISM
-TO007,1,5,TO106,Du lịch bền vững,3.6,TOURISM
-TO007,1,6,TO103,Marketing du lịch,3.39,TOURISM
-TO008,3,1,TO103,Marketing du lịch,2.65,TOURISM
-TO008,3,2,TO106,Du lịch bền vững,3.36,TOURISM
-TO008,3,3,TO102,Quản trị lữ hành,3.55,TOURISM
-TO008,3,4,TO105,Quản trị khách sạn,3.81,TOURISM
-TO008,3,5,TO104,Hướng dẫn viên du lịch,4.61,TOURISM
-TO008,3,6,TO101,Địa lý du lịch,3.44,TOURISM
-TO009,2,1,TO103,Marketing du lịch,3.46,TOURISM
-TO009,2,2,TO104,Hướng dẫn viên du lịch,4.79,TOURISM
-TO009,2,3,TO101,Địa lý du lịch,4.79,TOURISM
-TO009,2,4,TO106,Du lịch bền vững,3.51,TOURISM
-TO009,2,5,TO102,Quản trị lữ hành,4.84,TOURISM
-TO009,2,6,TO105,Quản trị khách sạn,4.84,TOURISM
-TO010,1,1,TO104,Hướng dẫn viên du lịch,3.58,TOURISM
-TO010,1,2,TO105,Quản trị khách sạn,4.17,TOURISM
-TO010,1,3,TO102,Quản trị lữ hành,2.92,TOURISM
-TO010,1,4,TO103,Marketing du lịch,4.6,TOURISM
-TO010,1,5,TO106,Du lịch bền vững,4.77,TOURISM
-TO010,1,6,TO101,Địa lý du lịch,3.72,TOURISM
-TO011,4,1,TO101,Địa lý du lịch,2.71,TOURISM
-TO011,4,2,TO103,Marketing du lịch,2.11,TOURISM
-TO011,4,3,TO106,Du lịch bền vững,2.06,TOURISM
-TO011,4,4,TO102,Quản trị lữ hành,2.6,TOURISM
-TO011,4,5,TO105,Quản trị khách sạn,2.12,TOURISM
-TO011,4,6,TO104,Hướng dẫn viên du lịch,4.84,TOURISM
-TO012,1,1,TO101,Địa lý du lịch,4.59,TOURISM
-TO012,1,2,TO103,Marketing du lịch,3.86,TOURISM
-TO012,1,3,TO104,Hướng dẫn viên du lịch,2.93,TOURISM
-TO012,1,4,TO102,Quản trị lữ hành,4.72,TOURISM
-TO012,1,5,TO106,Du lịch bền vững,4.89,TOURISM
-TO012,1,6,TO105,Quản trị khách sạn,4.52,TOURISM
-TO013,2,1,TO105,Quản trị khách sạn,4.39,TOURISM
-TO013,2,2,TO106,Du lịch bền vững,4.94,TOURISM
-TO013,2,3,TO104,Hướng dẫn viên du lịch,2.22,TOURISM
-TO013,2,4,TO103,Marketing du lịch,3.94,TOURISM
-TO013,2,5,TO101,Địa lý du lịch,2.63,TOURISM
-TO013,2,6,TO102,Quản trị lữ hành,2.48,TOURISM
-TO014,1,1,TO102,Quản trị lữ hành,4.44,TOURISM
-TO014,1,2,TO104,Hướng dẫn viên du lịch,4.83,TOURISM
-TO014,1,3,TO101,Địa lý du lịch,3.58,TOURISM
-TO014,1,4,TO103,Marketing du lịch,4.97,TOURISM
-TO014,1,5,TO105,Quản trị khách sạn,3.08,TOURISM
-TO014,1,6,TO106,Du lịch bền vững,3.57,TOURISM
-TO015,1,1,TO105,Quản trị khách sạn,4.16,TOURISM
-TO015,1,2,TO101,Địa lý du lịch,4.71,TOURISM
-TO015,1,3,TO106,Du lịch bền vững,4.17,TOURISM
-TO015,1,4,TO102,Quản trị lữ hành,3.4,TOURISM
-TO015,1,5,TO104,Hướng dẫn viên du lịch,4.5,TOURISM
-TO015,1,6,TO103,Marketing du lịch,3.93,TOURISM
-TO016,4,1,TO104,Hướng dẫn viên du lịch,2.1,TOURISM
-TO016,4,2,TO106,Du lịch bền vững,4.78,TOURISM
-TO016,4,3,TO105,Quản trị khách sạn,3.44,TOURISM
-TO016,4,4,TO101,Địa lý du lịch,3.08,TOURISM
-TO016,4,5,TO102,Quản trị lữ hành,4.63,TOURISM
-TO016,4,6,TO103,Marketing du lịch,3.5,TOURISM
-TO017,1,1,TO103,Marketing du lịch,2.93,TOURISM
-TO017,1,2,TO106,Du lịch bền vững,4.88,TOURISM
-TO017,1,3,TO102,Quản trị lữ hành,3.36,TOURISM
-TO017,1,4,TO101,Địa lý du lịch,3.84,TOURISM
-TO017,1,5,TO105,Quản trị khách sạn,2.11,TOURISM
-TO017,1,6,TO104,Hướng dẫn viên du lịch,3.77,TOURISM
-TO018,4,1,TO102,Quản trị lữ hành,4.79,TOURISM
-TO018,4,2,TO103,Marketing du lịch,2.61,TOURISM
-TO018,4,3,TO101,Địa lý du lịch,2.13,TOURISM
-TO018,4,4,TO106,Du lịch bền vững,2.16,TOURISM
-TO018,4,5,TO105,Quản trị khách sạn,2.95,TOURISM
-TO018,4,6,TO104,Hướng dẫn viên du lịch,2.38,TOURISM
-TO019,3,1,TO101,Địa lý du lịch,3.94,TOURISM
-TO019,3,2,TO102,Quản trị lữ hành,2.46,TOURISM
-TO019,3,3,TO106,Du lịch bền vững,4.65,TOURISM
-TO019,3,4,TO104,Hướng dẫn viên du lịch,3.29,TOURISM
-TO019,3,5,TO103,Marketing du lịch,2.54,TOURISM
-TO019,3,6,TO105,Quản trị khách sạn,5.0,TOURISM
-TO020,2,1,TO102,Quản trị lữ hành,2.76,TOURISM
-TO020,2,2,TO103,Marketing du lịch,2.79,TOURISM
-TO020,2,3,TO101,Địa lý du lịch,3.06,TOURISM
-TO020,2,4,TO105,Quản trị khách sạn,3.77,TOURISM
-TO020,2,5,TO104,Hướng dẫn viên du lịch,4.35,TOURISM
-TO020,2,6,TO106,Du lịch bền vững,2.51,TOURISM
-TO021,1,1,TO104,Hướng dẫn viên du lịch,3.32,TOURISM
-TO021,1,2,TO103,Marketing du lịch,2.42,TOURISM
-TO021,1,3,TO106,Du lịch bền vững,2.86,TOURISM
-TO021,1,4,TO102,Quản trị lữ hành,4.49,TOURISM
-TO021,1,5,TO101,Địa lý du lịch,3.15,TOURISM
-TO021,1,6,TO105,Quản trị khách sạn,4.16,TOURISM
-TO022,4,1,TO103,Marketing du lịch,4.14,TOURISM
-TO022,4,2,TO105,Quản trị khách sạn,2.07,TOURISM
-TO022,4,3,TO104,Hướng dẫn viên du lịch,2.66,TOURISM
-TO022,4,4,TO106,Du lịch bền vững,3.66,TOURISM
-TO022,4,5,TO102,Quản trị lữ hành,3.95,TOURISM
-TO022,4,6,TO101,Địa lý du lịch,3.45,TOURISM
-TO023,3,1,TO106,Du lịch bền vững,4.4,TOURISM
-TO023,3,2,TO104,Hướng dẫn viên du lịch,4.36,TOURISM
-TO023,3,3,TO105,Quản trị khách sạn,3.27,TOURISM
-TO023,3,4,TO101,Địa lý du lịch,4.26,TOURISM
-TO023,3,5,TO103,Marketing du lịch,4.35,TOURISM
-TO023,3,6,TO102,Quản trị lữ hành,4.33,TOURISM
-TO024,4,1,TO106,Du lịch bền vững,2.08,TOURISM
-TO024,4,2,TO101,Địa lý du lịch,2.12,TOURISM
-TO024,4,3,TO102,Quản trị lữ hành,2.89,TOURISM
-TO024,4,4,TO105,Quản trị khách sạn,2.39,TOURISM
-TO024,4,5,TO104,Hướng dẫn viên du lịch,4.38,TOURISM
-TO024,4,6,TO103,Marketing du lịch,4.81,TOURISM
-TO025,2,1,TO105,Quản trị khách sạn,2.31,TOURISM
-TO025,2,2,TO102,Quản trị lữ hành,2.08,TOURISM
-TO025,2,3,TO103,Marketing du lịch,4.27,TOURISM
-TO025,2,4,TO101,Địa lý du lịch,2.25,TOURISM
-TO025,2,5,TO104,Hướng dẫn viên du lịch,2.26,TOURISM
-TO025,2,6,TO106,Du lịch bền vững,3.51,TOURISM
-TO026,4,1,TO105,Quản trị khách sạn,3.88,TOURISM
-TO026,4,2,TO104,Hướng dẫn viên du lịch,2.6,TOURISM
-TO026,4,3,TO103,Marketing du lịch,2.12,TOURISM
-TO026,4,4,TO102,Quản trị lữ hành,4.73,TOURISM
-TO026,4,5,TO106,Du lịch bền vững,3.32,TOURISM
-TO026,4,6,TO101,Địa lý du lịch,4.46,TOURISM
-TO027,1,1,TO105,Quản trị khách sạn,4.51,TOURISM
-TO027,1,2,TO101,Địa lý du lịch,2.35,TOURISM
-TO027,1,3,TO104,Hướng dẫn viên du lịch,2.11,TOURISM
-TO027,1,4,TO102,Quản trị lữ hành,2.9,TOURISM
-TO027,1,5,TO106,Du lịch bền vững,2.93,TOURISM
-TO027,1,6,TO103,Marketing du lịch,3.08,TOURISM
-TO028,4,1,TO106,Du lịch bền vững,4.18,TOURISM
-TO028,4,2,TO102,Quản trị lữ hành,3.74,TOURISM
-TO028,4,3,TO105,Quản trị khách sạn,3.72,TOURISM
-TO028,4,4,TO101,Địa lý du lịch,3.45,TOURISM
-TO028,4,5,TO104,Hướng dẫn viên du lịch,2.58,TOURISM
-TO028,4,6,TO103,Marketing du lịch,4.29,TOURISM
-TO029,3,1,TO101,Địa lý du lịch,4.38,TOURISM
-TO029,3,2,TO104,Hướng dẫn viên du lịch,2.2,TOURISM
-TO029,3,3,TO105,Quản trị khách sạn,2.89,TOURISM
-TO029,3,4,TO102,Quản trị lữ hành,3.42,TOURISM
-TO029,3,5,TO106,Du lịch bền vững,4.83,TOURISM
-TO029,3,6,TO103,Marketing du lịch,4.77,TOURISM
-TO030,1,1,TO105,Quản trị khách sạn,2.27,TOURISM
-TO030,1,2,TO104,Hướng dẫn viên du lịch,3.57,TOURISM
-TO030,1,3,TO102,Quản trị lữ hành,2.2,TOURISM
-TO030,1,4,TO106,Du lịch bền vững,2.36,TOURISM
-TO030,1,5,TO101,Địa lý du lịch,2.98,TOURISM
-TO030,1,6,TO103,Marketing du lịch,2.49,TOURISM
-TO031,2,1,TO103,Marketing du lịch,4.82,TOURISM
-TO031,2,2,TO101,Địa lý du lịch,3.83,TOURISM
-TO031,2,3,TO106,Du lịch bền vững,3.62,TOURISM
-TO031,2,4,TO104,Hướng dẫn viên du lịch,2.35,TOURISM
-TO031,2,5,TO105,Quản trị khách sạn,2.41,TOURISM
-TO031,2,6,TO102,Quản trị lữ hành,3.2,TOURISM
-TO032,2,1,TO103,Marketing du lịch,2.91,TOURISM
-TO032,2,2,TO104,Hướng dẫn viên du lịch,4.75,TOURISM
-TO032,2,3,TO101,Địa lý du lịch,4.44,TOURISM
-TO032,2,4,TO105,Quản trị khách sạn,2.28,TOURISM
-TO032,2,5,TO102,Quản trị lữ hành,3.54,TOURISM
-TO032,2,6,TO106,Du lịch bền vững,4.91,TOURISM
-TO033,4,1,TO104,Hướng dẫn viên du lịch,3.33,TOURISM
-TO033,4,2,TO105,Quản trị khách sạn,4.03,TOURISM
-TO033,4,3,TO102,Quản trị lữ hành,2.82,TOURISM
-TO033,4,4,TO106,Du lịch bền vững,3.5,TOURISM
-TO033,4,5,TO103,Marketing du lịch,3.45,TOURISM
-TO033,4,6,TO101,Địa lý du lịch,2.13,TOURISM
-TO034,1,1,TO102,Quản trị lữ hành,4.63,TOURISM
-TO034,1,2,TO101,Địa lý du lịch,2.08,TOURISM
-TO034,1,3,TO105,Quản trị khách sạn,3.75,TOURISM
-TO034,1,4,TO103,Marketing du lịch,4.82,TOURISM
-TO034,1,5,TO106,Du lịch bền vững,3.57,TOURISM
-TO034,1,6,TO104,Hướng dẫn viên du lịch,3.41,TOURISM
-TO035,4,1,TO106,Du lịch bền vững,2.79,TOURISM
-TO035,4,2,TO105,Quản trị khách sạn,2.56,TOURISM
-TO035,4,3,TO103,Marketing du lịch,3.54,TOURISM
-TO035,4,4,TO102,Quản trị lữ hành,2.73,TOURISM
-TO035,4,5,TO101,Địa lý du lịch,4.99,TOURISM
-TO035,4,6,TO104,Hướng dẫn viên du lịch,4.48,TOURISM
-TO036,3,1,TO102,Quản trị lữ hành,2.28,TOURISM
-TO036,3,2,TO103,Marketing du lịch,3.73,TOURISM
-TO036,3,3,TO105,Quản trị khách sạn,4.67,TOURISM
-TO036,3,4,TO104,Hướng dẫn viên du lịch,3.64,TOURISM
-TO036,3,5,TO101,Địa lý du lịch,4.5,TOURISM
-TO036,3,6,TO106,Du lịch bền vững,4.86,TOURISM
-TO037,4,1,TO106,Du lịch bền vững,2.74,TOURISM
-TO037,4,2,TO103,Marketing du lịch,4.34,TOURISM
-TO037,4,3,TO101,Địa lý du lịch,3.94,TOURISM
-TO037,4,4,TO105,Quản trị khách sạn,4.12,TOURISM
-TO037,4,5,TO102,Quản trị lữ hành,2.25,TOURISM
-TO037,4,6,TO104,Hướng dẫn viên du lịch,3.59,TOURISM
-TO038,3,1,TO105,Quản trị khách sạn,4.62,TOURISM
-TO038,3,2,TO102,Quản trị lữ hành,3.09,TOURISM
-TO038,3,3,TO101,Địa lý du lịch,2.79,TOURISM
-TO038,3,4,TO103,Marketing du lịch,3.64,TOURISM
-TO038,3,5,TO104,Hướng dẫn viên du lịch,2.7,TOURISM
-TO038,3,6,TO106,Du lịch bền vững,4.52,TOURISM
-TO039,2,1,TO101,Địa lý du lịch,4.92,TOURISM
-TO039,2,2,TO105,Quản trị khách sạn,3.05,TOURISM
-TO039,2,3,TO103,Marketing du lịch,2.73,TOURISM
-TO039,2,4,TO102,Quản trị lữ hành,4.32,TOURISM
-TO039,2,5,TO104,Hướng dẫn viên du lịch,2.92,TOURISM
-TO039,2,6,TO106,Du lịch bền vững,2.01,TOURISM
-TO040,3,1,TO105,Quản trị khách sạn,2.1,TOURISM
-TO040,3,2,TO103,Marketing du lịch,2.28,TOURISM
-TO040,3,3,TO104,Hướng dẫn viên du lịch,4.55,TOURISM
-TO040,3,4,TO101,Địa lý du lịch,4.75,TOURISM
-TO040,3,5,TO106,Du lịch bền vững,4.66,TOURISM
-TO040,3,6,TO102,Quản trị lữ hành,4.13,TOURISM
-TO041,2,1,TO101,Địa lý du lịch,4.28,TOURISM
-TO041,2,2,TO105,Quản trị khách sạn,2.66,TOURISM
-TO041,2,3,TO104,Hướng dẫn viên du lịch,4.55,TOURISM
-TO041,2,4,TO103,Marketing du lịch,4.26,TOURISM
-TO041,2,5,TO102,Quản trị lữ hành,4.16,TOURISM
-TO041,2,6,TO106,Du lịch bền vững,3.45,TOURISM
-TO042,3,1,TO102,Quản trị lữ hành,2.57,TOURISM
-TO042,3,2,TO101,Địa lý du lịch,3.44,TOURISM
-TO042,3,3,TO104,Hướng dẫn viên du lịch,3.67,TOURISM
-TO042,3,4,TO105,Quản trị khách sạn,4.24,TOURISM
-TO042,3,5,TO103,Marketing du lịch,3.29,TOURISM
-TO042,3,6,TO106,Du lịch bền vững,4.91,TOURISM
-TO043,3,1,TO101,Địa lý du lịch,2.05,TOURISM
-TO043,3,2,TO106,Du lịch bền vững,3.83,TOURISM
-TO043,3,3,TO103,Marketing du lịch,3.35,TOURISM
-TO043,3,4,TO102,Quản trị lữ hành,2.82,TOURISM
-TO043,3,5,TO105,Quản trị khách sạn,3.19,TOURISM
-TO043,3,6,TO104,Hướng dẫn viên du lịch,3.44,TOURISM
-TO044,3,1,TO105,Quản trị khách sạn,2.46,TOURISM
-TO044,3,2,TO104,Hướng dẫn viên du lịch,2.11,TOURISM
-TO044,3,3,TO103,Marketing du lịch,2.58,TOURISM
-TO044,3,4,TO102,Quản trị lữ hành,3.63,TOURISM
-TO044,3,5,TO101,Địa lý du lịch,3.83,TOURISM
-TO044,3,6,TO106,Du lịch bền vững,4.12,TOURISM
-TO045,1,1,TO104,Hướng dẫn viên du lịch,2.05,TOURISM
-TO045,1,2,TO105,Quản trị khách sạn,3.89,TOURISM
-TO045,1,3,TO103,Marketing du lịch,4.95,TOURISM
-TO045,1,4,TO106,Du lịch bền vững,3.35,TOURISM
-TO045,1,5,TO101,Địa lý du lịch,3.17,TOURISM
-TO045,1,6,TO102,Quản trị lữ hành,3.94,TOURISM
-TO046,1,1,TO105,Quản trị khách sạn,2.93,TOURISM
-TO046,1,2,TO102,Quản trị lữ hành,3.56,TOURISM
-TO046,1,3,TO101,Địa lý du lịch,2.87,TOURISM
-TO046,1,4,TO106,Du lịch bền vững,2.99,TOURISM
-TO046,1,5,TO104,Hướng dẫn viên du lịch,2.82,TOURISM
-TO046,1,6,TO103,Marketing du lịch,4.09,TOURISM
-TO047,1,1,TO106,Du lịch bền vững,3.58,TOURISM
-TO047,1,2,TO102,Quản trị lữ hành,2.06,TOURISM
-TO047,1,3,TO103,Marketing du lịch,4.64,TOURISM
-TO047,1,4,TO105,Quản trị khách sạn,4.83,TOURISM
-TO047,1,5,TO104,Hướng dẫn viên du lịch,3.56,TOURISM
-TO047,1,6,TO101,Địa lý du lịch,2.19,TOURISM
-TO048,4,1,TO102,Quản trị lữ hành,3.32,TOURISM
-TO048,4,2,TO106,Du lịch bền vững,4.37,TOURISM
-TO048,4,3,TO105,Quản trị khách sạn,4.81,TOURISM
-TO048,4,4,TO103,Marketing du lịch,3.32,TOURISM
-TO048,4,5,TO104,Hướng dẫn viên du lịch,3.94,TOURISM
-TO048,4,6,TO101,Địa lý du lịch,4.6,TOURISM
-TO049,4,1,TO105,Quản trị khách sạn,4.33,TOURISM
-TO049,4,2,TO101,Địa lý du lịch,3.65,TOURISM
-TO049,4,3,TO103,Marketing du lịch,3.37,TOURISM
-TO049,4,4,TO104,Hướng dẫn viên du lịch,3.75,TOURISM
-TO049,4,5,TO106,Du lịch bền vững,4.97,TOURISM
-TO049,4,6,TO102,Quản trị lữ hành,2.94,TOURISM
-TO050,4,1,TO106,Du lịch bền vững,2.06,TOURISM
-TO050,4,2,TO102,Quản trị lữ hành,3.71,TOURISM
-TO050,4,3,TO103,Marketing du lịch,2.8,TOURISM
-TO050,4,4,TO104,Hướng dẫn viên du lịch,2.49,TOURISM
-TO050,4,5,TO101,Địa lý du lịch,2.41,TOURISM
-TO050,4,6,TO105,Quản trị khách sạn,2.39,TOURISM
+
+KR001,2,3,KO101,Tiếng Hàn Cơ Bản,3.45,KOREAN
+KR001,1,5,KO107,Quan Hệ Việt - Hàn,4.12,KOREAN
+KR001,4,2,KO110,Công Nghệ Hàn Quốc,3.78,KOREAN
+KR001,3,1,KO113,Xã Hội Hàn Quốc,2.95,KOREAN
+KR001,1,6,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,4.33,KOREAN
+KR001,2,4,KO108,Phim Ảnh Hàn Quốc,3.67,KOREAN
+KR002,3,2,KO102,Văn Hóa Hàn Quốc,3.12,KOREAN
+KR002,4,5,KO106,Ẩm Thực Hàn Quốc,4.01,KOREAN
+KR002,1,3,KO109,Thời Trang Hàn Quốc,3.56,KOREAN
+KR002,2,1,KO114,Chính Trị Hàn Quốc,3.89,KOREAN
+KR002,3,6,KO103,Kinh Tế Hàn Quốc,4.22,KOREAN
+KR002,4,4,KO111,Du Lịch Hàn Quốc,3.44,KOREAN
+KR003,1,1,KO104,Lịch Sử Hàn Quốc,3.67,KOREAN
+KR003,2,6,KO115,Nghệ Thuật Hàn Quốc,3.98,KOREAN
+KR003,3,3,KO116,Kinh Doanh Với Hàn Quốc,4.15,KOREAN
+KR003,4,2,KO112,Ngôn Ngữ Hàn Nâng Cao,3.21,KOREAN
+KR003,1,4,KO101,Tiếng Hàn Cơ Bản,3.77,KOREAN
+KR003,2,5,KO107,Quan Hệ Việt - Hàn,3.90,KOREAN
+KR004,3,1,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,4.05,KOREAN
+KR004,4,3,KO108,Phim Ảnh Hàn Quốc,3.33,KOREAN
+KR004,1,2,KO110,Công Nghệ Hàn Quốc,3.88,KOREAN
+KR004,2,6,KO113,Xã Hội Hàn Quốc,3.45,KOREAN
+KR004,3,4,KO102,Văn Hóa Hàn Quốc,4.00,KOREAN
+KR004,4,5,KO106,Ẩm Thực Hàn Quốc,3.56,KOREAN
+KR005,1,3,KO109,Thời Trang Hàn Quốc,3.78,KOREAN
+KR005,2,1,KO114,Chính Trị Hàn Quốc,3.12,KOREAN
+KR005,3,6,KO103,Kinh Tế Hàn Quốc,3.90,KOREAN
+KR005,4,2,KO111,Du Lịch Hàn Quốc,4.22,KOREAN
+KR005,1,5,KO104,Lịch Sử Hàn Quốc,3.67,KOREAN
+KR005,2,4,KO115,Nghệ Thuật Hàn Quốc,3.44,KOREAN
+KR006,3,3,KO116,Kinh Doanh Với Hàn Quốc,3.56,KOREAN
+KR006,4,1,KO112,Ngôn Ngữ Hàn Nâng Cao,3.89,KOREAN
+KR006,1,6,KO101,Tiếng Hàn Cơ Bản,4.01,KOREAN
+KR006,2,2,KO107,Quan Hệ Việt - Hàn,3.67,KOREAN
+KR006,3,5,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.78,KOREAN
+KR006,4,4,KO108,Phim Ảnh Hàn Quốc,3.45,KOREAN
+KR007,1,3,KO110,Công Nghệ Hàn Quốc,3.12,KOREAN
+KR007,2,1,KO113,Xã Hội Hàn Quốc,3.56,KOREAN
+KR007,3,6,KO102,Văn Hóa Hàn Quốc,3.89,KOREAN
+KR007,4,2,KO106,Ẩm Thực Hàn Quốc,4.22,KOREAN
+KR007,1,4,KO109,Thời Trang Hàn Quốc,3.67,KOREAN
+KR007,2,5,KO114,Chính Trị Hàn Quốc,3.44,KOREAN
+KR008,3,3,KO103,Kinh Tế Hàn Quốc,3.78,KOREAN
+KR008,4,1,KO111,Du Lịch Hàn Quốc,3.12,KOREAN
+KR008,1,6,KO104,Lịch Sử Hàn Quốc,3.90,KOREAN
+KR008,2,2,KO115,Nghệ Thuật Hàn Quốc,4.22,KOREAN
+KR008,3,5,KO116,Kinh Doanh Với Hàn Quốc,3.67,KOREAN
+KR008,4,4,KO112,Ngôn Ngữ Hàn Nâng Cao,3.44,KOREAN
+KR009,1,3,KO101,Tiếng Hàn Cơ Bản,3.56,KOREAN
+KR009,2,1,KO107,Quan Hệ Việt - Hàn,3.89,KOREAN
+KR009,3,6,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,4.01,KOREAN
+KR009,4,2,KO108,Phim Ảnh Hàn Quốc,3.67,KOREAN
+KR009,1,4,KO110,Công Nghệ Hàn Quốc,3.78,KOREAN
+KR009,2,5,KO113,Xã Hội Hàn Quốc,3.45,KOREAN
+KR010,3,3,KO102,Văn Hóa Hàn Quốc,3.12,KOREAN
+KR010,4,1,KO106,Ẩm Thực Hàn Quốc,3.56,KOREAN
+KR010,1,6,KO109,Thời Trang Hàn Quốc,3.89,KOREAN
+KR010,2,2,KO114,Chính Trị Hàn Quốc,4.22,KOREAN
+KR010,3,5,KO103,Kinh Tế Hàn Quốc,3.67,KOREAN
+KR010,4,4,KO111,Du Lịch Hàn Quốc,3.44,KOREAN
+KR011,1,1,KO104,Lịch Sử Hàn Quốc,3.78,KOREAN
+KR011,2,3,KO115,Nghệ Thuật Hàn Quốc,3.12,KOREAN
+KR011,3,5,KO116,Kinh Doanh Với Hàn Quốc,3.90,KOREAN
+KR011,4,6,KO112,Ngôn Ngữ Hàn Nâng Cao,4.22,KOREAN
+KR011,1,2,KO101,Tiếng Hàn Cơ Bản,3.67,KOREAN
+KR011,2,4,KO107,Quan Hệ Việt - Hàn,3.44,KOREAN
+KR012,3,1,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.56,KOREAN
+KR012,4,3,KO108,Phim Ảnh Hàn Quốc,3.89,KOREAN
+KR012,1,5,KO110,Công Nghệ Hàn Quốc,4.01,KOREAN
+KR012,2,6,KO113,Xã Hội Hàn Quốc,3.67,KOREAN
+KR012,3,2,KO102,Văn Hóa Hàn Quốc,3.78,KOREAN
+KR012,4,4,KO106,Ẩm Thực Hàn Quốc,3.45,KOREAN
+KR013,1,1,KO109,Thời Trang Hàn Quốc,3.12,KOREAN
+KR013,2,3,KO114,Chính Trị Hàn Quốc,3.56,KOREAN
+KR013,3,5,KO103,Kinh Tế Hàn Quốc,3.89,KOREAN
+KR013,4,6,KO111,Du Lịch Hàn Quốc,4.22,KOREAN
+KR013,1,2,KO104,Lịch Sử Hàn Quốc,3.67,KOREAN
+KR013,2,4,KO115,Nghệ Thuật Hàn Quốc,3.44,KOREAN
+KR014,3,1,KO116,Kinh Doanh Với Hàn Quốc,3.78,KOREAN
+KR014,4,3,KO112,Ngôn Ngữ Hàn Nâng Cao,3.12,KOREAN
+KR014,1,5,KO101,Tiếng Hàn Cơ Bản,3.90,KOREAN
+KR014,2,6,KO107,Quan Hệ Việt - Hàn,4.22,KOREAN
+KR014,3,2,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.67,KOREAN
+KR014,4,4,KO108,Phim Ảnh Hàn Quốc,3.44,KOREAN
+KR015,1,1,KO110,Công Nghệ Hàn Quốc,3.56,KOREAN
+KR015,2,3,KO113,Xã Hội Hàn Quốc,3.89,KOREAN
+KR015,3,5,KO102,Văn Hóa Hàn Quốc,4.01,KOREAN
+KR015,4,6,KO106,Ẩm Thực Hàn Quốc,3.67,KOREAN
+KR015,1,2,KO109,Thời Trang Hàn Quốc,3.78,KOREAN
+KR015,2,4,KO114,Chính Trị Hàn Quốc,3.45,KOREAN
+KR016,3,1,KO103,Kinh Tế Hàn Quốc,3.12,KOREAN
+KR016,4,3,KO111,Du Lịch Hàn Quốc,3.56,KOREAN
+KR016,1,5,KO104,Lịch Sử Hàn Quốc,3.89,KOREAN
+KR016,2,6,KO115,Nghệ Thuật Hàn Quốc,4.22,KOREAN
+KR016,3,2,KO116,Kinh Doanh Với Hàn Quốc,3.67,KOREAN
+KR016,4,4,KO112,Ngôn Ngữ Hàn Nâng Cao,3.44,KOREAN
+KR017,1,1,KO101,Tiếng Hàn Cơ Bản,3.78,KOREAN
+KR017,2,3,KO107,Quan Hệ Việt - Hàn,3.12,KOREAN
+KR017,3,5,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.90,KOREAN
+KR017,4,6,KO108,Phim Ảnh Hàn Quốc,4.22,KOREAN
+KR017,1,2,KO110,Công Nghệ Hàn Quốc,3.67,KOREAN
+KR017,2,4,KO113,Xã Hội Hàn Quốc,3.44,KOREAN
+KR018,3,1,KO102,Văn Hóa Hàn Quốc,3.56,KOREAN
+KR018,4,3,KO106,Ẩm Thực Hàn Quốc,3.89,KOREAN
+KR018,1,5,KO109,Thời Trang Hàn Quốc,4.01,KOREAN
+KR018,2,6,KO114,Chính Trị Hàn Quốc,3.67,KOREAN
+KR018,3,2,KO103,Kinh Tế Hàn Quốc,3.78,KOREAN
+KR018,4,4,KO111,Du Lịch Hàn Quốc,3.45,KOREAN
+KR019,1,1,KO104,Lịch Sử Hàn Quốc,3.12,KOREAN
+KR019,2,3,KO115,Nghệ Thuật Hàn Quốc,3.56,KOREAN
+KR019,3,5,KO116,Kinh Doanh Với Hàn Quốc,3.89,KOREAN
+KR019,4,6,KO112,Ngôn Ngữ Hàn Nâng Cao,4.22,KOREAN
+KR019,1,2,KO101,Tiếng Hàn Cơ Bản,3.67,KOREAN
+KR019,2,4,KO107,Quan Hệ Việt - Hàn,3.44,KOREAN
+KR020,3,1,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.78,KOREAN
+KR020,4,3,KO108,Phim Ảnh Hàn Quốc,3.12,KOREAN
+KR020,1,5,KO110,Công Nghệ Hàn Quốc,3.90,KOREAN
+KR020,2,6,KO113,Xã Hội Hàn Quốc,4.22,KOREAN
+KR020,3,2,KO102,Văn Hóa Hàn Quốc,3.67,KOREAN
+KR020,4,4,KO106,Ẩm Thực Hàn Quốc,3.44,KOREAN
+KR021,1,1,KO109,Thời Trang Hàn Quốc,3.56,KOREAN
+KR021,2,3,KO114,Chính Trị Hàn Quốc,3.89,KOREAN
+KR021,3,5,KO103,Kinh Tế Hàn Quốc,4.01,KOREAN
+KR021,4,6,KO111,Du Lịch Hàn Quốc,3.67,KOREAN
+KR021,1,2,KO104,Lịch Sử Hàn Quốc,3.78,KOREAN
+KR021,2,4,KO115,Nghệ Thuật Hàn Quốc,3.45,KOREAN
+KR022,3,1,KO116,Kinh Doanh Với Hàn Quốc,3.12,KOREAN
+KR022,4,3,KO112,Ngôn Ngữ Hàn Nâng Cao,3.56,KOREAN
+KR022,1,5,KO101,Tiếng Hàn Cơ Bản,3.89,KOREAN
+KR022,2,6,KO107,Quan Hệ Việt - Hàn,4.22,KOREAN
+KR022,3,2,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.67,KOREAN
+KR022,4,4,KO108,Phim Ảnh Hàn Quốc,3.44,KOREAN
+KR023,1,1,KO110,Công Nghệ Hàn Quốc,3.78,KOREAN
+KR023,2,3,KO113,Xã Hội Hàn Quốc,3.12,KOREAN
+KR023,3,5,KO102,Văn Hóa Hàn Quốc,3.90,KOREAN
+KR023,4,6,KO106,Ẩm Thực Hàn Quốc,4.22,KOREAN
+KR023,1,2,KO109,Thời Trang Hàn Quốc,3.67,KOREAN
+KR023,2,4,KO114,Chính Trị Hàn Quốc,3.44,KOREAN
+KR024,3,1,KO103,Kinh Tế Hàn Quốc,3.56,KOREAN
+KR024,4,3,KO111,Du Lịch Hàn Quốc,3.89,KOREAN
+KR024,1,5,KO104,Lịch Sử Hàn Quốc,4.01,KOREAN
+KR024,2,6,KO115,Nghệ Thuật Hàn Quốc,3.67,KOREAN
+KR024,3,2,KO116,Kinh Doanh Với Hàn Quốc,3.78,KOREAN
+KR024,4,4,KO112,Ngôn Ngữ Hàn Nâng Cao,3.45,KOREAN
+KR025,1,1,KO101,Tiếng Hàn Cơ Bản,3.12,KOREAN
+KR025,2,3,KO107,Quan Hệ Việt - Hàn,3.56,KOREAN
+KR025,3,5,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.89,KOREAN
+KR025,4,6,KO108,Phim Ảnh Hàn Quốc,4.22,KOREAN
+KR025,1,2,KO110,Công Nghệ Hàn Quốc,3.67,KOREAN
+KR025,2,4,KO113,Xã Hội Hàn Quốc,3.44,KOREAN
+KR026,3,1,KO102,Văn Hóa Hàn Quốc,3.78,KOREAN
+KR026,4,3,KO106,Ẩm Thực Hàn Quốc,3.12,KOREAN
+KR026,1,5,KO109,Thời Trang Hàn Quốc,3.90,KOREAN
+KR026,2,6,KO114,Chính Trị Hàn Quốc,4.22,KOREAN
+KR026,3,2,KO103,Kinh Tế Hàn Quốc,3.67,KOREAN
+KR026,4,4,KO111,Du Lịch Hàn Quốc,3.44,KOREAN
+KR027,1,1,KO104,Lịch Sử Hàn Quốc,3.78,KOREAN
+KR027,2,3,KO115,Nghệ Thuật Hàn Quốc,3.12,KOREAN
+KR027,3,5,KO116,Kinh Doanh Với Hàn Quốc,3.90,KOREAN
+KR027,4,6,KO112,Ngôn Ngữ Hàn Nâng Cao,4.22,KOREAN
+KR027,1,2,KO101,Tiếng Hàn Cơ Bản,3.67,KOREAN
+KR027,2,4,KO107,Quan Hệ Việt - Hàn,3.44,KOREAN
+KR028,3,1,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.56,KOREAN
+KR028,4,3,KO108,Phim Ảnh Hàn Quốc,3.89,KOREAN
+KR028,1,5,KO110,Công Nghệ Hàn Quốc,4.01,KOREAN
+KR028,2,6,KO113,Xã Hội Hàn Quốc,3.67,KOREAN
+KR028,3,2,KO102,Văn Hóa Hàn Quốc,3.78,KOREAN
+KR028,4,4,KO106,Ẩm Thực Hàn Quốc,3.45,KOREAN
+KR029,1,1,KO109,Thời Trang Hàn Quốc,3.12,KOREAN
+KR029,2,3,KO114,Chính Trị Hàn Quốc,3.56,KOREAN
+KR029,3,5,KO103,Kinh Tế Hàn Quốc,3.89,KOREAN
+KR029,4,6,KO111,Du Lịch Hàn Quốc,4.22,KOREAN
+KR029,1,2,KO104,Lịch Sử Hàn Quốc,3.67,KOREAN
+KR029,2,4,KO115,Nghệ Thuật Hàn Quốc,3.44,KOREAN
+KR030,3,1,KO116,Kinh Doanh Với Hàn Quốc,3.78,KOREAN
+KR030,4,3,KO112,Ngôn Ngữ Hàn Nâng Cao,3.12,KOREAN
+KR030,1,5,KO101,Tiếng Hàn Cơ Bản,3.90,KOREAN
+KR030,2,6,KO107,Quan Hệ Việt - Hàn,4.22,KOREAN
+KR030,3,2,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.67,KOREAN
+KR030,4,4,KO108,Phim Ảnh Hàn Quốc,3.44,KOREAN
+KR031,1,1,KO110,Công Nghệ Hàn Quốc,3.56,KOREAN
+KR031,2,3,KO113,Xã Hội Hàn Quốc,3.89,KOREAN
+KR031,3,5,KO102,Văn Hóa Hàn Quốc,4.01,KOREAN
+KR031,4,6,KO106,Ẩm Thực Hàn Quốc,3.67,KOREAN
+KR031,1,2,KO109,Thời Trang Hàn Quốc,3.78,KOREAN
+KR031,2,4,KO114,Chính Trị Hàn Quốc,3.45,KOREAN
+KR032,3,1,KO103,Kinh Tế Hàn Quốc,3.12,KOREAN
+KR032,4,3,KO111,Du Lịch Hàn Quốc,3.56,KOREAN
+KR032,1,5,KO104,Lịch Sử Hàn Quốc,3.89,KOREAN
+KR032,2,6,KO115,Nghệ Thuật Hàn Quốc,4.22,KOREAN
+KR032,3,2,KO116,Kinh Doanh Với Hàn Quốc,3.67,KOREAN
+KR032,4,4,KO112,Ngôn Ngữ Hàn Nâng Cao,3.44,KOREAN
+KR033,1,1,KO101,Tiếng Hàn Cơ Bản,3.78,KOREAN
+KR033,2,3,KO107,Quan Hệ Việt - Hàn,3.12,KOREAN
+KR033,3,5,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.90,KOREAN
+KR033,4,6,KO108,Phim Ảnh Hàn Quốc,4.22,KOREAN
+KR033,1,2,KO110,Công Nghệ Hàn Quốc,3.67,KOREAN
+KR033,2,4,KO113,Xã Hội Hàn Quốc,3.44,KOREAN
+KR034,3,1,KO102,Văn Hóa Hàn Quốc,3.56,KOREAN
+KR034,4,3,KO106,Ẩm Thực Hàn Quốc,3.89,KOREAN
+KR034,1,5,KO109,Thời Trang Hàn Quốc,4.01,KOREAN
+KR034,2,6,KO114,Chính Trị Hàn Quốc,3.67,KOREAN
+KR034,3,2,KO103,Kinh Tế Hàn Quốc,3.78,KOREAN
+KR034,4,4,KO111,Du Lịch Hàn Quốc,3.45,KOREAN
+KR035,1,1,KO104,Lịch Sử Hàn Quốc,3.12,KOREAN
+KR035,2,3,KO115,Nghệ Thuật Hàn Quốc,3.56,KOREAN
+KR035,3,5,KO116,Kinh Doanh Với Hàn Quốc,3.89,KOREAN
+KR035,4,6,KO112,Ngôn Ngữ Hàn Nâng Cao,4.22,KOREAN
+KR035,1,2,KO101,Tiếng Hàn Cơ Bản,3.67,KOREAN
+KR035,2,4,KO107,Quan Hệ Việt - Hàn,3.44,KOREAN
+KR036,3,1,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.78,KOREAN
+KR036,4,3,KO108,Phim Ảnh Hàn Quốc,3.12,KOREAN
+KR036,1,5,KO110,Công Nghệ Hàn Quốc,3.90,KOREAN
+KR036,2,6,KO113,Xã Hội Hàn Quốc,4.22,KOREAN
+KR036,3,2,KO102,Văn Hóa Hàn Quốc,3.67,KOREAN
+KR036,4,4,KO106,Ẩm Thực Hàn Quốc,3.44,KOREAN
+KR037,1,1,KO109,Thời Trang Hàn Quốc,3.56,KOREAN
+KR037,2,3,KO114,Chính Trị Hàn Quốc,3.89,KOREAN
+KR037,3,5,KO103,Kinh Tế Hàn Quốc,4.01,KOREAN
+KR037,4,6,KO111,Du Lịch Hàn Quốc,3.67,KOREAN
+KR037,1,2,KO104,Lịch Sử Hàn Quốc,3.78,KOREAN
+KR037,2,4,KO115,Nghệ Thuật Hàn Quốc,3.45,KOREAN
+KR038,3,1,KO116,Kinh Doanh Với Hàn Quốc,3.12,KOREAN
+KR038,4,3,KO112,Ngôn Ngữ Hàn Nâng Cao,3.56,KOREAN
+KR038,1,5,KO101,Tiếng Hàn Cơ Bản,3.89,KOREAN
+KR038,2,6,KO107,Quan Hệ Việt - Hàn,4.22,KOREAN
+KR038,3,2,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.67,KOREAN
+KR038,4,4,KO108,Phim Ảnh Hàn Quốc,3.44,KOREAN
+KR039,1,1,KO110,Công Nghệ Hàn Quốc,3.78,KOREAN
+KR039,2,3,KO113,Xã Hội Hàn Quốc,3.12,KOREAN
+KR039,3,5,KO102,Văn Hóa Hàn Quốc,3.90,KOREAN
+KR039,4,6,KO106,Ẩm Thực Hàn Quốc,4.22,KOREAN
+KR039,1,2,KO109,Thời Trang Hàn Quốc,3.67,KOREAN
+KR039,2,4,KO114,Chính Trị Hàn Quốc,3.44,KOREAN
+KR040,3,1,KO103,Kinh Tế Hàn Quốc,3.56,KOREAN
+KR040,4,3,KO111,Du Lịch Hàn Quốc,3.89,KOREAN
+KR040,1,5,KO104,Lịch Sử Hàn Quốc,4.01,KOREAN
+KR040,2,6,KO115,Nghệ Thuật Hàn Quốc,3.67,KOREAN
+KR040,3,2,KO116,Kinh Doanh Với Hàn Quốc,3.78,KOREAN
+KR040,4,4,KO112,Ngôn Ngữ Hàn Nâng Cao,3.45,KOREAN
+KR041,1,1,KO101,Tiếng Hàn Cơ Bản,3.12,KOREAN
+KR041,2,3,KO107,Quan Hệ Việt - Hàn,3.56,KOREAN
+KR041,3,5,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.89,KOREAN
+KR041,4,6,KO108,Phim Ảnh Hàn Quốc,4.22,KOREAN
+KR041,1,2,KO110,Công Nghệ Hàn Quốc,3.67,KOREAN
+KR041,2,4,KO113,Xã Hội Hàn Quốc,3.44,KOREAN
+KR042,3,1,KO102,Văn Hóa Hàn Quốc,3.78,KOREAN
+KR042,4,3,KO106,Ẩm Thực Hàn Quốc,3.12,KOREAN
+KR042,1,5,KO109,Thời Trang Hàn Quốc,3.90,KOREAN
+KR042,2,6,KO114,Chính Trị Hàn Quốc,4.22,KOREAN
+KR042,3,2,KO103,Kinh Tế Hàn Quốc,3.67,KOREAN
+KR042,4,4,KO111,Du Lịch Hàn Quốc,3.44,KOREAN
+KR043,1,1,KO104,Lịch Sử Hàn Quốc,3.56,KOREAN
+KR043,2,3,KO115,Nghệ Thuật Hàn Quốc,3.89,KOREAN
+KR043,3,5,KO116,Kinh Doanh Với Hàn Quốc,4.01,KOREAN
+KR043,4,6,KO112,Ngôn Ngữ Hàn Nâng Cao,3.67,KOREAN
+KR043,1,2,KO101,Tiếng Hàn Cơ Bản,3.78,KOREAN
+KR043,2,4,KO107,Quan Hệ Việt - Hàn,3.45,KOREAN
+KR044,3,1,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.12,KOREAN
+KR044,4,3,KO108,Phim Ảnh Hàn Quốc,3.56,KOREAN
+KR044,1,5,KO110,Công Nghệ Hàn Quốc,3.89,KOREAN
+KR044,2,6,KO113,Xã Hội Hàn Quốc,4.22,KOREAN
+KR044,3,2,KO102,Văn Hóa Hàn Quốc,3.67,KOREAN
+KR044,4,4,KO106,Ẩm Thực Hàn Quốc,3.44,KOREAN
+KR045,1,1,KO109,Thời Trang Hàn Quốc,3.78,KOREAN
+KR045,2,3,KO114,Chính Trị Hàn Quốc,3.12,KOREAN
+KR045,3,5,KO103,Kinh Tế Hàn Quốc,3.90,KOREAN
+KR045,4,6,KO111,Du Lịch Hàn Quốc,4.22,KOREAN
+KR045,1,2,KO104,Lịch Sử Hàn Quốc,3.67,KOREAN
+KR045,2,4,KO115,Nghệ Thuật Hàn Quốc,3.44,KOREAN
+KR046,3,1,KO116,Kinh Doanh Với Hàn Quốc,3.56,KOREAN
+KR046,4,3,KO112,Ngôn Ngữ Hàn Nâng Cao,3.89,KOREAN
+KR046,1,5,KO101,Tiếng Hàn Cơ Bản,4.01,KOREAN
+KR046,2,6,KO107,Quan Hệ Việt - Hàn,3.67,KOREAN
+KR046,3,2,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,3.78,KOREAN
+KR046,4,4,KO108,Phim Ảnh Hàn Quốc,3.45,KOREAN
+KR047,1,1,KO110,Công Nghệ Hàn Quốc,3.12,KOREAN
+KR047,2,3,KO113,Xã Hội Hàn Quốc,3.56,KOREAN
+KR047,3,5,KO102,Văn Hóa Hàn Quốc,3.89,KOREAN
+KR047,4,6,KO106,Ẩm Thực Hàn Quốc,4.22,KOREAN
+KR047,1,2,KO109,Thời Trang Hàn Quốc,3.67,KOREAN
+KR047,2,4,KO114,Chính Trị Hàn Quốc,3.44,KOREAN
+KR048,3,1,KO103,Kinh Tế Hàn Quốc,3.78,KOREAN
+KR048,4,3,KO111,Du Lịch Hàn Quốc,3.12,KOREAN
+KR048,1,5,KO104,Lịch Sử Hàn Quốc,3.90,KOREAN
+KR048,2,6,KO115,Nghệ Thuật Hàn Quốc,4.22,KOREAN
+KR048,3,2,KO116,Kinh Doanh Với Hàn Quốc,3.67,KOREAN
+KR048,4,4,KO112,Ngôn Ngữ Hàn Nâng Cao,3.44,KOREAN
+KR049,1,1,KO101,Tiếng Hàn Cơ Bản,3.56,KOREAN
+KR049,2,3,KO107,Quan Hệ Việt - Hàn,3.89,KOREAN
+KR049,3,5,KO105,Âm Nhạc Và Giải Trí Hàn Quốc,4.01,KOREAN
+KR049,4,6,KO108,Phim Ảnh Hàn Quốc,3.67,KOREAN
+KR049,1,2,KO110,Công Nghệ Hàn Quốc,3.78,KOREAN
+KR049,2,4,KO113,Xã Hội Hàn Quốc,3.45,KOREAN
+KR050,3,1,KO102,Văn Hóa Hàn Quốc,3.12,KOREAN
+KR050,4,3,KO106,Ẩm Thực Hàn Quốc,3.56,KOREAN
+KR050,1,5,KO109,Thời Trang Hàn Quốc,3.89,KOREAN
+KR050,2,6,KO114,Chính Trị Hàn Quốc,4.22,KOREAN
+KR050,3,2,KO103,Kinh Tế Hàn Quốc,3.67,KOREAN
+KR050,4,4,KO111,Du Lịch Hàn Quốc,3.44,KOREAN
 
 
-PE001,2,1,PE104,Cầu lông,2.28,PE
-PE001,2,2,PE103,Bóng rổ,3.06,PE
-PE001,2,3,PE105,Bơi lội,4.68,PE
-PE001,2,4,PE106,Điền kinh,2.42,PE
-PE001,2,5,PE102,Bóng đá,4.56,PE
-PE001,2,6,PE101,Giáo dục thể chất,4.43,PE
-PE002,4,1,PE103,Bóng rổ,4.01,PE
-PE002,4,2,PE104,Cầu lông,2.83,PE
-PE002,4,3,PE102,Bóng đá,3.09,PE
-PE002,4,4,PE106,Điền kinh,3.08,PE
-PE002,4,5,PE105,Bơi lội,4.71,PE
-PE002,4,6,PE101,Giáo dục thể chất,2.63,PE
-PE003,4,1,PE103,Bóng rổ,4.43,PE
-PE003,4,2,PE101,Giáo dục thể chất,4.96,PE
-PE003,4,3,PE105,Bơi lội,4.7,PE
-PE003,4,4,PE104,Cầu lông,2.77,PE
-PE003,4,5,PE102,Bóng đá,3.58,PE
-PE003,4,6,PE106,Điền kinh,4.25,PE
-PE004,3,1,PE106,Điền kinh,4.12,PE
-PE004,3,2,PE105,Bơi lội,4.41,PE
-PE004,3,3,PE102,Bóng đá,2.72,PE
-PE004,3,4,PE103,Bóng rổ,3.96,PE
-PE004,3,5,PE101,Giáo dục thể chất,2.79,PE
-PE004,3,6,PE104,Cầu lông,4.57,PE
-PE005,2,1,PE106,Điền kinh,3.24,PE
-PE005,2,2,PE104,Cầu lông,3.18,PE
-PE005,2,3,PE105,Bơi lội,2.23,PE
-PE005,2,4,PE103,Bóng rổ,2.67,PE
-PE005,2,5,PE102,Bóng đá,2.34,PE
-PE005,2,6,PE101,Giáo dục thể chất,4.27,PE
-PE006,4,1,PE105,Bơi lội,2.18,PE
-PE006,4,2,PE102,Bóng đá,3.38,PE
-PE006,4,3,PE106,Điền kinh,4.86,PE
-PE006,4,4,PE103,Bóng rổ,4.58,PE
-PE006,4,5,PE101,Giáo dục thể chất,3.13,PE
-PE006,4,6,PE104,Cầu lông,4.15,PE
-PE007,4,1,PE104,Cầu lông,2.36,PE
-PE007,4,2,PE105,Bơi lội,4.02,PE
-PE007,4,3,PE103,Bóng rổ,4.81,PE
-PE007,4,4,PE101,Giáo dục thể chất,3.37,PE
-PE007,4,5,PE102,Bóng đá,2.35,PE
-PE007,4,6,PE106,Điền kinh,4.24,PE
-PE008,3,1,PE106,Điền kinh,4.62,PE
-PE008,3,2,PE104,Cầu lông,2.7,PE
-PE008,3,3,PE102,Bóng đá,3.3,PE
-PE008,3,4,PE101,Giáo dục thể chất,3.94,PE
-PE008,3,5,PE103,Bóng rổ,2.17,PE
-PE008,3,6,PE105,Bơi lội,2.02,PE
-PE009,2,1,PE105,Bơi lội,2.46,PE
-PE009,2,2,PE106,Điền kinh,4.68,PE
-PE009,2,3,PE103,Bóng rổ,4.14,PE
-PE009,2,4,PE102,Bóng đá,2.93,PE
-PE009,2,5,PE101,Giáo dục thể chất,4.89,PE
-PE009,2,6,PE104,Cầu lông,4.81,PE
-PE010,4,1,PE105,Bơi lội,4.13,PE
-PE010,4,2,PE106,Điền kinh,3.9,PE
-PE010,4,3,PE103,Bóng rổ,3.94,PE
-PE010,4,4,PE102,Bóng đá,2.44,PE
-PE010,4,5,PE101,Giáo dục thể chất,2.98,PE
-PE010,4,6,PE104,Cầu lông,4.18,PE
-PE011,2,1,PE101,Giáo dục thể chất,3.33,PE
-PE011,2,2,PE105,Bơi lội,3.04,PE
-PE011,2,3,PE104,Cầu lông,3.4,PE
-PE011,2,4,PE103,Bóng rổ,2.59,PE
-PE011,2,5,PE102,Bóng đá,4.29,PE
-PE011,2,6,PE106,Điền kinh,4.12,PE
-PE012,3,1,PE104,Cầu lông,3.3,PE
-PE012,3,2,PE103,Bóng rổ,4.52,PE
-PE012,3,3,PE106,Điền kinh,2.64,PE
-PE012,3,4,PE105,Bơi lội,2.21,PE
-PE012,3,5,PE102,Bóng đá,3.22,PE
-PE012,3,6,PE101,Giáo dục thể chất,4.15,PE
-PE013,2,1,PE105,Bơi lội,2.94,PE
-PE013,2,2,PE101,Giáo dục thể chất,2.59,PE
-PE013,2,3,PE102,Bóng đá,4.45,PE
-PE013,2,4,PE103,Bóng rổ,2.86,PE
-PE013,2,5,PE106,Điền kinh,4.32,PE
-PE013,2,6,PE104,Cầu lông,4.51,PE
-PE014,3,1,PE106,Điền kinh,2.5,PE
-PE014,3,2,PE101,Giáo dục thể chất,3.74,PE
-PE014,3,3,PE102,Bóng đá,4.9,PE
-PE014,3,4,PE105,Bơi lội,4.9,PE
-PE014,3,5,PE103,Bóng rổ,3.31,PE
-PE014,3,6,PE104,Cầu lông,4.3,PE
-PE015,2,1,PE105,Bơi lội,2.45,PE
-PE015,2,2,PE102,Bóng đá,3.21,PE
-PE015,2,3,PE103,Bóng rổ,2.12,PE
-PE015,2,4,PE106,Điền kinh,4.94,PE
-PE015,2,5,PE101,Giáo dục thể chất,3.6,PE
-PE015,2,6,PE104,Cầu lông,3.36,PE
-PE016,3,1,PE105,Bơi lội,2.56,PE
-PE016,3,2,PE102,Bóng đá,2.01,PE
-PE016,3,3,PE101,Giáo dục thể chất,2.32,PE
-PE016,3,4,PE104,Cầu lông,2.1,PE
-PE016,3,5,PE106,Điền kinh,2.33,PE
-PE016,3,6,PE103,Bóng rổ,3.86,PE
-PE017,2,1,PE102,Bóng đá,4.05,PE
-PE017,2,2,PE103,Bóng rổ,3.37,PE
-PE017,2,3,PE106,Điền kinh,4.51,PE
-PE017,2,4,PE104,Cầu lông,3.21,PE
-PE017,2,5,PE101,Giáo dục thể chất,2.9,PE
-PE017,2,6,PE105,Bơi lội,2.66,PE
-PE018,1,1,PE104,Cầu lông,4.93,PE
-PE018,1,2,PE106,Điền kinh,4.78,PE
-PE018,1,3,PE103,Bóng rổ,4.67,PE
-PE018,1,4,PE105,Bơi lội,3.96,PE
-PE018,1,5,PE101,Giáo dục thể chất,4.92,PE
-PE018,1,6,PE102,Bóng đá,3.08,PE
-PE019,3,1,PE102,Bóng đá,3.67,PE
-PE019,3,2,PE103,Bóng rổ,2.38,PE
-PE019,3,3,PE101,Giáo dục thể chất,3.8,PE
-PE019,3,4,PE106,Điền kinh,3.08,PE
-PE019,3,5,PE105,Bơi lội,2.81,PE
-PE019,3,6,PE104,Cầu lông,4.12,PE
-PE020,2,1,PE101,Giáo dục thể chất,2.17,PE
-PE020,2,2,PE105,Bơi lội,4.98,PE
-PE020,2,3,PE102,Bóng đá,3.16,PE
-PE020,2,4,PE103,Bóng rổ,4.33,PE
-PE020,2,5,PE106,Điền kinh,2.4,PE
-PE020,2,6,PE104,Cầu lông,2.59,PE
-PE021,4,1,PE102,Bóng đá,3.5,PE
-PE021,4,2,PE103,Bóng rổ,3.49,PE
-PE021,4,3,PE106,Điền kinh,2.13,PE
-PE021,4,4,PE104,Cầu lông,3.77,PE
-PE021,4,5,PE101,Giáo dục thể chất,3.66,PE
-PE021,4,6,PE105,Bơi lội,2.21,PE
-PE022,3,1,PE101,Giáo dục thể chất,3.02,PE
-PE022,3,2,PE104,Cầu lông,2.21,PE
-PE022,3,3,PE106,Điền kinh,2.59,PE
-PE022,3,4,PE103,Bóng rổ,3.31,PE
-PE022,3,5,PE102,Bóng đá,3.95,PE
-PE022,3,6,PE105,Bơi lội,4.67,PE
-PE023,4,1,PE106,Điền kinh,4.23,PE
-PE023,4,2,PE101,Giáo dục thể chất,3.24,PE
-PE023,4,3,PE105,Bơi lội,4.16,PE
-PE023,4,4,PE104,Cầu lông,3.35,PE
-PE023,4,5,PE102,Bóng đá,3.86,PE
-PE023,4,6,PE103,Bóng rổ,3.13,PE
-PE024,4,1,PE101,Giáo dục thể chất,2.55,PE
-PE024,4,2,PE105,Bơi lội,2.99,PE
-PE024,4,3,PE104,Cầu lông,4.68,PE
-PE024,4,4,PE106,Điền kinh,2.7,PE
-PE024,4,5,PE103,Bóng rổ,2.79,PE
-PE024,4,6,PE102,Bóng đá,2.4,PE
-PE025,1,1,PE102,Bóng đá,2.13,PE
-PE025,1,2,PE103,Bóng rổ,4.62,PE
-PE025,1,3,PE104,Cầu lông,2.18,PE
-PE025,1,4,PE105,Bơi lội,2.63,PE
-PE025,1,5,PE106,Điền kinh,3.78,PE
-PE025,1,6,PE101,Giáo dục thể chất,4.44,PE
-PE026,4,1,PE106,Điền kinh,4.62,PE
-PE026,4,2,PE105,Bơi lội,3.76,PE
-PE026,4,3,PE101,Giáo dục thể chất,3.7,PE
-PE026,4,4,PE102,Bóng đá,4.51,PE
-PE026,4,5,PE103,Bóng rổ,2.59,PE
-PE026,4,6,PE104,Cầu lông,3.33,PE
-PE027,1,1,PE101,Giáo dục thể chất,2.32,PE
-PE027,1,2,PE103,Bóng rổ,3.9,PE
-PE027,1,3,PE106,Điền kinh,4.87,PE
-PE027,1,4,PE102,Bóng đá,4.91,PE
-PE027,1,5,PE104,Cầu lông,3.19,PE
-PE027,1,6,PE105,Bơi lội,3.7,PE
-PE028,1,1,PE105,Bơi lội,4.2,PE
-PE028,1,2,PE104,Cầu lông,2.99,PE
-PE028,1,3,PE102,Bóng đá,2.76,PE
-PE028,1,4,PE103,Bóng rổ,2.91,PE
-PE028,1,5,PE101,Giáo dục thể chất,2.38,PE
-PE028,1,6,PE106,Điền kinh,4.75,PE
-PE029,2,1,PE106,Điền kinh,4.99,PE
-PE029,2,2,PE103,Bóng rổ,4.16,PE
-PE029,2,3,PE105,Bơi lội,3.6,PE
-PE029,2,4,PE101,Giáo dục thể chất,3.24,PE
-PE029,2,5,PE102,Bóng đá,3.67,PE
-PE029,2,6,PE104,Cầu lông,2.69,PE
-PE030,4,1,PE106,Điền kinh,3.32,PE
-PE030,4,2,PE103,Bóng rổ,3.48,PE
-PE030,4,3,PE101,Giáo dục thể chất,2.03,PE
-PE030,4,4,PE104,Cầu lông,2.24,PE
-PE030,4,5,PE102,Bóng đá,3.42,PE
-PE030,4,6,PE105,Bơi lội,2.82,PE
-PE031,1,1,PE103,Bóng rổ,3.13,PE
-PE031,1,2,PE102,Bóng đá,4.93,PE
-PE031,1,3,PE106,Điền kinh,2.29,PE
-PE031,1,4,PE104,Cầu lông,2.83,PE
-PE031,1,5,PE105,Bơi lội,3.16,PE
-PE031,1,6,PE101,Giáo dục thể chất,3.35,PE
-PE032,4,1,PE101,Giáo dục thể chất,4.78,PE
-PE032,4,2,PE103,Bóng rổ,2.09,PE
-PE032,4,3,PE102,Bóng đá,3.44,PE
-PE032,4,4,PE105,Bơi lội,3.58,PE
-PE032,4,5,PE104,Cầu lông,2.1,PE
-PE032,4,6,PE106,Điền kinh,2.12,PE
-PE033,4,1,PE103,Bóng rổ,2.75,PE
-PE033,4,2,PE104,Cầu lông,3.56,PE
-PE033,4,3,PE106,Điền kinh,4.24,PE
-PE033,4,4,PE101,Giáo dục thể chất,2.16,PE
-PE033,4,5,PE102,Bóng đá,2.12,PE
-PE033,4,6,PE105,Bơi lội,3.56,PE
-PE034,1,1,PE102,Bóng đá,2.04,PE
-PE034,1,2,PE101,Giáo dục thể chất,2.67,PE
-PE034,1,3,PE103,Bóng rổ,3.94,PE
-PE034,1,4,PE104,Cầu lông,2.14,PE
-PE034,1,5,PE105,Bơi lội,3.81,PE
-PE034,1,6,PE106,Điền kinh,2.43,PE
-PE035,1,1,PE105,Bơi lội,4.58,PE
-PE035,1,2,PE104,Cầu lông,3.33,PE
-PE035,1,3,PE103,Bóng rổ,3.05,PE
-PE035,1,4,PE101,Giáo dục thể chất,3.97,PE
-PE035,1,5,PE102,Bóng đá,3.65,PE
-PE035,1,6,PE106,Điền kinh,3.3,PE
-PE036,4,1,PE102,Bóng đá,3.36,PE
-PE036,4,2,PE105,Bơi lội,4.1,PE
-PE036,4,3,PE104,Cầu lông,4.81,PE
-PE036,4,4,PE101,Giáo dục thể chất,4.91,PE
-PE036,4,5,PE103,Bóng rổ,2.94,PE
-PE036,4,6,PE106,Điền kinh,3.17,PE
-PE037,1,1,PE103,Bóng rổ,2.54,PE
-PE037,1,2,PE105,Bơi lội,2.09,PE
-PE037,1,3,PE106,Điền kinh,4.3,PE
-PE037,1,4,PE102,Bóng đá,2.36,PE
-PE037,1,5,PE101,Giáo dục thể chất,2.64,PE
-PE037,1,6,PE104,Cầu lông,4.36,PE
-PE038,2,1,PE105,Bơi lội,2.29,PE
-PE038,2,2,PE106,Điền kinh,4.17,PE
-PE038,2,3,PE102,Bóng đá,3.22,PE
-PE038,2,4,PE104,Cầu lông,2.63,PE
-PE038,2,5,PE103,Bóng rổ,3.29,PE
-PE038,2,6,PE101,Giáo dục thể chất,3.76,PE
-PE039,1,1,PE105,Bơi lội,2.38,PE
-PE039,1,2,PE104,Cầu lông,2.82,PE
-PE039,1,3,PE106,Điền kinh,2.55,PE
-PE039,1,4,PE101,Giáo dục thể chất,3.45,PE
-PE039,1,5,PE103,Bóng rổ,2.89,PE
-PE039,1,6,PE102,Bóng đá,4.64,PE
-PE040,1,1,PE106,Điền kinh,3.37,PE
-PE040,1,2,PE104,Cầu lông,3.44,PE
-PE040,1,3,PE105,Bơi lội,2.53,PE
-PE040,1,4,PE101,Giáo dục thể chất,3.9,PE
-PE040,1,5,PE102,Bóng đá,2.46,PE
-PE040,1,6,PE103,Bóng rổ,4.62,PE
-PE041,3,1,PE105,Bơi lội,4.67,PE
-PE041,3,2,PE104,Cầu lông,4.17,PE
-PE041,3,3,PE102,Bóng đá,2.12,PE
-PE041,3,4,PE106,Điền kinh,4.68,PE
-PE041,3,5,PE101,Giáo dục thể chất,3.15,PE
-PE041,3,6,PE103,Bóng rổ,2.58,PE
-PE042,1,1,PE103,Bóng rổ,4.72,PE
-PE042,1,2,PE106,Điền kinh,2.37,PE
-PE042,1,3,PE104,Cầu lông,4.31,PE
-PE042,1,4,PE102,Bóng đá,2.68,PE
-PE042,1,5,PE105,Bơi lội,2.14,PE
-PE042,1,6,PE101,Giáo dục thể chất,3.91,PE
-PE043,1,1,PE102,Bóng đá,3.55,PE
-PE043,1,2,PE105,Bơi lội,4.66,PE
-PE043,1,3,PE103,Bóng rổ,2.3,PE
-PE043,1,4,PE101,Giáo dục thể chất,3.68,PE
-PE043,1,5,PE106,Điền kinh,2.67,PE
-PE043,1,6,PE104,Cầu lông,3.01,PE
-PE044,1,1,PE101,Giáo dục thể chất,2.16,PE
-PE044,1,2,PE105,Bơi lội,4.43,PE
-PE044,1,3,PE106,Điền kinh,2.01,PE
-PE044,1,4,PE104,Cầu lông,3.27,PE
-PE044,1,5,PE102,Bóng đá,3.01,PE
-PE044,1,6,PE103,Bóng rổ,4.67,PE
-PE045,1,1,PE105,Bơi lội,3.43,PE
-PE045,1,2,PE103,Bóng rổ,4.98,PE
-PE045,1,3,PE102,Bóng đá,4.43,PE
-PE045,1,4,PE104,Cầu lông,4.19,PE
-PE045,1,5,PE106,Điền kinh,3.24,PE
-PE045,1,6,PE101,Giáo dục thể chất,2.82,PE
-PE046,2,1,PE101,Giáo dục thể chất,2.15,PE
-PE046,2,2,PE106,Điền kinh,4.36,PE
-PE046,2,3,PE103,Bóng rổ,2.26,PE
-PE046,2,4,PE105,Bơi lội,2.23,PE
-PE046,2,5,PE104,Cầu lông,2.68,PE
-PE046,2,6,PE102,Bóng đá,3.08,PE
-PE047,1,1,PE105,Bơi lội,2.68,PE
-PE047,1,2,PE106,Điền kinh,4.73,PE
-PE047,1,3,PE101,Giáo dục thể chất,4.4,PE
-PE047,1,4,PE104,Cầu lông,3.91,PE
-PE047,1,5,PE102,Bóng đá,2.04,PE
-PE047,1,6,PE103,Bóng rổ,4.69,PE
-PE048,4,1,PE102,Bóng đá,4.95,PE
-PE048,4,2,PE101,Giáo dục thể chất,4.72,PE
-PE048,4,3,PE105,Bơi lội,2.43,PE
-PE048,4,4,PE104,Cầu lông,2.04,PE
-PE048,4,5,PE103,Bóng rổ,4.78,PE
-PE048,4,6,PE106,Điền kinh,4.23,PE
-PE049,2,1,PE101,Giáo dục thể chất,2.93,PE
-PE049,2,2,PE102,Bóng đá,3.03,PE
-PE049,2,3,PE105,Bơi lội,4.43,PE
-PE049,2,4,PE106,Điền kinh,2.42,PE
-PE049,2,5,PE103,Bóng rổ,3.69,PE
-PE049,2,6,PE104,Cầu lông,3.98,PE
-PE050,3,1,PE102,Bóng đá,3.48,PE
-PE050,3,2,PE104,Cầu lông,3.76,PE
-PE050,3,3,PE101,Giáo dục thể chất,3.69,PE
-PE050,3,4,PE106,Điền kinh,3.85,PE
-PE050,3,5,PE105,Bơi lội,2.28,PE
-PE050,3,6,PE103,Bóng rổ,4.68,PE
-IA001,2,1,IA102,Mã hóa thông tin,4.44,IAS
-IA001,2,2,IA106,Pháp y kỹ thuật số,2.03,IAS
-IA001,2,3,IA101,An ninh mạng,4.35,IAS
-IA001,2,4,IA105,Quản trị an ninh mạng,4.34,IAS
-IA001,2,5,IA103,Kiểm thử xâm nhập,4.26,IAS
-IA001,2,6,IA104,Phân tích mã độc,4.16,IAS
-IA002,2,1,IA104,Phân tích mã độc,3.66,IAS
-IA002,2,2,IA105,Quản trị an ninh mạng,4.92,IAS
-IA002,2,3,IA102,Mã hóa thông tin,3.62,IAS
-IA002,2,4,IA103,Kiểm thử xâm nhập,4.48,IAS
-IA002,2,5,IA106,Pháp y kỹ thuật số,4.49,IAS
-IA002,2,6,IA101,An ninh mạng,2.03,IAS
-IA003,4,1,IA105,Quản trị an ninh mạng,3.67,IAS
-IA003,4,2,IA104,Phân tích mã độc,3.99,IAS
-IA003,4,3,IA101,An ninh mạng,2.92,IAS
-IA003,4,4,IA103,Kiểm thử xâm nhập,2.27,IAS
-IA003,4,5,IA102,Mã hóa thông tin,3.42,IAS
-IA003,4,6,IA106,Pháp y kỹ thuật số,3.29,IAS
-IA004,1,1,IA101,An ninh mạng,4.47,IAS
-IA004,1,2,IA103,Kiểm thử xâm nhập,4.42,IAS
-IA004,1,3,IA106,Pháp y kỹ thuật số,4.29,IAS
-IA004,1,4,IA105,Quản trị an ninh mạng,3.85,IAS
-IA004,1,5,IA102,Mã hóa thông tin,3.17,IAS
-IA004,1,6,IA104,Phân tích mã độc,3.83,IAS
-IA005,3,1,IA104,Phân tích mã độc,3.29,IAS
-IA005,3,2,IA106,Pháp y kỹ thuật số,3.61,IAS
-IA005,3,3,IA102,Mã hóa thông tin,4.56,IAS
-IA005,3,4,IA101,An ninh mạng,4.25,IAS
-IA005,3,5,IA103,Kiểm thử xâm nhập,4.49,IAS
-IA005,3,6,IA105,Quản trị an ninh mạng,2.51,IAS
-IA006,4,1,IA105,Quản trị an ninh mạng,4.76,IAS
-IA006,4,2,IA104,Phân tích mã độc,3.31,IAS
-IA006,4,3,IA103,Kiểm thử xâm nhập,4.2,IAS
-IA006,4,4,IA102,Mã hóa thông tin,4.8,IAS
-IA006,4,5,IA101,An ninh mạng,4.06,IAS
-IA006,4,6,IA106,Pháp y kỹ thuật số,4.98,IAS
-IA007,3,1,IA101,An ninh mạng,2.33,IAS
-IA007,3,2,IA102,Mã hóa thông tin,2.33,IAS
-IA007,3,3,IA106,Pháp y kỹ thuật số,3.37,IAS
-IA007,3,4,IA104,Phân tích mã độc,3.18,IAS
-IA007,3,5,IA103,Kiểm thử xâm nhập,3.63,IAS
-IA007,3,6,IA105,Quản trị an ninh mạng,2.85,IAS
-IA008,2,1,IA102,Mã hóa thông tin,3.03,IAS
-IA008,2,2,IA106,Pháp y kỹ thuật số,2.93,IAS
-IA008,2,3,IA104,Phân tích mã độc,3.2,IAS
-IA008,2,4,IA103,Kiểm thử xâm nhập,2.33,IAS
-IA008,2,5,IA101,An ninh mạng,2.37,IAS
-IA008,2,6,IA105,Quản trị an ninh mạng,3.46,IAS
-IA009,3,1,IA103,Kiểm thử xâm nhập,3.52,IAS
-IA009,3,2,IA106,Pháp y kỹ thuật số,3.86,IAS
-IA009,3,3,IA101,An ninh mạng,2.26,IAS
-IA009,3,4,IA104,Phân tích mã độc,3.1,IAS
-IA009,3,5,IA105,Quản trị an ninh mạng,3.71,IAS
-IA009,3,6,IA102,Mã hóa thông tin,2.41,IAS
-IA010,3,1,IA105,Quản trị an ninh mạng,2.09,IAS
-IA010,3,2,IA103,Kiểm thử xâm nhập,2.21,IAS
-IA010,3,3,IA104,Phân tích mã độc,2.97,IAS
-IA010,3,4,IA101,An ninh mạng,3.68,IAS
-IA010,3,5,IA106,Pháp y kỹ thuật số,4.0,IAS
-IA010,3,6,IA102,Mã hóa thông tin,3.73,IAS
-IA011,2,1,IA102,Mã hóa thông tin,4.18,IAS
-IA011,2,2,IA103,Kiểm thử xâm nhập,3.35,IAS
-IA011,2,3,IA101,An ninh mạng,2.15,IAS
-IA011,2,4,IA106,Pháp y kỹ thuật số,4.9,IAS
-IA011,2,5,IA104,Phân tích mã độc,2.21,IAS
-IA011,2,6,IA105,Quản trị an ninh mạng,4.9,IAS
-IA012,1,1,IA106,Pháp y kỹ thuật số,2.31,IAS
-IA012,1,2,IA105,Quản trị an ninh mạng,3.71,IAS
-IA012,1,3,IA104,Phân tích mã độc,2.11,IAS
-IA012,1,4,IA103,Kiểm thử xâm nhập,2.63,IAS
-IA012,1,5,IA102,Mã hóa thông tin,4.6,IAS
-IA012,1,6,IA101,An ninh mạng,3.74,IAS
-IA013,2,1,IA105,Quản trị an ninh mạng,4.57,IAS
-IA013,2,2,IA104,Phân tích mã độc,2.24,IAS
-IA013,2,3,IA106,Pháp y kỹ thuật số,2.38,IAS
-IA013,2,4,IA102,Mã hóa thông tin,4.45,IAS
-IA013,2,5,IA103,Kiểm thử xâm nhập,3.73,IAS
-IA013,2,6,IA101,An ninh mạng,3.86,IAS
-IA014,2,1,IA101,An ninh mạng,4.92,IAS
-IA014,2,2,IA102,Mã hóa thông tin,3.9,IAS
-IA014,2,3,IA104,Phân tích mã độc,3.18,IAS
-IA014,2,4,IA106,Pháp y kỹ thuật số,4.81,IAS
-IA014,2,5,IA103,Kiểm thử xâm nhập,4.26,IAS
-IA014,2,6,IA105,Quản trị an ninh mạng,4.75,IAS
-IA015,2,1,IA103,Kiểm thử xâm nhập,4.26,IAS
-IA015,2,2,IA105,Quản trị an ninh mạng,2.08,IAS
-IA015,2,3,IA101,An ninh mạng,4.29,IAS
-IA015,2,4,IA104,Phân tích mã độc,4.56,IAS
-IA015,2,5,IA106,Pháp y kỹ thuật số,2.95,IAS
-IA015,2,6,IA102,Mã hóa thông tin,4.85,IAS
-IA016,2,1,IA105,Quản trị an ninh mạng,2.41,IAS
-IA016,2,2,IA101,An ninh mạng,4.57,IAS
-IA016,2,3,IA103,Kiểm thử xâm nhập,3.5,IAS
-IA016,2,4,IA106,Pháp y kỹ thuật số,2.44,IAS
-IA016,2,5,IA102,Mã hóa thông tin,2.51,IAS
-IA016,2,6,IA104,Phân tích mã độc,4.42,IAS
-IA017,3,1,IA106,Pháp y kỹ thuật số,4.77,IAS
-IA017,3,2,IA104,Phân tích mã độc,3.89,IAS
-IA017,3,3,IA105,Quản trị an ninh mạng,3.76,IAS
-IA017,3,4,IA101,An ninh mạng,4.59,IAS
-IA017,3,5,IA103,Kiểm thử xâm nhập,3.51,IAS
-IA017,3,6,IA102,Mã hóa thông tin,3.89,IAS
-IA018,2,1,IA104,Phân tích mã độc,3.64,IAS
-IA018,2,2,IA102,Mã hóa thông tin,4.7,IAS
-IA018,2,3,IA101,An ninh mạng,4.77,IAS
-IA018,2,4,IA106,Pháp y kỹ thuật số,4.08,IAS
-IA018,2,5,IA105,Quản trị an ninh mạng,2.68,IAS
-IA018,2,6,IA103,Kiểm thử xâm nhập,3.52,IAS
-IA019,4,1,IA104,Phân tích mã độc,3.8,IAS
-IA019,4,2,IA101,An ninh mạng,2.35,IAS
-IA019,4,3,IA105,Quản trị an ninh mạng,2.63,IAS
-IA019,4,4,IA103,Kiểm thử xâm nhập,3.35,IAS
-IA019,4,5,IA106,Pháp y kỹ thuật số,2.5,IAS
-IA019,4,6,IA102,Mã hóa thông tin,4.84,IAS
-IA020,4,1,IA106,Pháp y kỹ thuật số,4.92,IAS
-IA020,4,2,IA103,Kiểm thử xâm nhập,4.05,IAS
-IA020,4,3,IA104,Phân tích mã độc,4.97,IAS
-IA020,4,4,IA102,Mã hóa thông tin,3.56,IAS
-IA020,4,5,IA105,Quản trị an ninh mạng,3.6,IAS
-IA020,4,6,IA101,An ninh mạng,4.81,IAS
-IA021,4,1,IA103,Kiểm thử xâm nhập,2.13,IAS
-IA021,4,2,IA102,Mã hóa thông tin,4.87,IAS
-IA021,4,3,IA104,Phân tích mã độc,3.88,IAS
-IA021,4,4,IA105,Quản trị an ninh mạng,2.6,IAS
-IA021,4,5,IA101,An ninh mạng,2.37,IAS
-IA021,4,6,IA106,Pháp y kỹ thuật số,4.69,IAS
-IA022,1,1,IA104,Phân tích mã độc,3.14,IAS
-IA022,1,2,IA102,Mã hóa thông tin,4.03,IAS
-IA022,1,3,IA105,Quản trị an ninh mạng,2.36,IAS
-IA022,1,4,IA103,Kiểm thử xâm nhập,2.58,IAS
-IA022,1,5,IA106,Pháp y kỹ thuật số,2.3,IAS
-IA022,1,6,IA101,An ninh mạng,4.62,IAS
-IA023,2,1,IA104,Phân tích mã độc,3.05,IAS
-IA023,2,2,IA103,Kiểm thử xâm nhập,4.56,IAS
-IA023,2,3,IA102,Mã hóa thông tin,4.34,IAS
-IA023,2,4,IA106,Pháp y kỹ thuật số,3.99,IAS
-IA023,2,5,IA101,An ninh mạng,4.86,IAS
-IA023,2,6,IA105,Quản trị an ninh mạng,3.5,IAS
-IA024,4,1,IA106,Pháp y kỹ thuật số,2.61,IAS
-IA024,4,2,IA102,Mã hóa thông tin,2.37,IAS
-IA024,4,3,IA103,Kiểm thử xâm nhập,4.27,IAS
-IA024,4,4,IA101,An ninh mạng,3.08,IAS
-IA024,4,5,IA105,Quản trị an ninh mạng,3.55,IAS
-IA024,4,6,IA104,Phân tích mã độc,2.62,IAS
-IA025,3,1,IA104,Phân tích mã độc,2.32,IAS
-IA025,3,2,IA106,Pháp y kỹ thuật số,2.78,IAS
-IA025,3,3,IA105,Quản trị an ninh mạng,3.85,IAS
-IA025,3,4,IA103,Kiểm thử xâm nhập,4.21,IAS
-IA025,3,5,IA101,An ninh mạng,4.45,IAS
-IA025,3,6,IA102,Mã hóa thông tin,4.44,IAS
-IA026,2,1,IA106,Pháp y kỹ thuật số,3.68,IAS
-IA026,2,2,IA104,Phân tích mã độc,4.37,IAS
-IA026,2,3,IA105,Quản trị an ninh mạng,4.74,IAS
-IA026,2,4,IA103,Kiểm thử xâm nhập,2.44,IAS
-IA026,2,5,IA101,An ninh mạng,3.42,IAS
-IA026,2,6,IA102,Mã hóa thông tin,4.76,IAS
-IA027,1,1,IA106,Pháp y kỹ thuật số,4.85,IAS
-IA027,1,2,IA105,Quản trị an ninh mạng,4.87,IAS
-IA027,1,3,IA102,Mã hóa thông tin,3.39,IAS
-IA027,1,4,IA101,An ninh mạng,2.26,IAS
-IA027,1,5,IA103,Kiểm thử xâm nhập,2.04,IAS
-IA027,1,6,IA104,Phân tích mã độc,2.67,IAS
-IA028,2,1,IA104,Phân tích mã độc,4.3,IAS
-IA028,2,2,IA105,Quản trị an ninh mạng,2.55,IAS
-IA028,2,3,IA101,An ninh mạng,3.25,IAS
-IA028,2,4,IA103,Kiểm thử xâm nhập,3.81,IAS
-IA028,2,5,IA102,Mã hóa thông tin,3.93,IAS
-IA028,2,6,IA106,Pháp y kỹ thuật số,3.65,IAS
-IA029,1,1,IA101,An ninh mạng,4.95,IAS
-IA029,1,2,IA106,Pháp y kỹ thuật số,4.68,IAS
-IA029,1,3,IA102,Mã hóa thông tin,2.3,IAS
-IA029,1,4,IA103,Kiểm thử xâm nhập,3.39,IAS
-IA029,1,5,IA104,Phân tích mã độc,4.49,IAS
-IA029,1,6,IA105,Quản trị an ninh mạng,3.45,IAS
-IA030,2,1,IA103,Kiểm thử xâm nhập,2.08,IAS
-IA030,2,2,IA106,Pháp y kỹ thuật số,4.71,IAS
-IA030,2,3,IA101,An ninh mạng,2.3,IAS
-IA030,2,4,IA105,Quản trị an ninh mạng,4.46,IAS
-IA030,2,5,IA104,Phân tích mã độc,3.64,IAS
-IA030,2,6,IA102,Mã hóa thông tin,2.02,IAS
-IA031,3,1,IA106,Pháp y kỹ thuật số,2.41,IAS
-IA031,3,2,IA102,Mã hóa thông tin,4.65,IAS
-IA031,3,3,IA105,Quản trị an ninh mạng,3.29,IAS
-IA031,3,4,IA104,Phân tích mã độc,3.5,IAS
-IA031,3,5,IA103,Kiểm thử xâm nhập,2.2,IAS
-IA031,3,6,IA101,An ninh mạng,2.89,IAS
-IA032,3,1,IA106,Pháp y kỹ thuật số,3.3,IAS
-IA032,3,2,IA105,Quản trị an ninh mạng,3.78,IAS
-IA032,3,3,IA101,An ninh mạng,4.44,IAS
-IA032,3,4,IA104,Phân tích mã độc,2.97,IAS
-IA032,3,5,IA102,Mã hóa thông tin,4.54,IAS
-IA032,3,6,IA103,Kiểm thử xâm nhập,3.81,IAS
-IA033,1,1,IA101,An ninh mạng,4.99,IAS
-IA033,1,2,IA103,Kiểm thử xâm nhập,4.22,IAS
-IA033,1,3,IA106,Pháp y kỹ thuật số,2.79,IAS
-IA033,1,4,IA104,Phân tích mã độc,2.55,IAS
-IA033,1,5,IA105,Quản trị an ninh mạng,2.79,IAS
-IA033,1,6,IA102,Mã hóa thông tin,3.76,IAS
-IA034,1,1,IA101,An ninh mạng,3.6,IAS
-IA034,1,2,IA103,Kiểm thử xâm nhập,3.62,IAS
-IA034,1,3,IA102,Mã hóa thông tin,3.17,IAS
-IA034,1,4,IA105,Quản trị an ninh mạng,4.88,IAS
-IA034,1,5,IA104,Phân tích mã độc,4.67,IAS
-IA034,1,6,IA106,Pháp y kỹ thuật số,3.71,IAS
-IA035,1,1,IA103,Kiểm thử xâm nhập,2.32,IAS
-IA035,1,2,IA102,Mã hóa thông tin,5.0,IAS
-IA035,1,3,IA105,Quản trị an ninh mạng,4.93,IAS
-IA035,1,4,IA101,An ninh mạng,4.83,IAS
-IA035,1,5,IA106,Pháp y kỹ thuật số,2.95,IAS
-IA035,1,6,IA104,Phân tích mã độc,3.75,IAS
-IA036,4,1,IA106,Pháp y kỹ thuật số,3.09,IAS
-IA036,4,2,IA105,Quản trị an ninh mạng,3.98,IAS
-IA036,4,3,IA102,Mã hóa thông tin,4.45,IAS
-IA036,4,4,IA104,Phân tích mã độc,3.38,IAS
-IA036,4,5,IA103,Kiểm thử xâm nhập,2.59,IAS
-IA036,4,6,IA101,An ninh mạng,4.47,IAS
-IA037,2,1,IA105,Quản trị an ninh mạng,2.49,IAS
-IA037,2,2,IA103,Kiểm thử xâm nhập,3.05,IAS
-IA037,2,3,IA106,Pháp y kỹ thuật số,2.29,IAS
-IA037,2,4,IA101,An ninh mạng,3.5,IAS
-IA037,2,5,IA102,Mã hóa thông tin,3.1,IAS
-IA037,2,6,IA104,Phân tích mã độc,4.41,IAS
-IA038,1,1,IA103,Kiểm thử xâm nhập,4.01,IAS
-IA038,1,2,IA105,Quản trị an ninh mạng,4.96,IAS
-IA038,1,3,IA104,Phân tích mã độc,2.17,IAS
-IA038,1,4,IA102,Mã hóa thông tin,4.37,IAS
-IA038,1,5,IA106,Pháp y kỹ thuật số,4.36,IAS
-IA038,1,6,IA101,An ninh mạng,3.56,IAS
-IA039,1,1,IA105,Quản trị an ninh mạng,4.22,IAS
-IA039,1,2,IA101,An ninh mạng,2.24,IAS
-IA039,1,3,IA106,Pháp y kỹ thuật số,2.22,IAS
-IA039,1,4,IA103,Kiểm thử xâm nhập,4.39,IAS
-IA039,1,5,IA102,Mã hóa thông tin,2.27,IAS
-IA039,1,6,IA104,Phân tích mã độc,4.89,IAS
-IA040,2,1,IA104,Phân tích mã độc,2.4,IAS
-IA040,2,2,IA102,Mã hóa thông tin,2.05,IAS
-IA040,2,3,IA101,An ninh mạng,3.96,IAS
-IA040,2,4,IA106,Pháp y kỹ thuật số,4.17,IAS
-IA040,2,5,IA103,Kiểm thử xâm nhập,3.46,IAS
-IA040,2,6,IA105,Quản trị an ninh mạng,3.96,IAS
-IA041,2,1,IA101,An ninh mạng,4.66,IAS
-IA041,2,2,IA103,Kiểm thử xâm nhập,4.04,IAS
-IA041,2,3,IA105,Quản trị an ninh mạng,3.88,IAS
-IA041,2,4,IA106,Pháp y kỹ thuật số,2.26,IAS
-IA041,2,5,IA104,Phân tích mã độc,3.06,IAS
-IA041,2,6,IA102,Mã hóa thông tin,2.54,IAS
-IA042,2,1,IA103,Kiểm thử xâm nhập,4.47,IAS
-IA042,2,2,IA104,Phân tích mã độc,2.12,IAS
-IA042,2,3,IA102,Mã hóa thông tin,3.09,IAS
-IA042,2,4,IA101,An ninh mạng,2.55,IAS
-IA042,2,5,IA106,Pháp y kỹ thuật số,3.19,IAS
-IA042,2,6,IA105,Quản trị an ninh mạng,4.8,IAS
-IA043,2,1,IA105,Quản trị an ninh mạng,4.33,IAS
-IA043,2,2,IA106,Pháp y kỹ thuật số,4.86,IAS
-IA043,2,3,IA104,Phân tích mã độc,2.61,IAS
-IA043,2,4,IA103,Kiểm thử xâm nhập,3.68,IAS
-IA043,2,5,IA102,Mã hóa thông tin,4.85,IAS
-IA043,2,6,IA101,An ninh mạng,2.88,IAS
-IA044,3,1,IA103,Kiểm thử xâm nhập,3.57,IAS
-IA044,3,2,IA106,Pháp y kỹ thuật số,2.73,IAS
-IA044,3,3,IA102,Mã hóa thông tin,4.08,IAS
-IA044,3,4,IA105,Quản trị an ninh mạng,4.33,IAS
-IA044,3,5,IA101,An ninh mạng,3.09,IAS
-IA044,3,6,IA104,Phân tích mã độc,2.06,IAS
-IA045,4,1,IA103,Kiểm thử xâm nhập,2.77,IAS
-IA045,4,2,IA106,Pháp y kỹ thuật số,4.76,IAS
-IA045,4,3,IA101,An ninh mạng,3.28,IAS
-IA045,4,4,IA104,Phân tích mã độc,3.3,IAS
-IA045,4,5,IA102,Mã hóa thông tin,3.86,IAS
-IA045,4,6,IA105,Quản trị an ninh mạng,2.58,IAS
-IA046,1,1,IA106,Pháp y kỹ thuật số,2.54,IAS
-IA046,1,2,IA104,Phân tích mã độc,4.51,IAS
-IA046,1,3,IA102,Mã hóa thông tin,4.86,IAS
-IA046,1,4,IA101,An ninh mạng,2.78,IAS
-IA046,1,5,IA105,Quản trị an ninh mạng,4.49,IAS
-IA046,1,6,IA103,Kiểm thử xâm nhập,2.08,IAS
-IA047,1,1,IA106,Pháp y kỹ thuật số,2.84,IAS
-IA047,1,2,IA103,Kiểm thử xâm nhập,3.44,IAS
-IA047,1,3,IA101,An ninh mạng,4.24,IAS
-IA047,1,4,IA102,Mã hóa thông tin,2.77,IAS
-IA047,1,5,IA104,Phân tích mã độc,2.62,IAS
-IA047,1,6,IA105,Quản trị an ninh mạng,3.69,IAS
-IA048,1,1,IA101,An ninh mạng,3.88,IAS
-IA048,1,2,IA102,Mã hóa thông tin,2.36,IAS
-IA048,1,3,IA105,Quản trị an ninh mạng,3.85,IAS
-IA048,1,4,IA103,Kiểm thử xâm nhập,4.18,IAS
-IA048,1,5,IA106,Pháp y kỹ thuật số,4.52,IAS
-IA048,1,6,IA104,Phân tích mã độc,2.04,IAS
-IA049,1,1,IA103,Kiểm thử xâm nhập,3.23,IAS
-IA049,1,2,IA105,Quản trị an ninh mạng,2.09,IAS
-IA049,1,3,IA102,Mã hóa thông tin,2.71,IAS
-IA049,1,4,IA106,Pháp y kỹ thuật số,4.22,IAS
-IA049,1,5,IA104,Phân tích mã độc,2.64,IAS
-IA049,1,6,IA101,An ninh mạng,4.08,IAS
-IA050,4,1,IA102,Mã hóa thông tin,3.0,IAS
-IA050,4,2,IA103,Kiểm thử xâm nhập,4.4,IAS
-IA050,4,3,IA106,Pháp y kỹ thuật số,4.09,IAS
-IA050,4,4,IA104,Phân tích mã độc,4.7,IAS
-IA050,4,5,IA105,Quản trị an ninh mạng,3.18,IAS
-IA050,4,6,IA101,An ninh mạng,4.17,IAS
+TO001,2,3,TO101,Quản Trị Khách Sạn,3.45,TOURISM
+TO001,1,5,TO107,Du Lịch Sinh Thái,4.12,TOURISM
+TO001,4,2,TO110,An Toàn Thực Phẩm,3.78,TOURISM
+TO001,3,1,TO113,Quản Lý Nhân Sự Du Lịch,2.95,TOURISM
+TO001,1,6,TO105,Dịch Vụ Khách Hàng,4.33,TOURISM
+TO001,2,4,TO108,Quản Lý Tài Chính Du Lịch,3.67,TOURISM
+TO002,3,2,TO102,Quản Trị Nhà Hàng,3.12,TOURISM
+TO002,4,5,TO106,Ẩm Thực Quốc Tế,4.01,TOURISM
+TO002,1,3,TO109,Marketing Trực Tuyến Cho Du Lịch,3.56,TOURISM
+TO002,2,1,TO114,Du Lịch Văn Hóa,3.89,TOURISM
+TO002,3,6,TO103,Tiếp Thị Du Lịch,4.22,TOURISM
+TO002,4,4,TO115,Công Nghệ Trong Du Lịch,3.44,TOURISM
+TO003,1,1,TO104,Quản Lý Sự Kiện,3.67,TOURISM
+TO003,2,6,TO111,Thiết Kế Nội Thất Khách Sạn,3.98,TOURISM
+TO003,3,3,TO116,Phát Triển Bền Vững Du Lịch,4.15,TOURISM
+TO003,4,2,TO112,Hướng Dẫn Du Lịch,3.21,TOURISM
+TO003,1,4,TO101,Quản Trị Khách Sạn,3.77,TOURISM
+TO003,2,5,TO107,Du Lịch Sinh Thái,3.90,TOURISM
+TO004,3,1,TO105,Dịch Vụ Khách Hàng,4.05,TOURISM
+TO004,4,3,TO108,Quản Lý Tài Chính Du Lịch,3.33,TOURISM
+TO004,1,2,TO110,An Toàn Thực Phẩm,3.88,TOURISM
+TO004,2,6,TO113,Quản Lý Nhân Sự Du Lịch,3.45,TOURISM
+TO004,3,4,TO102,Quản Trị Nhà Hàng,4.00,TOURISM
+TO004,4,5,TO106,Ẩm Thực Quốc Tế,3.56,TOURISM
+TO005,1,3,TO109,Marketing Trực Tuyến Cho Du Lịch,3.78,TOURISM
+TO005,2,1,TO114,Du Lịch Văn Hóa,3.12,TOURISM
+TO005,3,6,TO103,Tiếp Thị Du Lịch,3.90,TOURISM
+TO005,4,2,TO115,Công Nghệ Trong Du Lịch,4.22,TOURISM
+TO005,1,5,TO104,Quản Lý Sự Kiện,3.67,TOURISM
+TO005,2,4,TO111,Thiết Kế Nội Thất Khách Sạn,3.44,TOURISM
+TO006,3,3,TO116,Phát Triển Bền Vững Du Lịch,3.56,TOURISM
+TO006,4,1,TO112,Hướng Dẫn Du Lịch,3.89,TOURISM
+TO006,1,6,TO101,Quản Trị Khách Sạn,4.01,TOURISM
+TO006,2,2,TO107,Du Lịch Sinh Thái,3.67,TOURISM
+TO006,3,5,TO105,Dịch Vụ Khách Hàng,3.78,TOURISM
+TO006,4,4,TO108,Quản Lý Tài Chính Du Lịch,3.45,TOURISM
+TO007,1,3,TO110,An Toàn Thực Phẩm,3.12,TOURISM
+TO007,2,1,TO113,Quản Lý Nhân Sự Du Lịch,3.56,TOURISM
+TO007,3,6,TO102,Quản Trị Nhà Hàng,3.89,TOURISM
+TO007,4,2,TO106,Ẩm Thực Quốc Tế,4.22,TOURISM
+TO007,1,4,TO109,Marketing Trực Tuyến Cho Du Lịch,3.67,TOURISM
+TO007,2,5,TO114,Du Lịch Văn Hóa,3.44,TOURISM
+TO008,3,3,TO103,Tiếp Thị Du Lịch,3.78,TOURISM
+TO008,4,1,TO115,Công Nghệ Trong Du Lịch,3.12,TOURISM
+TO008,1,6,TO104,Quản Lý Sự Kiện,3.90,TOURISM
+TO008,2,2,TO111,Thiết Kế Nội Thất Khách Sạn,4.22,TOURISM
+TO008,3,5,TO116,Phát Triển Bền Vững Du Lịch,3.67,TOURISM
+TO008,4,4,TO112,Hướng Dẫn Du Lịch,3.44,TOURISM
+TO009,1,3,TO101,Quản Trị Khách Sạn,3.56,TOURISM
+TO009,2,1,TO107,Du Lịch Sinh Thái,3.89,TOURISM
+TO009,3,6,TO105,Dịch Vụ Khách Hàng,4.01,TOURISM
+TO009,4,2,TO108,Quản Lý Tài Chính Du Lịch,3.67,TOURISM
+TO009,1,4,TO110,An Toàn Thực Phẩm,3.78,TOURISM
+TO009,2,5,TO113,Quản Lý Nhân Sự Du Lịch,3.45,TOURISM
+TO010,3,3,TO102,Quản Trị Nhà Hàng,3.12,TOURISM
+TO010,4,1,TO106,Ẩm Thực Quốc Tế,3.56,TOURISM
+TO010,1,6,TO109,Marketing Trực Tuyến Cho Du Lịch,3.89,TOURISM
+TO010,2,2,TO114,Du Lịch Văn Hóa,4.22,TOURISM
+TO010,3,5,TO103,Tiếp Thị Du Lịch,3.67,TOURISM
+TO010,4,4,TO115,Công Nghệ Trong Du Lịch,3.44,TOURISM
+TO011,1,1,TO104,Quản Lý Sự Kiện,3.78,TOURISM
+TO011,2,3,TO111,Thiết Kế Nội Thất Khách Sạn,3.12,TOURISM
+TO011,3,5,TO116,Phát Triển Bền Vững Du Lịch,3.90,TOURISM
+TO011,4,6,TO112,Hướng Dẫn Du Lịch,4.22,TOURISM
+TO011,1,2,TO101,Quản Trị Khách Sạn,3.67,TOURISM
+TO011,2,4,TO107,Du Lịch Sinh Thái,3.44,TOURISM
+TO012,3,1,TO105,Dịch Vụ Khách Hàng,3.56,TOURISM
+TO012,4,3,TO108,Quản Lý Tài Chính Du Lịch,3.89,TOURISM
+TO012,1,5,TO110,An Toàn Thực Phẩm,4.01,TOURISM
+TO012,2,6,TO113,Quản Lý Nhân Sự Du Lịch,3.67,TOURISM
+TO012,3,2,TO102,Quản Trị Nhà Hàng,3.78,TOURISM
+TO012,4,4,TO106,Ẩm Thực Quốc Tế,3.45,TOURISM
+TO013,1,1,TO109,Marketing Trực Tuyến Cho Du Lịch,3.12,TOURISM
+TO013,2,3,TO114,Du Lịch Văn Hóa,3.56,TOURISM
+TO013,3,5,TO103,Tiếp Thị Du Lịch,3.89,TOURISM
+TO013,4,6,TO115,Công Nghệ Trong Du Lịch,4.22,TOURISM
+TO013,1,2,TO104,Quản Lý Sự Kiện,3.67,TOURISM
+TO013,2,4,TO111,Thiết Kế Nội Thất Khách Sạn,3.44,TOURISM
+TO014,3,1,TO116,Phát Triển Bền Vững Du Lịch,3.78,TOURISM
+TO014,4,3,TO112,Hướng Dẫn Du Lịch,3.12,TOURISM
+TO014,1,5,TO101,Quản Trị Khách Sạn,3.90,TOURISM
+TO014,2,6,TO107,Du Lịch Sinh Thái,4.22,TOURISM
+TO014,3,2,TO105,Dịch Vụ Khách Hàng,3.67,TOURISM
+TO014,4,4,TO108,Quản Lý Tài Chính Du Lịch,3.44,TOURISM
+TO015,1,1,TO110,An Toàn Thực Phẩm,3.56,TOURISM
+TO015,2,3,TO113,Quản Lý Nhân Sự Du Lịch,3.89,TOURISM
+TO015,3,5,TO102,Quản Trị Nhà Hàng,4.01,TOURISM
+TO015,4,6,TO106,Ẩm Thực Quốc Tế,3.67,TOURISM
+TO015,1,2,TO109,Marketing Trực Tuyến Cho Du Lịch,3.78,TOURISM
+TO015,2,4,TO114,Du Lịch Văn Hóa,3.45,TOURISM
+TO016,3,1,TO103,Tiếp Thị Du Lịch,3.12,TOURISM
+TO016,4,3,TO115,Công Nghệ Trong Du Lịch,3.56,TOURISM
+TO016,1,5,TO104,Quản Lý Sự Kiện,3.89,TOURISM
+TO016,2,6,TO111,Thiết Kế Nội Thất Khách Sạn,4.22,TOURISM
+TO016,3,2,TO116,Phát Triển Bền Vững Du Lịch,3.67,TOURISM
+TO016,4,4,TO112,Hướng Dẫn Du Lịch,3.44,TOURISM
+TO017,1,1,TO101,Quản Trị Khách Sạn,3.78,TOURISM
+TO017,2,3,TO107,Du Lịch Sinh Thái,3.12,TOURISM
+TO017,3,5,TO105,Dịch Vụ Khách Hàng,3.90,TOURISM
+TO017,4,6,TO108,Quản Lý Tài Chính Du Lịch,4.22,TOURISM
+TO017,1,2,TO110,An Toàn Thực Phẩm,3.67,TOURISM
+TO017,2,4,TO113,Quản Lý Nhân Sự Du Lịch,3.44,TOURISM
+TO018,3,1,TO102,Quản Trị Nhà Hàng,3.56,TOURISM
+TO018,4,3,TO106,Ẩm Thực Quốc Tế,3.89,TOURISM
+TO018,1,5,TO109,Marketing Trực Tuyến Cho Du Lịch,4.01,TOURISM
+TO018,2,6,TO114,Du Lịch Văn Hóa,3.67,TOURISM
+TO018,3,2,TO103,Tiếp Thị Du Lịch,3.78,TOURISM
+TO018,4,4,TO115,Công Nghệ Trong Du Lịch,3.45,TOURISM
+TO019,1,1,TO104,Quản Lý Sự Kiện,3.12,TOURISM
+TO019,2,3,TO111,Thiết Kế Nội Thất Khách Sạn,3.56,TOURISM
+TO019,3,5,TO116,Phát Triển Bền Vững Du Lịch,3.89,TOURISM
+TO019,4,6,TO112,Hướng Dẫn Du Lịch,4.22,TOURISM
+TO019,1,2,TO101,Quản Trị Khách Sạn,3.67,TOURISM
+TO019,2,4,TO107,Du Lịch Sinh Thái,3.44,TOURISM
+TO020,3,1,TO105,Dịch Vụ Khách Hàng,3.78,TOURISM
+TO020,4,3,TO108,Quản Lý Tài Chính Du Lịch,3.12,TOURISM
+TO020,1,5,TO110,An Toàn Thực Phẩm,3.90,TOURISM
+TO020,2,6,TO113,Quản Lý Nhân Sự Du Lịch,4.22,TOURISM
+TO020,3,2,TO102,Quản Trị Nhà Hàng,3.67,TOURISM
+TO020,4,4,TO106,Ẩm Thực Quốc Tế,3.44,TOURISM
+TO021,1,1,TO109,Marketing Trực Tuyến Cho Du Lịch,3.56,TOURISM
+TO021,2,3,TO114,Du Lịch Văn Hóa,3.89,TOURISM
+TO021,3,5,TO103,Tiếp Thị Du Lịch,4.01,TOURISM
+TO021,4,6,TO115,Công Nghệ Trong Du Lịch,3.67,TOURISM
+TO021,1,2,TO104,Quản Lý Sự Kiện,3.78,TOURISM
+TO021,2,4,TO111,Thiết Kế Nội Thất Khách Sạn,3.45,TOURISM
+TO022,3,1,TO116,Phát Triển Bền Vững Du Lịch,3.12,TOURISM
+TO022,4,3,TO112,Hướng Dẫn Du Lịch,3.56,TOURISM
+TO022,1,5,TO101,Quản Trị Khách Sạn,3.89,TOURISM
+TO022,2,6,TO107,Du Lịch Sinh Thái,4.22,TOURISM
+TO022,3,2,TO105,Dịch Vụ Khách Hàng,3.67,TOURISM
+TO022,4,4,TO108,Quản Lý Tài Chính Du Lịch,3.44,TOURISM
+TO023,1,1,TO110,An Toàn Thực Phẩm,3.78,TOURISM
+TO023,2,3,TO113,Quản Lý Nhân Sự Du Lịch,3.12,TOURISM
+TO023,3,5,TO102,Quản Trị Nhà Hàng,3.90,TOURISM
+TO023,4,6,TO106,Ẩm Thực Quốc Tế,4.22,TOURISM
+TO023,1,2,TO109,Marketing Trực Tuyến Cho Du Lịch,3.67,TOURISM
+TO023,2,4,TO114,Du Lịch Văn Hóa,3.44,TOURISM
+TO024,3,1,TO103,Tiếp Thị Du Lịch,3.56,TOURISM
+TO024,4,3,TO115,Công Nghệ Trong Du Lịch,3.89,TOURISM
+TO024,1,5,TO104,Quản Lý Sự Kiện,4.01,TOURISM
+TO024,2,6,TO111,Thiết Kế Nội Thất Khách Sạn,3.67,TOURISM
+TO024,3,2,TO116,Phát Triển Bền Vững Du Lịch,3.78,TOURISM
+TO024,4,4,TO112,Hướng Dẫn Du Lịch,3.45,TOURISM
+TO025,1,1,TO101,Quản Trị Khách Sạn,3.12,TOURISM
+TO025,2,3,TO107,Du Lịch Sinh Thái,3.56,TOURISM
+TO025,3,5,TO105,Dịch Vụ Khách Hàng,3.89,TOURISM
+TO025,4,6,TO108,Quản Lý Tài Chính Du Lịch,4.22,TOURISM
+TO025,1,2,TO110,An Toàn Thực Phẩm,3.67,TOURISM
+TO025,2,4,TO113,Quản Lý Nhân Sự Du Lịch,3.44,TOURISM
+TO026,3,1,TO102,Quản Trị Nhà Hàng,3.78,TOURISM
+TO026,4,3,TO106,Ẩm Thực Quốc Tế,3.12,TOURISM
+TO026,1,5,TO109,Marketing Trực Tuyến Cho Du Lịch,3.90,TOURISM
+TO026,2,6,TO114,Du Lịch Văn Hóa,4.22,TOURISM
+TO026,3,2,TO103,Tiếp Thị Du Lịch,3.67,TOURISM
+TO026,4,4,TO115,Công Nghệ Trong Du Lịch,3.44,TOURISM
+TO027,1,1,TO104,Quản Lý Sự Kiện,3.56,TOURISM
+TO027,2,3,TO111,Thiết Kế Nội Thất Khách Sạn,3.89,TOURISM
+TO027,3,5,TO116,Phát Triển Bền Vững Du Lịch,4.01,TOURISM
+TO027,4,6,TO112,Hướng Dẫn Du Lịch,3.67,TOURISM
+TO027,1,2,TO101,Quản Trị Khách Sạn,3.78,TOURISM
+TO027,2,4,TO107,Du Lịch Sinh Thái,3.45,TOURISM
+TO028,3,1,TO105,Dịch Vụ Khách Hàng,3.12,TOURISM
+TO028,4,3,TO108,Quản Lý Tài Chính Du Lịch,3.56,TOURISM
+TO028,1,5,TO110,An Toàn Thực Phẩm,3.89,TOURISM
+TO028,2,6,TO113,Quản Lý Nhân Sự Du Lịch,4.22,TOURISM
+TO028,3,2,TO102,Quản Trị Nhà Hàng,3.67,TOURISM
+TO028,4,4,TO106,Ẩm Thực Quốc Tế,3.44,TOURISM
+TO029,1,1,TO109,Marketing Trực Tuyến Cho Du Lịch,3.78,TOURISM
+TO029,2,3,TO114,Du Lịch Văn Hóa,3.12,TOURISM
+TO029,3,5,TO103,Tiếp Thị Du Lịch,3.90,TOURISM
+TO029,4,6,TO115,Công Nghệ Trong Du Lịch,4.22,TOURISM
+TO029,1,2,TO104,Quản Lý Sự Kiện,3.67,TOURISM
+TO029,2,4,TO111,Thiết Kế Nội Thất Khách Sạn,3.44,TOURISM
+TO030,3,1,TO116,Phát Triển Bền Vững Du Lịch,3.56,TOURISM
+TO030,4,3,TO112,Hướng Dẫn Du Lịch,3.89,TOURISM
+TO030,1,5,TO101,Quản Trị Khách Sạn,4.01,TOURISM
+TO030,2,6,TO107,Du Lịch Sinh Thái,3.67,TOURISM
+TO030,3,2,TO105,Dịch Vụ Khách Hàng,3.78,TOURISM
+TO030,4,4,TO108,Quản Lý Tài Chính Du Lịch,3.45,TOURISM
+TO031,1,1,TO110,An Toàn Thực Phẩm,3.12,TOURISM
+TO031,2,3,TO113,Quản Lý Nhân Sự Du Lịch,3.56,TOURISM
+TO031,3,5,TO102,Quản Trị Nhà Hàng,3.89,TOURISM
+TO031,4,6,TO106,Ẩm Thực Quốc Tế,4.22,TOURISM
+TO031,1,2,TO109,Marketing Trực Tuyến Cho Du Lịch,3.67,TOURISM
+TO031,2,4,TO114,Du Lịch Văn Hóa,3.44,TOURISM
+TO032,3,1,TO103,Tiếp Thị Du Lịch,3.78,TOURISM
+TO032,4,3,TO115,Công Nghệ Trong Du Lịch,3.12,TOURISM
+TO032,1,5,TO104,Quản Lý Sự Kiện,3.90,TOURISM
+TO032,2,6,TO111,Thiết Kế Nội Thất Khách Sạn,4.22,TOURISM
+TO032,3,2,TO116,Phát Triển Bền Vững Du Lịch,3.67,TOURISM
+TO032,4,4,TO112,Hướng Dẫn Du Lịch,3.44,TOURISM
+TO033,1,1,TO101,Quản Trị Khách Sạn,3.56,TOURISM
+TO033,2,3,TO107,Du Lịch Sinh Thái,3.89,TOURISM
+TO033,3,5,TO105,Dịch Vụ Khách Hàng,4.01,TOURISM
+TO033,4,6,TO108,Quản Lý Tài Chính Du Lịch,3.67,TOURISM
+TO033,1,2,TO110,An Toàn Thực Phẩm,3.78,TOURISM
+TO033,2,4,TO113,Quản Lý Nhân Sự Du Lịch,3.45,TOURISM
+TO034,3,1,TO102,Quản Trị Nhà Hàng,3.12,TOURISM
+TO034,4,3,TO106,Ẩm Thực Quốc Tế,3.56,TOURISM
+TO034,1,5,TO109,Marketing Trực Tuyến Cho Du Lịch,3.89,TOURISM
+TO034,2,6,TO114,Du Lịch Văn Hóa,4.22,TOURISM
+TO034,3,2,TO103,Tiếp Thị Du Lịch,3.67,TOURISM
+TO034,4,4,TO115,Công Nghệ Trong Du Lịch,3.44,TOURISM
+TO035,1,1,TO104,Quản Lý Sự Kiện,3.78,TOURISM
+TO035,2,3,TO111,Thiết Kế Nội Thất Khách Sạn,3.12,TOURISM
+TO035,3,5,TO116,Phát Triển Bền Vững Du Lịch,3.90,TOURISM
+TO035,4,6,TO112,Hướng Dẫn Du Lịch,4.22,TOURISM
+TO035,1,2,TO101,Quản Trị Khách Sạn,3.67,TOURISM
+TO035,2,4,TO107,Du Lịch Sinh Thái,3.44,TOURISM
+TO036,3,1,TO105,Dịch Vụ Khách Hàng,3.56,TOURISM
+TO036,4,3,TO108,Quản Lý Tài Chính Du Lịch,3.89,TOURISM
+TO036,1,5,TO110,An Toàn Thực Phẩm,4.01,TOURISM
+TO036,2,6,TO113,Quản Lý Nhân Sự Du Lịch,3.67,TOURISM
+TO036,3,2,TO102,Quản Trị Nhà Hàng,3.78,TOURISM
+TO036,4,4,TO106,Ẩm Thực Quốc Tế,3.45,TOURISM
+TO037,1,1,TO109,Marketing Trực Tuyến Cho Du Lịch,3.12,TOURISM
+TO037,2,3,TO114,Du Lịch Văn Hóa,3.56,TOURISM
+TO037,3,5,TO103,Tiếp Thị Du Lịch,3.89,TOURISM
+TO037,4,6,TO115,Công Nghệ Trong Du Lịch,4.22,TOURISM
+TO037,1,2,TO104,Quản Lý Sự Kiện,3.67,TOURISM
+TO037,2,4,TO111,Thiết Kế Nội Thất Khách Sạn,3.44,TOURISM
+TO038,3,1,TO116,Phát Triển Bền Vững Du Lịch,3.78,TOURISM
+TO038,4,3,TO112,Hướng Dẫn Du Lịch,3.12,TOURISM
+TO038,1,5,TO101,Quản Trị Khách Sạn,3.90,TOURISM
+TO038,2,6,TO107,Du Lịch Sinh Thái,4.22,TOURISM
+TO038,3,2,TO105,Dịch Vụ Khách Hàng,3.67,TOURISM
+TO038,4,4,TO108,Quản Lý Tài Chính Du Lịch,3.44,TOURISM
+TO039,1,1,TO110,An Toàn Thực Phẩm,3.56,TOURISM
+TO039,2,3,TO113,Quản Lý Nhân Sự Du Lịch,3.89,TOURISM
+TO039,3,5,TO102,Quản Trị Nhà Hàng,4.01,TOURISM
+TO039,4,6,TO106,Ẩm Thực Quốc Tế,3.67,TOURISM
+TO039,1,2,TO109,Marketing Trực Tuyến Cho Du Lịch,3.78,TOURISM
+TO039,2,4,TO114,Du Lịch Văn Hóa,3.45,TOURISM
+TO040,3,1,TO103,Tiếp Thị Du Lịch,3.12,TOURISM
+TO040,4,3,TO115,Công Nghệ Trong Du Lịch,3.56,TOURISM
+TO040,1,5,TO104,Quản Lý Sự Kiện,3.89,TOURISM
+TO040,2,6,TO111,Thiết Kế Nội Thất Khách Sạn,4.22,TOURISM
+TO040,3,2,TO116,Phát Triển Bền Vững Du Lịch,3.67,TOURISM
+TO040,4,4,TO112,Hướng Dẫn Du Lịch,3.44,TOURISM
+TO041,1,1,TO101,Quản Trị Khách Sạn,3.78,TOURISM
+TO041,2,3,TO107,Du Lịch Sinh Thái,3.12,TOURISM
+TO041,3,5,TO105,Dịch Vụ Khách Hàng,3.90,TOURISM
+TO041,4,6,TO108,Quản Lý Tài Chính Du Lịch,4.22,TOURISM
+TO041,1,2,TO110,An Toàn Thực Phẩm,3.67,TOURISM
+TO041,2,4,TO113,Quản Lý Nhân Sự Du Lịch,3.44,TOURISM
+TO042,3,1,TO102,Quản Trị Nhà Hàng,3.56,TOURISM
+TO042,4,3,TO106,Ẩm Thực Quốc Tế,3.89,TOURISM
+TO042,1,5,TO109,Marketing Trực Tuyến Cho Du Lịch,4.01,TOURISM
+TO042,2,6,TO114,Du Lịch Văn Hóa,3.67,TOURISM
+TO042,3,2,TO103,Tiếp Thị Du Lịch,3.78,TOURISM
+TO042,4,4,TO115,Công Nghệ Trong Du Lịch,3.45,TOURISM
+TO043,1,1,TO104,Quản Lý Sự Kiện,3.12,TOURISM
+TO043,2,3,TO111,Thiết Kế Nội Thất Khách Sạn,3.56,TOURISM
+TO043,3,5,TO116,Phát Triển Bền Vững Du Lịch,3.89,TOURISM
+TO043,4,6,TO112,Hướng Dẫn Du Lịch,4.22,TOURISM
+TO043,1,2,TO101,Quản Trị Khách Sạn,3.67,TOURISM
+TO043,2,4,TO107,Du Lịch Sinh Thái,3.44,TOURISM
+TO044,3,1,TO105,Dịch Vụ Khách Hàng,3.78,TOURISM
+TO044,4,3,TO108,Quản Lý Tài Chính Du Lịch,3.12,TOURISM
+TO044,1,5,TO110,An Toàn Thực Phẩm,3.90,TOURISM
+TO044,2,6,TO113,Quản Lý Nhân Sự Du Lịch,4.22,TOURISM
+TO044,3,2,TO102,Quản Trị Nhà Hàng,3.67,TOURISM
+TO044,4,4,TO106,Ẩm Thực Quốc Tế,3.44,TOURISM
+TO045,1,1,TO109,Marketing Trực Tuyến Cho Du Lịch,3.56,TOURISM
+TO045,2,3,TO114,Du Lịch Văn Hóa,3.89,TOURISM
+TO045,3,5,TO103,Tiếp Thị Du Lịch,4.01,TOURISM
+TO045,4,6,TO115,Công Nghệ Trong Du Lịch,3.67,TOURISM
+TO045,1,2,TO104,Quản Lý Sự Kiện,3.78,TOURISM
+TO045,2,4,TO111,Thiết Kế Nội Thất Khách Sạn,3.45,TOURISM
+TO046,3,1,TO116,Phát Triển Bền Vững Du Lịch,3.12,TOURISM
+TO046,4,3,TO112,Hướng Dẫn Du Lịch,3.56,TOURISM
+TO046,1,5,TO101,Quản Trị Khách Sạn,3.89,TOURISM
+TO046,1,5,TO101,Quản Trị Khách Sạn,3.89,TOURISM
+TO046,2,6,TO107,Du Lịch Sinh Thái,4.22,TOURISM
+TO046,3,2,TO105,Dịch Vụ Khách Hàng,3.67,TOURISM
+TO046,4,3,TO108,Quản Lý Tài Chính Du Lịch,3.44,TOURISM
+TO046,1,1,TO110,An Toàn Thực Phẩm,3.78,TOURISM
+TO046,2,4,TO113,Quản Lý Nhân Sự Du Lịch,3.12,TOURISM
+TO047,3,5,TO102,Quản Trị Nhà Hàng,3.90,TOURISM
+TO047,4,6,TO106,Ẩm Thực Quốc Tế,4.22,TOURISM
+TO047,1,3,TO109,Marketing Trực Tuyến Cho Du Lịch,3.67,TOURISM
+TO047,2,1,TO114,Du Lịch Văn Hóa,3.44,TOURISM
+TO047,3,4,TO103,Tiếp Thị Du Lịch,3.56,TOURISM
+TO047,4,2,TO115,Công Nghệ Trong Du Lịch,3.89,TOURISM
+TO048,1,6,TO104,Quản Lý Sự Kiện,4.01,TOURISM
+TO048,2,3,TO111,Thiết Kế Nội Thất Khách Sạn,3.67,TOURISM
+TO048,3,1,TO116,Phát Triển Bền Vững Du Lịch,3.78,TOURISM
+TO048,4,5,TO112,Hướng Dẫn Du Lịch,3.45,TOURISM
+TO048,1,2,TO101,Quản Trị Khách Sạn,3.12,TOURISM
+TO048,2,4,TO107,Du Lịch Sinh Thái,3.56,TOURISM
+TO049,3,6,TO105,Dịch Vụ Khách Hàng,3.89,TOURISM
+TO049,4,3,TO108,Quản Lý Tài Chính Du Lịch,4.22,TOURISM
+TO049,1,5,TO110,An Toàn Thực Phẩm,3.67,TOURISM
+TO049,2,2,TO113,Quản Lý Nhân Sự Du Lịch,3.44,TOURISM
+TO049,3,1,TO102,Quản Trị Nhà Hàng,3.78,TOURISM
+TO049,4,4,TO106,Ẩm Thực Quốc Tế,3.12,TOURISM
+TO050,1,3,TO109,Marketing Trực Tuyến Cho Du Lịch,3.90,TOURISM
+TO050,2,6,TO114,Du Lịch Văn Hóa,4.22,TOURISM
+TO050,3,5,TO103,Tiếp Thị Du Lịch,3.67,TOURISM
+TO050,4,1,TO115,Công Nghệ Trong Du Lịch,3.44,TOURISM
+TO050,1,4,TO104,Quản Lý Sự Kiện,3.56,TOURISM
+TO050,2,2,TO111,Thiết Kế Nội Thất Khách Sạn,3.89,TOURISM
 
 
-AR001,3,1,AR105,Mỹ thuật kiến trúc,2.6,ARCH
-AR001,3,2,AR102,Thiết kế đô thị,3.25,ARCH
-AR001,3,3,AR101,Kiến trúc cơ bản,2.19,ARCH
-AR001,3,4,AR103,Lịch sử kiến trúc,3.66,ARCH
-AR001,3,5,AR104,Kiến trúc bền vững,4.77,ARCH
-AR001,3,6,AR106,Thiết kế công trình công cộng,3.04,ARCH
-AR002,3,1,AR103,Lịch sử kiến trúc,4.99,ARCH
-AR002,3,2,AR104,Kiến trúc bền vững,4.67,ARCH
-AR002,3,3,AR101,Kiến trúc cơ bản,3.53,ARCH
-AR002,3,4,AR105,Mỹ thuật kiến trúc,4.9,ARCH
-AR002,3,5,AR102,Thiết kế đô thị,2.74,ARCH
-AR002,3,6,AR106,Thiết kế công trình công cộng,4.3,ARCH
-AR003,3,1,AR105,Mỹ thuật kiến trúc,4.67,ARCH
-AR003,3,2,AR101,Kiến trúc cơ bản,2.67,ARCH
-AR003,3,3,AR106,Thiết kế công trình công cộng,4.37,ARCH
-AR003,3,4,AR102,Thiết kế đô thị,2.48,ARCH
-AR003,3,5,AR104,Kiến trúc bền vững,3.22,ARCH
-AR003,3,6,AR103,Lịch sử kiến trúc,3.55,ARCH
-AR004,1,1,AR101,Kiến trúc cơ bản,2.9,ARCH
-AR004,1,2,AR105,Mỹ thuật kiến trúc,4.89,ARCH
-AR004,1,3,AR102,Thiết kế đô thị,2.36,ARCH
-AR004,1,4,AR106,Thiết kế công trình công cộng,3.39,ARCH
-AR004,1,5,AR103,Lịch sử kiến trúc,3.02,ARCH
-AR004,1,6,AR104,Kiến trúc bền vững,2.07,ARCH
-AR005,4,1,AR105,Mỹ thuật kiến trúc,3.56,ARCH
-AR005,4,2,AR104,Kiến trúc bền vững,3.28,ARCH
-AR005,4,3,AR101,Kiến trúc cơ bản,2.38,ARCH
-AR005,4,4,AR106,Thiết kế công trình công cộng,4.99,ARCH
-AR005,4,5,AR103,Lịch sử kiến trúc,3.5,ARCH
-AR005,4,6,AR102,Thiết kế đô thị,4.23,ARCH
-AR006,3,1,AR101,Kiến trúc cơ bản,4.23,ARCH
-AR006,3,2,AR102,Thiết kế đô thị,2.27,ARCH
-AR006,3,3,AR105,Mỹ thuật kiến trúc,2.96,ARCH
-AR006,3,4,AR103,Lịch sử kiến trúc,3.95,ARCH
-AR006,3,5,AR106,Thiết kế công trình công cộng,3.73,ARCH
-AR006,3,6,AR104,Kiến trúc bền vững,2.81,ARCH
-AR007,3,1,AR102,Thiết kế đô thị,3.9,ARCH
-AR007,3,2,AR105,Mỹ thuật kiến trúc,4.31,ARCH
-AR007,3,3,AR104,Kiến trúc bền vững,2.21,ARCH
-AR007,3,4,AR106,Thiết kế công trình công cộng,3.12,ARCH
-AR007,3,5,AR101,Kiến trúc cơ bản,2.15,ARCH
-AR007,3,6,AR103,Lịch sử kiến trúc,2.3,ARCH
-AR008,2,1,AR106,Thiết kế công trình công cộng,2.69,ARCH
-AR008,2,2,AR102,Thiết kế đô thị,3.29,ARCH
-AR008,2,3,AR105,Mỹ thuật kiến trúc,2.44,ARCH
-AR008,2,4,AR101,Kiến trúc cơ bản,3.29,ARCH
-AR008,2,5,AR104,Kiến trúc bền vững,2.02,ARCH
-AR008,2,6,AR103,Lịch sử kiến trúc,2.35,ARCH
-AR009,4,1,AR103,Lịch sử kiến trúc,4.96,ARCH
-AR009,4,2,AR106,Thiết kế công trình công cộng,3.79,ARCH
-AR009,4,3,AR105,Mỹ thuật kiến trúc,2.86,ARCH
-AR009,4,4,AR102,Thiết kế đô thị,3.47,ARCH
-AR009,4,5,AR104,Kiến trúc bền vững,4.39,ARCH
-AR009,4,6,AR101,Kiến trúc cơ bản,4.55,ARCH
-AR010,2,1,AR104,Kiến trúc bền vững,2.12,ARCH
-AR010,2,2,AR102,Thiết kế đô thị,4.62,ARCH
-AR010,2,3,AR105,Mỹ thuật kiến trúc,4.26,ARCH
-AR010,2,4,AR101,Kiến trúc cơ bản,2.09,ARCH
-AR010,2,5,AR106,Thiết kế công trình công cộng,3.77,ARCH
-AR010,2,6,AR103,Lịch sử kiến trúc,3.56,ARCH
-AR011,2,1,AR105,Mỹ thuật kiến trúc,3.92,ARCH
-AR011,2,2,AR101,Kiến trúc cơ bản,4.21,ARCH
-AR011,2,3,AR103,Lịch sử kiến trúc,4.9,ARCH
-AR011,2,4,AR106,Thiết kế công trình công cộng,2.09,ARCH
-AR011,2,5,AR104,Kiến trúc bền vững,3.5,ARCH
-AR011,2,6,AR102,Thiết kế đô thị,2.3,ARCH
-AR012,3,1,AR105,Mỹ thuật kiến trúc,3.34,ARCH
-AR012,3,2,AR106,Thiết kế công trình công cộng,2.65,ARCH
-AR012,3,3,AR101,Kiến trúc cơ bản,4.91,ARCH
-AR012,3,4,AR104,Kiến trúc bền vững,3.08,ARCH
-AR012,3,5,AR103,Lịch sử kiến trúc,3.11,ARCH
-AR012,3,6,AR102,Thiết kế đô thị,4.57,ARCH
-AR013,4,1,AR101,Kiến trúc cơ bản,3.26,ARCH
-AR013,4,2,AR106,Thiết kế công trình công cộng,4.67,ARCH
-AR013,4,3,AR104,Kiến trúc bền vững,3.4,ARCH
-AR013,4,4,AR105,Mỹ thuật kiến trúc,4.52,ARCH
-AR013,4,5,AR102,Thiết kế đô thị,2.68,ARCH
-AR013,4,6,AR103,Lịch sử kiến trúc,2.08,ARCH
-AR014,2,1,AR101,Kiến trúc cơ bản,2.5,ARCH
-AR014,2,2,AR103,Lịch sử kiến trúc,3.59,ARCH
-AR014,2,3,AR106,Thiết kế công trình công cộng,2.01,ARCH
-AR014,2,4,AR102,Thiết kế đô thị,3.38,ARCH
-AR014,2,5,AR105,Mỹ thuật kiến trúc,4.2,ARCH
-AR014,2,6,AR104,Kiến trúc bền vững,2.99,ARCH
-AR015,2,1,AR102,Thiết kế đô thị,2.99,ARCH
-AR015,2,2,AR103,Lịch sử kiến trúc,3.24,ARCH
-AR015,2,3,AR101,Kiến trúc cơ bản,4.39,ARCH
-AR015,2,4,AR106,Thiết kế công trình công cộng,2.03,ARCH
-AR015,2,5,AR105,Mỹ thuật kiến trúc,4.47,ARCH
-AR015,2,6,AR104,Kiến trúc bền vững,3.21,ARCH
-AR016,3,1,AR106,Thiết kế công trình công cộng,3.4,ARCH
-AR016,3,2,AR101,Kiến trúc cơ bản,2.71,ARCH
-AR016,3,3,AR103,Lịch sử kiến trúc,4.39,ARCH
-AR016,3,4,AR104,Kiến trúc bền vững,4.08,ARCH
-AR016,3,5,AR102,Thiết kế đô thị,4.69,ARCH
-AR016,3,6,AR105,Mỹ thuật kiến trúc,2.83,ARCH
-AR017,2,1,AR102,Thiết kế đô thị,2.17,ARCH
-AR017,2,2,AR105,Mỹ thuật kiến trúc,2.2,ARCH
-AR017,2,3,AR103,Lịch sử kiến trúc,4.49,ARCH
-AR017,2,4,AR104,Kiến trúc bền vững,3.11,ARCH
-AR017,2,5,AR101,Kiến trúc cơ bản,4.66,ARCH
-AR017,2,6,AR106,Thiết kế công trình công cộng,4.74,ARCH
-AR018,1,1,AR106,Thiết kế công trình công cộng,3.08,ARCH
-AR018,1,2,AR102,Thiết kế đô thị,4.39,ARCH
-AR018,1,3,AR104,Kiến trúc bền vững,2.03,ARCH
-AR018,1,4,AR103,Lịch sử kiến trúc,3.36,ARCH
-AR018,1,5,AR105,Mỹ thuật kiến trúc,3.4,ARCH
-AR018,1,6,AR101,Kiến trúc cơ bản,3.47,ARCH
-AR019,4,1,AR101,Kiến trúc cơ bản,2.01,ARCH
-AR019,4,2,AR106,Thiết kế công trình công cộng,4.15,ARCH
-AR019,4,3,AR103,Lịch sử kiến trúc,4.58,ARCH
-AR019,4,4,AR104,Kiến trúc bền vững,4.18,ARCH
-AR019,4,5,AR102,Thiết kế đô thị,2.71,ARCH
-AR019,4,6,AR105,Mỹ thuật kiến trúc,4.14,ARCH
-AR020,1,1,AR101,Kiến trúc cơ bản,3.69,ARCH
-AR020,1,2,AR103,Lịch sử kiến trúc,2.84,ARCH
-AR020,1,3,AR106,Thiết kế công trình công cộng,3.33,ARCH
-AR020,1,4,AR104,Kiến trúc bền vững,3.19,ARCH
-AR020,1,5,AR102,Thiết kế đô thị,2.39,ARCH
-AR020,1,6,AR105,Mỹ thuật kiến trúc,3.85,ARCH
-AR021,3,1,AR102,Thiết kế đô thị,4.46,ARCH
-AR021,3,2,AR101,Kiến trúc cơ bản,4.31,ARCH
-AR021,3,3,AR103,Lịch sử kiến trúc,2.83,ARCH
-AR021,3,4,AR105,Mỹ thuật kiến trúc,3.57,ARCH
-AR021,3,5,AR104,Kiến trúc bền vững,4.56,ARCH
-AR021,3,6,AR106,Thiết kế công trình công cộng,4.87,ARCH
-AR022,1,1,AR103,Lịch sử kiến trúc,3.57,ARCH
-AR022,1,2,AR102,Thiết kế đô thị,3.05,ARCH
-AR022,1,3,AR106,Thiết kế công trình công cộng,2.09,ARCH
-AR022,1,4,AR104,Kiến trúc bền vững,3.55,ARCH
-AR022,1,5,AR101,Kiến trúc cơ bản,3.42,ARCH
-AR022,1,6,AR105,Mỹ thuật kiến trúc,2.08,ARCH
-AR023,4,1,AR102,Thiết kế đô thị,4.21,ARCH
-AR023,4,2,AR106,Thiết kế công trình công cộng,4.67,ARCH
-AR023,4,3,AR104,Kiến trúc bền vững,4.07,ARCH
-AR023,4,4,AR101,Kiến trúc cơ bản,3.58,ARCH
-AR023,4,5,AR105,Mỹ thuật kiến trúc,2.34,ARCH
-AR023,4,6,AR103,Lịch sử kiến trúc,2.51,ARCH
-AR024,4,1,AR104,Kiến trúc bền vững,2.73,ARCH
-AR024,4,2,AR102,Thiết kế đô thị,4.14,ARCH
-AR024,4,3,AR106,Thiết kế công trình công cộng,2.6,ARCH
-AR024,4,4,AR105,Mỹ thuật kiến trúc,2.76,ARCH
-AR024,4,5,AR103,Lịch sử kiến trúc,3.14,ARCH
-AR024,4,6,AR101,Kiến trúc cơ bản,4.96,ARCH
-AR025,1,1,AR103,Lịch sử kiến trúc,3.56,ARCH
-AR025,1,2,AR105,Mỹ thuật kiến trúc,2.33,ARCH
-AR025,1,3,AR101,Kiến trúc cơ bản,3.57,ARCH
-AR025,1,4,AR104,Kiến trúc bền vững,4.08,ARCH
-AR025,1,5,AR102,Thiết kế đô thị,3.38,ARCH
-AR025,1,6,AR106,Thiết kế công trình công cộng,2.99,ARCH
-AR026,1,1,AR101,Kiến trúc cơ bản,4.56,ARCH
-AR026,1,2,AR103,Lịch sử kiến trúc,3.38,ARCH
-AR026,1,3,AR106,Thiết kế công trình công cộng,4.67,ARCH
-AR026,1,4,AR104,Kiến trúc bền vững,3.33,ARCH
-AR026,1,5,AR105,Mỹ thuật kiến trúc,3.62,ARCH
-AR026,1,6,AR102,Thiết kế đô thị,2.24,ARCH
-AR027,4,1,AR104,Kiến trúc bền vững,4.09,ARCH
-AR027,4,2,AR105,Mỹ thuật kiến trúc,4.69,ARCH
-AR027,4,3,AR103,Lịch sử kiến trúc,2.82,ARCH
-AR027,4,4,AR101,Kiến trúc cơ bản,4.4,ARCH
-AR027,4,5,AR106,Thiết kế công trình công cộng,4.29,ARCH
-AR027,4,6,AR102,Thiết kế đô thị,2.89,ARCH
-AR028,3,1,AR101,Kiến trúc cơ bản,3.34,ARCH
-AR028,3,2,AR104,Kiến trúc bền vững,2.36,ARCH
-AR028,3,3,AR103,Lịch sử kiến trúc,2.58,ARCH
-AR028,3,4,AR105,Mỹ thuật kiến trúc,3.15,ARCH
-AR028,3,5,AR106,Thiết kế công trình công cộng,3.37,ARCH
-AR028,3,6,AR102,Thiết kế đô thị,4.94,ARCH
-AR029,1,1,AR106,Thiết kế công trình công cộng,3.9,ARCH
-AR029,1,2,AR102,Thiết kế đô thị,4.05,ARCH
-AR029,1,3,AR103,Lịch sử kiến trúc,4.63,ARCH
-AR029,1,4,AR104,Kiến trúc bền vững,3.65,ARCH
-AR029,1,5,AR105,Mỹ thuật kiến trúc,4.92,ARCH
-AR029,1,6,AR101,Kiến trúc cơ bản,2.13,ARCH
-AR030,2,1,AR103,Lịch sử kiến trúc,4.99,ARCH
-AR030,2,2,AR104,Kiến trúc bền vững,2.72,ARCH
-AR030,2,3,AR105,Mỹ thuật kiến trúc,3.69,ARCH
-AR030,2,4,AR102,Thiết kế đô thị,3.97,ARCH
-AR030,2,5,AR101,Kiến trúc cơ bản,4.0,ARCH
-AR030,2,6,AR106,Thiết kế công trình công cộng,2.88,ARCH
-AR031,3,1,AR102,Thiết kế đô thị,2.59,ARCH
-AR031,3,2,AR106,Thiết kế công trình công cộng,4.66,ARCH
-AR031,3,3,AR105,Mỹ thuật kiến trúc,2.39,ARCH
-AR031,3,4,AR101,Kiến trúc cơ bản,3.78,ARCH
-AR031,3,5,AR103,Lịch sử kiến trúc,4.6,ARCH
-AR031,3,6,AR104,Kiến trúc bền vững,2.19,ARCH
-AR032,1,1,AR103,Lịch sử kiến trúc,2.44,ARCH
-AR032,1,2,AR105,Mỹ thuật kiến trúc,2.39,ARCH
-AR032,1,3,AR104,Kiến trúc bền vững,2.42,ARCH
-AR032,1,4,AR106,Thiết kế công trình công cộng,4.93,ARCH
-AR032,1,5,AR101,Kiến trúc cơ bản,2.45,ARCH
-AR032,1,6,AR102,Thiết kế đô thị,2.88,ARCH
-AR033,2,1,AR104,Kiến trúc bền vững,3.08,ARCH
-AR033,2,2,AR101,Kiến trúc cơ bản,3.72,ARCH
-AR033,2,3,AR105,Mỹ thuật kiến trúc,4.12,ARCH
-AR033,2,4,AR102,Thiết kế đô thị,3.73,ARCH
-AR033,2,5,AR103,Lịch sử kiến trúc,3.23,ARCH
-AR033,2,6,AR106,Thiết kế công trình công cộng,4.4,ARCH
-AR034,2,1,AR101,Kiến trúc cơ bản,4.81,ARCH
-AR034,2,2,AR105,Mỹ thuật kiến trúc,2.06,ARCH
-AR034,2,3,AR103,Lịch sử kiến trúc,2.51,ARCH
-AR034,2,4,AR104,Kiến trúc bền vững,4.06,ARCH
-AR034,2,5,AR106,Thiết kế công trình công cộng,2.58,ARCH
-AR034,2,6,AR102,Thiết kế đô thị,2.15,ARCH
-AR035,4,1,AR106,Thiết kế công trình công cộng,2.59,ARCH
-AR035,4,2,AR103,Lịch sử kiến trúc,2.98,ARCH
-AR035,4,3,AR105,Mỹ thuật kiến trúc,3.91,ARCH
-AR035,4,4,AR104,Kiến trúc bền vững,3.64,ARCH
-AR035,4,5,AR102,Thiết kế đô thị,3.37,ARCH
-AR035,4,6,AR101,Kiến trúc cơ bản,3.41,ARCH
-AR036,1,1,AR105,Mỹ thuật kiến trúc,2.66,ARCH
-AR036,1,2,AR106,Thiết kế công trình công cộng,3.87,ARCH
-AR036,1,3,AR103,Lịch sử kiến trúc,4.82,ARCH
-AR036,1,4,AR101,Kiến trúc cơ bản,2.33,ARCH
-AR036,1,5,AR104,Kiến trúc bền vững,2.01,ARCH
-AR036,1,6,AR102,Thiết kế đô thị,3.09,ARCH
-AR037,4,1,AR101,Kiến trúc cơ bản,3.5,ARCH
-AR037,4,2,AR106,Thiết kế công trình công cộng,4.91,ARCH
-AR037,4,3,AR102,Thiết kế đô thị,4.02,ARCH
-AR037,4,4,AR103,Lịch sử kiến trúc,4.4,ARCH
-AR037,4,5,AR104,Kiến trúc bền vững,4.46,ARCH
-AR037,4,6,AR105,Mỹ thuật kiến trúc,2.97,ARCH
-AR038,3,1,AR104,Kiến trúc bền vững,3.84,ARCH
-AR038,3,2,AR106,Thiết kế công trình công cộng,3.92,ARCH
-AR038,3,3,AR103,Lịch sử kiến trúc,4.59,ARCH
-AR038,3,4,AR102,Thiết kế đô thị,2.89,ARCH
-AR038,3,5,AR101,Kiến trúc cơ bản,2.1,ARCH
-AR038,3,6,AR105,Mỹ thuật kiến trúc,3.22,ARCH
-AR039,4,1,AR105,Mỹ thuật kiến trúc,3.95,ARCH
-AR039,4,2,AR101,Kiến trúc cơ bản,3.5,ARCH
-AR039,4,3,AR102,Thiết kế đô thị,3.29,ARCH
-AR039,4,4,AR106,Thiết kế công trình công cộng,3.81,ARCH
-AR039,4,5,AR104,Kiến trúc bền vững,4.25,ARCH
-AR039,4,6,AR103,Lịch sử kiến trúc,2.1,ARCH
-AR040,4,1,AR101,Kiến trúc cơ bản,3.91,ARCH
-AR040,4,2,AR103,Lịch sử kiến trúc,2.03,ARCH
-AR040,4,3,AR106,Thiết kế công trình công cộng,4.76,ARCH
-AR040,4,4,AR102,Thiết kế đô thị,4.34,ARCH
-AR040,4,5,AR105,Mỹ thuật kiến trúc,4.43,ARCH
-AR040,4,6,AR104,Kiến trúc bền vững,3.12,ARCH
-AR041,1,1,AR104,Kiến trúc bền vững,3.98,ARCH
-AR041,1,2,AR101,Kiến trúc cơ bản,3.74,ARCH
-AR041,1,3,AR103,Lịch sử kiến trúc,3.83,ARCH
-AR041,1,4,AR106,Thiết kế công trình công cộng,2.2,ARCH
-AR041,1,5,AR105,Mỹ thuật kiến trúc,3.84,ARCH
-AR041,1,6,AR102,Thiết kế đô thị,3.81,ARCH
-AR042,2,1,AR104,Kiến trúc bền vững,2.46,ARCH
-AR042,2,2,AR105,Mỹ thuật kiến trúc,3.09,ARCH
-AR042,2,3,AR101,Kiến trúc cơ bản,3.39,ARCH
-AR042,2,4,AR102,Thiết kế đô thị,4.54,ARCH
-AR042,2,5,AR103,Lịch sử kiến trúc,2.04,ARCH
-AR042,2,6,AR106,Thiết kế công trình công cộng,2.54,ARCH
-AR043,2,1,AR106,Thiết kế công trình công cộng,2.25,ARCH
-AR043,2,2,AR101,Kiến trúc cơ bản,3.27,ARCH
-AR043,2,3,AR105,Mỹ thuật kiến trúc,2.96,ARCH
-AR043,2,4,AR102,Thiết kế đô thị,2.29,ARCH
-AR043,2,5,AR103,Lịch sử kiến trúc,3.46,ARCH
-AR043,2,6,AR104,Kiến trúc bền vững,3.96,ARCH
-AR044,1,1,AR102,Thiết kế đô thị,4.83,ARCH
-AR044,1,2,AR105,Mỹ thuật kiến trúc,2.29,ARCH
-AR044,1,3,AR103,Lịch sử kiến trúc,3.42,ARCH
-AR044,1,4,AR106,Thiết kế công trình công cộng,3.43,ARCH
-AR044,1,5,AR101,Kiến trúc cơ bản,3.16,ARCH
-AR044,1,6,AR104,Kiến trúc bền vững,2.02,ARCH
-AR045,3,1,AR106,Thiết kế công trình công cộng,2.76,ARCH
-AR045,3,2,AR103,Lịch sử kiến trúc,4.08,ARCH
-AR045,3,3,AR105,Mỹ thuật kiến trúc,3.96,ARCH
-AR045,3,4,AR102,Thiết kế đô thị,4.06,ARCH
-AR045,3,5,AR101,Kiến trúc cơ bản,2.11,ARCH
-AR045,3,6,AR104,Kiến trúc bền vững,4.21,ARCH
-AR046,1,1,AR104,Kiến trúc bền vững,2.31,ARCH
-AR046,1,2,AR105,Mỹ thuật kiến trúc,4.34,ARCH
-AR046,1,3,AR101,Kiến trúc cơ bản,2.89,ARCH
-AR046,1,4,AR106,Thiết kế công trình công cộng,2.5,ARCH
-AR046,1,5,AR102,Thiết kế đô thị,4.58,ARCH
-AR046,1,6,AR103,Lịch sử kiến trúc,3.13,ARCH
-AR047,2,1,AR103,Lịch sử kiến trúc,4.99,ARCH
-AR047,2,2,AR106,Thiết kế công trình công cộng,3.34,ARCH
-AR047,2,3,AR104,Kiến trúc bền vững,3.17,ARCH
-AR047,2,4,AR105,Mỹ thuật kiến trúc,4.76,ARCH
-AR047,2,5,AR102,Thiết kế đô thị,4.47,ARCH
-AR047,2,6,AR101,Kiến trúc cơ bản,2.87,ARCH
-AR048,2,1,AR105,Mỹ thuật kiến trúc,3.6,ARCH
-AR048,2,2,AR102,Thiết kế đô thị,3.94,ARCH
-AR048,2,3,AR103,Lịch sử kiến trúc,4.22,ARCH
-AR048,2,4,AR101,Kiến trúc cơ bản,4.22,ARCH
-AR048,2,5,AR106,Thiết kế công trình công cộng,4.93,ARCH
-AR048,2,6,AR104,Kiến trúc bền vững,4.13,ARCH
-AR049,2,1,AR102,Thiết kế đô thị,4.72,ARCH
-AR049,2,2,AR103,Lịch sử kiến trúc,4.87,ARCH
-AR049,2,3,AR104,Kiến trúc bền vững,4.55,ARCH
-AR049,2,4,AR101,Kiến trúc cơ bản,2.55,ARCH
-AR049,2,5,AR106,Thiết kế công trình công cộng,2.96,ARCH
-AR049,2,6,AR105,Mỹ thuật kiến trúc,4.03,ARCH
-AR050,1,1,AR102,Thiết kế đô thị,5.0,ARCH
-AR050,1,2,AR104,Kiến trúc bền vững,2.12,ARCH
-AR050,1,3,AR101,Kiến trúc cơ bản,2.55,ARCH
-AR050,1,4,AR105,Mỹ thuật kiến trúc,3.28,ARCH
-AR050,1,5,AR103,Lịch sử kiến trúc,4.78,ARCH
-AR050,1,6,AR106,Thiết kế công trình công cộng,2.76,ARCH
+PE001,2,3,PE101,Giáo Dục Thể Chất Cơ Bản,3.45,PE
+PE001,1,5,PE107,Giáo Dục Sức Khỏe,4.12,PE
+PE001,4,2,PE110,Chấn Thương Thể Thao,3.78,PE
+PE001,3,1,PE113,Huấn Luyện Cầu Lông,2.95,PE
+PE001,1,6,PE105,Yoga Và Thiền,4.33,PE
+PE001,2,4,PE108,Thể Dục Nhịp Điệu,3.67,PE
+PE002,3,2,PE102,Lý Thuyết Thể Thao,3.12,PE
+PE002,4,5,PE106,Dinh Dưỡng Thể Thao,4.01,PE
+PE002,1,3,PE111,Thể Thao Điện Tử,3.56,PE
+PE002,2,1,PE114,Thể Dục Cho Trẻ Em,3.89,PE
+PE002,3,6,PE103,Huấn Luyện Bóng Đá,4.22,PE
+PE002,4,4,PE116,Thể Thao Bền Vững,3.44,PE
+PE003,1,1,PE104,Bơi Lội Và Cứu Hộ,3.67,PE
+PE003,2,6,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.98,PE
+PE003,3,3,PE112,Giáo Dục Môi Trường,4.15,PE
+PE003,4,2,PE109,Huấn Luyện Bóng Rổ,3.21,PE
+PE003,1,4,PE101,Giáo Dục Thể Chất Cơ Bản,3.77,PE
+PE003,2,5,PE107,Giáo Dục Sức Khỏe,3.90,PE
+PE004,3,1,PE105,Yoga Và Thiền,4.05,PE
+PE004,4,3,PE108,Thể Dục Nhịp Điệu,3.33,PE
+PE004,1,2,PE110,Chấn Thương Thể Thao,3.88,PE
+PE004,2,6,PE113,Huấn Luyện Cầu Lông,3.45,PE
+PE004,3,4,PE102,Lý Thuyết Thể Thao,4.00,PE
+PE004,4,5,PE106,Dinh Dưỡng Thể Thao,3.56,PE
+PE005,1,3,PE111,Thể Thao Điện Tử,3.78,PE
+PE005,2,1,PE114,Thể Dục Cho Trẻ Em,3.12,PE
+PE005,3,6,PE103,Huấn Luyện Bóng Đá,3.90,PE
+PE005,4,2,PE116,Thể Thao Bền Vững,4.22,PE
+PE005,1,5,PE104,Bơi Lội Và Cứu Hộ,3.67,PE
+PE005,2,4,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.44,PE
+PE006,3,3,PE112,Giáo Dục Môi Trường,3.56,PE
+PE006,4,1,PE109,Huấn Luyện Bóng Rổ,3.89,PE
+PE006,1,6,PE101,Giáo Dục Thể Chất Cơ Bản,4.01,PE
+PE006,2,2,PE107,Giáo Dục Sức Khỏe,3.67,PE
+PE006,3,5,PE105,Yoga Và Thiền,3.78,PE
+PE006,4,4,PE108,Thể Dục Nhịp Điệu,3.45,PE
+PE007,1,3,PE110,Chấn Thương Thể Thao,3.12,PE
+PE007,2,1,PE113,Huấn Luyện Cầu Lông,3.56,PE
+PE007,3,6,PE102,Lý Thuyết Thể Thao,3.89,PE
+PE007,4,2,PE106,Dinh Dưỡng Thể Thao,4.22,PE
+PE007,1,4,PE111,Thể Thao Điện Tử,3.67,PE
+PE007,2,5,PE114,Thể Dục Cho Trẻ Em,3.44,PE
+PE008,3,3,PE103,Huấn Luyện Bóng Đá,3.78,PE
+PE008,4,1,PE116,Thể Thao Bền Vững,3.12,PE
+PE008,1,6,PE104,Bơi Lội Và Cứu Hộ,3.90,PE
+PE008,2,2,PE115,Quản Lý Câu Lạc Bộ Thể Thao,4.22,PE
+PE008,3,5,PE112,Giáo Dục Môi Trường,3.67,PE
+PE008,4,4,PE109,Huấn Luyện Bóng Rổ,3.44,PE
+PE009,1,3,PE101,Giáo Dục Thể Chất Cơ Bản,3.56,PE
+PE009,2,1,PE107,Giáo Dục Sức Khỏe,3.89,PE
+PE009,3,6,PE105,Yoga Và Thiền,4.01,PE
+PE009,4,2,PE108,Thể Dục Nhịp Điệu,3.67,PE
+PE009,1,4,PE110,Chấn Thương Thể Thao,3.78,PE
+PE009,2,5,PE113,Huấn Luyện Cầu Lông,3.45,PE
+PE010,3,3,PE102,Lý Thuyết Thể Thao,3.12,PE
+PE010,4,1,PE106,Dinh Dưỡng Thể Thao,3.56,PE
+PE010,1,6,PE111,Thể Thao Điện Tử,3.89,PE
+PE010,2,2,PE114,Thể Dục Cho Trẻ Em,4.22,PE
+PE010,3,5,PE103,Huấn Luyện Bóng Đá,3.67,PE
+PE010,4,4,PE116,Thể Thao Bền Vững,3.44,PE
+PE011,1,1,PE104,Bơi Lội Và Cứu Hộ,3.78,PE
+PE011,2,3,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.12,PE
+PE011,3,5,PE112,Giáo Dục Môi Trường,3.90,PE
+PE011,4,6,PE109,Huấn Luyện Bóng Rổ,4.22,PE
+PE011,1,2,PE101,Giáo Dục Thể Chất Cơ Bản,3.67,PE
+PE011,2,4,PE107,Giáo Dục Sức Khỏe,3.44,PE
+PE012,3,1,PE105,Yoga Và Thiền,3.56,PE
+PE012,4,3,PE108,Thể Dục Nhịp Điệu,3.89,PE
+PE012,1,5,PE110,Chấn Thương Thể Thao,4.01,PE
+PE012,2,6,PE113,Huấn Luyện Cầu Lông,3.67,PE
+PE012,3,2,PE102,Lý Thuyết Thể Thao,3.78,PE
+PE012,4,4,PE106,Dinh Dưỡng Thể Thao,3.45,PE
+PE013,1,1,PE111,Thể Thao Điện Tử,3.12,PE
+PE013,2,3,PE114,Thể Dục Cho Trẻ Em,3.56,PE
+PE013,3,5,PE103,Huấn Luyện Bóng Đá,3.89,PE
+PE013,4,6,PE116,Thể Thao Bền Vững,4.22,PE
+PE013,1,2,PE104,Bơi Lội Và Cứu Hộ,3.67,PE
+PE013,2,4,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.44,PE
+PE014,3,1,PE112,Giáo Dục Môi Trường,3.78,PE
+PE014,4,3,PE109,Huấn Luyện Bóng Rổ,3.12,PE
+PE014,1,5,PE101,Giáo Dục Thể Chất Cơ Bản,3.90,PE
+PE014,2,6,PE107,Giáo Dục Sức Khỏe,4.22,PE
+PE014,3,2,PE105,Yoga Và Thiền,3.67,PE
+PE014,4,4,PE108,Thể Dục Nhịp Điệu,3.44,PE
+PE015,1,1,PE110,Chấn Thương Thể Thao,3.56,PE
+PE015,2,3,PE113,Huấn Luyện Cầu Lông,3.89,PE
+PE015,3,5,PE102,Lý Thuyết Thể Thao,4.01,PE
+PE015,4,6,PE106,Dinh Dưỡng Thể Thao,3.67,PE
+PE015,1,2,PE111,Thể Thao Điện Tử,3.78,PE
+PE015,2,4,PE114,Thể Dục Cho Trẻ Em,3.45,PE
+PE016,3,1,PE103,Huấn Luyện Bóng Đá,3.12,PE
+PE016,4,3,PE116,Thể Thao Bền Vững,3.56,PE
+PE016,1,5,PE104,Bơi Lội Và Cứu Hộ,3.89,PE
+PE016,2,6,PE115,Quản Lý Câu Lạc Bộ Thể Thao,4.22,PE
+PE016,3,2,PE112,Giáo Dục Môi Trường,3.67,PE
+PE016,4,4,PE109,Huấn Luyện Bóng Rổ,3.44,PE
+PE017,1,1,PE101,Giáo Dục Thể Chất Cơ Bản,3.78,PE
+PE017,2,3,PE107,Giáo Dục Sức Khỏe,3.12,PE
+PE017,3,5,PE105,Yoga Và Thiền,3.90,PE
+PE017,4,6,PE108,Thể Dục Nhịp Điệu,4.22,PE
+PE017,1,2,PE110,Chấn Thương Thể Thao,3.67,PE
+PE017,2,4,PE113,Huấn Luyện Cầu Lông,3.44,PE
+PE018,3,1,PE102,Lý Thuyết Thể Thao,3.56,PE
+PE018,4,3,PE106,Dinh Dưỡng Thể Thao,3.89,PE
+PE018,1,5,PE111,Thể Thao Điện Tử,4.01,PE
+PE018,2,6,PE114,Thể Dục Cho Trẻ Em,3.67,PE
+PE018,3,2,PE103,Huấn Luyện Bóng Đá,3.78,PE
+PE018,4,4,PE116,Thể Thao Bền Vững,3.45,PE
+PE019,1,1,PE104,Bơi Lội Và Cứu Hộ,3.12,PE
+PE019,2,3,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.56,PE
+PE019,3,5,PE112,Giáo Dục Môi Trường,3.89,PE
+PE019,4,6,PE109,Huấn Luyện Bóng Rổ,4.22,PE
+PE019,1,2,PE101,Giáo Dục Thể Chất Cơ Bản,3.67,PE
+PE019,2,4,PE107,Giáo Dục Sức Khỏe,3.44,PE
+PE020,3,1,PE105,Yoga Và Thiền,3.78,PE
+PE020,4,3,PE108,Thể Dục Nhịp Điệu,3.12,PE
+PE020,1,5,PE110,Chấn Thương Thể Thao,3.90,PE
+PE020,2,6,PE113,Huấn Luyện Cầu Lông,4.22,PE
+PE020,3,2,PE102,Lý Thuyết Thể Thao,3.67,PE
+PE020,4,4,PE106,Dinh Dưỡng Thể Thao,3.44,PE
+PE021,1,1,PE111,Thể Thao Điện Tử,3.56,PE
+PE021,2,3,PE114,Thể Dục Cho Trẻ Em,3.89,PE
+PE021,3,5,PE103,Huấn Luyện Bóng Đá,4.01,PE
+PE021,4,6,PE116,Thể Thao Bền Vững,3.67,PE
+PE021,1,2,PE104,Bơi Lội Và Cứu Hộ,3.78,PE
+PE021,2,4,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.45,PE
+PE022,3,1,PE112,Giáo Dục Môi Trường,3.12,PE
+PE022,4,3,PE109,Huấn Luyện Bóng Rổ,3.56,PE
+PE022,1,5,PE101,Giáo Dục Thể Chất Cơ Bản,3.89,PE
+PE022,2,6,PE107,Giáo Dục Sức Khỏe,4.22,PE
+PE022,3,2,PE105,Yoga Và Thiền,3.67,PE
+PE022,4,4,PE108,Thể Dục Nhịp Điệu,3.44,PE
+PE023,1,1,PE110,Chấn Thương Thể Thao,3.78,PE
+PE023,2,3,PE113,Huấn Luyện Cầu Lông,3.12,PE
+PE023,3,5,PE102,Lý Thuyết Thể Thao,3.90,PE
+PE023,4,6,PE106,Dinh Dưỡng Thể Thao,4.22,PE
+PE023,1,2,PE111,Thể Thao Điện Tử,3.67,PE
+PE023,2,4,PE114,Thể Dục Cho Trẻ Em,3.44,PE
+PE024,3,1,PE103,Huấn Luyện Bóng Đá,3.56,PE
+PE024,4,3,PE116,Thể Thao Bền Vững,3.89,PE
+PE024,1,5,PE104,Bơi Lội Và Cứu Hộ,3.89,PE
+PE024,2,6,PE115,Quản Lý Câu Lạc Bộ Thể Thao,4.22,PE
+PE024,3,2,PE112,Giáo Dục Môi Trường,3.67,PE
+PE024,4,4,PE109,Huấn Luyện Bóng Rổ,3.44,PE
+PE025,1,1,PE101,Giáo Dục Thể Chất Cơ Bản,3.78,PE
+PE025,2,3,PE107,Giáo Dục Sức Khỏe,3.12,PE
+PE025,3,5,PE105,Yoga Và Thiền,3.90,PE
+PE025,4,6,PE108,Thể Dục Nhịp Điệu,4.22,PE
+PE025,1,2,PE110,Chấn Thương Thể Thao,3.67,PE
+PE025,2,4,PE113,Huấn Luyện Cầu Lông,3.44,PE
+PE026,3,1,PE102,Lý Thuyết Thể Thao,3.56,PE
+PE026,4,3,PE106,Dinh Dưỡng Thể Thao,3.89,PE
+PE026,1,5,PE111,Thể Thao Điện Tử,4.01,PE
+PE026,2,6,PE114,Thể Dục Cho Trẻ Em,3.67,PE
+PE026,3,2,PE103,Huấn Luyện Bóng Đá,3.78,PE
+PE026,4,4,PE116,Thể Thao Bền Vững,3.45,PE
+PE027,1,1,PE104,Bơi Lội Và Cứu Hộ,3.12,PE
+PE027,2,3,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.56,PE
+PE027,3,5,PE112,Giáo Dục Môi Trường,3.89,PE
+PE027,4,6,PE109,Huấn Luyện Bóng Rổ,4.22,PE
+PE027,1,2,PE101,Giáo Dục Thể Chất Cơ Bản,3.67,PE
+PE027,2,4,PE107,Giáo Dục Sức Khỏe,3.44,PE
+PE028,3,1,PE105,Yoga Và Thiền,3.78,PE
+PE028,4,3,PE108,Thể Dục Nhịp Điệu,3.12,PE
+PE028,1,5,PE110,Chấn Thương Thể Thao,3.90,PE
+PE028,2,6,PE113,Huấn Luyện Cầu Lông,4.22,PE
+PE028,3,2,PE102,Lý Thuyết Thể Thao,3.67,PE
+PE028,4,4,PE106,Dinh Dưỡng Thể Thao,3.44,PE
+PE029,1,1,PE111,Thể Thao Điện Tử,3.56,PE
+PE029,2,3,PE114,Thể Dục Cho Trẻ Em,3.89,PE
+PE029,3,5,PE103,Huấn Luyện Bóng Đá,4.01,PE
+PE029,4,6,PE116,Thể Thao Bền Vững,3.67,PE
+PE029,1,2,PE104,Bơi Lội Và Cứu Hộ,3.78,PE
+PE029,2,4,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.45,PE
+PE030,3,1,PE112,Giáo Dục Môi Trường,3.12,PE
+PE030,4,3,PE109,Huấn Luyện Bóng Rổ,3.56,PE
+PE030,1,5,PE101,Giáo Dục Thể Chất Cơ Bản,3.89,PE
+PE030,2,6,PE107,Giáo Dục Sức Khỏe,4.22,PE
+PE030,3,2,PE105,Yoga Và Thiền,3.67,PE
+PE030,4,4,PE108,Thể Dục Nhịp Điệu,3.44,PE
+PE031,1,1,PE110,Chấn Thương Thể Thao,3.78,PE
+PE031,2,3,PE113,Huấn Luyện Cầu Lông,3.12,PE
+PE031,3,5,PE102,Lý Thuyết Thể Thao,3.90,PE
+PE031,4,6,PE106,Dinh Dưỡng Thể Thao,4.22,PE
+PE031,1,2,PE111,Thể Thao Điện Tử,3.67,PE
+PE031,2,4,PE114,Thể Dục Cho Trẻ Em,3.44,PE
+PE032,3,1,PE103,Huấn Luyện Bóng Đá,3.56,PE
+PE032,4,3,PE116,Thể Thao Bền Vững,3.89,PE
+PE032,1,5,PE104,Bơi Lội Và Cứu Hộ,4.01,PE
+PE032,2,6,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.67,PE
+PE032,3,2,PE112,Giáo Dục Môi Trường,3.78,PE
+PE032,4,4,PE109,Huấn Luyện Bóng Rổ,3.45,PE
+PE033,1,1,PE101,Giáo Dục Thể Chất Cơ Bản,3.12,PE
+PE033,2,3,PE107,Giáo Dục Sức Khỏe,3.56,PE
+PE033,3,5,PE105,Yoga Và Thiền,3.89,PE
+PE033,4,6,PE108,Thể Dục Nhịp Điệu,4.22,PE
+PE033,1,2,PE110,Chấn Thương Thể Thao,3.67,PE
+PE033,2,4,PE113,Huấn Luyện Cầu Lông,3.44,PE
+PE034,3,1,PE102,Lý Thuyết Thể Thao,3.78,PE
+PE034,4,3,PE106,Dinh Dưỡng Thể Thao,3.12,PE
+PE034,1,5,PE111,Thể Thao Điện Tử,3.90,PE
+PE034,2,6,PE114,Thể Dục Cho Trẻ Em,4.22,PE
+PE034,3,2,PE103,Huấn Luyện Bóng Đá,3.67,PE
+PE034,4,4,PE116,Thể Thao Bền Vững,3.44,PE
+PE035,1,1,PE104,Bơi Lội Và Cứu Hộ,3.56,PE
+PE035,2,3,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.89,PE
+PE035,3,5,PE112,Giáo Dục Môi Trường,4.01,PE
+PE035,4,6,PE109,Huấn Luyện Bóng Rổ,3.67,PE
+PE035,1,2,PE101,Giáo Dục Thể Chất Cơ Bản,3.78,PE
+PE035,2,4,PE107,Giáo Dục Sức Khỏe,3.45,PE
+PE036,3,1,PE105,Yoga Và Thiền,3.12,PE
+PE036,4,3,PE108,Thể Dục Nhịp Điệu,3.56,PE
+PE036,1,5,PE110,Chấn Thương Thể Thao,3.89,PE
+PE036,2,6,PE113,Huấn Luyện Cầu Lông,4.22,PE
+PE036,3,2,PE102,Lý Thuyết Thể Thao,3.67,PE
+PE036,4,4,PE106,Dinh Dưỡng Thể Thao,3.44,PE
+PE037,1,1,PE111,Thể Thao Điện Tử,3.78,PE
+PE037,2,3,PE114,Thể Dục Cho Trẻ Em,3.12,PE
+PE037,3,5,PE103,Huấn Luyện Bóng Đá,3.90,PE
+PE037,4,6,PE116,Thể Thao Bền Vững,4.22,PE
+PE037,1,2,PE104,Bơi Lội Và Cứu Hộ,3.67,PE
+PE037,2,4,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.44,PE
+PE038,3,1,PE112,Giáo Dục Môi Trường,3.56,PE
+PE038,4,3,PE109,Huấn Luyện Bóng Rổ,3.89,PE
+PE038,1,5,PE101,Giáo Dục Thể Chất Cơ Bản,4.01,PE
+PE038,2,6,PE107,Giáo Dục Sức Khỏe,3.67,PE
+PE038,3,2,PE105,Yoga Và Thiền,3.78,PE
+PE038,4,4,PE108,Thể Dục Nhịp Điệu,3.45,PE
+PE039,1,1,PE110,Chấn Thương Thể Thao,3.12,PE
+PE039,2,3,PE113,Huấn Luyện Cầu Lông,3.56,PE
+PE039,3,5,PE102,Lý Thuyết Thể Thao,3.89,PE
+PE039,4,6,PE106,Dinh Dưỡng Thể Thao,4.22,PE
+PE039,1,2,PE111,Thể Thao Điện Tử,3.67,PE
+PE039,2,4,PE114,Thể Dục Cho Trẻ Em,3.44,PE
+PE040,3,1,PE103,Huấn Luyện Bóng Đá,3.78,PE
+PE040,4,3,PE116,Thể Thao Bền Vững,3.12,PE
+PE040,1,5,PE104,Bơi Lội Và Cứu Hộ,3.90,PE
+PE040,2,6,PE115,Quản Lý Câu Lạc Bộ Thể Thao,4.22,PE
+PE040,3,2,PE112,Giáo Dục Môi Trường,3.67,PE
+PE040,4,4,PE109,Huấn Luyện Bóng Rổ,3.44,PE
+PE041,1,1,PE101,Giáo Dục Thể Chất Cơ Bản,3.56,PE
+PE041,2,3,PE107,Giáo Dục Sức Khỏe,3.89,PE
+PE041,3,5,PE105,Yoga Và Thiền,4.01,PE
+PE041,4,6,PE108,Thể Dục Nhịp Điệu,3.67,PE
+PE041,1,2,PE110,Chấn Thương Thể Thao,3.78,PE
+PE041,2,4,PE113,Huấn Luyện Cầu Lông,3.45,PE
+PE042,3,1,PE102,Lý Thuyết Thể Thao,3.12,PE
+PE042,4,3,PE106,Dinh Dưỡng Thể Thao,3.56,PE
+PE042,1,5,PE111,Thể Thao Điện Tử,3.89,PE
+PE042,2,6,PE114,Thể Dục Cho Trẻ Em,4.22,PE
+PE042,3,2,PE103,Huấn Luyện Bóng Đá,3.67,PE
+PE042,4,4,PE116,Thể Thao Bền Vững,3.44,PE
+PE043,1,1,PE104,Bơi Lội Và Cứu Hộ,3.78,PE
+PE043,2,3,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.12,PE
+PE043,3,5,PE112,Giáo Dục Môi Trường,3.90,PE
+PE043,4,6,PE109,Huấn Luyện Bóng Rổ,4.22,PE
+PE043,1,2,PE101,Giáo Dục Thể Chất Cơ Bản,3.67,PE
+PE043,2,4,PE107,Giáo Dục Sức Khỏe,3.44,PE
+PE044,3,1,PE105,Yoga Và Thiền,3.56,PE
+PE044,4,3,PE108,Thể Dục Nhịp Điệu,3.89,PE
+PE044,1,5,PE110,Chấn Thương Thể Thao,4.01,PE
+PE044,2,6,PE113,Huấn Luyện Cầu Lông,3.67,PE
+PE044,3,2,PE102,Lý Thuyết Thể Thao,3.78,PE
+PE044,4,4,PE106,Dinh Dưỡng Thể Thao,3.45,PE
+PE045,1,1,PE111,Thể Thao Điện Tử,3.12,PE
+PE045,2,3,PE114,Thể Dục Cho Trẻ Em,3.56,PE
+PE045,3,5,PE103,Huấn Luyện Bóng Đá,3.89,PE
+PE045,4,6,PE116,Thể Thao Bền Vững,4.22,PE
+PE045,1,2,PE104,Bơi Lội Và Cứu Hộ,3.67,PE
+PE045,2,4,PE115,Quản Lý Câu Lạc Bộ Thể Thao,3.44,PE
+PE046,3,1,PE112,Giáo Dục Môi Trường,3.78,PE
+PE046,4,3,PE109,Huấn Luyện Bóng Rổ,3.12,PE
+PE046,1,5,PE101,Giáo Dục Thể Chất Cơ Bản,3.90,PE
+PE046,2,6,PE107,Giáo Dục Sức Khỏe,4.22,PE
+PE046,3,2,PE105,Yoga Và Thiền,3.67,PE
+PE046,4,4,PE108,Thể Dục Nhịp Điệu,3.44,PE
+PE047,1,1,PE110,Chấn Thương Thể Thao,3.56,PE
+PE047,2,3,PE113,Huấn Luyện Cầu Lông,3.89,PE
+PE047,3,5,PE102,Lý Thuyết Thể Thao,4.01,PE
+PE047,4,6,PE106,Dinh Dưỡng Thể Thao,3.67,PE
+PE047,1,2,PE111,Thể Thao Điện Tử,3.78,PE
+PE047,2,4,PE114,Thể Dục Cho Trẻ Em,3.45,PE
+PE048,3,1,PE103,Huấn Luyện Bóng Đá,3.12,PE
+PE048,4,3,PE116,Thể Thao Bền Vững,3.56,PE
+PE048,1,5,PE104,Bơi Lội Và Cứu Hộ,3.89,PE
+PE048,2,6,PE115,Quản Lý Câu Lạc Bộ Thể Thao,4.22,PE
+PE048,3,2,PE112,Giáo Dục Môi Trường,3.67,PE
+PE048,4,4,PE109,Huấn Luyện Bóng Rổ,3.44,PE
+PE049,1,1,PE101,Giáo Dục Thể Chất Cơ Bản,3.78,PE
+PE049,2,3,PE107,Giáo Dục Sức Khỏe,3.12,PE
+PE049,3,5,PE105,Yoga Và Thiền,3.90,PE
+PE049,4,6,PE108,Thể Dục Nhịp Điệu,4.22,PE
+PE049,1,2,PE110,Chấn Thương Thể Thao,3.67,PE
+PE049,2,4,PE113,Huấn Luyện Cầu Lông,3.44,PE
+PE050,3,1,PE102,Lý Thuyết Thể Thao,3.56,PE
+PE050,4,3,PE106,Dinh Dưỡng Thể Thao,3.89,PE
+PE050,1,5,PE111,Thể Thao Điện Tử,4.01,PE
+PE050,2,6,PE114,Thể Dục Cho Trẻ Em,3.67,PE
+PE050,3,2,PE103,Huấn Luyện Bóng Đá,3.78,PE
+PE050,4,4,PE116,Thể Thao Bền Vững,3.45,PE
+
+
+IA001,2,3,IA101,Toán Ứng Dụng,3.45,IAS
+IA001,1,5,IA107,Năng Lượng Tái Tạo,4.12,IAS
+IA001,4,2,IA110,An Ninh Mạng,3.78,IAS
+IA001,3,1,IA113,Quản Lý Dự Án Khoa Học,2.95,IAS
+IA001,1,6,IA105,Kỹ Thuật Phần Mềm,4.33,IAS
+IA001,2,4,IA108,Dữ Liệu Lớn,3.67,IAS
+IA002,3,2,IA102,Vật Lý Ứng Dụng,3.12,IAS
+IA002,4,5,IA106,Môi Trường Ứng Dụng,4.01,IAS
+IA002,1,3,IA111,Thiết Kế Cơ Khí,3.56,IAS
+IA002,2,1,IA114,Nghiên Cứu Vật Liệu,3.89,IAS
+IA002,3,6,IA103,Hóa Học Ứng Dụng,4.22,IAS
+IA002,4,4,IA116,Khoa Học Dữ Liệu,3.44,IAS
+IA003,1,1,IA104,Công Nghệ Sinh Học,3.67,IAS
+IA003,2,6,IA115,Ứng Dụng Y Học,3.98,IAS
+IA003,3,3,IA112,Điện Tử Ứng Dụng,4.15,IAS
+IA003,4,2,IA109,Trí Tuệ Nhân Tạo,3.21,IAS
+IA003,1,4,IA101,Toán Ứng Dụng,3.77,IAS
+IA003,2,5,IA107,Năng Lượng Tái Tạo,3.90,IAS
+IA004,3,1,IA105,Kỹ Thuật Phần Mềm,4.05,IAS
+IA004,4,3,IA108,Dữ Liệu Lớn,3.33,IAS
+IA004,1,2,IA110,An Ninh Mạng,3.88,IAS
+IA004,2,6,IA113,Quản Lý Dự Án Khoa Học,3.45,IAS
+IA004,3,4,IA102,Vật Lý Ứng Dụng,4.00,IAS
+IA004,4,5,IA106,Môi Trường Ứng Dụng,3.56,IAS
+IA005,1,3,IA111,Thiết Kế Cơ Khí,3.78,IAS
+IA005,2,1,IA114,Nghiên Cứu Vật Liệu,3.12,IAS
+IA005,3,6,IA103,Hóa Học Ứng Dụng,3.90,IAS
+IA005,4,2,IA116,Khoa Học Dữ Liệu,4.22,IAS
+IA005,1,5,IA104,Công Nghệ Sinh Học,3.67,IAS
+IA005,2,4,IA115,Ứng Dụng Y Học,3.44,IAS
+IA006,3,3,IA112,Điện Tử Ứng Dụng,3.56,IAS
+IA006,4,1,IA109,Trí Tuệ Nhân Tạo,3.89,IAS
+IA006,1,6,IA101,Toán Ứng Dụng,4.01,IAS
+IA006,2,2,IA107,Năng Lượng Tái Tạo,3.67,IAS
+IA006,3,5,IA105,Kỹ Thuật Phần Mềm,3.78,IAS
+IA006,4,4,IA108,Dữ Liệu Lớn,3.45,IAS
+IA007,1,3,IA110,An Ninh Mạng,3.12,IAS
+IA007,2,1,IA113,Quản Lý Dự Án Khoa Học,3.56,IAS
+IA007,3,6,IA102,Vật Lý Ứng Dụng,3.89,IAS
+IA007,4,2,IA106,Môi Trường Ứng Dụng,4.22,IAS
+IA007,1,4,IA111,Thiết Kế Cơ Khí,3.67,IAS
+IA007,2,5,IA114,Nghiên Cứu Vật Liệu,3.44,IAS
+IA008,3,3,IA103,Hóa Học Ứng Dụng,3.78,IAS
+IA008,4,1,IA116,Khoa Học Dữ Liệu,3.12,IAS
+IA008,1,6,IA104,Công Nghệ Sinh Học,3.90,IAS
+IA008,2,2,IA115,Ứng Dụng Y Học,4.22,IAS
+IA008,3,5,IA112,Điện Tử Ứng Dụng,3.67,IAS
+IA008,4,4,IA109,Trí Tuệ Nhân Tạo,3.44,IAS
+IA009,1,3,IA101,Toán Ứng Dụng,3.56,IAS
+IA009,2,1,IA107,Năng Lượng Tái Tạo,3.89,IAS
+IA009,3,6,IA105,Kỹ Thuật Phần Mềm,4.01,IAS
+IA009,4,2,IA108,Dữ Liệu Lớn,3.67,IAS
+IA009,1,4,IA110,An Ninh Mạng,3.78,IAS
+IA009,2,5,IA113,Quản Lý Dự Án Khoa Học,3.45,IAS
+IA010,3,3,IA102,Vật Lý Ứng Dụng,3.12,IAS
+IA010,4,1,IA106,Môi Trường Ứng Dụng,3.56,IAS
+IA010,1,6,IA111,Thiết Kế Cơ Khí,3.89,IAS
+IA010,2,2,IA114,Nghiên Cứu Vật Liệu,4.22,IAS
+IA010,3,5,IA103,Hóa Học Ứng Dụng,3.67,IAS
+IA010,4,4,IA116,Khoa Học Dữ Liệu,3.44,IAS
+IA011,1,1,IA104,Công Nghệ Sinh Học,3.78,IAS
+IA011,2,3,IA115,Ứng Dụng Y Học,3.12,IAS
+IA011,3,5,IA112,Điện Tử Ứng Dụng,3.90,IAS
+IA011,4,6,IA109,Trí Tuệ Nhân Tạo,4.22,IAS
+IA011,1,2,IA101,Toán Ứng Dụng,3.67,IAS
+IA011,2,4,IA107,Năng Lượng Tái Tạo,3.44,IAS
+IA012,3,1,IA105,Kỹ Thuật Phần Mềm,3.56,IAS
+IA012,4,3,IA108,Dữ Liệu Lớn,3.89,IAS
+IA012,1,5,IA110,An Ninh Mạng,4.01,IAS
+IA012,2,6,IA113,Quản Lý Dự Án Khoa Học,3.67,IAS
+IA012,3,2,IA102,Vật Lý Ứng Dụng,3.78,IAS
+IA012,4,4,IA106,Môi Trường Ứng Dụng,3.45,IAS
+IA013,1,1,IA111,Thiết Kế Cơ Khí,3.12,IAS
+IA013,2,3,IA114,Nghiên Cứu Vật Liệu,3.56,IAS
+IA013,3,5,IA103,Hóa Học Ứng Dụng,3.89,IAS
+IA013,4,6,IA116,Khoa Học Dữ Liệu,4.22,IAS
+IA013,1,2,IA104,Công Nghệ Sinh Học,3.67,IAS
+IA013,2,4,IA115,Ứng Dụng Y Học,3.44,IAS
+IA014,3,1,IA112,Điện Tử Ứng Dụng,3.78,IAS
+IA014,4,3,IA109,Trí Tuệ Nhân Tạo,3.12,IAS
+IA014,1,5,IA101,Toán Ứng Dụng,3.90,IAS
+IA014,2,6,IA107,Năng Lượng Tái Tạo,4.22,IAS
+IA014,3,2,IA105,Kỹ Thuật Phần Mềm,3.67,IAS
+IA014,4,4,IA108,Dữ Liệu Lớn,3.44,IAS
+IA015,1,1,IA110,An Ninh Mạng,3.56,IAS
+IA015,2,3,IA113,Quản Lý Dự Án Khoa Học,3.89,IAS
+IA015,3,5,IA102,Vật Lý Ứng Dụng,4.01,IAS
+IA015,4,6,IA106,Môi Trường Ứng Dụng,3.67,IAS
+IA015,1,2,IA111,Thiết Kế Cơ Khí,3.78,IAS
+IA015,2,4,IA114,Nghiên Cứu Vật Liệu,3.45,IAS
+IA016,3,1,IA103,Hóa Học Ứng Dụng,3.12,IAS
+IA016,4,3,IA116,Khoa Học Dữ Liệu,3.56,IAS
+IA016,1,5,IA104,Công Nghệ Sinh Học,3.89,IAS
+IA016,2,6,IA115,Ứng Dụng Y Học,4.22,IAS
+IA016,3,2,IA112,Điện Tử Ứng Dụng,3.67,IAS
+IA016,4,4,IA109,Trí Tuệ Nhân Tạo,3.44,IAS
+IA017,1,1,IA101,Toán Ứng Dụng,3.78,IAS
+IA017,2,3,IA107,Năng Lượng Tái Tạo,3.12,IAS
+IA017,3,5,IA105,Kỹ Thuật Phần Mềm,3.90,IAS
+IA017,4,6,IA108,Dữ Liệu Lớn,4.22,IAS
+IA017,1,2,IA110,An Ninh Mạng,3.67,IAS
+IA017,2,4,IA113,Quản Lý Dự Án Khoa Học,3.44,IAS
+IA018,3,1,IA102,Vật Lý Ứng Dụng,3.56,IAS
+IA018,4,3,IA106,Môi Trường Ứng Dụng,3.89,IAS
+IA018,1,5,IA111,Thiết Kế Cơ Khí,4.01,IAS
+IA018,2,6,IA114,Nghiên Cứu Vật Liệu,3.67,IAS
+IA018,3,2,IA103,Hóa Học Ứng Dụng,3.78,IAS
+IA018,4,4,IA116,Khoa Học Dữ Liệu,3.45,IAS
+IA019,1,1,IA104,Công Nghệ Sinh Học,3.12,IAS
+IA019,2,3,IA115,Ứng Dụng Y Học,3.56,IAS
+IA019,3,5,IA112,Điện Tử Ứng Dụng,3.89,IAS
+IA019,4,6,IA109,Trí Tuệ Nhân Tạo,4.22,IAS
+IA019,1,2,IA101,Toán Ứng Dụng,3.67,IAS
+IA019,2,4,IA107,Năng Lượng Tái Tạo,3.44,IAS
+IA020,3,1,IA105,Kỹ Thuật Phần Mềm,3.78,IAS
+IA020,4,3,IA108,Dữ Liệu Lớn,3.12,IAS
+IA020,1,5,IA110,An Ninh Mạng,3.90,IAS
+IA020,2,6,IA113,Quản Lý Dự Án Khoa Học,4.22,IAS
+IA020,3,2,IA102,Vật Lý Ứng Dụng,3.67,IAS
+IA020,4,4,IA106,Môi Trường Ứng Dụng,3.44,IAS
+IA021,1,1,IA111,Thiết Kế Cơ Khí,3.56,IAS
+IA021,2,3,IA114,Nghiên Cứu Vật Liệu,3.89,IAS
+IA021,3,5,IA103,Hóa Học Ứng Dụng,4.01,IAS
+IA021,4,6,IA116,Khoa Học Dữ Liệu,3.67,IAS
+IA021,1,2,IA104,Công Nghệ Sinh Học,3.78,IAS
+IA021,2,4,IA115,Ứng Dụng Y Học,3.45,IAS
+IA022,3,1,IA112,Điện Tử Ứng Dụng,3.12,IAS
+IA022,4,3,IA109,Trí Tuệ Nhân Tạo,3.56,IAS
+IA022,1,5,IA101,Toán Ứng Dụng,3.89,IAS
+IA022,2,6,IA107,Năng Lượng Tái Tạo,4.22,IAS
+IA022,3,2,IA105,Kỹ Thuật Phần Mềm,3.67,IAS
+IA022,4,4,IA108,Dữ Liệu Lớn,3.44,IAS
+IA023,1,1,IA110,An Ninh Mạng,3.78,IAS
+IA023,2,3,IA113,Quản Lý Dự Án Khoa Học,3.12,IAS
+IA023,3,5,IA102,Vật Lý Ứng Dụng,3.90,IAS
+IA023,4,6,IA106,Môi Trường Ứng Dụng,4.22,IAS
+IA023,1,2,IA111,Thiết Kế Cơ Khí,3.67,IAS
+IA023,2,4,IA114,Nghiên Cứu Vật Liệu,3.44,IAS
+IA024,3,1,IA103,Hóa Học Ứng Dụng,3.56,IAS
+IA024,4,3,IA116,Khoa Học Dữ Liệu,3.89,IAS
+IA024,1,5,IA104,Công Nghệ Sinh Học,4.01,IAS
+IA024,2,6,IA115,Ứng Dụng Y Học,3.67,IAS
+IA024,3,2,IA112,Điện Tử Ứng Dụng,3.78,IAS
+IA024,4,4,IA109,Trí Tuệ Nhân Tạo,3.45,IAS
+IA025,1,1,IA101,Toán Ứng Dụng,3.12,IAS
+IA025,2,3,IA107,Năng Lượng Tái Tạo,3.56,IAS
+IA025,3,5,IA105,Kỹ Thuật Phần Mềm,3.89,IAS
+IA025,4,6,IA108,Dữ Liệu Lớn,4.22,IAS
+IA025,1,2,IA110,An Ninh Mạng,3.67,IAS
+IA025,2,4,IA113,Quản Lý Dự Án Khoa Học,3.44,IAS
+IA026,3,2,IA102,Vật Lý Ứng Dụng,3.78,IAS
+IA026,4,4,IA106,Môi Trường Ứng Dụng,3.12,IAS
+IA026,1,1,IA111,Thiết Kế Cơ Khí,3.90,IAS
+IA026,2,3,IA114,Nghiên Cứu Vật Liệu,4.22,IAS
+IA026,3,5,IA103,Hóa Học Ứng Dụng,3.67,IAS
+IA026,4,6,IA116,Khoa Học Dữ Liệu,3.44,IAS
+IA027,1,2,IA104,Công Nghệ Sinh Học,3.56,IAS
+IA027,2,4,IA115,Ứng Dụng Y Học,3.89,IAS
+IA027,3,1,IA112,Điện Tử Ứng Dụng,4.01,IAS
+IA027,4,3,IA109,Trí Tuệ Nhân Tạo,3.67,IAS
+IA027,1,5,IA101,Toán Ứng Dụng,3.78,IAS
+IA027,2,6,IA107,Năng Lượng Tái Tạo,3.45,IAS
+IA028,3,2,IA105,Kỹ Thuật Phần Mềm,3.12,IAS
+IA028,4,4,IA108,Dữ Liệu Lớn,3.56,IAS
+IA028,1,1,IA110,An Ninh Mạng,3.89,IAS
+IA028,2,3,IA113,Quản Lý Dự Án Khoa Học,4.22,IAS
+IA028,3,5,IA102,Vật Lý Ứng Dụng,3.67,IAS
+IA028,4,6,IA106,Môi Trường Ứng Dụng,3.44,IAS
+IA029,1,4,IA111,Thiết Kế Cơ Khí,3.78,IAS
+IA029,2,2,IA114,Nghiên Cứu Vật Liệu,3.12,IAS
+IA029,3,6,IA103,Hóa Học Ứng Dụng,3.90,IAS
+IA029,4,1,IA116,Khoa Học Dữ Liệu,4.22,IAS
+IA029,1,3,IA104,Công Nghệ Sinh Học,3.67,IAS
+IA029,2,5,IA115,Ứng Dụng Y Học,3.44,IAS
+IA030,3,4,IA112,Điện Tử Ứng Dụng,3.56,IAS
+IA030,4,2,IA109,Trí Tuệ Nhân Tạo,3.89,IAS
+IA030,1,6,IA101,Toán Ứng Dụng,4.01,IAS
+IA030,2,1,IA107,Năng Lượng Tái Tạo,3.67,IAS
+IA030,3,3,IA105,Kỹ Thuật Phần Mềm,3.78,IAS
+IA030,4,5,IA108,Dữ Liệu Lớn,3.45,IAS
+IA031,1,2,IA110,An Ninh Mạng,3.12,IAS
+IA031,2,4,IA113,Quản Lý Dự Án Khoa Học,3.56,IAS
+IA031,3,1,IA102,Vật Lý Ứng Dụng,3.89,IAS
+IA031,4,3,IA106,Môi Trường Ứng Dụng,4.22,IAS
+IA031,1,5,IA111,Thiết Kế Cơ Khí,3.67,IAS
+IA031,2,6,IA114,Nghiên Cứu Vật Liệu,3.44,IAS
+IA032,3,2,IA103,Hóa Học Ứng Dụng,3.78,IAS
+IA032,4,4,IA116,Khoa Học Dữ Liệu,3.12,IAS
+IA032,1,1,IA104,Công Nghệ Sinh Học,3.90,IAS
+IA032,2,3,IA115,Ứng Dụng Y Học,4.22,IAS
+IA032,3,5,IA112,Điện Tử Ứng Dụng,3.67,IAS
+IA032,4,6,IA109,Trí Tuệ Nhân Tạo,3.44,IAS
+IA033,1,4,IA101,Toán Ứng Dụng,3.56,IAS
+IA033,2,2,IA107,Năng Lượng Tái Tạo,3.89,IAS
+IA033,3,6,IA105,Kỹ Thuật Phần Mềm,4.01,IAS
+IA033,4,1,IA108,Dữ Liệu Lớn,3.67,IAS
+IA033,1,3,IA110,An Ninh Mạng,3.78,IAS
+IA033,2,5,IA113,Quản Lý Dự Án Khoa Học,3.45,IAS
+IA034,3,4,IA102,Vật Lý Ứng Dụng,3.12,IAS
+IA034,4,2,IA106,Môi Trường Ứng Dụng,3.56,IAS
+IA034,1,6,IA111,Thiết Kế Cơ Khí,3.89,IAS
+IA034,2,1,IA114,Nghiên Cứu Vật Liệu,4.22,IAS
+IA034,3,3,IA103,Hóa Học Ứng Dụng,3.67,IAS
+IA034,4,5,IA116,Khoa Học Dữ Liệu,3.44,IAS
+IA035,1,2,IA104,Công Nghệ Sinh Học,3.78,IAS
+IA035,2,4,IA115,Ứng Dụng Y Học,3.12,IAS
+IA035,3,1,IA112,Điện Tử Ứng Dụng,3.90,IAS
+IA035,4,3,IA109,Trí Tuệ Nhân Tạo,4.22,IAS
+IA035,1,5,IA101,Toán Ứng Dụng,3.67,IAS
+IA035,2,6,IA107,Năng Lượng Tái Tạo,3.44,IAS
+IA036,3,4,IA105,Kỹ Thuật Phần Mềm,3.56,IAS
+IA036,4,2,IA108,Dữ Liệu Lớn,3.89,IAS
+IA036,1,1,IA110,An Ninh Mạng,4.01,IAS
+IA036,2,3,IA113,Quản Lý Dự Án Khoa Học,3.67,IAS
+IA036,3,5,IA102,Vật Lý Ứng Dụng,3.78,IAS
+IA036,4,6,IA106,Môi Trường Ứng Dụng,3.45,IAS
+IA037,1,2,IA111,Thiết Kế Cơ Khí,3.12,IAS
+IA037,2,4,IA114,Nghiên Cứu Vật Liệu,3.56,IAS
+IA037,3,1,IA103,Hóa Học Ứng Dụng,3.89,IAS
+IA037,4,3,IA116,Khoa Học Dữ Liệu,4.22,IAS
+IA037,1,5,IA104,Công Nghệ Sinh Học,3.67,IAS
+IA037,2,6,IA115,Ứng Dụng Y Học,3.44,IAS
+IA038,3,4,IA112,Điện Tử Ứng Dụng,3.78,IAS
+IA038,4,2,IA109,Trí Tuệ Nhân Tạo,3.12,IAS
+IA038,1,1,IA101,Toán Ứng Dụng,3.90,IAS
+IA038,2,3,IA107,Năng Lượng Tái Tạo,4.22,IAS
+IA038,3,5,IA105,Kỹ Thuật Phần Mềm,3.67,IAS
+IA038,4,6,IA108,Dữ Liệu Lớn,3.44,IAS
+IA039,1,2,IA110,An Ninh Mạng,3.56,IAS
+IA039,2,4,IA113,Quản Lý Dự Án Khoa Học,3.89,IAS
+IA039,3,1,IA102,Vật Lý Ứng Dụng,4.01,IAS
+IA039,4,3,IA106,Môi Trường Ứng Dụng,3.67,IAS
+IA039,1,5,IA111,Thiết Kế Cơ Khí,3.78,IAS
+IA039,2,6,IA114,Nghiên Cứu Vật Liệu,3.45,IAS
+IA040,3,4,IA103,Hóa Học Ứng Dụng,3.12,IAS
+IA040,4,2,IA116,Khoa Học Dữ Liệu,3.56,IAS
+IA040,1,1,IA104,Công Nghệ Sinh Học,3.89,IAS
+IA040,2,3,IA115,Ứng Dụng Y Học,4.22,IAS
+IA040,3,5,IA112,Điện Tử Ứng Dụng,3.67,IAS
+IA040,4,6,IA109,Trí Tuệ Nhân Tạo,3.44,IAS
+IA041,1,2,IA101,Toán Ứng Dụng,3.78,IAS
+IA041,2,4,IA107,Năng Lượng Tái Tạo,3.12,IAS
+IA041,3,1,IA105,Kỹ Thuật Phần Mềm,3.90,IAS
+IA041,4,3,IA108,Dữ Liệu Lớn,4.22,IAS
+IA041,1,5,IA110,An Ninh Mạng,3.67,IAS
+IA041,2,6,IA113,Quản Lý Dự Án Khoa Học,3.44,IAS
+IA042,3,4,IA102,Vật Lý Ứng Dụng,3.56,IAS
+IA042,4,2,IA106,Môi Trường Ứng Dụng,3.89,IAS
+IA042,1,1,IA111,Thiết Kế Cơ Khí,4.01,IAS
+IA042,2,3,IA114,Nghiên Cứu Vật Liệu,3.67,IAS
+IA042,3,5,IA103,Hóa Học Ứng Dụng,3.78,IAS
+IA042,4,6,IA116,Khoa Học Dữ Liệu,3.45,IAS
+IA043,1,2,IA104,Công Nghệ Sinh Học,3.12,IAS
+IA043,2,4,IA115,Ứng Dụng Y Học,3.56,IAS
+IA043,3,1,IA112,Điện Tử Ứng Dụng,3.89,IAS
+IA043,4,3,IA109,Trí Tuệ Nhân Tạo,4.22,IAS
+IA043,1,5,IA101,Toán Ứng Dụng,3.67,IAS
+IA043,2,6,IA107,Năng Lượng Tái Tạo,3.44,IAS
+IA044,3,4,IA105,Kỹ Thuật Phần Mềm,3.78,IAS
+IA044,4,2,IA108,Dữ Liệu Lớn,3.12,IAS
+IA044,1,1,IA110,An Ninh Mạng,3.90,IAS
+IA044,2,3,IA113,Quản Lý Dự Án Khoa Học,4.22,IAS
+IA044,3,5,IA102,Vật Lý Ứng Dụng,3.67,IAS
+IA044,4,6,IA106,Môi Trường Ứng Dụng,3.44,IAS
+IA045,1,2,IA111,Thiết Kế Cơ Khí,3.56,IAS
+IA045,2,4,IA114,Nghiên Cứu Vật Liệu,3.89,IAS
+IA045,3,1,IA103,Hóa Học Ứng Dụng,4.01,IAS
+IA045,4,3,IA116,Khoa Học Dữ Liệu,3.67,IAS
+IA045,1,5,IA104,Công Nghệ Sinh Học,3.78,IAS
+IA045,2,6,IA115,Ứng Dụng Y Học,3.45,IAS
+IA046,3,4,IA112,Điện Tử Ứng Dụng,3.12,IAS
+IA046,4,2,IA109,Trí Tuệ Nhân Tạo,3.56,IAS
+IA046,1,1,IA101,Toán Ứng Dụng,3.89,IAS
+IA046,2,3,IA107,Năng Lượng Tái Tạo,4.22,IAS
+IA046,3,5,IA105,Kỹ Thuật Phần Mềm,3.67,IAS
+IA046,4,6,IA108,Dữ Liệu Lớn,3.44,IAS
+IA047,1,2,IA110,An Ninh Mạng,3.78,IAS
+IA047,2,4,IA113,Quản Lý Dự Án Khoa Học,3.12,IAS
+IA047,3,1,IA102,Vật Lý Ứng Dụng,3.90,IAS
+IA047,4,3,IA106,Môi Trường Ứng Dụng,4.22,IAS
+IA047,1,5,IA111,Thiết Kế Cơ Khí,3.67,IAS
+IA047,2,6,IA114,Nghiên Cứu Vật Liệu,3.44,IAS
+IA048,3,4,IA103,Hóa Học Ứng Dụng,3.56,IAS
+IA048,4,2,IA116,Khoa Học Dữ Liệu,3.89,IAS
+IA048,1,1,IA104,Công Nghệ Sinh Học,4.01,IAS
+IA048,2,3,IA115,Ứng Dụng Y Học,3.67,IAS
+IA048,3,5,IA112,Điện Tử Ứng Dụng,3.78,IAS
+IA048,4,6,IA109,Trí Tuệ Nhân Tạo,3.45,IAS
+IA049,1,2,IA101,Toán Ứng Dụng,3.12,IAS
+IA049,2,4,IA107,Năng Lượng Tái Tạo,3.56,IAS
+IA049,3,1,IA105,Kỹ Thuật Phần Mềm,3.89,IAS
+IA049,4,3,IA108,Dữ Liệu Lớn,4.22,IAS
+IA049,1,5,IA110,An Ninh Mạng,3.67,IAS
+IA049,2,6,IA113,Quản Lý Dự Án Khoa Học,3.44,IAS
+IA050,3,4,IA102,Vật Lý Ứng Dụng,3.78,IAS
+IA050,4,2,IA106,Môi Trường Ứng Dụng,3.12,IAS
+IA050,1,1,IA111,Thiết Kế Cơ Khí,3.90,IAS
+IA050,2,3,IA114,Nghiên Cứu Vật Liệu,4.22,IAS
+IA050,3,5,IA103,Hóa Học Ứng Dụng,3.67,IAS
+IA050,4,6,IA116,Khoa Học Dữ Liệu,3.44,IAS
+
+
+AR001,2,3,AR101,Thiết Kế Kiến Trúc Cơ Bản,3.45,ARCH
+AR001,1,5,AR107,Kiến Trúc Cảnh Quan,4.12,ARCH
+AR001,4,2,AR110,Lịch Sử Mỹ Thuật,3.78,ARCH
+AR001,3,1,AR113,Thiết Kế Sản Phẩm,2.95,ARCH
+AR001,1,6,AR105,Điêu Khắc,4.33,ARCH
+AR001,2,4,AR108,Mỹ Thuật Ứng Dụng,3.67,ARCH
+AR002,3,2,AR102,Lịch Sử Kiến Trúc,3.12,ARCH
+AR002,4,5,AR106,Hội Họa,4.01,ARCH
+AR002,1,3,AR111,In Ấn Và Đồ Họa,3.56,ARCH
+AR002,2,1,AR114,Nhiếp Ảnh Mỹ Thuật,3.89,ARCH
+AR002,3,6,AR103,Vẽ Tay Mỹ Thuật,4.22,ARCH
+AR002,4,4,AR116,Nghệ Thuật Kỹ Thuật Số,3.44,ARCH
+AR003,1,1,AR104,Thiết Kế Nội Thất,3.67,ARCH
+AR003,2,6,AR115,Quản Lý Dự Án Kiến Trúc,3.98,ARCH
+AR003,3,3,AR112,Kiến Trúc Bền Vững,4.15,ARCH
+AR003,4,2,AR109,Thiết Kế Đô Thị,3.21,ARCH
+AR003,1,4,AR101,Thiết Kế Kiến Trúc Cơ Bản,3.77,ARCH
+AR003,2,5,AR107,Kiến Trúc Cảnh Quan,3.90,ARCH
+AR004,3,1,AR105,Điêu Khắc,4.05,ARCH
+AR004,4,3,AR108,Mỹ Thuật Ứng Dụng,3.33,ARCH
+AR004,1,2,AR110,Lịch Sử Mỹ Thuật,3.88,ARCH
+AR004,2,6,AR113,Thiết Kế Sản Phẩm,3.45,ARCH
+AR004,3,4,AR102,Lịch Sử Kiến Trúc,4.00,ARCH
+AR004,4,5,AR106,Hội Họa,3.56,ARCH
+AR005,1,3,AR111,In Ấn Và Đồ Họa,3.78,ARCH
+AR005,2,1,AR114,Nhiếp Ảnh Mỹ Thuật,3.12,ARCH
+AR005,3,6,AR103,Vẽ Tay Mỹ Thuật,3.90,ARCH
+AR005,4,2,AR116,Nghệ Thuật Kỹ Thuật Số,4.22,ARCH
+AR005,1,5,AR104,Thiết Kế Nội Thất,3.67,ARCH
+AR005,2,4,AR115,Quản Lý Dự Án Kiến Trúc,3.44,ARCH
+AR006,3,3,AR112,Kiến Trúc Bền Vững,3.56,ARCH
+AR006,4,1,AR109,Thiết Kế Đô Thị,3.89,ARCH
+AR006,1,6,AR101,Thiết Kế Kiến Trúc Cơ Bản,4.01,ARCH
+AR006,2,2,AR107,Kiến Trúc Cảnh Quan,3.67,ARCH
+AR006,3,5,AR105,Điêu Khắc,3.78,ARCH
+AR006,4,4,AR108,Mỹ Thuật Ứng Dụng,3.45,ARCH
+AR007,1,3,AR110,Lịch Sử Mỹ Thuật,3.12,ARCH
+AR007,2,1,AR113,Thiết Kế Sản Phẩm,3.56,ARCH
+AR007,3,6,AR102,Lịch Sử Kiến Trúc,3.89,ARCH
+AR007,4,2,AR106,Hội Họa,4.22,ARCH
+AR007,1,4,AR111,In Ấn Và Đồ Họa,3.67,ARCH
+AR007,2,5,AR114,Nhiếp Ảnh Mỹ Thuật,3.44,ARCH
+AR008,3,3,AR103,Vẽ Tay Mỹ Thuật,3.78,ARCH
+AR008,4,1,AR116,Nghệ Thuật Kỹ Thuật Số,3.12,ARCH
+AR008,1,6,AR104,Thiết Kế Nội Thất,3.90,ARCH
+AR008,2,2,AR115,Quản Lý Dự Án Kiến Trúc,4.22,ARCH
+AR008,3,5,AR112,Kiến Trúc Bền Vững,3.67,ARCH
+AR008,4,4,AR109,Thiết Kế Đô Thị,3.44,ARCH
+AR009,1,3,AR101,Thiết Kế Kiến Trúc Cơ Bản,3.56,ARCH
+AR009,2,1,AR107,Kiến Trúc Cảnh Quan,3.89,ARCH
+AR009,3,6,AR105,Điêu Khắc,4.01,ARCH
+AR009,4,2,AR108,Mỹ Thuật Ứng Dụng,3.67,ARCH
+AR009,1,4,AR110,Lịch Sử Mỹ Thuật,3.78,ARCH
+AR009,2,5,AR113,Thiết Kế Sản Phẩm,3.45,ARCH
+AR010,3,3,AR102,Lịch Sử Kiến Trúc,3.12,ARCH
+AR010,4,1,AR106,Hội Họa,3.56,ARCH
+AR010,1,6,AR111,In Ấn Và Đồ Họa,3.89,ARCH
+AR010,2,2,AR114,Nhiếp Ảnh Mỹ Thuật,4.22,ARCH
+AR010,3,5,AR103,Vẽ Tay Mỹ Thuật,3.67,ARCH
+AR010,4,4,AR116,Nghệ Thuật Kỹ Thuật Số,3.44,ARCH
+AR011,1,1,AR104,Thiết Kế Nội Thất,3.78,ARCH
+AR011,2,3,AR115,Quản Lý Dự Án Kiến Trúc,3.12,ARCH
+AR011,3,5,AR112,Kiến Trúc Bền Vững,3.90,ARCH
+AR011,4,6,AR109,Thiết Kế Đô Thị,4.22,ARCH
+AR011,1,2,AR101,Thiết Kế Kiến Trúc Cơ Bản,3.67,ARCH
+AR011,2,4,AR107,Kiến Trúc Cảnh Quan,3.44,ARCH
+AR012,3,1,AR105,Điêu Khắc,3.56,ARCH
+AR012,4,3,AR108,Mỹ Thuật Ứng Dụng,3.89,ARCH
+AR012,1,5,AR110,Lịch Sử Mỹ Thuật,4.01,ARCH
+AR012,2,6,AR113,Thiết Kế Sản Phẩm,3.67,ARCH
+AR012,3,2,AR102,Lịch Sử Kiến Trúc,3.78,ARCH
+AR012,4,4,AR106,Hội Họa,3.45,ARCH
+AR013,1,1,AR111,In Ấn Và Đồ Họa,3.12,ARCH
+AR013,2,3,AR114,Nhiếp Ảnh Mỹ Thuật,3.56,ARCH
+AR013,3,5,AR103,Vẽ Tay Mỹ Thuật,3.89,ARCH
+AR013,4,6,AR116,Nghệ Thuật Kỹ Thuật Số,4.22,ARCH
+AR013,1,2,AR104,Thiết Kế Nội Thất,3.67,ARCH
+AR013,2,4,AR115,Quản Lý Dự Án Kiến Trúc,3.44,ARCH
+AR014,3,1,AR112,Kiến Trúc Bền Vững,3.78,ARCH
+AR014,4,3,AR109,Thiết Kế Đô Thị,3.12,ARCH
+AR014,1,5,AR101,Thiết Kế Kiến Trúc Cơ Bản,3.90,ARCH
+AR014,2,6,AR107,Kiến Trúc Cảnh Quan,4.22,ARCH
+AR014,3,2,AR105,Điêu Khắc,3.67,ARCH
+AR014,4,4,AR108,Mỹ Thuật Ứng Dụng,3.44,ARCH
+AR015,1,1,AR110,Lịch Sử Mỹ Thuật,3.56,ARCH
+AR015,2,3,AR113,Thiết Kế Sản Phẩm,3.89,ARCH
+AR015,3,5,AR102,Lịch Sử Kiến Trúc,4.01,ARCH
+AR015,4,6,AR106,Hội Họa,3.67,ARCH
+AR015,1,2,AR111,In Ấn Và Đồ Họa,3.78,ARCH
+AR015,2,4,AR114,Nhiếp Ảnh Mỹ Thuật,3.45,ARCH
+AR016,3,1,AR103,Vẽ Tay Mỹ Thuật,3.12,ARCH
+AR016,4,3,AR116,Nghệ Thuật Kỹ Thuật Số,3.56,ARCH
+AR016,1,5,AR104,Thiết Kế Nội Thất,3.89,ARCH
+AR016,2,6,AR115,Quản Lý Dự Án Kiến Trúc,4.22,ARCH
+AR016,3,2,AR112,Kiến Trúc Bền Vững,3.67,ARCH
+AR016,4,4,AR109,Thiết Kế Đô Thị,3.44,ARCH
+AR017,1,1,AR101,Thiết Kế Kiến Trúc Cơ Bản,3.78,ARCH
+AR017,2,3,AR107,Kiến Trúc Cảnh Quan,3.12,ARCH
+AR017,3,5,AR105,Điêu Khắc,3.90,ARCH
+AR017,4,6,AR108,Mỹ Thuật Ứng Dụng,4.22,ARCH
+AR017,1,2,AR110,Lịch Sử Mỹ Thuật,3.67,ARCH
+AR017,2,4,AR113,Thiết Kế Sản Phẩm,3.44,ARCH
+AR018,3,1,AR102,Lịch Sử Kiến Trúc,3.56,ARCH
+AR018,4,3,AR106,Hội Họa,3.89,ARCH
+AR018,1,5,AR111,In Ấn Và Đồ Họa,4.01,ARCH
+AR018,2,6,AR114,Nhiếp Ảnh Mỹ Thuật,3.67,ARCH
+AR018,3,2,AR103,Vẽ Tay Mỹ Thuật,3.78,ARCH
+AR018,4,4,AR116,Nghệ Thuật Kỹ Thuật Số,3.45,ARCH
+AR019,1,1,AR104,Thiết Kế Nội Thất,3.12,ARCH
+AR019,2,3,AR115,Quản Lý Dự Án Kiến Trúc,3.56,ARCH
+AR019,3,5,AR112,Kiến Trúc Bền Vững,3.89,ARCH
+AR019,4,6,AR109,Thiết Kế Đô Thị,4.22,ARCH
+AR019,1,2,AR101,Thiết Kế Kiến Trúc Cơ Bản,3.67,ARCH
+AR019,2,4,AR107,Kiến Trúc Cảnh Quan,3.44,ARCH
+AR020,3,1,AR105,Điêu Khắc,3.78,ARCH
+AR020,4,3,AR108,Mỹ Thuật Ứng Dụng,3.12,ARCH
+AR020,1,5,AR110,Lịch Sử Mỹ Thuật,3.90,ARCH
+AR020,2,6,AR113,Thiết Kế Sản Phẩm,4.22,ARCH
+AR020,3,2,AR102,Lịch Sử Kiến Trúc,3.67,ARCH
+AR020,4,4,AR106,Hội Họa,3.44,ARCH
+AR021,1,1,AR111,In Ấn Và Đồ Họa,3.56,ARCH
+AR021,2,3,AR114,Nhiếp Ảnh Mỹ Thuật,3.89,ARCH
+AR021,3,5,AR103,Vẽ Tay Mỹ Thuật,4.01,ARCH
+AR021,4,6,AR116,Nghệ Thuật Kỹ Thuật Số,3.67,ARCH
+AR021,1,2,AR104,Thiết Kế Nội Thất,3.78,ARCH
+AR021,2,4,AR115,Quản Lý Dự Án Kiến Trúc,3.45,ARCH
+AR022,3,1,AR112,Kiến Trúc Bền Vững,3.12,ARCH
+AR022,4,3,AR109,Thiết Kế Đô Thị,3.56,ARCH
+AR022,1,5,AR101,Thiết Kế Kiến Trúc Cơ Bản,3.89,ARCH
+AR022,2,6,AR107,Kiến Trúc Cảnh Quan,4.22,ARCH
+AR022,3,2,AR105,Điêu Khắc,3.67,ARCH
+AR022,4,4,AR108,Mỹ Thuật Ứng Dụng,3.44,ARCH
 
 
 PO001,1,1,PO102,Quan hệ quốc tế,2.9,POLITICS
