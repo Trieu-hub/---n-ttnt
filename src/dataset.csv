@@ -6785,605 +6785,605 @@ EN050,4,1,ENG105,Circuit Analysis,2.85,ENG
 EN050,4,3,ENG106,Mechanics of Materials,4.35,ENG
 
 
-CI001,1,1,CV105,Kỹ thuật cầu đường,2.07,CIVIL
-CI001,1,2,CV104,Địa kỹ thuật,2.81,CIVIL
-CI001,1,3,CV102,Kết cấu thép,2.27,CIVIL
-CI001,1,4,CV106,Thiết kế kết cấu,4.84,CIVIL
-CI001,1,5,CV101,Kỹ thuật công trình,2.37,CIVIL
-CI001,1,6,CV103,Thủy lực công trình,4.19,CIVIL
-CI002,4,1,CV105,Kỹ thuật cầu đường,2.92,CIVIL
-CI002,4,2,CV102,Kết cấu thép,4.38,CIVIL
-CI002,4,3,CV103,Thủy lực công trình,4.96,CIVIL
-CI002,4,4,CV101,Kỹ thuật công trình,2.04,CIVIL
-CI002,4,5,CV104,Địa kỹ thuật,3.54,CIVIL
-CI002,4,6,CV106,Thiết kế kết cấu,4.48,CIVIL
-CI003,3,1,CV102,Kết cấu thép,4.47,CIVIL
-CI003,3,2,CV104,Địa kỹ thuật,3.21,CIVIL
-CI003,3,3,CV101,Kỹ thuật công trình,3.35,CIVIL
-CI003,3,4,CV105,Kỹ thuật cầu đường,3.71,CIVIL
-CI003,3,5,CV103,Thủy lực công trình,3.14,CIVIL
-CI003,3,6,CV106,Thiết kế kết cấu,3.99,CIVIL
-CI004,4,1,CV104,Địa kỹ thuật,4.3,CIVIL
-CI004,4,2,CV103,Thủy lực công trình,3.01,CIVIL
-CI004,4,3,CV102,Kết cấu thép,4.27,CIVIL
-CI004,4,4,CV105,Kỹ thuật cầu đường,3.11,CIVIL
-CI004,4,5,CV101,Kỹ thuật công trình,2.86,CIVIL
-CI004,4,6,CV106,Thiết kế kết cấu,2.48,CIVIL
-CI005,1,1,CV106,Thiết kế kết cấu,2.65,CIVIL
-CI005,1,2,CV103,Thủy lực công trình,3.59,CIVIL
-CI005,1,3,CV102,Kết cấu thép,2.41,CIVIL
-CI005,1,4,CV104,Địa kỹ thuật,2.7,CIVIL
-CI005,1,5,CV101,Kỹ thuật công trình,4.9,CIVIL
-CI005,1,6,CV105,Kỹ thuật cầu đường,4.38,CIVIL
-CI006,2,1,CV101,Kỹ thuật công trình,3.88,CIVIL
-CI006,2,2,CV104,Địa kỹ thuật,2.74,CIVIL
-CI006,2,3,CV106,Thiết kế kết cấu,3.36,CIVIL
-CI006,2,4,CV103,Thủy lực công trình,4.73,CIVIL
-CI006,2,5,CV102,Kết cấu thép,4.05,CIVIL
-CI006,2,6,CV105,Kỹ thuật cầu đường,2.12,CIVIL
-CI007,4,1,CV104,Địa kỹ thuật,2.5,CIVIL
-CI007,4,2,CV102,Kết cấu thép,2.18,CIVIL
-CI007,4,3,CV101,Kỹ thuật công trình,3.03,CIVIL
-CI007,4,4,CV106,Thiết kế kết cấu,3.95,CIVIL
-CI007,4,5,CV105,Kỹ thuật cầu đường,4.16,CIVIL
-CI007,4,6,CV103,Thủy lực công trình,4.2,CIVIL
-CI008,2,1,CV105,Kỹ thuật cầu đường,2.57,CIVIL
-CI008,2,2,CV103,Thủy lực công trình,3.99,CIVIL
-CI008,2,3,CV104,Địa kỹ thuật,2.12,CIVIL
-CI008,2,4,CV101,Kỹ thuật công trình,3.82,CIVIL
-CI008,2,5,CV106,Thiết kế kết cấu,3.13,CIVIL
-CI008,2,6,CV102,Kết cấu thép,4.58,CIVIL
-CI009,1,1,CV102,Kết cấu thép,3.85,CIVIL
-CI009,1,2,CV103,Thủy lực công trình,4.31,CIVIL
-CI009,1,3,CV101,Kỹ thuật công trình,3.68,CIVIL
-CI009,1,4,CV106,Thiết kế kết cấu,2.64,CIVIL
-CI009,1,5,CV105,Kỹ thuật cầu đường,3.34,CIVIL
-CI009,1,6,CV104,Địa kỹ thuật,3.63,CIVIL
-CI010,2,1,CV106,Thiết kế kết cấu,3.79,CIVIL
-CI010,2,2,CV105,Kỹ thuật cầu đường,2.48,CIVIL
-CI010,2,3,CV104,Địa kỹ thuật,4.07,CIVIL
-CI010,2,4,CV101,Kỹ thuật công trình,4.76,CIVIL
-CI010,2,5,CV102,Kết cấu thép,2.09,CIVIL
-CI010,2,6,CV103,Thủy lực công trình,4.54,CIVIL
-CI011,4,1,CV101,Kỹ thuật công trình,2.86,CIVIL
-CI011,4,2,CV106,Thiết kế kết cấu,3.49,CIVIL
-CI011,4,3,CV105,Kỹ thuật cầu đường,3.72,CIVIL
-CI011,4,4,CV103,Thủy lực công trình,4.57,CIVIL
-CI011,4,5,CV102,Kết cấu thép,3.7,CIVIL
-CI011,4,6,CV104,Địa kỹ thuật,3.1,CIVIL
-CI012,3,1,CV106,Thiết kế kết cấu,2.72,CIVIL
-CI012,3,2,CV104,Địa kỹ thuật,2.47,CIVIL
-CI012,3,3,CV105,Kỹ thuật cầu đường,2.63,CIVIL
-CI012,3,4,CV103,Thủy lực công trình,2.7,CIVIL
-CI012,3,5,CV101,Kỹ thuật công trình,4.76,CIVIL
-CI012,3,6,CV102,Kết cấu thép,2.26,CIVIL
-CI013,3,1,CV105,Kỹ thuật cầu đường,2.65,CIVIL
-CI013,3,2,CV103,Thủy lực công trình,4.22,CIVIL
-CI013,3,3,CV106,Thiết kế kết cấu,2.1,CIVIL
-CI013,3,4,CV104,Địa kỹ thuật,3.98,CIVIL
-CI013,3,5,CV101,Kỹ thuật công trình,4.66,CIVIL
-CI013,3,6,CV102,Kết cấu thép,3.67,CIVIL
-CI014,2,1,CV104,Địa kỹ thuật,2.98,CIVIL
-CI014,2,2,CV102,Kết cấu thép,2.94,CIVIL
-CI014,2,3,CV101,Kỹ thuật công trình,2.85,CIVIL
-CI014,2,4,CV103,Thủy lực công trình,3.87,CIVIL
-CI014,2,5,CV105,Kỹ thuật cầu đường,4.65,CIVIL
-CI014,2,6,CV106,Thiết kế kết cấu,4.18,CIVIL
-CI015,2,1,CV104,Địa kỹ thuật,4.76,CIVIL
-CI015,2,2,CV101,Kỹ thuật công trình,3.17,CIVIL
-CI015,2,3,CV102,Kết cấu thép,3.02,CIVIL
-CI015,2,4,CV103,Thủy lực công trình,4.12,CIVIL
-CI015,2,5,CV106,Thiết kế kết cấu,4.46,CIVIL
-CI015,2,6,CV105,Kỹ thuật cầu đường,4.12,CIVIL
-CI016,2,1,CV106,Thiết kế kết cấu,2.06,CIVIL
-CI016,2,2,CV103,Thủy lực công trình,3.92,CIVIL
-CI016,2,3,CV102,Kết cấu thép,2.93,CIVIL
-CI016,2,4,CV101,Kỹ thuật công trình,2.13,CIVIL
-CI016,2,5,CV104,Địa kỹ thuật,3.03,CIVIL
-CI016,2,6,CV105,Kỹ thuật cầu đường,2.32,CIVIL
-CI017,4,1,CV101,Kỹ thuật công trình,3.82,CIVIL
-CI017,4,2,CV102,Kết cấu thép,3.53,CIVIL
-CI017,4,3,CV104,Địa kỹ thuật,2.58,CIVIL
-CI017,4,4,CV106,Thiết kế kết cấu,4.16,CIVIL
-CI017,4,5,CV103,Thủy lực công trình,4.29,CIVIL
-CI017,4,6,CV105,Kỹ thuật cầu đường,2.66,CIVIL
-CI018,2,1,CV103,Thủy lực công trình,2.27,CIVIL
-CI018,2,2,CV106,Thiết kế kết cấu,2.78,CIVIL
-CI018,2,3,CV101,Kỹ thuật công trình,4.66,CIVIL
-CI018,2,4,CV102,Kết cấu thép,3.26,CIVIL
-CI018,2,5,CV104,Địa kỹ thuật,3.53,CIVIL
-CI018,2,6,CV105,Kỹ thuật cầu đường,2.93,CIVIL
-CI019,3,1,CV102,Kết cấu thép,3.43,CIVIL
-CI019,3,2,CV103,Thủy lực công trình,3.28,CIVIL
-CI019,3,3,CV106,Thiết kế kết cấu,4.2,CIVIL
-CI019,3,4,CV104,Địa kỹ thuật,4.58,CIVIL
-CI019,3,5,CV105,Kỹ thuật cầu đường,4.43,CIVIL
-CI019,3,6,CV101,Kỹ thuật công trình,3.5,CIVIL
-CI020,1,1,CV101,Kỹ thuật công trình,2.71,CIVIL
-CI020,1,2,CV106,Thiết kế kết cấu,3.89,CIVIL
-CI020,1,3,CV102,Kết cấu thép,4.53,CIVIL
-CI020,1,4,CV105,Kỹ thuật cầu đường,4.49,CIVIL
-CI020,1,5,CV103,Thủy lực công trình,3.42,CIVIL
-CI020,1,6,CV104,Địa kỹ thuật,4.8,CIVIL
-CI021,3,1,CV102,Kết cấu thép,3.3,CIVIL
-CI021,3,2,CV106,Thiết kế kết cấu,4.55,CIVIL
-CI021,3,3,CV104,Địa kỹ thuật,2.7,CIVIL
-CI021,3,4,CV103,Thủy lực công trình,2.18,CIVIL
-CI021,3,5,CV101,Kỹ thuật công trình,3.83,CIVIL
-CI021,3,6,CV105,Kỹ thuật cầu đường,2.06,CIVIL
-CI022,2,1,CV104,Địa kỹ thuật,3.6,CIVIL
-CI022,2,2,CV105,Kỹ thuật cầu đường,2.19,CIVIL
-CI022,2,3,CV101,Kỹ thuật công trình,2.18,CIVIL
-CI022,2,4,CV106,Thiết kế kết cấu,3.55,CIVIL
-CI022,2,5,CV103,Thủy lực công trình,3.16,CIVIL
-CI022,2,6,CV102,Kết cấu thép,3.15,CIVIL
-CI023,3,1,CV104,Địa kỹ thuật,2.67,CIVIL
-CI023,3,2,CV106,Thiết kế kết cấu,4.18,CIVIL
-CI023,3,3,CV102,Kết cấu thép,4.58,CIVIL
-CI023,3,4,CV101,Kỹ thuật công trình,4.42,CIVIL
-CI023,3,5,CV105,Kỹ thuật cầu đường,2.35,CIVIL
-CI023,3,6,CV103,Thủy lực công trình,4.41,CIVIL
-CI024,4,1,CV102,Kết cấu thép,2.32,CIVIL
-CI024,4,2,CV106,Thiết kế kết cấu,4.39,CIVIL
-CI024,4,3,CV101,Kỹ thuật công trình,3.61,CIVIL
-CI024,4,4,CV105,Kỹ thuật cầu đường,4.6,CIVIL
-CI024,4,5,CV103,Thủy lực công trình,4.54,CIVIL
-CI024,4,6,CV104,Địa kỹ thuật,3.14,CIVIL
-CI025,2,1,CV101,Kỹ thuật công trình,2.53,CIVIL
-CI025,2,2,CV105,Kỹ thuật cầu đường,3.81,CIVIL
-CI025,2,3,CV106,Thiết kế kết cấu,4.6,CIVIL
-CI025,2,4,CV102,Kết cấu thép,2.52,CIVIL
-CI025,2,5,CV103,Thủy lực công trình,3.81,CIVIL
-CI025,2,6,CV104,Địa kỹ thuật,3.26,CIVIL
-CI026,1,1,CV105,Kỹ thuật cầu đường,4.91,CIVIL
-CI026,1,2,CV101,Kỹ thuật công trình,4.89,CIVIL
-CI026,1,3,CV104,Địa kỹ thuật,3.89,CIVIL
-CI026,1,4,CV106,Thiết kế kết cấu,2.03,CIVIL
-CI026,1,5,CV103,Thủy lực công trình,3.45,CIVIL
-CI026,1,6,CV102,Kết cấu thép,3.83,CIVIL
-CI027,4,1,CV106,Thiết kế kết cấu,4.21,CIVIL
-CI027,4,2,CV103,Thủy lực công trình,4.71,CIVIL
-CI027,4,3,CV104,Địa kỹ thuật,4.02,CIVIL
-CI027,4,4,CV105,Kỹ thuật cầu đường,4.47,CIVIL
-CI027,4,5,CV102,Kết cấu thép,2.95,CIVIL
-CI027,4,6,CV101,Kỹ thuật công trình,2.25,CIVIL
-CI028,4,1,CV104,Địa kỹ thuật,4.53,CIVIL
-CI028,4,2,CV105,Kỹ thuật cầu đường,2.25,CIVIL
-CI028,4,3,CV101,Kỹ thuật công trình,2.16,CIVIL
-CI028,4,4,CV103,Thủy lực công trình,2.18,CIVIL
-CI028,4,5,CV102,Kết cấu thép,3.44,CIVIL
-CI028,4,6,CV106,Thiết kế kết cấu,2.97,CIVIL
-CI029,3,1,CV103,Thủy lực công trình,2.71,CIVIL
-CI029,3,2,CV105,Kỹ thuật cầu đường,2.73,CIVIL
-CI029,3,3,CV106,Thiết kế kết cấu,3.42,CIVIL
-CI029,3,4,CV101,Kỹ thuật công trình,2.97,CIVIL
-CI029,3,5,CV104,Địa kỹ thuật,4.94,CIVIL
-CI029,3,6,CV102,Kết cấu thép,3.47,CIVIL
-CI030,3,1,CV101,Kỹ thuật công trình,4.74,CIVIL
-CI030,3,2,CV103,Thủy lực công trình,3.71,CIVIL
-CI030,3,3,CV106,Thiết kế kết cấu,3.44,CIVIL
-CI030,3,4,CV105,Kỹ thuật cầu đường,4.74,CIVIL
-CI030,3,5,CV104,Địa kỹ thuật,2.47,CIVIL
-CI030,3,6,CV102,Kết cấu thép,2.4,CIVIL
-CI031,3,1,CV104,Địa kỹ thuật,2.97,CIVIL
-CI031,3,2,CV105,Kỹ thuật cầu đường,3.55,CIVIL
-CI031,3,3,CV102,Kết cấu thép,4.0,CIVIL
-CI031,3,4,CV103,Thủy lực công trình,2.31,CIVIL
-CI031,3,5,CV106,Thiết kế kết cấu,3.68,CIVIL
-CI031,3,6,CV101,Kỹ thuật công trình,4.86,CIVIL
-CI032,3,1,CV102,Kết cấu thép,2.61,CIVIL
-CI032,3,2,CV101,Kỹ thuật công trình,3.19,CIVIL
-CI032,3,3,CV103,Thủy lực công trình,4.47,CIVIL
-CI032,3,4,CV105,Kỹ thuật cầu đường,2.77,CIVIL
-CI032,3,5,CV106,Thiết kế kết cấu,3.88,CIVIL
-CI032,3,6,CV104,Địa kỹ thuật,2.27,CIVIL
-CI033,2,1,CV104,Địa kỹ thuật,2.28,CIVIL
-CI033,2,2,CV101,Kỹ thuật công trình,2.87,CIVIL
-CI033,2,3,CV102,Kết cấu thép,2.9,CIVIL
-CI033,2,4,CV103,Thủy lực công trình,3.41,CIVIL
-CI033,2,5,CV106,Thiết kế kết cấu,3.4,CIVIL
-CI033,2,6,CV105,Kỹ thuật cầu đường,4.39,CIVIL
-CI034,2,1,CV102,Kết cấu thép,3.7,CIVIL
-CI034,2,2,CV104,Địa kỹ thuật,2.58,CIVIL
-CI034,2,3,CV101,Kỹ thuật công trình,4.25,CIVIL
-CI034,2,4,CV106,Thiết kế kết cấu,3.28,CIVIL
-CI034,2,5,CV105,Kỹ thuật cầu đường,2.42,CIVIL
-CI034,2,6,CV103,Thủy lực công trình,3.61,CIVIL
-CI035,1,1,CV105,Kỹ thuật cầu đường,3.43,CIVIL
-CI035,1,2,CV106,Thiết kế kết cấu,4.57,CIVIL
-CI035,1,3,CV104,Địa kỹ thuật,3.75,CIVIL
-CI035,1,4,CV101,Kỹ thuật công trình,3.76,CIVIL
-CI035,1,5,CV102,Kết cấu thép,4.52,CIVIL
-CI035,1,6,CV103,Thủy lực công trình,3.23,CIVIL
-CI036,2,1,CV102,Kết cấu thép,3.0,CIVIL
-CI036,2,2,CV106,Thiết kế kết cấu,2.46,CIVIL
-CI036,2,3,CV104,Địa kỹ thuật,2.15,CIVIL
-CI036,2,4,CV101,Kỹ thuật công trình,3.5,CIVIL
-CI036,2,5,CV105,Kỹ thuật cầu đường,3.82,CIVIL
-CI036,2,6,CV103,Thủy lực công trình,3.02,CIVIL
-CI037,1,1,CV101,Kỹ thuật công trình,4.78,CIVIL
-CI037,1,2,CV103,Thủy lực công trình,4.2,CIVIL
-CI037,1,3,CV102,Kết cấu thép,4.49,CIVIL
-CI037,1,4,CV104,Địa kỹ thuật,4.26,CIVIL
-CI037,1,5,CV106,Thiết kế kết cấu,3.25,CIVIL
-CI037,1,6,CV105,Kỹ thuật cầu đường,4.29,CIVIL
-CI038,4,1,CV104,Địa kỹ thuật,4.25,CIVIL
-CI038,4,2,CV106,Thiết kế kết cấu,2.5,CIVIL
-CI038,4,3,CV102,Kết cấu thép,3.22,CIVIL
-CI038,4,4,CV105,Kỹ thuật cầu đường,2.2,CIVIL
-CI038,4,5,CV103,Thủy lực công trình,3.31,CIVIL
-CI038,4,6,CV101,Kỹ thuật công trình,2.31,CIVIL
-CI039,1,1,CV104,Địa kỹ thuật,2.12,CIVIL
-CI039,1,2,CV102,Kết cấu thép,4.72,CIVIL
-CI039,1,3,CV106,Thiết kế kết cấu,4.97,CIVIL
-CI039,1,4,CV103,Thủy lực công trình,4.39,CIVIL
-CI039,1,5,CV101,Kỹ thuật công trình,4.44,CIVIL
-CI039,1,6,CV105,Kỹ thuật cầu đường,2.56,CIVIL
-CI040,1,1,CV102,Kết cấu thép,3.17,CIVIL
-CI040,1,2,CV103,Thủy lực công trình,3.26,CIVIL
-CI040,1,3,CV101,Kỹ thuật công trình,4.25,CIVIL
-CI040,1,4,CV106,Thiết kế kết cấu,4.69,CIVIL
-CI040,1,5,CV105,Kỹ thuật cầu đường,4.03,CIVIL
-CI040,1,6,CV104,Địa kỹ thuật,3.09,CIVIL
-CI041,4,1,CV106,Thiết kế kết cấu,2.32,CIVIL
-CI041,4,2,CV103,Thủy lực công trình,4.14,CIVIL
-CI041,4,3,CV101,Kỹ thuật công trình,3.41,CIVIL
-CI041,4,4,CV104,Địa kỹ thuật,4.14,CIVIL
-CI041,4,5,CV105,Kỹ thuật cầu đường,2.14,CIVIL
-CI041,4,6,CV102,Kết cấu thép,3.33,CIVIL
-CI042,3,1,CV103,Thủy lực công trình,4.6,CIVIL
-CI042,3,2,CV106,Thiết kế kết cấu,2.96,CIVIL
-CI042,3,3,CV105,Kỹ thuật cầu đường,4.18,CIVIL
-CI042,3,4,CV104,Địa kỹ thuật,4.71,CIVIL
-CI042,3,5,CV102,Kết cấu thép,4.86,CIVIL
-CI042,3,6,CV101,Kỹ thuật công trình,4.02,CIVIL
-CI043,3,1,CV106,Thiết kế kết cấu,3.24,CIVIL
-CI043,3,2,CV102,Kết cấu thép,2.31,CIVIL
-CI043,3,3,CV104,Địa kỹ thuật,3.03,CIVIL
-CI043,3,4,CV103,Thủy lực công trình,3.9,CIVIL
-CI043,3,5,CV105,Kỹ thuật cầu đường,4.11,CIVIL
-CI043,3,6,CV101,Kỹ thuật công trình,4.67,CIVIL
-CI044,4,1,CV103,Thủy lực công trình,3.54,CIVIL
-CI044,4,2,CV105,Kỹ thuật cầu đường,4.38,CIVIL
-CI044,4,3,CV102,Kết cấu thép,4.25,CIVIL
-CI044,4,4,CV101,Kỹ thuật công trình,3.05,CIVIL
-CI044,4,5,CV104,Địa kỹ thuật,3.91,CIVIL
-CI044,4,6,CV106,Thiết kế kết cấu,4.68,CIVIL
-CI045,3,1,CV101,Kỹ thuật công trình,2.1,CIVIL
-CI045,3,2,CV105,Kỹ thuật cầu đường,3.46,CIVIL
-CI045,3,3,CV103,Thủy lực công trình,3.45,CIVIL
-CI045,3,4,CV102,Kết cấu thép,3.61,CIVIL
-CI045,3,5,CV106,Thiết kế kết cấu,4.24,CIVIL
-CI045,3,6,CV104,Địa kỹ thuật,4.87,CIVIL
-CI046,2,1,CV102,Kết cấu thép,2.31,CIVIL
-CI046,2,2,CV103,Thủy lực công trình,3.38,CIVIL
-CI046,2,3,CV106,Thiết kế kết cấu,3.85,CIVIL
-CI046,2,4,CV105,Kỹ thuật cầu đường,2.14,CIVIL
-CI046,2,5,CV101,Kỹ thuật công trình,4.71,CIVIL
-CI046,2,6,CV104,Địa kỹ thuật,4.14,CIVIL
-CI047,1,1,CV105,Kỹ thuật cầu đường,4.8,CIVIL
-CI047,1,2,CV102,Kết cấu thép,3.05,CIVIL
-CI047,1,3,CV103,Thủy lực công trình,2.33,CIVIL
-CI047,1,4,CV106,Thiết kế kết cấu,4.45,CIVIL
-CI047,1,5,CV104,Địa kỹ thuật,2.1,CIVIL
-CI047,1,6,CV101,Kỹ thuật công trình,2.38,CIVIL
-CI048,4,1,CV102,Kết cấu thép,2.54,CIVIL
-CI048,4,2,CV105,Kỹ thuật cầu đường,2.03,CIVIL
-CI048,4,3,CV104,Địa kỹ thuật,3.57,CIVIL
-CI048,4,4,CV103,Thủy lực công trình,4.48,CIVIL
-CI048,4,5,CV101,Kỹ thuật công trình,3.99,CIVIL
-CI048,4,6,CV106,Thiết kế kết cấu,4.39,CIVIL
-CI049,4,1,CV105,Kỹ thuật cầu đường,2.71,CIVIL
-CI049,4,2,CV106,Thiết kế kết cấu,4.26,CIVIL
-CI049,4,3,CV102,Kết cấu thép,4.81,CIVIL
-CI049,4,4,CV103,Thủy lực công trình,4.7,CIVIL
-CI049,4,5,CV101,Kỹ thuật công trình,4.26,CIVIL
-CI049,4,6,CV104,Địa kỹ thuật,3.45,CIVIL
-CI050,2,1,CV103,Thủy lực công trình,2.04,CIVIL
-CI050,2,2,CV101,Kỹ thuật công trình,4.68,CIVIL
-CI050,2,3,CV106,Thiết kế kết cấu,3.21,CIVIL
-CI050,2,4,CV102,Kết cấu thép,4.13,CIVIL
-CI050,2,5,CV104,Địa kỹ thuật,2.86,CIVIL
-CI050,2,6,CV105,Kỹ thuật cầu đường,4.34,CIVIL
+CI001,1,1,CIV101,Introduction to Civil Engineering,3.50,CIVIL
+CI001,1,3,CIV104,Strength of Materials,4.15,CIVIL
+CI001,2,2,CIV107,Structural Analysis,2.90,CIVIL
+CI001,3,1,CIV110,Water Resources Engineering,3.75,CIVIL
+CI001,3,3,CIV113,Steel Design,4.60,CIVIL
+CI001,4,2,CIV116,Civil Engineering Ethics,3.65,CIVIL
+CI002,1,2,CIV102,Statics,3.55,CIVIL
+CI002,2,1,CIV105,Surveying,2.80,CIVIL
+CI002,2,3,CIV108,Geotechnical Engineering,4.05,CIVIL
+CI002,3,2,CIV111,Construction Management,3.45,CIVIL
+CI002,4,1,CIV114,Environmental Engineering,4.20,CIVIL
+CI002,4,3,CIV103,Dynamics,3.35,CIVIL
+CI003,1,1,CIV106,Fluid Mechanics for Civil,3.85,CIVIL
+CI003,1,3,CIV109,Transportation Engineering,2.65,CIVIL
+CI003,2,2,CIV112,Concrete Design,4.30,CIVIL
+CI003,3,1,CIV115,Project Planning,3.10,CIVIL
+CI003,3,3,CIV101,Introduction to Civil Engineering,3.95,CIVIL
+CI003,4,2,CIV104,Strength of Materials,3.60,CIVIL
+CI004,1,2,CIV107,Structural Analysis,3.25,CIVIL
+CI004,2,1,CIV110,Water Resources Engineering,4.10,CIVIL
+CI004,2,3,CIV113,Steel Design,3.00,CIVIL
+CI004,3,2,CIV116,Civil Engineering Ethics,4.40,CIVIL
+CI004,4,1,CIV102,Statics,3.70,CIVIL
+CI004,4,3,CIV105,Surveying,2.85,CIVIL
+CI005,1,1,CIV108,Geotechnical Engineering,4.00,CIVIL
+CI005,1,3,CIV111,Construction Management,3.50,CIVIL
+CI005,2,2,CIV114,Environmental Engineering,3.90,CIVIL
+CI005,3,1,CIV103,Dynamics,2.75,CIVIL
+CI005,3,3,CIV106,Fluid Mechanics for Civil,4.25,CIVIL
+CI005,4,2,CIV109,Transportation Engineering,3.55,CIVIL
+CI006,1,2,CIV112,Concrete Design,3.80,CIVIL
+CI006,2,1,CIV115,Project Planning,4.05,CIVIL
+CI006,2,3,CIV107,Structural Analysis,3.20,CIVIL
+CI006,3,2,CIV110,Water Resources Engineering,3.65,CIVIL
+CI006,4,1,CIV113,Steel Design,4.35,CIVIL
+CI006,4,3,CIV116,Civil Engineering Ethics,3.45,CIVIL
+CI007,1,1,CIV101,Introduction to Civil Engineering,2.70,CIVIL
+CI007,1,3,CIV104,Strength of Materials,4.15,CIVIL
+CI007,2,2,CIV108,Geotechnical Engineering,3.85,CIVIL
+CI007,3,1,CIV111,Construction Management,3.35,CIVIL
+CI007,3,3,CIV114,Environmental Engineering,4.00,CIVIL
+CI007,4,2,CIV103,Dynamics,3.10,CIVIL
+CI008,1,2,CIV105,Surveying,3.40,CIVIL
+CI008,2,1,CIV106,Fluid Mechanics for Civil,3.95,CIVIL
+CI008,2,3,CIV109,Transportation Engineering,2.90,CIVIL
+CI008,3,2,CIV112,Concrete Design,3.75,CIVIL
+CI008,4,1,CIV115,Project Planning,4.20,CIVIL
+CI008,4,3,CIV102,Statics,3.60,CIVIL
+CI009,1,1,CIV107,Structural Analysis,3.90,CIVIL
+CI009,1,3,CIV110,Water Resources Engineering,4.10,CIVIL
+CI009,2,2,CIV113,Steel Design,3.25,CIVIL
+CI009,3,1,CIV116,Civil Engineering Ethics,3.70,CIVIL
+CI009,3,3,CIV101,Introduction to Civil Engineering,2.80,CIVIL
+CI009,4,2,CIV104,Strength of Materials,4.05,CIVIL
+CI010,1,2,CIV108,Geotechnical Engineering,3.55,CIVIL
+CI010,2,1,CIV111,Construction Management,4.15,CIVIL
+CI010,2,3,CIV114,Environmental Engineering,3.45,CIVIL
+CI010,3,2,CIV103,Dynamics,3.85,CIVIL
+CI010,4,1,CIV105,Surveying,2.75,CIVIL
+CI010,4,3,CIV106,Fluid Mechanics for Civil,4.30,CIVIL
+CI011,1,1,CIV109,Transportation Engineering,3.65,CIVIL
+CI011,1,3,CIV112,Concrete Design,4.00,CIVIL
+CI011,2,2,CIV115,Project Planning,3.20,CIVIL
+CI011,3,1,CIV102,Statics,3.50,CIVIL
+CI011,3,3,CIV107,Structural Analysis,4.25,CIVIL
+CI011,4,2,CIV110,Water Resources Engineering,3.35,CIVIL
+CI012,1,2,CIV113,Steel Design,3.80,CIVIL
+CI012,2,1,CIV116,Civil Engineering Ethics,2.90,CIVIL
+CI012,2,3,CIV101,Introduction to Civil Engineering,3.95,CIVIL
+CI012,3,2,CIV104,Strength of Materials,3.55,CIVIL
+CI012,4,1,CIV108,Geotechnical Engineering,4.10,CIVIL
+CI012,4,3,CIV111,Construction Management,3.70,CIVIL
+CI013,1,1,CIV114,Environmental Engineering,3.15,CIVIL
+CI013,1,3,CIV103,Dynamics,4.20,CIVIL
+CI013,2,2,CIV105,Surveying,3.40,CIVIL
+CI013,3,1,CIV106,Fluid Mechanics for Civil,2.85,CIVIL
+CI013,3,3,CIV109,Transportation Engineering,3.90,CIVIL
+CI013,4,2,CIV112,Concrete Design,4.35,CIVIL
+CI014,1,2,CIV115,Project Planning,3.60,CIVIL
+CI014,2,1,CIV102,Statics,3.95,CIVIL
+CI014,2,3,CIV107,Structural Analysis,3.25,CIVIL
+CI014,3,2,CIV110,Water Resources Engineering,3.75,CIVIL
+CI014,4,1,CIV113,Steel Design,2.80,CIVIL
+CI014,4,3,CIV116,Civil Engineering Ethics,4.25,CIVIL
+CI015,1,1,CIV101,Introduction to Civil Engineering,3.35,CIVIL
+CI015,1,3,CIV104,Strength of Materials,4.05,CIVIL
+CI015,2,2,CIV108,Geotechnical Engineering,3.50,CIVIL
+CI015,3,1,CIV111,Construction Management,3.65,CIVIL
+CI015,3,3,CIV114,Environmental Engineering,2.90,CIVIL
+CI015,4,2,CIV103,Dynamics,4.15,CIVIL
+CI016,1,2,CIV105,Surveying,3.40,CIVIL
+CI016,2,1,CIV106,Fluid Mechanics for Civil,4.10,CIVIL
+CI016,2,3,CIV109,Transportation Engineering,3.20,CIVIL
+CI016,3,2,CIV112,Concrete Design,3.90,CIVIL
+CI016,4,1,CIV115,Project Planning,4.00,CIVIL
+CI016,4,3,CIV102,Statics,3.55,CIVIL
+CI017,1,1,CIV107,Structural Analysis,3.80,CIVIL
+CI017,1,3,CIV110,Water Resources Engineering,2.70,CIVIL
+CI017,2,2,CIV113,Steel Design,4.20,CIVIL
+CI017,3,1,CIV116,Civil Engineering Ethics,3.45,CIVIL
+CI017,3,3,CIV101,Introduction to Civil Engineering,3.85,CIVIL
+CI017,4,2,CIV104,Strength of Materials,3.95,CIVIL
+CI018,1,2,CIV108,Geotechnical Engineering,3.25,CIVIL
+CI018,2,1,CIV111,Construction Management,4.15,CIVIL
+CI018,2,3,CIV114,Environmental Engineering,3.35,CIVIL
+CI018,3,2,CIV103,Dynamics,3.75,CIVIL
+CI018,4,1,CIV105,Surveying,2.80,CIVIL
+CI018,4,3,CIV106,Fluid Mechanics for Civil,4.30,CIVIL
+CI019,1,1,CIV109,Transportation Engineering,3.65,CIVIL
+CI019,1,3,CIV112,Concrete Design,4.05,CIVIL
+CI019,2,2,CIV115,Project Planning,3.20,CIVIL
+CI019,3,1,CIV102,Statics,3.50,CIVIL
+CI019,3,3,CIV107,Structural Analysis,4.25,CIVIL
+CI019,4,2,CIV110,Water Resources Engineering,3.35,CIVIL
+CI020,1,2,CIV113,Steel Design,3.80,CIVIL
+CI020,2,1,CIV116,Civil Engineering Ethics,2.90,CIVIL
+CI020,2,3,CIV101,Introduction to Civil Engineering,3.95,CIVIL
+CI020,3,2,CIV104,Strength of Materials,3.55,CIVIL
+CI020,4,1,CIV108,Geotechnical Engineering,4.10,CIVIL
+CI020,4,3,CIV111,Construction Management,3.70,CIVIL
+CI021,1,1,CIV114,Environmental Engineering,3.15,CIVIL
+CI021,1,3,CIV103,Dynamics,4.20,CIVIL
+CI021,2,2,CIV105,Surveying,3.40,CIVIL
+CI021,3,1,CIV106,Fluid Mechanics for Civil,2.85,CIVIL
+CI021,3,3,CIV109,Transportation Engineering,3.90,CIVIL
+CI021,4,2,CIV112,Concrete Design,4.35,CIVIL
+CI022,1,2,CIV115,Project Planning,3.60,CIVIL
+CI022,2,1,CIV102,Statics,3.95,CIVIL
+CI022,2,3,CIV107,Structural Analysis,3.25,CIVIL
+CI022,3,2,CIV110,Water Resources Engineering,3.75,CIVIL
+CI022,4,1,CIV113,Steel Design,2.80,CIVIL
+CI022,4,3,CIV116,Civil Engineering Ethics,4.25,CIVIL
+CI023,1,1,CIV101,Introduction to Civil Engineering,3.35,CIVIL
+CI023,1,3,CIV104,Strength of Materials,4.05,CIVIL
+CI023,2,2,CIV108,Geotechnical Engineering,3.50,CIVIL
+CI023,3,1,CIV111,Construction Management,3.65,CIVIL
+CI023,3,3,CIV114,Environmental Engineering,2.90,CIVIL
+CI023,4,2,CIV103,Dynamics,4.15,CIVIL
+CI024,1,2,CIV105,Surveying,3.40,CIVIL
+CI024,2,1,CIV106,Fluid Mechanics for Civil,4.10,CIVIL
+CI024,2,3,CIV109,Transportation Engineering,3.20,CIVIL
+CI024,3,2,CIV112,Concrete Design,3.90,CIVIL
+CI024,4,1,CIV115,Project Planning,4.00,CIVIL
+CI024,4,3,CIV102,Statics,3.55,CIVIL
+CI025,1,1,CIV107,Structural Analysis,3.80,CIVIL
+CI025,1,3,CIV110,Water Resources Engineering,2.70,CIVIL
+CI025,2,2,CIV113,Steel Design,4.20,CIVIL
+CI025,3,1,CIV116,Civil Engineering Ethics,3.45,CIVIL
+CI025,3,3,CIV101,Introduction to Civil Engineering,3.85,CIVIL
+CI025,4,2,CIV104,Strength of Materials,3.95,CIVIL
+CI026,1,2,CIV108,Geotechnical Engineering,3.25,CIVIL
+CI026,2,1,CIV111,Construction Management,4.15,CIVIL
+CI026,2,3,CIV114,Environmental Engineering,3.35,CIVIL
+CI026,3,2,CIV103,Dynamics,3.75,CIVIL
+CI026,4,1,CIV105,Surveying,2.80,CIVIL
+CI026,4,3,CIV106,Fluid Mechanics for Civil,4.30,CIVIL
+CI027,1,1,CIV109,Transportation Engineering,3.65,CIVIL
+CI027,1,3,CIV112,Concrete Design,4.05,CIVIL
+CI027,2,2,CIV115,Project Planning,3.20,CIVIL
+CI027,3,1,CIV102,Statics,3.50,CIVIL
+CI027,3,3,CIV107,Structural Analysis,4.25,CIVIL
+CI027,4,2,CIV110,Water Resources Engineering,3.35,CIVIL
+CI028,1,2,CIV113,Steel Design,3.80,CIVIL
+CI028,2,1,CIV116,Civil Engineering Ethics,2.90,CIVIL
+CI028,2,3,CIV101,Introduction to Civil Engineering,3.95,CIVIL
+CI028,3,2,CIV104,Strength of Materials,3.55,CIVIL
+CI028,4,1,CIV108,Geotechnical Engineering,4.10,CIVIL
+CI028,4,3,CIV111,Construction Management,3.70,CIVIL
+CI029,1,1,CIV114,Environmental Engineering,3.15,CIVIL
+CI029,1,3,CIV103,Dynamics,4.20,CIVIL
+CI029,2,2,CIV105,Surveying,3.40,CIVIL
+CI029,3,1,CIV106,Fluid Mechanics for Civil,2.85,CIVIL
+CI029,3,3,CIV109,Transportation Engineering,3.90,CIVIL
+CI029,4,2,CIV112,Concrete Design,4.35,CIVIL
+CI030,2,1,CIV115,Project Planning,3.60,CIVIL
+CI030,2,3,CIV102,Statics,3.95,CIVIL
+CI030,3,2,CIV107,Structural Analysis,3.25,CIVIL
+CI030,4,1,CIV110,Water Resources Engineering,3.75,CIVIL
+CI030,4,3,CIV113,Steel Design,2.80,CIVIL
+CI031,1,1,CIV116,Civil Engineering Ethics,4.25,CIVIL
+CI031,1,3,CIV101,Introduction to Civil Engineering,3.35,CIVIL
+CI031,2,2,CIV104,Strength of Materials,4.05,CIVIL
+CI031,3,1,CIV108,Geotechnical Engineering,3.50,CIVIL
+CI031,3,3,CIV111,Construction Management,3.65,CIVIL
+CI031,4,2,CIV114,Environmental Engineering,2.90,CIVIL
+CI032,1,2,CIV103,Dynamics,4.15,CIVIL
+CI032,2,1,CIV105,Surveying,3.40,CIVIL
+CI032,2,3,CIV106,Fluid Mechanics for Civil,4.10,CIVIL
+CI032,3,2,CIV109,Transportation Engineering,3.20,CIVIL
+CI032,4,1,CIV112,Concrete Design,3.90,CIVIL
+CI032,4,3,CIV115,Project Planning,4.00,CIVIL
+CI033,1,1,CIV102,Statics,3.80,CIVIL
+CI033,1,3,CIV107,Structural Analysis,2.70,CIVIL
+CI033,2,2,CIV110,Water Resources Engineering,4.20,CIVIL
+CI033,3,1,CIV113,Steel Design,3.45,CIVIL
+CI033,3,3,CIV116,Civil Engineering Ethics,3.85,CIVIL
+CI033,4,2,CIV101,Introduction to Civil Engineering,3.95,CIVIL
+CI034,1,2,CIV104,Strength of Materials,3.25,CIVIL
+CI034,2,1,CIV108,Geotechnical Engineering,4.15,CIVIL
+CI034,2,3,CIV111,Construction Management,3.35,CIVIL
+CI034,3,2,CIV114,Environmental Engineering,3.75,CIVIL
+CI034,4,1,CIV103,Dynamics,2.80,CIVIL
+CI034,4,3,CIV105,Surveying,4.30,CIVIL
+CI035,1,1,CIV106,Fluid Mechanics for Civil,3.65,CIVIL
+CI035,1,3,CIV109,Transportation Engineering,4.05,CIVIL
+CI035,2,2,CIV112,Concrete Design,3.20,CIVIL
+CI035,3,1,CIV115,Project Planning,3.50,CIVIL
+CI035,3,3,CIV102,Statics,4.25,CIVIL
+CI035,4,2,CIV107,Structural Analysis,3.35,CIVIL
+CI036,1,2,CIV110,Water Resources Engineering,3.80,CIVIL
+CI036,2,1,CIV113,Steel Design,2.90,CIVIL
+CI036,2,3,CIV116,Civil Engineering Ethics,3.95,CIVIL
+CI036,3,2,CIV101,Introduction to Civil Engineering,3.55,CIVIL
+CI036,4,1,CIV104,Strength of Materials,4.10,CIVIL
+CI036,4,3,CIV108,Geotechnical Engineering,3.70,CIVIL
+CI037,1,1,CIV111,Construction Management,3.15,CIVIL
+CI037,1,3,CIV114,Environmental Engineering,4.20,CIVIL
+CI037,2,2,CIV103,Dynamics,3.40,CIVIL
+CI037,3,1,CIV105,Surveying,2.85,CIVIL
+CI037,3,3,CIV106,Fluid Mechanics for Civil,3.90,CIVIL
+CI037,4,2,CIV109,Transportation Engineering,4.35,CIVIL
+CI038,1,2,CIV112,Concrete Design,3.60,CIVIL
+CI038,2,1,CIV115,Project Planning,3.95,CIVIL
+CI038,2,3,CIV102,Statics,3.25,CIVIL
+CI038,3,2,CIV107,Structural Analysis,3.75,CIVIL
+CI038,4,1,CIV110,Water Resources Engineering,2.80,CIVIL
+CI038,4,3,CIV113,Steel Design,4.25,CIVIL
+CI039,1,1,CIV116,Civil Engineering Ethics,3.35,CIVIL
+CI039,1,3,CIV101,Introduction to Civil Engineering,4.05,CIVIL
+CI039,2,2,CIV104,Strength of Materials,3.50,CIVIL
+CI039,3,1,CIV108,Geotechnical Engineering,3.65,CIVIL
+CI039,3,3,CIV111,Construction Management,2.90,CIVIL
+CI039,4,2,CIV114,Environmental Engineering,4.15,CIVIL
+CI040,1,2,CIV103,Dynamics,3.40,CIVIL
+CI040,2,1,CIV105,Surveying,4.10,CIVIL
+CI040,2,3,CIV106,Fluid Mechanics for Civil,3.20,CIVIL
+CI040,3,2,CIV109,Transportation Engineering,3.90,CIVIL
+CI040,4,1,CIV112,Concrete Design,4.00,CIVIL
+CI040,4,3,CIV115,Project Planning,3.55,CIVIL
+CI041,1,1,CIV102,Statics,3.80,CIVIL
+CI041,1,3,CIV107,Structural Analysis,2.70,CIVIL
+CI041,2,2,CIV110,Water Resources Engineering,4.20,CIVIL
+CI041,3,1,CIV113,Steel Design,3.45,CIVIL
+CI041,3,3,CIV116,Civil Engineering Ethics,3.85,CIVIL
+CI041,4,2,CIV101,Introduction to Civil Engineering,3.95,CIVIL
+CI042,1,2,CIV104,Strength of Materials,3.25,CIVIL
+CI042,2,1,CIV108,Geotechnical Engineering,4.15,CIVIL
+CI042,2,3,CIV111,Construction Management,3.35,CIVIL
+CI042,3,2,CIV114,Environmental Engineering,3.75,CIVIL
+CI042,4,1,CIV103,Dynamics,2.80,CIVIL
+CI042,4,3,CIV105,Surveying,4.30,CIVIL
+CI043,1,1,CIV106,Fluid Mechanics for Civil,3.65,CIVIL
+CI043,1,3,CIV109,Transportation Engineering,4.05,CIVIL
+CI043,2,2,CIV112,Concrete Design,3.20,CIVIL
+CI043,3,1,CIV115,Project Planning,3.50,CIVIL
+CI043,3,3,CIV102,Statics,4.25,CIVIL
+CI043,4,2,CIV107,Structural Analysis,3.35,CIVIL
+CI044,1,2,CIV110,Water Resources Engineering,3.80,CIVIL
+CI044,2,1,CIV113,Steel Design,2.90,CIVIL
+CI044,2,3,CIV116,Civil Engineering Ethics,3.95,CIVIL
+CI044,3,2,CIV101,Introduction to Civil Engineering,3.55,CIVIL
+CI044,4,1,CIV104,Strength of Materials,4.10,CIVIL
+CI044,4,3,CIV108,Geotechnical Engineering,3.70,CIVIL
+CI045,1,1,CIV111,Construction Management,3.15,CIVIL
+CI045,1,3,CIV114,Environmental Engineering,4.20,CIVIL
+CI045,2,2,CIV103,Dynamics,3.40,CIVIL
+CI045,3,1,CIV105,Surveying,2.85,CIVIL
+CI045,3,3,CIV106,Fluid Mechanics for Civil,3.90,CIVIL
+CI045,4,2,CIV109,Transportation Engineering,4.35,CIVIL
+CI046,1,2,CIV112,Concrete Design,3.60,CIVIL
+CI046,2,1,CIV115,Project Planning,3.95,CIVIL
+CI046,2,3,CIV102,Statics,3.25,CIVIL
+CI046,3,2,CIV107,Structural Analysis,3.75,CIVIL
+CI046,4,1,CIV110,Water Resources Engineering,2.80,CIVIL
+CI046,4,3,CIV113,Steel Design,4.25,CIVIL
+CI047,1,1,CIV116,Civil Engineering Ethics,3.35,CIVIL
+CI047,1,3,CIV101,Introduction to Civil Engineering,4.05,CIVIL
+CI047,2,2,CIV104,Strength of Materials,3.50,CIVIL
+CI047,3,1,CIV108,Geotechnical Engineering,3.65,CIVIL
+CI047,3,3,CIV111,Construction Management,2.90,CIVIL
+CI047,4,2,CIV114,Environmental Engineering,4.15,CIVIL
+CI048,1,2,CIV103,Dynamics,3.40,CIVIL
+CI048,2,1,CIV105,Surveying,4.10,CIVIL
+CI048,2,3,CIV106,Fluid Mechanics for Civil,3.20,CIVIL
+CI048,3,2,CIV109,Transportation Engineering,3.90,CIVIL
+CI048,4,1,CIV112,Concrete Design,4.00,CIVIL
+CI048,4,3,CIV115,Project Planning,3.55,CIVIL
+CI049,1,1,CIV102,Statics,3.80,CIVIL
+CI049,1,3,CIV107,Structural Analysis,2.70,CIVIL
+CI049,2,2,CIV110,Water Resources Engineering,4.20,CIVIL
+CI049,3,1,CIV113,Steel Design,3.45,CIVIL
+CI049,3,3,CIV116,Civil Engineering Ethics,3.85,CIVIL
+CI049,4,2,CIV101,Introduction to Civil Engineering,3.95,CIVIL
+CI050,1,2,CIV104,Strength of Materials,3.25,CIVIL
+CI050,2,1,CIV108,Geotechnical Engineering,4.15,CIVIL
+CI050,2,3,CIV111,Construction Management,3.35,CIVIL
+CI050,3,2,CIV114,Environmental Engineering,3.75,CIVIL
+CI050,4,1,CIV103,Dynamics,2.80,CIVIL
+CI050,4,3,CIV105,Surveying,4.30,CIVIL
 
 
-MK001,3,1,MK103,Chiến lược marketing quốc tế,4.22,MKTINT
-MK001,3,2,MK104,Digital Marketing,3.69,MKTINT
-MK001,3,3,MK106,Quản trị thương hiệu,3.29,MKTINT
-MK001,3,4,MK101,Marketing căn bản,4.78,MKTINT
-MK001,3,5,MK105,Nghiên cứu thị trường,2.59,MKTINT
-MK001,3,6,MK102,Hành vi người tiêu dùng,2.22,MKTINT
-MK002,2,1,MK103,Chiến lược marketing quốc tế,3.13,MKTINT
-MK002,2,2,MK105,Nghiên cứu thị trường,2.98,MKTINT
-MK002,2,3,MK101,Marketing căn bản,4.75,MKTINT
-MK002,2,4,MK104,Digital Marketing,3.06,MKTINT
-MK002,2,5,MK106,Quản trị thương hiệu,2.36,MKTINT
-MK002,2,6,MK102,Hành vi người tiêu dùng,2.61,MKTINT
-MK003,3,1,MK103,Chiến lược marketing quốc tế,4.4,MKTINT
-MK003,3,2,MK104,Digital Marketing,4.49,MKTINT
-MK003,3,3,MK105,Nghiên cứu thị trường,3.85,MKTINT
-MK003,3,4,MK106,Quản trị thương hiệu,4.0,MKTINT
-MK003,3,5,MK102,Hành vi người tiêu dùng,4.76,MKTINT
-MK003,3,6,MK101,Marketing căn bản,4.31,MKTINT
-MK004,4,1,MK103,Chiến lược marketing quốc tế,4.2,MKTINT
-MK004,4,2,MK105,Nghiên cứu thị trường,2.07,MKTINT
-MK004,4,3,MK102,Hành vi người tiêu dùng,4.06,MKTINT
-MK004,4,4,MK106,Quản trị thương hiệu,3.68,MKTINT
-MK004,4,5,MK104,Digital Marketing,3.03,MKTINT
-MK004,4,6,MK101,Marketing căn bản,4.88,MKTINT
-MK005,1,1,MK101,Marketing căn bản,4.08,MKTINT
-MK005,1,2,MK103,Chiến lược marketing quốc tế,4.81,MKTINT
-MK005,1,3,MK106,Quản trị thương hiệu,2.55,MKTINT
-MK005,1,4,MK104,Digital Marketing,4.61,MKTINT
-MK005,1,5,MK105,Nghiên cứu thị trường,2.72,MKTINT
-MK005,1,6,MK102,Hành vi người tiêu dùng,2.76,MKTINT
-MK006,3,1,MK103,Chiến lược marketing quốc tế,4.71,MKTINT
-MK006,3,2,MK102,Hành vi người tiêu dùng,2.01,MKTINT
-MK006,3,3,MK104,Digital Marketing,3.37,MKTINT
-MK006,3,4,MK101,Marketing căn bản,3.1,MKTINT
-MK006,3,5,MK106,Quản trị thương hiệu,2.82,MKTINT
-MK006,3,6,MK105,Nghiên cứu thị trường,4.78,MKTINT
-MK007,2,1,MK105,Nghiên cứu thị trường,2.26,MKTINT
-MK007,2,2,MK101,Marketing căn bản,3.81,MKTINT
-MK007,2,3,MK103,Chiến lược marketing quốc tế,4.89,MKTINT
-MK007,2,4,MK104,Digital Marketing,2.41,MKTINT
-MK007,2,5,MK102,Hành vi người tiêu dùng,3.56,MKTINT
-MK007,2,6,MK106,Quản trị thương hiệu,4.47,MKTINT
-MK008,3,1,MK102,Hành vi người tiêu dùng,3.34,MKTINT
-MK008,3,2,MK106,Quản trị thương hiệu,3.38,MKTINT
-MK008,3,3,MK103,Chiến lược marketing quốc tế,4.97,MKTINT
-MK008,3,4,MK104,Digital Marketing,4.8,MKTINT
-MK008,3,5,MK101,Marketing căn bản,2.71,MKTINT
-MK008,3,6,MK105,Nghiên cứu thị trường,3.33,MKTINT
-MK009,3,1,MK104,Digital Marketing,2.66,MKTINT
-MK009,3,2,MK103,Chiến lược marketing quốc tế,4.7,MKTINT
-MK009,3,3,MK102,Hành vi người tiêu dùng,4.57,MKTINT
-MK009,3,4,MK106,Quản trị thương hiệu,2.92,MKTINT
-MK009,3,5,MK105,Nghiên cứu thị trường,3.6,MKTINT
-MK009,3,6,MK101,Marketing căn bản,2.47,MKTINT
-MK010,1,1,MK105,Nghiên cứu thị trường,4.21,MKTINT
-MK010,1,2,MK104,Digital Marketing,3.22,MKTINT
-MK010,1,3,MK101,Marketing căn bản,2.23,MKTINT
-MK010,1,4,MK103,Chiến lược marketing quốc tế,3.03,MKTINT
-MK010,1,5,MK102,Hành vi người tiêu dùng,3.79,MKTINT
-MK010,1,6,MK106,Quản trị thương hiệu,2.4,MKTINT
-MK011,1,1,MK105,Nghiên cứu thị trường,3.31,MKTINT
-MK011,1,2,MK104,Digital Marketing,4.65,MKTINT
-MK011,1,3,MK106,Quản trị thương hiệu,2.36,MKTINT
-MK011,1,4,MK101,Marketing căn bản,4.08,MKTINT
-MK011,1,5,MK103,Chiến lược marketing quốc tế,2.47,MKTINT
-MK011,1,6,MK102,Hành vi người tiêu dùng,3.65,MKTINT
-MK012,4,1,MK103,Chiến lược marketing quốc tế,2.51,MKTINT
-MK012,4,2,MK102,Hành vi người tiêu dùng,3.39,MKTINT
-MK012,4,3,MK105,Nghiên cứu thị trường,4.86,MKTINT
-MK012,4,4,MK101,Marketing căn bản,2.89,MKTINT
-MK012,4,5,MK106,Quản trị thương hiệu,3.36,MKTINT
-MK012,4,6,MK104,Digital Marketing,3.57,MKTINT
-MK013,3,1,MK101,Marketing căn bản,4.3,MKTINT
-MK013,3,2,MK103,Chiến lược marketing quốc tế,4.9,MKTINT
-MK013,3,3,MK104,Digital Marketing,4.31,MKTINT
-MK013,3,4,MK105,Nghiên cứu thị trường,4.06,MKTINT
-MK013,3,5,MK102,Hành vi người tiêu dùng,2.27,MKTINT
-MK013,3,6,MK106,Quản trị thương hiệu,4.29,MKTINT
-MK014,1,1,MK102,Hành vi người tiêu dùng,4.48,MKTINT
-MK014,1,2,MK106,Quản trị thương hiệu,4.67,MKTINT
-MK014,1,3,MK104,Digital Marketing,2.26,MKTINT
-MK014,1,4,MK101,Marketing căn bản,4.01,MKTINT
-MK014,1,5,MK103,Chiến lược marketing quốc tế,4.15,MKTINT
-MK014,1,6,MK105,Nghiên cứu thị trường,3.38,MKTINT
-MK015,2,1,MK104,Digital Marketing,3.38,MKTINT
-MK015,2,2,MK106,Quản trị thương hiệu,3.87,MKTINT
-MK015,2,3,MK101,Marketing căn bản,4.67,MKTINT
-MK015,2,4,MK103,Chiến lược marketing quốc tế,3.79,MKTINT
-MK015,2,5,MK105,Nghiên cứu thị trường,2.23,MKTINT
-MK015,2,6,MK102,Hành vi người tiêu dùng,2.11,MKTINT
-MK016,2,1,MK102,Hành vi người tiêu dùng,4.75,MKTINT
-MK016,2,2,MK106,Quản trị thương hiệu,2.93,MKTINT
-MK016,2,3,MK104,Digital Marketing,4.54,MKTINT
-MK016,2,4,MK103,Chiến lược marketing quốc tế,4.8,MKTINT
-MK016,2,5,MK101,Marketing căn bản,2.06,MKTINT
-MK016,2,6,MK105,Nghiên cứu thị trường,2.25,MKTINT
-MK017,4,1,MK106,Quản trị thương hiệu,3.91,MKTINT
-MK017,4,2,MK105,Nghiên cứu thị trường,4.29,MKTINT
-MK017,4,3,MK103,Chiến lược marketing quốc tế,2.76,MKTINT
-MK017,4,4,MK104,Digital Marketing,2.05,MKTINT
-MK017,4,5,MK102,Hành vi người tiêu dùng,2.29,MKTINT
-MK017,4,6,MK101,Marketing căn bản,4.12,MKTINT
-MK018,1,1,MK105,Nghiên cứu thị trường,2.58,MKTINT
-MK018,1,2,MK106,Quản trị thương hiệu,4.67,MKTINT
-MK018,1,3,MK103,Chiến lược marketing quốc tế,4.87,MKTINT
-MK018,1,4,MK102,Hành vi người tiêu dùng,2.29,MKTINT
-MK018,1,5,MK104,Digital Marketing,3.12,MKTINT
-MK018,1,6,MK101,Marketing căn bản,4.18,MKTINT
-MK019,2,1,MK101,Marketing căn bản,3.53,MKTINT
-MK019,2,2,MK103,Chiến lược marketing quốc tế,2.84,MKTINT
-MK019,2,3,MK105,Nghiên cứu thị trường,3.33,MKTINT
-MK019,2,4,MK102,Hành vi người tiêu dùng,4.71,MKTINT
-MK019,2,5,MK106,Quản trị thương hiệu,3.2,MKTINT
-MK019,2,6,MK104,Digital Marketing,2.86,MKTINT
-MK020,4,1,MK101,Marketing căn bản,2.29,MKTINT
-MK020,4,2,MK102,Hành vi người tiêu dùng,2.87,MKTINT
-MK020,4,3,MK104,Digital Marketing,4.93,MKTINT
-MK020,4,4,MK105,Nghiên cứu thị trường,3.13,MKTINT
-MK020,4,5,MK106,Quản trị thương hiệu,3.28,MKTINT
-MK020,4,6,MK103,Chiến lược marketing quốc tế,3.37,MKTINT
-MK021,2,1,MK105,Nghiên cứu thị trường,2.94,MKTINT
-MK021,2,2,MK106,Quản trị thương hiệu,2.27,MKTINT
-MK021,2,3,MK103,Chiến lược marketing quốc tế,2.42,MKTINT
-MK021,2,4,MK104,Digital Marketing,4.2,MKTINT
-MK021,2,5,MK102,Hành vi người tiêu dùng,2.25,MKTINT
-MK021,2,6,MK101,Marketing căn bản,3.77,MKTINT
-MK022,2,1,MK103,Chiến lược marketing quốc tế,3.23,MKTINT
-MK022,2,2,MK104,Digital Marketing,3.51,MKTINT
-MK022,2,3,MK102,Hành vi người tiêu dùng,3.91,MKTINT
-MK022,2,4,MK106,Quản trị thương hiệu,4.14,MKTINT
-MK022,2,5,MK101,Marketing căn bản,3.19,MKTINT
-MK022,2,6,MK105,Nghiên cứu thị trường,2.21,MKTINT
-MK023,2,1,MK104,Digital Marketing,4.71,MKTINT
-MK023,2,2,MK102,Hành vi người tiêu dùng,4.88,MKTINT
-MK023,2,3,MK101,Marketing căn bản,2.25,MKTINT
-MK023,2,4,MK105,Nghiên cứu thị trường,3.27,MKTINT
-MK023,2,5,MK103,Chiến lược marketing quốc tế,3.4,MKTINT
-MK023,2,6,MK106,Quản trị thương hiệu,2.37,MKTINT
-MK024,4,1,MK105,Nghiên cứu thị trường,3.19,MKTINT
-MK024,4,2,MK102,Hành vi người tiêu dùng,4.99,MKTINT
-MK024,4,3,MK104,Digital Marketing,2.71,MKTINT
-MK024,4,4,MK103,Chiến lược marketing quốc tế,4.29,MKTINT
-MK024,4,5,MK101,Marketing căn bản,4.13,MKTINT
-MK024,4,6,MK106,Quản trị thương hiệu,2.78,MKTINT
-MK025,2,1,MK102,Hành vi người tiêu dùng,3.52,MKTINT
-MK025,2,2,MK101,Marketing căn bản,4.81,MKTINT
-MK025,2,3,MK105,Nghiên cứu thị trường,2.61,MKTINT
-MK025,2,4,MK104,Digital Marketing,3.15,MKTINT
-MK025,2,5,MK103,Chiến lược marketing quốc tế,4.63,MKTINT
-MK025,2,6,MK106,Quản trị thương hiệu,2.9,MKTINT
-MK026,3,1,MK103,Chiến lược marketing quốc tế,3.75,MKTINT
-MK026,3,2,MK101,Marketing căn bản,2.8,MKTINT
-MK026,3,3,MK104,Digital Marketing,3.28,MKTINT
-MK026,3,4,MK102,Hành vi người tiêu dùng,4.43,MKTINT
-MK026,3,5,MK106,Quản trị thương hiệu,3.22,MKTINT
-MK026,3,6,MK105,Nghiên cứu thị trường,4.98,MKTINT
-MK027,1,1,MK103,Chiến lược marketing quốc tế,4.48,MKTINT
-MK027,1,2,MK102,Hành vi người tiêu dùng,3.41,MKTINT
-MK027,1,3,MK106,Quản trị thương hiệu,3.42,MKTINT
-MK027,1,4,MK105,Nghiên cứu thị trường,3.32,MKTINT
-MK027,1,5,MK104,Digital Marketing,3.51,MKTINT
-MK027,1,6,MK101,Marketing căn bản,4.04,MKTINT
-MK028,3,1,MK106,Quản trị thương hiệu,2.98,MKTINT
-MK028,3,2,MK103,Chiến lược marketing quốc tế,2.57,MKTINT
-MK028,3,3,MK102,Hành vi người tiêu dùng,3.48,MKTINT
-MK028,3,4,MK101,Marketing căn bản,3.02,MKTINT
-MK028,3,5,MK104,Digital Marketing,3.35,MKTINT
-MK028,3,6,MK105,Nghiên cứu thị trường,2.91,MKTINT
-MK029,1,1,MK102,Hành vi người tiêu dùng,4.77,MKTINT
-MK029,1,2,MK105,Nghiên cứu thị trường,3.59,MKTINT
-MK029,1,3,MK103,Chiến lược marketing quốc tế,4.88,MKTINT
-MK029,1,4,MK106,Quản trị thương hiệu,3.54,MKTINT
-MK029,1,5,MK101,Marketing căn bản,2.22,MKTINT
-MK029,1,6,MK104,Digital Marketing,2.09,MKTINT
-MK030,3,1,MK106,Quản trị thương hiệu,3.35,MKTINT
-MK030,3,2,MK102,Hành vi người tiêu dùng,3.23,MKTINT
-MK030,3,3,MK104,Digital Marketing,3.81,MKTINT
-MK030,3,4,MK101,Marketing căn bản,3.13,MKTINT
-MK030,3,5,MK105,Nghiên cứu thị trường,2.45,MKTINT
-MK030,3,6,MK103,Chiến lược marketing quốc tế,2.14,MKTINT
-MK031,3,1,MK106,Quản trị thương hiệu,3.63,MKTINT
-MK031,3,2,MK104,Digital Marketing,4.53,MKTINT
-MK031,3,3,MK102,Hành vi người tiêu dùng,3.16,MKTINT
-MK031,3,4,MK103,Chiến lược marketing quốc tế,3.22,MKTINT
-MK031,3,5,MK105,Nghiên cứu thị trường,2.54,MKTINT
-MK031,3,6,MK101,Marketing căn bản,3.63,MKTINT
-MK032,1,1,MK102,Hành vi người tiêu dùng,4.47,MKTINT
-MK032,1,2,MK104,Digital Marketing,2.19,MKTINT
-MK032,1,3,MK101,Marketing căn bản,3.79,MKTINT
-MK032,1,4,MK103,Chiến lược marketing quốc tế,3.66,MKTINT
-MK032,1,5,MK106,Quản trị thương hiệu,3.41,MKTINT
-MK032,1,6,MK105,Nghiên cứu thị trường,4.13,MKTINT
-MK033,4,1,MK102,Hành vi người tiêu dùng,2.97,MKTINT
-MK033,4,2,MK106,Quản trị thương hiệu,4.29,MKTINT
-MK033,4,3,MK105,Nghiên cứu thị trường,3.37,MKTINT
-MK033,4,4,MK104,Digital Marketing,2.51,MKTINT
-MK033,4,5,MK103,Chiến lược marketing quốc tế,2.05,MKTINT
-MK033,4,6,MK101,Marketing căn bản,4.88,MKTINT
-MK034,4,1,MK102,Hành vi người tiêu dùng,2.36,MKTINT
-MK034,4,2,MK104,Digital Marketing,4.48,MKTINT
-MK034,4,3,MK106,Quản trị thương hiệu,2.13,MKTINT
-MK034,4,4,MK105,Nghiên cứu thị trường,4.34,MKTINT
-MK034,4,5,MK101,Marketing căn bản,4.13,MKTINT
-MK034,4,6,MK103,Chiến lược marketing quốc tế,2.85,MKTINT
-MK035,4,1,MK101,Marketing căn bản,4.14,MKTINT
-MK035,4,2,MK103,Chiến lược marketing quốc tế,3.22,MKTINT
-MK035,4,3,MK106,Quản trị thương hiệu,4.14,MKTINT
-MK035,4,4,MK105,Nghiên cứu thị trường,3.42,MKTINT
-MK035,4,5,MK102,Hành vi người tiêu dùng,4.41,MKTINT
-MK035,4,6,MK104,Digital Marketing,4.81,MKTINT
-MK036,4,1,MK106,Quản trị thương hiệu,3.6,MKTINT
-MK036,4,2,MK101,Marketing căn bản,3.23,MKTINT
-MK036,4,3,MK104,Digital Marketing,3.55,MKTINT
-MK036,4,4,MK105,Nghiên cứu thị trường,3.58,MKTINT
-MK036,4,5,MK102,Hành vi người tiêu dùng,2.08,MKTINT
-MK036,4,6,MK103,Chiến lược marketing quốc tế,3.52,MKTINT
-MK037,4,1,MK105,Nghiên cứu thị trường,2.84,MKTINT
-MK037,4,2,MK103,Chiến lược marketing quốc tế,3.0,MKTINT
-MK037,4,3,MK104,Digital Marketing,3.31,MKTINT
-MK037,4,4,MK101,Marketing căn bản,4.54,MKTINT
-MK037,4,5,MK106,Quản trị thương hiệu,4.82,MKTINT
-MK037,4,6,MK102,Hành vi người tiêu dùng,4.37,MKTINT
-MK038,2,1,MK105,Nghiên cứu thị trường,4.03,MKTINT
-MK038,2,2,MK104,Digital Marketing,4.49,MKTINT
-MK038,2,3,MK106,Quản trị thương hiệu,4.54,MKTINT
-MK038,2,4,MK101,Marketing căn bản,4.57,MKTINT
-MK038,2,5,MK102,Hành vi người tiêu dùng,3.03,MKTINT
-MK038,2,6,MK103,Chiến lược marketing quốc tế,2.16,MKTINT
-MK039,1,1,MK105,Nghiên cứu thị trường,4.98,MKTINT
-MK039,1,2,MK101,Marketing căn bản,2.57,MKTINT
-MK039,1,3,MK106,Quản trị thương hiệu,4.24,MKTINT
-MK039,1,4,MK102,Hành vi người tiêu dùng,3.99,MKTINT
-MK039,1,5,MK104,Digital Marketing,2.34,MKTINT
-MK039,1,6,MK103,Chiến lược marketing quốc tế,4.74,MKTINT
-MK040,4,1,MK106,Quản trị thương hiệu,4.47,MKTINT
-MK040,4,2,MK103,Chiến lược marketing quốc tế,3.83,MKTINT
-MK040,4,3,MK101,Marketing căn bản,4.56,MKTINT
-MK040,4,4,MK105,Nghiên cứu thị trường,3.91,MKTINT
-MK040,4,5,MK104,Digital Marketing,4.63,MKTINT
-MK040,4,6,MK102,Hành vi người tiêu dùng,2.32,MKTINT
-MK041,2,1,MK104,Digital Marketing,4.75,MKTINT
-MK041,2,2,MK101,Marketing căn bản,4.3,MKTINT
-MK041,2,3,MK103,Chiến lược marketing quốc tế,2.48,MKTINT
-MK041,2,4,MK106,Quản trị thương hiệu,2.35,MKTINT
-MK041,2,5,MK105,Nghiên cứu thị trường,3.07,MKTINT
-MK041,2,6,MK102,Hành vi người tiêu dùng,2.7,MKTINT
-MK042,4,1,MK102,Hành vi người tiêu dùng,3.36,MKTINT
-MK042,4,2,MK106,Quản trị thương hiệu,2.03,MKTINT
-MK042,4,3,MK103,Chiến lược marketing quốc tế,2.46,MKTINT
-MK042,4,4,MK101,Marketing căn bản,4.85,MKTINT
-MK042,4,5,MK105,Nghiên cứu thị trường,3.91,MKTINT
-MK042,4,6,MK104,Digital Marketing,2.06,MKTINT
-MK043,4,1,MK101,Marketing căn bản,2.78,MKTINT
-MK043,4,2,MK104,Digital Marketing,2.22,MKTINT
-MK043,4,3,MK102,Hành vi người tiêu dùng,3.14,MKTINT
-MK043,4,4,MK103,Chiến lược marketing quốc tế,2.85,MKTINT
-MK043,4,5,MK106,Quản trị thương hiệu,4.06,MKTINT
-MK043,4,6,MK105,Nghiên cứu thị trường,4.63,MKTINT
-MK044,3,1,MK104,Digital Marketing,4.1,MKTINT
-MK044,3,2,MK103,Chiến lược marketing quốc tế,3.62,MKTINT
-MK044,3,3,MK106,Quản trị thương hiệu,3.84,MKTINT
-MK044,3,4,MK105,Nghiên cứu thị trường,2.49,MKTINT
-MK044,3,5,MK101,Marketing căn bản,4.82,MKTINT
-MK044,3,6,MK102,Hành vi người tiêu dùng,2.79,MKTINT
-MK045,3,1,MK106,Quản trị thương hiệu,2.09,MKTINT
-MK045,3,2,MK104,Digital Marketing,4.99,MKTINT
-MK045,3,3,MK105,Nghiên cứu thị trường,4.8,MKTINT
-MK045,3,4,MK103,Chiến lược marketing quốc tế,2.45,MKTINT
-MK045,3,5,MK102,Hành vi người tiêu dùng,2.03,MKTINT
-MK045,3,6,MK101,Marketing căn bản,3.18,MKTINT
-MK046,1,1,MK104,Digital Marketing,3.62,MKTINT
-MK046,1,2,MK101,Marketing căn bản,2.37,MKTINT
-MK046,1,3,MK102,Hành vi người tiêu dùng,3.87,MKTINT
-MK046,1,4,MK103,Chiến lược marketing quốc tế,3.43,MKTINT
-MK046,1,5,MK105,Nghiên cứu thị trường,2.13,MKTINT
-MK046,1,6,MK106,Quản trị thương hiệu,3.93,MKTINT
-MK047,3,1,MK101,Marketing căn bản,3.08,MKTINT
-MK047,3,2,MK106,Quản trị thương hiệu,4.37,MKTINT
-MK047,3,3,MK105,Nghiên cứu thị trường,4.22,MKTINT
-MK047,3,4,MK104,Digital Marketing,3.71,MKTINT
-MK047,3,5,MK103,Chiến lược marketing quốc tế,4.41,MKTINT
-MK047,3,6,MK102,Hành vi người tiêu dùng,2.14,MKTINT
-MK048,1,1,MK105,Nghiên cứu thị trường,3.69,MKTINT
-MK048,1,2,MK103,Chiến lược marketing quốc tế,4.49,MKTINT
-MK048,1,3,MK104,Digital Marketing,2.09,MKTINT
-MK048,1,4,MK102,Hành vi người tiêu dùng,3.83,MKTINT
-MK048,1,5,MK106,Quản trị thương hiệu,3.26,MKTINT
-MK048,1,6,MK101,Marketing căn bản,4.34,MKTINT
-MK049,2,1,MK106,Quản trị thương hiệu,3.35,MKTINT
-MK049,2,2,MK102,Hành vi người tiêu dùng,3.78,MKTINT
-MK049,2,3,MK103,Chiến lược marketing quốc tế,2.52,MKTINT
-MK049,2,4,MK104,Digital Marketing,2.3,MKTINT
-MK049,2,5,MK101,Marketing căn bản,4.24,MKTINT
-MK049,2,6,MK105,Nghiên cứu thị trường,4.48,MKTINT
-MK050,3,1,MK105,Nghiên cứu thị trường,4.67,MKTINT
-MK050,3,2,MK101,Marketing căn bản,3.93,MKTINT
-MK050,3,3,MK103,Chiến lược marketing quốc tế,4.57,MKTINT
-MK050,3,4,MK104,Digital Marketing,4.85,MKTINT
-MK050,3,5,MK102,Hành vi người tiêu dùng,2.24,MKTINT
-MK050,3,6,MK106,Quản trị thương hiệu,4.66,MKTINT
+MK001,1,1,MKT101,Introduction to Marketing,3.45,MKTINT
+MK001,1,3,MKT104,International Marketing Strategy,4.20,MKTINT
+MK001,2,2,MKT107,Digital Marketing,2.95,MKTINT
+MK001,3,1,MKT110,Cross-Cultural Marketing,3.80,MKTINT
+MK001,3,3,MKT113,Pricing Strategies,4.55,MKTINT
+MK001,4,2,MKT116,International Advertising,3.70,MKTINT
+MK002,1,2,MKT102,Consumer Behavior,3.60,MKTINT
+MK002,2,1,MKT105,Global Market Analysis,2.85,MKTINT
+MK002,2,3,MKT108,Brand Management,4.10,MKTINT
+MK002,3,2,MKT111,Marketing Ethics,3.50,MKTINT
+MK002,4,1,MKT114,Supply Chain Marketing,4.25,MKTINT
+MK002,4,3,MKT103,Marketing Research,3.40,MKTINT
+MK003,1,1,MKT106,Export Management,3.90,MKTINT
+MK003,1,3,MKT109,International Trade Law,2.70,MKTINT
+MK003,2,2,MKT112,Sales Management,4.35,MKTINT
+MK003,3,1,MKT115,Market Entry Strategies,3.15,MKTINT
+MK003,3,3,MKT101,Introduction to Marketing,4.00,MKTINT
+MK003,4,2,MKT104,International Marketing Strategy,3.65,MKTINT
+MK004,1,2,MKT107,Digital Marketing,3.30,MKTINT
+MK004,2,1,MKT110,Cross-Cultural Marketing,4.15,MKTINT
+MK004,2,3,MKT113,Pricing Strategies,3.05,MKTINT
+MK004,3,2,MKT116,International Advertising,4.45,MKTINT
+MK004,4,1,MKT102,Consumer Behavior,3.75,MKTINT
+MK004,4,3,MKT105,Global Market Analysis,2.90,MKTINT
+MK005,1,1,MKT108,Brand Management,4.05,MKTINT
+MK005,1,3,MKT111,Marketing Ethics,3.55,MKTINT
+MK005,2,2,MKT114,Supply Chain Marketing,3.95,MKTINT
+MK005,3,1,MKT103,Marketing Research,2.80,MKTINT
+MK005,3,3,MKT106,Export Management,4.30,MKTINT
+MK005,4,2,MKT109,International Trade Law,3.60,MKTINT
+MK006,1,2,MKT112,Sales Management,3.85,MKTINT
+MK006,2,1,MKT115,Market Entry Strategies,4.10,MKTINT
+MK006,2,3,MKT107,Digital Marketing,3.25,MKTINT
+MK006,3,2,MKT110,Cross-Cultural Marketing,3.70,MKTINT
+MK006,4,1,MKT113,Pricing Strategies,4.40,MKTINT
+MK006,4,3,MKT116,International Advertising,3.50,MKTINT
+MK007,1,1,MKT101,Introduction to Marketing,2.75,MKTINT
+MK007,1,3,MKT104,International Marketing Strategy,4.20,MKTINT
+MK007,2,2,MKT108,Brand Management,3.90,MKTINT
+MK007,3,1,MKT111,Marketing Ethics,3.40,MKTINT
+MK007,3,3,MKT114,Supply Chain Marketing,4.05,MKTINT
+MK007,4,2,MKT103,Marketing Research,3.15,MKTINT
+MK008,1,2,MKT105,Global Market Analysis,3.45,MKTINT
+MK008,2,1,MKT106,Export Management,4.00,MKTINT
+MK008,2,3,MKT109,International Trade Law,2.95,MKTINT
+MK008,3,2,MKT112,Sales Management,3.80,MKTINT
+MK008,4,1,MKT115,Market Entry Strategies,4.25,MKTINT
+MK008,4,3,MKT102,Consumer Behavior,3.65,MKTINT
+MK009,1,1,MKT107,Digital Marketing,3.95,MKTINT
+MK009,1,3,MKT110,Cross-Cultural Marketing,4.15,MKTINT
+MK009,2,2,MKT113,Pricing Strategies,3.30,MKTINT
+MK009,3,1,MKT116,International Advertising,3.75,MKTINT
+MK009,3,3,MKT101,Introduction to Marketing,2.85,MKTINT
+MK009,4,2,MKT104,International Marketing Strategy,4.10,MKTINT
+MK010,1,2,MKT108,Brand Management,3.60,MKTINT
+MK010,2,1,MKT111,Marketing Ethics,4.20,MKTINT
+MK010,2,3,MKT114,Supply Chain Marketing,3.50,MKTINT
+MK010,3,2,MKT103,Marketing Research,3.90,MKTINT
+MK010,4,1,MKT105,Global Market Analysis,2.80,MKTINT
+MK010,4,3,MKT106,Export Management,4.35,MKTINT
+MK011,1,1,MKT109,International Trade Law,3.70,MKTINT
+MK011,1,3,MKT112,Sales Management,4.05,MKTINT
+MK011,2,2,MKT115,Market Entry Strategies,3.25,MKTINT
+MK011,3,1,MKT102,Consumer Behavior,3.55,MKTINT
+MK011,3,3,MKT107,Digital Marketing,4.30,MKTINT
+MK011,4,2,MKT110,Cross-Cultural Marketing,3.40,MKTINT
+MK012,1,2,MKT113,Pricing Strategies,3.85,MKTINT
+MK012,2,1,MKT116,International Advertising,2.95,MKTINT
+MK012,2,3,MKT101,Introduction to Marketing,4.00,MKTINT
+MK012,3,2,MKT104,International Marketing Strategy,3.60,MKTINT
+MK012,4,1,MKT108,Brand Management,4.15,MKTINT
+MK012,4,3,MKT111,Marketing Ethics,3.75,MKTINT
+MK013,1,1,MKT114,Supply Chain Marketing,3.20,MKTINT
+MK013,1,3,MKT103,Marketing Research,4.25,MKTINT
+MK013,2,2,MKT105,Global Market Analysis,3.45,MKTINT
+MK013,3,1,MKT106,Export Management,2.90,MKTINT
+MK013,3,3,MKT109,International Trade Law,3.95,MKTINT
+MK013,4,2,MKT112,Sales Management,4.40,MKTINT
+MK014,1,2,MKT115,Market Entry Strategies,3.65,MKTINT
+MK014,2,1,MKT102,Consumer Behavior,4.00,MKTINT
+MK014,2,3,MKT107,Digital Marketing,3.30,MKTINT
+MK014,3,2,MKT110,Cross-Cultural Marketing,3.80,MKTINT
+MK014,4,1,MKT113,Pricing Strategies,2.85,MKTINT
+MK014,4,3,MKT116,International Advertising,4.30,MKTINT
+MK015,1,1,MKT101,Introduction to Marketing,3.40,MKTINT
+MK015,1,3,MKT104,International Marketing Strategy,4.10,MKTINT
+MK015,2,2,MKT108,Brand Management,3.55,MKTINT
+MK015,3,1,MKT111,Marketing Ethics,3.70,MKTINT
+MK015,3,3,MKT114,Supply Chain Marketing,2.95,MKTINT
+MK015,4,2,MKT103,Marketing Research,4.20,MKTINT
+MK016,1,2,MKT105,Global Market Analysis,3.45,MKTINT
+MK016,2,1,MKT106,Export Management,4.15,MKTINT
+MK016,2,3,MKT109,International Trade Law,3.25,MKTINT
+MK016,3,2,MKT112,Sales Management,3.95,MKTINT
+MK016,4,1,MKT115,Market Entry Strategies,4.05,MKTINT
+MK016,4,3,MKT102,Consumer Behavior,3.60,MKTINT
+MK017,1,1,MKT107,Digital Marketing,3.85,MKTINT
+MK017,1,3,MKT110,Cross-Cultural Marketing,2.75,MKTINT
+MK017,2,2,MKT113,Pricing Strategies,4.25,MKTINT
+MK017,3,1,MKT116,International Advertising,3.50,MKTINT
+MK017,3,3,MKT101,Introduction to Marketing,3.90,MKTINT
+MK017,4,2,MKT104,International Marketing Strategy,4.00,MKTINT
+MK018,1,2,MKT108,Brand Management,3.30,MKTINT
+MK018,2,1,MKT111,Marketing Ethics,4.20,MKTINT
+MK018,2,3,MKT114,Supply Chain Marketing,3.40,MKTINT
+MK018,3,2,MKT103,Marketing Research,3.80,MKTINT
+MK018,4,1,MKT105,Global Market Analysis,2.85,MKTINT
+MK018,4,3,MKT106,Export Management,4.35,MKTINT
+MK019,1,1,MKT109,International Trade Law,3.70,MKTINT
+MK019,1,3,MKT112,Sales Management,4.10,MKTINT
+MK019,2,2,MKT115,Market Entry Strategies,3.25,MKTINT
+MK019,3,1,MKT102,Consumer Behavior,3.55,MKTINT
+MK019,3,3,MKT107,Digital Marketing,4.30,MKTINT
+MK019,4,2,MKT110,Cross-Cultural Marketing,3.40,MKTINT
+MK020,1,2,MKT113,Pricing Strategies,3.85,MKTINT
+MK020,2,1,MKT116,International Advertising,2.95,MKTINT
+MK020,2,3,MKT101,Introduction to Marketing,4.05,MKTINT
+MK020,3,2,MKT104,International Marketing Strategy,3.60,MKTINT
+MK020,4,1,MKT108,Brand Management,4.15,MKTINT
+MK020,4,3,MKT111,Marketing Ethics,3.75,MKTINT
+MK021,1,1,MKT114,Supply Chain Marketing,3.20,MKTINT
+MK021,1,3,MKT103,Marketing Research,4.25,MKTINT
+MK021,2,2,MKT105,Global Market Analysis,3.45,MKTINT
+MK021,3,1,MKT106,Export Management,2.90,MKTINT
+MK021,3,3,MKT109,International Trade Law,3.95,MKTINT
+MK021,4,2,MKT112,Sales Management,4.40,MKTINT
+MK022,1,2,MKT115,Market Entry Strategies,3.65,MKTINT
+MK022,2,1,MKT102,Consumer Behavior,4.00,MKTINT
+MK022,2,3,MKT107,Digital Marketing,3.30,MKTINT
+MK022,3,2,MKT110,Cross-Cultural Marketing,3.80,MKTINT
+MK022,4,1,MKT113,Pricing Strategies,2.85,MKTINT
+MK022,4,3,MKT116,International Advertising,4.30,MKTINT
+MK023,1,1,MKT101,Introduction to Marketing,3.40,MKTINT
+MK023,1,3,MKT104,International Marketing Strategy,4.10,MKTINT
+MK023,2,2,MKT108,Brand Management,3.55,MKTINT
+MK023,3,1,MKT111,Marketing Ethics,3.70,MKTINT
+MK023,3,3,MKT114,Supply Chain Marketing,2.95,MKTINT
+MK023,4,2,MKT103,Marketing Research,4.20,MKTINT
+MK024,1,2,MKT105,Global Market Analysis,3.45,MKTINT
+MK024,2,1,MKT106,Export Management,4.15,MKTINT
+MK024,2,3,MKT109,International Trade Law,3.25,MKTINT
+MK024,3,2,MKT112,Sales Management,3.95,MKTINT
+MK024,4,1,MKT115,Market Entry Strategies,4.05,MKTINT
+MK024,4,3,MKT102,Consumer Behavior,3.60,MKTINT
+MK025,1,1,MKT107,Digital Marketing,3.85,MKTINT
+MK025,1,3,MKT110,Cross-Cultural Marketing,2.75,MKTINT
+MK025,2,2,MKT113,Pricing Strategies,4.25,MKTINT
+MK025,3,1,MKT116,International Advertising,3.50,MKTINT
+MK025,3,3,MKT101,Introduction to Marketing,3.90,MKTINT
+MK025,4,2,MKT104,International Marketing Strategy,4.00,MKTINT
+MK026,1,2,MKT108,Brand Management,3.30,MKTINT
+MK026,2,1,MKT111,Marketing Ethics,4.20,MKTINT
+MK026,2,3,MKT114,Supply Chain Marketing,3.40,MKTINT
+MK026,3,2,MKT103,Marketing Research,3.80,MKTINT
+MK026,4,1,MKT105,Global Market Analysis,2.85,MKTINT
+MK026,4,3,MKT106,Export Management,4.35,MKTINT
+MK027,1,1,MKT109,International Trade Law,3.70,MKTINT
+MK027,1,3,MKT112,Sales Management,4.10,MKTINT
+MK027,2,2,MKT115,Market Entry Strategies,3.25,MKTINT
+MK027,3,1,MKT102,Consumer Behavior,3.55,MKTINT
+MK027,3,3,MKT107,Digital Marketing,4.30,MKTINT
+MK027,4,2,MKT110,Cross-Cultural Marketing,3.40,MKTINT
+MK028,1,2,MKT113,Pricing Strategies,3.85,MKTINT
+MK028,2,1,MKT116,International Advertising,2.95,MKTINT
+MK028,2,3,MKT101,Introduction to Marketing,4.05,MKTINT
+MK028,3,2,MKT104,International Marketing Strategy,3.60,MKTINT
+MK028,4,1,MKT108,Brand Management,4.15,MKTINT
+MK028,4,3,MKT111,Marketing Ethics,3.75,MKTINT
+MK029,1,1,MKT114,Supply Chain Marketing,3.20,MKTINT
+MK029,1,3,MKT103,Marketing Research,4.25,MKTINT
+MK029,2,2,MKT105,Global Market Analysis,3.45,MKTINT
+MK029,3,1,MKT106,Export Management,2.90,MKTINT
+MK029,3,1,MKT106,Export Management,2.90,MKTINT
+MK029,3,3,MKT109,International Trade Law,3.95,MKTINT
+MK029,4,2,MKT112,Sales Management,4.40,MKTINT
+MK030,1,2,MKT115,Market Entry Strategies,3.65,MKTINT
+MK030,2,1,MKT102,Consumer Behavior,4.00,MKTINT
+MK030,2,3,MKT107,Digital Marketing,3.30,MKTINT
+MK030,3,2,MKT110,Cross-Cultural Marketing,3.80,MKTINT
+MK030,4,1,MKT113,Pricing Strategies,2.85,MKTINT
+MK030,4,3,MKT116,International Advertising,4.30,MKTINT
+MK031,1,1,MKT101,Introduction to Marketing,3.40,MKTINT
+MK031,1,3,MKT104,International Marketing Strategy,4.10,MKTINT
+MK031,2,2,MKT108,Brand Management,3.55,MKTINT
+MK031,3,1,MKT111,Marketing Ethics,3.70,MKTINT
+MK031,3,3,MKT114,Supply Chain Marketing,2.95,MKTINT
+MK031,4,2,MKT103,Marketing Research,4.20,MKTINT
+MK032,1,2,MKT105,Global Market Analysis,3.45,MKTINT
+MK032,2,1,MKT106,Export Management,4.15,MKTINT
+MK032,2,3,MKT109,International Trade Law,3.25,MKTINT
+MK032,3,2,MKT112,Sales Management,3.95,MKTINT
+MK032,4,1,MKT115,Market Entry Strategies,4.05,MKTINT
+MK032,4,3,MKT102,Consumer Behavior,3.60,MKTINT
+MK033,1,1,MKT107,Digital Marketing,3.85,MKTINT
+MK033,1,3,MKT110,Cross-Cultural Marketing,2.75,MKTINT
+MK033,2,2,MKT113,Pricing Strategies,4.25,MKTINT
+MK033,3,1,MKT116,International Advertising,3.50,MKTINT
+MK033,3,3,MKT101,Introduction to Marketing,3.90,MKTINT
+MK033,4,2,MKT104,International Marketing Strategy,4.00,MKTINT
+MK034,1,2,MKT108,Brand Management,3.30,MKTINT
+MK034,2,1,MKT111,Marketing Ethics,4.20,MKTINT
+MK034,2,3,MKT114,Supply Chain Marketing,3.40,MKTINT
+MK034,3,2,MKT103,Marketing Research,3.80,MKTINT
+MK034,4,1,MKT105,Global Market Analysis,2.85,MKTINT
+MK034,4,3,MKT106,Export Management,4.35,MKTINT
+MK035,1,1,MKT109,International Trade Law,3.70,MKTINT
+MK035,1,3,MKT112,Sales Management,4.10,MKTINT
+MK035,2,2,MKT115,Market Entry Strategies,3.25,MKTINT
+MK035,3,1,MKT102,Consumer Behavior,3.55,MKTINT
+MK035,3,3,MKT107,Digital Marketing,4.30,MKTINT
+MK035,4,2,MKT110,Cross-Cultural Marketing,3.40,MKTINT
+MK036,1,2,MKT113,Pricing Strategies,3.85,MKTINT
+MK036,2,1,MKT116,International Advertising,2.95,MKTINT
+MK036,2,3,MKT101,Introduction to Marketing,4.05,MKTINT
+MK036,3,2,MKT104,International Marketing Strategy,3.60,MKTINT
+MK036,4,1,MKT108,Brand Management,4.15,MKTINT
+MK036,4,3,MKT111,Marketing Ethics,3.75,MKTINT
+MK037,1,1,MKT114,Supply Chain Marketing,3.20,MKTINT
+MK037,1,3,MKT103,Marketing Research,4.25,MKTINT
+MK037,2,2,MKT105,Global Market Analysis,3.45,MKTINT
+MK037,3,1,MKT106,Export Management,2.90,MKTINT
+MK037,3,3,MKT109,International Trade Law,3.95,MKTINT
+MK037,4,2,MKT112,Sales Management,4.40,MKTINT
+MK038,1,2,MKT115,Market Entry Strategies,3.65,MKTINT
+MK038,2,1,MKT102,Consumer Behavior,4.00,MKTINT
+MK038,2,3,MKT107,Digital Marketing,3.30,MKTINT
+MK038,3,2,MKT110,Cross-Cultural Marketing,3.80,MKTINT
+MK038,4,1,MKT113,Pricing Strategies,2.85,MKTINT
+MK038,4,3,MKT116,International Advertising,4.30,MKTINT
+MK039,1,1,MKT101,Introduction to Marketing,3.40,MKTINT
+MK039,1,3,MKT104,International Marketing Strategy,4.10,MKTINT
+MK039,2,2,MKT108,Brand Management,3.55,MKTINT
+MK039,3,1,MKT111,Marketing Ethics,3.70,MKTINT
+MK039,3,3,MKT114,Supply Chain Marketing,2.95,MKTINT
+MK039,4,2,MKT103,Marketing Research,4.20,MKTINT
+MK040,1,2,MKT105,Global Market Analysis,3.45,MKTINT
+MK040,2,1,MKT106,Export Management,4.15,MKTINT
+MK040,2,3,MKT109,International Trade Law,3.25,MKTINT
+MK040,3,2,MKT112,Sales Management,3.95,MKTINT
+MK040,4,1,MKT115,Market Entry Strategies,4.05,MKTINT
+MK040,4,3,MKT102,Consumer Behavior,3.60,MKTINT
+MK041,1,1,MKT107,Digital Marketing,3.85,MKTINT
+MK041,1,3,MKT110,Cross-Cultural Marketing,2.75,MKTINT
+MK041,2,2,MKT113,Pricing Strategies,4.25,MKTINT
+MK041,3,1,MKT116,International Advertising,3.50,MKTINT
+MK041,3,3,MKT101,Introduction to Marketing,3.90,MKTINT
+MK041,4,2,MKT104,International Marketing Strategy,4.00,MKTINT
+MK042,1,2,MKT108,Brand Management,3.30,MKTINT
+MK042,2,1,MKT111,Marketing Ethics,4.20,MKTINT
+MK042,2,3,MKT114,Supply Chain Marketing,3.40,MKTINT
+MK042,3,2,MKT103,Marketing Research,3.80,MKTINT
+MK042,4,1,MKT105,Global Market Analysis,2.85,MKTINT
+MK042,4,3,MKT106,Export Management,4.35,MKTINT
+MK043,1,1,MKT109,International Trade Law,3.70,MKTINT
+MK043,1,3,MKT112,Sales Management,4.10,MKTINT
+MK043,2,2,MKT115,Market Entry Strategies,3.25,MKTINT
+MK043,3,1,MKT102,Consumer Behavior,3.55,MKTINT
+MK043,3,3,MKT107,Digital Marketing,4.30,MKTINT
+MK043,4,2,MKT110,Cross-Cultural Marketing,3.40,MKTINT
+MK044,1,2,MKT113,Pricing Strategies,3.85,MKTINT
+MK044,2,1,MKT116,International Advertising,2.95,MKTINT
+MK044,2,3,MKT101,Introduction to Marketing,4.05,MKTINT
+MK044,3,2,MKT104,International Marketing Strategy,3.60,MKTINT
+MK044,4,1,MKT108,Brand Management,4.15,MKTINT
+MK044,4,3,MKT111,Marketing Ethics,3.75,MKTINT
+MK045,1,1,MKT114,Supply Chain Marketing,3.20,MKTINT
+MK045,1,3,MKT103,Marketing Research,4.25,MKTINT
+MK045,2,2,MKT105,Global Market Analysis,3.45,MKTINT
+MK045,3,1,MKT106,Export Management,2.90,MKTINT
+MK045,3,3,MKT109,International Trade Law,3.95,MKTINT
+MK045,4,2,MKT112,Sales Management,4.40,MKTINT
+MK046,1,2,MKT115,Market Entry Strategies,3.65,MKTINT
+MK046,2,1,MKT102,Consumer Behavior,4.00,MKTINT
+MK046,2,3,MKT107,Digital Marketing,3.30,MKTINT
+MK046,3,2,MKT110,Cross-Cultural Marketing,3.80,MKTINT
+MK046,4,1,MKT113,Pricing Strategies,2.85,MKTINT
+MK046,4,3,MKT116,International Advertising,4.30,MKTINT
+MK047,1,1,MKT101,Introduction to Marketing,3.40,MKTINT
+MK047,1,3,MKT104,International Marketing Strategy,4.10,MKTINT
+MK047,2,2,MKT108,Brand Management,3.55,MKTINT
+MK047,3,1,MKT111,Marketing Ethics,3.70,MKTINT
+MK047,3,3,MKT114,Supply Chain Marketing,2.95,MKTINT
+MK047,4,2,MKT103,Marketing Research,4.20,MKTINT
+MK048,1,2,MKT105,Global Market Analysis,3.45,MKTINT
+MK048,2,1,MKT106,Export Management,4.15,MKTINT
+MK048,2,3,MKT109,International Trade Law,3.25,MKTINT
+MK048,3,2,MKT112,Sales Management,3.95,MKTINT
+MK048,4,1,MKT115,Market Entry Strategies,4.05,MKTINT
+MK048,4,3,MKT102,Consumer Behavior,3.60,MKTINT
+MK049,1,1,MKT107,Digital Marketing,3.85,MKTINT
+MK049,1,3,MKT110,Cross-Cultural Marketing,2.75,MKTINT
+MK049,2,2,MKT113,Pricing Strategies,4.25,MKTINT
+MK049,3,1,MKT116,International Advertising,3.50,MKTINT
+MK049,3,3,MKT101,Introduction to Marketing,3.90,MKTINT
+MK049,4,2,MKT104,International Marketing Strategy,4.00,MKTINT
+MK050,1,2,MKT108,Brand Management,3.30,MKTINT
+MK050,2,1,MKT111,Marketing Ethics,4.20,MKTINT
+MK050,2,3,MKT114,Supply Chain Marketing,3.40,MKTINT
+MK050,3,2,MKT103,Marketing Research,3.80,MKTINT
+MK050,4,1,MKT105,Global Market Analysis,2.85,MKTINT
+MK050,4,3,MKT106,Export Management,4.35,MKTINT
