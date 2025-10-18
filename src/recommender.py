@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}})  # Cho phép tất cả origins để tránh lỗi CORS
 
 CSV_PATH = "dataset.csv"
 
@@ -85,27 +85,30 @@ def load_and_train():
         empty_df.to_csv(CSV_PATH, index=False, encoding="utf-8")
         return empty_df, None
 
-    df_local = pd.read_csv(CSV_PATH, encoding="utf-8")
+    df_local = pd.read_csv(CSV_PATH, encoding="utf-8", dtype=str)  # Đọc tất cả là string để tránh float infer
 
     # Đảm bảo các cột tồn tại
     required_cols = ["student_id", "course_id", "course_name", "rating", "faculty_id", "year", "status", "semester"]
     for col in required_cols:
         if col not in df_local.columns:
-            df_local[col] = None if col != "semester" else 1  # Default semester to 1 if missing
+            df_local[col] = '' if col != "semester" else '1'  # Default semester to 1 if missing
 
     # Chuẩn hóa cột
-    df_local["student_id"] = df_local["student_id"].astype(str)
-    df_local["faculty_id"] = df_local["faculty_id"].astype(str)
-    df_local["course_id"] = df_local["course_id"].astype(str)
-    df_local["course_name"] = df_local["course_name"].astype(str)
-    df_local["status"] = df_local["status"].fillna("not_started").astype(str)
+    df_local["student_id"] = df_local["student_id"].astype(str).str.strip().str.upper().str.replace('.0', '')
+    df_local["faculty_id"] = df_local["faculty_id"].astype(str).str.strip().str.upper()
+    df_local["course_id"] = df_local["course_id"].astype(str).str.strip().str.upper().str.replace('.0', '')
+    df_local["course_name"] = df_local["course_name"].astype(str).str.strip()
+    df_local["status"] = df_local["status"].fillna("not_started").astype(str).str.strip().str.lower()
     df_local["rating"] = pd.to_numeric(df_local["rating"], errors="coerce").fillna(0.0)
     # year và semester ép về int
     df_local["year"] = pd.to_numeric(df_local["year"], errors="coerce").fillna(0).astype(int)
     df_local["semester"] = pd.to_numeric(df_local["semester"], errors="coerce").fillna(1).astype(int)
 
+    # Lưu lại CSV với chuẩn hóa (để tránh lỗi lần sau)
+    df_local.to_csv(CSV_PATH, index=False, encoding="utf-8")
+
     # Train chỉ trên các bản ghi marked 'completed' và rating > 0 (tránh rating=0 làm nhiễu)
-    train_df = df_local[(df_local["status"].astype(str).str.lower() == "completed") & (df_local["rating"] > 0)]
+    train_df = df_local[(df_local["status"] == "completed") & (df_local["rating"] > 0)]
 
     if train_df.empty or len(train_df) < 2:
         # Nếu chưa có đủ dữ liệu để train thì trả dataset chuẩn hóa và algo None
@@ -187,22 +190,8 @@ def recommend(student_id, faculty_id, year):
     # Đọc lại CSV để luôn đồng bộ với thay đổi mới nhất
     df, algo = load_and_train()  # Reload và retrain để đảm bảo mới nhất
 
-    # Chuẩn hóa cột cho an toàn
-    df["student_id"] = df["student_id"].astype(str)
-    df["faculty_id"] = df["faculty_id"].astype(str)
-    df["course_id"] = df["course_id"].astype(str)
-    if "course_name" not in df.columns:
-        df["course_name"] = df["course_id"]
-    df["course_name"] = df["course_name"].astype(str)
-    if "status" not in df.columns:
-        df["status"] = "not_started"
-    df["status"] = df["status"].fillna("not_started").astype(str)
-    df["year"] = pd.to_numeric(df["year"], errors="coerce").fillna(0).astype(int)
-    df["semester"] = pd.to_numeric(df["semester"], errors="coerce").fillna(1).astype(int)
-    df["rating"] = pd.to_numeric(df["rating"], errors="coerce").fillna(0.0)
-
     # chuẩn input
-    student_id = str(student_id).strip()
+    student_id = str(student_id).strip().upper().replace('.0', '')
     faculty_id = str(faculty_id).strip().upper()
 
     # xác định start_year và student_year từ MSSV
@@ -210,18 +199,19 @@ def recommend(student_id, faculty_id, year):
     student_year = compute_student_year_from_start(start_year)
 
     # Xác định xem sinh viên có phải là mới (năm 1 hoặc chưa có completed courses)
-    student_data = df[(df["student_id"].astype(str).str.upper() == student_id.upper()) & 
-                      (df["faculty_id"].astype(str).str.upper() == faculty_id.upper())]
-    has_completed = not student_data[student_data["status"].str.lower() == "completed"].empty
+    student_data = df[(df["student_id"] == student_id) & 
+                      (df["faculty_id"] == faculty_id)]
+    has_completed = not student_data[student_data["status"] == "completed"].empty
     is_new_student = (student_year < 2) or not has_completed
 
     # Lấy tất cả courses unique theo faculty (để tránh duplicate)
-    all_courses = df[df["faculty_id"].astype(str).str.upper() == faculty_id.upper()].drop_duplicates(subset=["course_id", "year", "semester"])
+    all_courses = df[df["faculty_id"] == faculty_id].drop_duplicates(subset=["course_id", "year", "semester"])
 
     # Nếu không có courses nào cho faculty (CSV trống hoặc mới), sử dụng default courses (giả sử faculty "IT" hoặc "CNTT")
-    if all_courses.empty and faculty_id.upper() in ["IT", "CNTT"]:  # Áp dụng cho cả "IT" và "CNTT"
+    if all_courses.empty and faculty_id in ["IT", "CNTT"]:  # Áp dụng cho cả "IT" và "CNTT"
         default_df = pd.DataFrame(DEFAULT_COURSES)
         default_df["faculty_id"] = faculty_id
+        default_df["course_id"] = default_df["course_id"].str.upper()
         all_courses = default_df
         # Thêm default courses vào CSV nếu chưa có
         existing_courses = df[df["faculty_id"] == faculty_id]
@@ -258,9 +248,9 @@ def recommend(student_id, faculty_id, year):
 
     # Lấy taken_courses (completed) của student trong faculty
     taken_mask = (
-        (df["student_id"].astype(str).str.upper() == student_id.upper()) &
-        (df["faculty_id"].astype(str).str.upper() == faculty_id.upper()) &
-        (df["status"].astype(str).str.lower() == "completed")
+        (df["student_id"] == student_id) &
+        (df["faculty_id"] == faculty_id) &
+        (df["status"] == "completed")
     )
     taken_courses = df.loc[taken_mask, "course_id"].astype(str).unique().tolist()
     taken_details = [{"course_id": cid, "course_name": course_details.get(cid, {"course_name": cid})["course_name"]} for cid in taken_courses]
@@ -341,28 +331,21 @@ def recommend(student_id, faculty_id, year):
 
 # 🧾 API: CẬP NHẬT TRẠNG THÁI MÔN HỌC
 
-@app.route("/update_status/<student_id>/<course_id>/<new_status>", methods=["POST"])
-def update_status(student_id, course_id, new_status):
+@app.route("/update_status/<student_id>/<course_id>/<faculty_id>/<new_status>", methods=["POST"])
+def update_status(student_id, course_id, faculty_id, new_status):
+    print(f"Received POST request to /update_status/{student_id}/{course_id}/{faculty_id}/{new_status}")  # Log để debug
     global df, algo
 
     if not os.path.exists(CSV_PATH):
         return jsonify({"error": "Không tìm thấy file dataset.csv"}), 404
 
-    # Đọc file mới nhất
-    df = pd.read_csv(CSV_PATH, encoding="utf-8")
-
-    # Chuẩn hóa cột
-    df["student_id"] = df["student_id"].astype(str)
-    df["faculty_id"] = df["faculty_id"].astype(str)
-    df["course_id"] = df["course_id"].astype(str)
-    if "status" not in df.columns:
-        df["status"] = "not_started"
-    df["status"] = df["status"].fillna("not_started").astype(str)
-    df["rating"] = pd.to_numeric(df["rating"], errors="coerce").fillna(0.0)
+    # Đọc file mới nhất với chuẩn hóa
+    df, algo = load_and_train()
 
     # Chuẩn hóa input
-    student_id_u = str(student_id).upper().strip()
-    course_id_u = str(course_id).upper().strip()
+    student_id_u = str(student_id).strip().upper().replace('.0', '')
+    course_id_u = str(course_id).strip().upper().replace('.0', '')
+    faculty_id_u = str(faculty_id).strip().upper()
     new_status_clean = str(new_status).lower().strip()
 
     # Nếu update thành "completed", yêu cầu rating từ request (nếu có)
@@ -371,11 +354,14 @@ def update_status(student_id, course_id, new_status):
 
     # Tìm mask và cập nhật
     mask = (
-        (df["student_id"].astype(str).str.upper() == student_id_u) &
-        (df["course_id"].astype(str).str.upper() == course_id_u)
+        (df["student_id"] == student_id_u) &
+        (df["course_id"] == course_id_u) &
+        (df["faculty_id"] == faculty_id_u)
     )
 
     if mask.sum() == 0:
+        print("No matching rows. Printing relevant data for debug:")
+        print(df[(df["student_id"] == student_id_u) & (df["faculty_id"] == faculty_id_u)])
         return jsonify({"error": "Không tìm thấy môn học của sinh viên này"}), 404
 
     df.loc[mask, "status"] = new_status_clean
@@ -386,7 +372,7 @@ def update_status(student_id, course_id, new_status):
     df, algo = load_and_train()
 
     # Trả về dữ liệu mới nhất của sinh viên để frontend render ngay
-    student_data = df[df["student_id"].astype(str).str.upper() == student_id_u].to_dict(orient="records")
+    student_data = df[df["student_id"] == student_id_u].to_dict(orient="records")
 
     return jsonify({
         "message": f"✅ Đã cập nhật {course_id_u} của {student_id_u} thành '{new_status_clean}' và retrain model.",
@@ -404,4 +390,4 @@ if __name__ == "__main__":
     else:
         print("🧩 Flask khởi động reloader, bỏ qua train model.")
     
-    app.run(debug=True, use_reloader=True)
+    app.run(host='0.0.0.0', debug=True, use_reloader=True)  # Chạy trên 0.0.0.0 để accessible từ network/browser

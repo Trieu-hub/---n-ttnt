@@ -318,27 +318,3 @@ footer {
     background: #e0f7fa;
     transform: translateX(6px);
 }
-
-#taken-courses,
-#resources,
-#contact-info{
-    max-height: fit-content;
-    opacity: 1;
-    margin-top: 5px;
-    padding: 0 18px 14px 18px;
-}
-#taken-courses li,
-#resources li,
-#contact-info li {
-    background: #f5f7fa;
-    margin: 6px 0;
-    padding: 10px 14px;
-    border-radius: 6px;
-    transition: all 0.3s ease;
-}
-#taken-courses li:hover,
-#resources li:hover,
-#contact-info li:hover {
-    background: #e0f7fa;
-    transform: translateX(6px);
-}

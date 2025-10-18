@@ -10,6 +10,8 @@
     <nav class="breadcrumb" aria-label="breadcrumb" style="margin:16px;">
         <a href="index.html">🏠 Trang chủ</a> &nbsp;›&nbsp;
         <span id="bread-current">Khoa</span>
+        <input type="text" id="mssv" placeholder="Nhập MSSV...vd:IT001" style="margin-left:auto; padding:4px 6px; border-radius:4px; border:1px solid #ccc;" />
+        <button id="loadBtn" style="padding:4px 8px; border-radius:4px; cursor:pointer;">Gợi ý môn học</button>
     </nav>
 
     <header id="faculty-header" class="faculty-header" role="banner" style="margin: 0 16px 18px 16px;">
@@ -73,6 +75,9 @@
     <script src="./js/other/data.js"></script>
     <script>
     (function () {
+        // debug logs
+        console.log('Running faculty renderer...');
+        // lấy id khoa
         const params = new URLSearchParams(window.location.search);
         const fid = (params.get('id') || '');
         console.log('Requested id:', fid);
@@ -113,15 +118,26 @@
         document.getElementById('bread-current').textContent = faculty.name || fid;
         document.getElementById('faculty-name').textContent = faculty.name || fid;
         document.getElementById('faculty-tagline').textContent = faculty.description || '';
+        document.getElementById('faculty-overview').textContent = faculty.overview || "";
 
-        // subjects -> subject-list
-        const subjUl = document.getElementById('hot-courses');
-        subjUl.innerHTML = '';
-        (faculty.subjects || []).forEach(s => {
-            const li = document.createElement('li');
-            li.textContent = s;
-            subjUl.appendChild(li);
-        });
+        // research labs
+        const labsDiv = document.getElementById('labs-list');
+        labsDiv.innerHTML = "";
+        if (faculty.research?.labs) {
+            const ul = document.createElement('ul');
+            faculty.research.labs.forEach(lab => {
+                const li = document.createElement('li');
+                li.textContent = lab;
+                ul.appendChild(li);
+            });
+            labsDiv.appendChild(ul);
+        }
+
+        // research areas
+        document.getElementById('research-areas').textContent = faculty.research?.areas || "";
+
+        // career
+        document.getElementById('career-prospects').textContent = faculty.career_prospects || "";
 
         // resources
         const resUl = document.getElementById('resources');
@@ -147,27 +163,179 @@
         console.log('Render finished for', fid);
     })();
 
-    // Gọi API Flask để lấy môn học
-        async function loadHotSubjects(userId) {
-            try {
-                const res = await fetch(`http://127.0.0.1:5000/recommend/${userId}`);
-                const data = await res.json();
+    function markAsLearned(courseName) {
+        fetch("/move_course", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ student_id: currentMSSV, course_name: courseName })
+        })
+        .then(res => res.json())
+        .then(data => alert(data.message));
+        }
 
-                // ✅ Hiển thị danh sách gợi ý từ API (recommendations)
-                const hotUl = document.getElementById("hot-courses");
-                hotUl.innerHTML = "";
-                (data.recommendations || []).forEach(subj => {
+    // Gọi API Flask để lấy môn học đã học và môn gợi ý
+    async function loadHotSubjects(student_id, facultyId, year) {
+        try {
+            let url = `http://127.0.0.1:5000/recommend/${encodeURIComponent(student_id)}/${encodeURIComponent(facultyId)}${year ? '/' + encodeURIComponent(year) : ''}`;
+            const res = await fetch(url);
+            const data = await res.json();
+
+            console.log("API data:", data); // debug
+
+            // Hiển thị môn đã học
+            const takenUl = document.getElementById("taken-courses");
+            takenUl.innerHTML = "";
+
+            // Nếu không có môn nào đã học
+            if (!data.taken || data.taken.length === 0) {
+                const li = document.createElement("li");
+                li.textContent = "Chưa có môn nào được hoàn thành";
+                li.style.color = "#999";
+                li.style.fontStyle = "italic";
+                takenUl.appendChild(li);
+            } else {
+                data.taken.forEach(subj => {
                     const li = document.createElement("li");
-                    li.textContent = subj;
-                    hotUl.appendChild(li);
+                    li.textContent = typeof subj === "string" ? subj : subj.course_name || JSON.stringify(subj);
+                    takenUl.appendChild(li);
+                });
+            }
+
+            // Hiển thị môn gợi ý (mỗi item là object {course_id, course_name, score})
+            const hotUl = document.getElementById("hot-courses");
+            hotUl.innerHTML = "";
+            (data.recommendations || []).forEach(item => {
+                const li = document.createElement("li");
+                li.style.display = "flex";
+                li.style.justifyContent = "space-between";
+                li.style.alignItems = "center";
+                li.style.padding = "6px 0";
+
+                const nameSpan = document.createElement("span");
+                nameSpan.textContent = item.course_name || item.course_id;
+
+                // thêm nút "Hoàn thành"
+                const btn = document.createElement("button");
+                btn.textContent = "✓ Hoàn thành";
+                btn.style.marginLeft = "10px";
+                btn.style.padding = "4px 8px";
+                btn.style.borderRadius = "4px";
+                btn.style.cursor = "pointer";
+
+                // khi click -> gọi API update_status với course_id (không dùng tên)
+                btn.addEventListener("click", async () => {
+                    const studentId = document.getElementById("mssv").value.trim();
+                    if (!studentId) {
+                        alert("Vui lòng nhập MSSV trước!");
+                        return;
+                    }
+
+                    const course_id = item.course_id;
+                    const new_status = "completed";
+
+                    btn.disabled = true;
+                    btn.textContent = "Đang cập nhật...";
+
+                    try {
+                        const res = await fetch(`http://127.0.0.1:5000/update_status/${studentId}/${course_id}/${facultyId}/${new_status}`, {
+                            method: "POST",
+                            headers: {
+                                "Content-Type": "application/json"
+                            },
+                            body: JSON.stringify({ rating: 4.5 })  // Gửi rating mẫu, bạn có thể thay bằng prompt để nhập rating
+                        });
+
+                        const result = await res.json();
+
+                        if (!res.ok) {
+                            alert(result.error || "Cập nhật thất bại");
+                            btn.disabled = false;
+                            btn.textContent = "✓ Hoàn thành";
+                            return;
+                        }
+
+                        // Cập nhật danh sách đã học từ updated_courses
+                        if (result.updated_courses) {
+                            const takenUl = document.getElementById("taken-courses");
+                            takenUl.innerHTML = "";
+                            result.updated_courses
+                                .filter(r => r.status && r.status.toLowerCase() === "completed")
+                                .forEach(row => {
+                                    const li2 = document.createElement("li");
+                                    li2.textContent = row.course_name || row.course_id || "";
+                                    takenUl.appendChild(li2);
+                                });
+                        }
+
+                        // Gọi lại gợi ý mới sau khi cập nhật
+                        if (year) loadHotSubjects(studentId, facultyId, year);
+                        else loadHotSubjects(studentId, facultyId);
+
+                        alert(result.message || "Đã cập nhật!");
+                    } catch (err) {
+                        console.error(err);
+                        alert("Lỗi kết nối tới server");
+                        btn.disabled = false;
+                        btn.textContent = "✓ Hoàn thành";
+                    }
                 });
 
-            } catch (err) {
-                console.error("Lỗi khi gọi API:", err);
+                li.appendChild(nameSpan);
+                li.appendChild(btn);
+                hotUl.appendChild(li);
+            });
+
+        } catch (err) {
+            console.error("Lỗi khi gọi API:", err);
+            document.getElementById("hot-courses").innerHTML = "<li>Không thể tải dữ liệu gợi ý.</li>";
+        }
+    }
+
+    let facultyId = ""; 
+    let year = null;
+
+    window.addEventListener("DOMContentLoaded", () => {
+        const params = new URLSearchParams(window.location.search);
+        facultyId = params.get('id') || "";
+
+        // Lấy sẵn studentId nếu có (sửa id từ 'studentIdInput' thành 'mssv')
+        const studentId = document.getElementById('mssv')?.value?.trim() || "";
+
+        if (studentId && studentId.includes("_")) {
+            const parts = studentId.split("_"); 
+            year = parts[2] || null;   // VD: IT_001_2 -> year = "2"
+        }
+
+        if (studentId) {
+            if (year) {
+                loadHotSubjects(studentId, facultyId, year);
+            } else {
+                loadHotSubjects(studentId, facultyId);
             }
         }
-        // Gọi hàm với id sinh viên (ví dụ: sv1)
-        loadHotSubjects("sv1");
+    });
+
+    document.getElementById("loadBtn").addEventListener("click", () => {
+        const studentId = document.getElementById("mssv").value.trim();
+        if (!studentId) {
+            alert("Vui lòng nhập MSSV!");
+            return;
+        }
+
+        // Cập nhật lại year khi nhập MSSV mới
+        year = null;
+        if (studentId.includes("_")) {
+            const parts = studentId.split("_");
+            year = parts[2] || null;
+        }
+
+        console.log("Gọi API với:", studentId, facultyId, year);
+        if (year) {
+            loadHotSubjects(studentId, facultyId, year);
+        } else {
+            loadHotSubjects(studentId, facultyId);
+        }
+    });
     </script>
 </body>
 </html>
