@@ -71,6 +71,68 @@ DEFAULT_COURSES = [
     {"course_id": "INT3404", "course_name": "Xử lý ảnh", "year": 4, "semester": 2},
 ]
 
+# Mở rộng: Map categories courses để suy đoán career paths
+CAREER_MAP = {
+    'programming_basics': ['INT1008', 'INT2215', 'INT2204', 'INT2210'],  # Nhập môn LT, LT nâng cao, OOP, DSA
+    'web_dev': ['INT3306', 'INT3120'],  # Web, Mobile
+    'data_science': ['INT3209', 'INT3401', 'INT3404'],  # Khai phá dữ liệu, AI, Xử lý ảnh
+    'network_security': ['INT2213', 'INT3307', 'INT3303'],  # Mạng, An ninh, Mạng không dây
+    'database': ['INT2211', 'INT3202', 'INT3206'],  # CSDL, HQT CSDL, CSDL phân tán
+    'software_eng': ['INT2208', 'INT3105', 'INT3117'],  # CNPM, Kiến trúc PM, Kiểm thử
+}
+
+# Map career paths và resources dựa trên categories
+CAREER_SUGGESTIONS = {
+    'programming_basics': {
+        'paths': ['Frontend Developer', 'Backend Developer', 'Full-stack Developer'],
+        'resources': [
+            {'name': 'Khóa học Python for Everybody trên Coursera', 'url': 'https://www.coursera.org/specializations/python'},
+            {'name': 'Chứng chỉ Google IT Support Professional Certificate', 'url': 'https://www.coursera.org/professional-certificates/google-it-support'},
+            {'name': 'Khóa học freeCodeCamp JavaScript Algorithms and Data Structures', 'url': 'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/'}
+        ]
+    },
+    'web_dev': {
+        'paths': ['Web Developer', 'Frontend Engineer', 'Mobile App Developer'],
+        'resources': [
+            {'name': 'Khóa học The Web Developer Bootcamp trên Udemy', 'url': 'https://www.udemy.com/course/the-web-developer-bootcamp/'},
+            {'name': 'Chứng chỉ AWS Certified Developer', 'url': 'https://aws.amazon.com/certification/certified-developer-associate/'},
+            {'name': 'Khóa học React.js trên freeCodeCamp', 'url': 'https://www.freecodecamp.org/learn/front-end-development-libraries/'}
+        ]
+    },
+    'data_science': {
+        'paths': ['Data Scientist', 'AI Engineer', 'Machine Learning Specialist'],
+        'resources': [
+            {'name': 'Khóa học Machine Learning trên Coursera (Andrew Ng)', 'url': 'https://www.coursera.org/learn/machine-learning'},
+            {'name': 'Chứng chỉ Google Data Analytics Certificate', 'url': 'https://www.coursera.org/professional-certificates/google-data-analytics'},
+            {'name': 'Khóa học Deep Learning Specialization trên Coursera', 'url': 'https://www.coursera.org/specializations/deep-learning'}
+        ]
+    },
+    'network_security': {
+        'paths': ['Network Engineer', 'Cybersecurity Analyst', 'DevOps Engineer'],
+        'resources': [
+            {'name': 'Khóa học Cisco CCNA trên Udemy', 'url': 'https://www.udemy.com/course/ccna-complete/'},
+            {'name': 'Chứng chỉ CompTIA Security+', 'url': 'https://www.comptia.org/certifications/security'},
+            {'name': 'Khóa học Ethical Hacking trên Coursera', 'url': 'https://www.coursera.org/learn/ethical-hacking-essentials-ehe'}
+        ]
+    },
+    'database': {
+        'paths': ['Database Administrator', 'Data Engineer', 'Backend Developer'],
+        'resources': [
+            {'name': 'Khóa học SQL for Data Science trên Coursera', 'url': 'https://www.coursera.org/learn/sql-for-data-science'},
+            {'name': 'Chứng chỉ Oracle Database SQL Certified Associate', 'url': 'https://education.oracle.com/oracle-database-sql-certified-associate/trackp_820'},
+            {'name': 'Khóa học NoSQL and MongoDB trên Udemy', 'url': 'https://www.udemy.com/course/mongodb-the-complete-developers-guide/'}
+        ]
+    },
+    'software_eng': {
+        'paths': ['Software Engineer', 'QA Engineer', 'DevOps Specialist'],
+        'resources': [
+            {'name': 'Khóa học Software Engineering trên edX', 'url': 'https://www.edx.org/course/software-engineering-basics-for-everyone'},
+            {'name': 'Chứng chỉ ISTQB Certified Tester', 'url': 'https://www.istqb.org/'},
+            {'name': 'Khóa học DevOps on AWS trên Coursera', 'url': 'https://www.coursera.org/learn/devops-on-aws'}
+        ]
+    },
+}
+
 # 🔧 HÀM LOAD VÀ TRAIN MODEL CF
 
 def load_and_train():
@@ -319,12 +381,30 @@ def recommend(student_id, faculty_id, year):
                 })
             recommendations.sort(key=lambda x: -x["predicted_rating"])
 
+    # Mở rộng: Suy đoán career paths và resources dựa trên taken_courses
+    matched_categories = []
+    for cat, courses in CAREER_MAP.items():
+        if any(c in taken_courses for c in courses):
+            matched_categories.append(cat)
+
+    career_paths = []
+    recommended_resources = []
+    for cat in matched_categories:
+        career_paths.extend(CAREER_SUGGESTIONS.get(cat, {}).get('paths', []))
+        recommended_resources.extend(CAREER_SUGGESTIONS.get(cat, {}).get('resources', []))
+
+    # Loại duplicate nếu có
+    career_paths = list(set(career_paths))
+    recommended_resources = [dict(t) for t in {tuple(d.items()) for d in recommended_resources}]  # Remove duplicate dicts
+
     return jsonify({
         "student_id": student_id,
         "auto_year_detected": student_year,
         "start_year": start_year,
-        "recommendations": recommendations,  # Trả tất cả, không limit 10
-        "taken": taken_details
+        "recommendations": recommendations,  # Gợi ý môn học
+        "taken": taken_details,
+        "career_paths": career_paths,  # Hướng đi nghề nghiệp
+        "recommended_resources": recommended_resources  # Chứng chỉ/khóa học
     })
 
 

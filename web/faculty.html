@@ -285,6 +285,39 @@
                 hotUl.appendChild(li);
             });
 
+            // Mới: Hiển thị career paths trong career-prospects
+            const careerDiv = document.getElementById("career-prospects");
+            careerDiv.innerHTML = "";
+            if (data.career_paths && data.career_paths.length > 0) {
+                const h3 = document.createElement("h3");
+                h3.textContent = "Hướng đi nghề nghiệp gợi ý:";
+                careerDiv.appendChild(h3);
+                const ul = document.createElement("ul");
+                data.career_paths.forEach(path => {
+                    const li = document.createElement("li");
+                    li.textContent = path;
+                    ul.appendChild(li);
+                });
+                careerDiv.appendChild(ul);
+            } else {
+                careerDiv.textContent = "Chưa có gợi ý hướng đi dựa trên môn học.";
+            }
+
+            // Mới: Hiển thị recommended_resources trong resources
+            const resUl = document.getElementById("resources");
+            resUl.innerHTML = "";
+            if (data.recommended_resources && data.recommended_resources.length > 0) {
+                data.recommended_resources.forEach(r => {
+                    const li = document.createElement('li');
+                    li.innerHTML = `<a href="${r.url}" target="_blank">${r.name}</a>`;
+                    resUl.appendChild(li);
+                });
+            } else {
+                const li = document.createElement("li");
+                li.textContent = "Chưa có tài nguyên gợi ý.";
+                resUl.appendChild(li);
+            }
+
         } catch (err) {
             console.error("Lỗi khi gọi API:", err);
             document.getElementById("hot-courses").innerHTML = "<li>Không thể tải dữ liệu gợi ý.</li>";
@@ -298,7 +331,7 @@
         const params = new URLSearchParams(window.location.search);
         facultyId = params.get('id') || "";
 
-        // Lấy sẵn studentId nếu có (sửa id từ 'studentIdInput' thành 'mssv')
+        // Lấy sẵn studentId nếu có
         const studentId = document.getElementById('mssv')?.value?.trim() || "";
 
         if (studentId && studentId.includes("_")) {

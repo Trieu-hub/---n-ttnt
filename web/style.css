@@ -47,7 +47,7 @@ main h2 {
 
 .container{
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* 4 cột */
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Tự động responsive thay vì fix 4 columns */
     gap: 20px; /* khoảng cách giữa các ô */
     justify-items: center; /* căn giữa nội dung trong ô */
 }
@@ -267,7 +267,6 @@ footer {
     overflow: hidden;
     background: #fff;
     transition: all 0.3s ease;
-    cursor: pointer;
 }
 
 /* Tiêu đề chính */
@@ -278,24 +277,16 @@ footer {
     padding: 14px 18px;
     font-size: 18px;
     border-radius: 8px 8px 0 0;
+    cursor: pointer; /* Thêm cursor để biết có thể click */
 }
 
-/* Ẩn các phần bên dưới mặc định */
+/* Các phần bên dưới luôn hiển thị với chiều cao dài hơn */
 #curriculum h3,
 #curriculum #hot-courses {
-    max-height: 0;
-    overflow: hidden;
-    opacity: 0;
-    transition: all 0.5s ease;
-    margin: 0;
-    padding: 0 18px;
-}
-
-/* Khi hover vào section thì hiện ra */
-#curriculum:hover h3,
-#curriculum:hover #hot-courses {
-    max-height: 600px; /* đủ để chứa danh sách */
+    max-height: 400px; /* Tăng chiều cao max để hiển thị nhiều môn hơn mà không cần scroll ngay */
+    overflow-y: auto; /* Scroll nếu vượt quá */
     opacity: 1;
+    transition: all 0.5s ease;
     margin-top: 12px;
     padding: 0 18px 14px 18px;
 }
