@@ -39,11 +39,11 @@ NAN,4,2,INT3120,Phát triển ứng dụng di động,0.0,IT,not_started
 NAN,4,2,INT3307,An toàn và an ninh mạng,0.0,IT,not_started
 NAN,4,2,INT3319,Điện toán đám mây,0.0,IT,not_started
 NAN,4,2,INT3404,Xử lý ảnh,0.0,IT,not_started
-248001,1,1,PHI1006,Triết học Mác – Lênin,4.5,IT,completed
-248001,1,1,MAT1093,Đại số,4.5,IT,completed
-248001,1,1,MAT1041,Giải tích 1,4.5,IT,completed
+248001,1,1,PHI1006,Triết học Mác – Lênin,0.0,IT,not_started
+248001,1,1,MAT1093,Đại số,0.0,IT,not_started
+248001,1,1,MAT1041,Giải tích 1,0.0,IT,not_started
 248001,1,1,INT1007,Giới thiệu về Công nghệ thông tin,0.0,IT,not_started
-248001,1,1,INT1008,Nhập môn lập trình,4.5,IT,completed
+248001,1,1,INT1008,Nhập môn lập trình,0.0,IT,not_started
 248001,1,2,PEC1008,Kinh tế chính trị Mác – Lênin,0.0,IT,not_started
 248001,1,2,MAT1042,Giải tích 2,0.0,IT,not_started
 248001,1,2,EPN1095,Vật lý đại cương 1,0.0,IT,not_started
@@ -51,34 +51,34 @@ NAN,4,2,INT3404,Xử lý ảnh,0.0,IT,not_started
 248001,1,2,FLF1107,Tiếng Anh B1,0.0,IT,not_started
 248001,2,1,PHI1002,Chủ nghĩa xã hội khoa học,0.0,IT,not_started
 248001,2,1,EPN1096,Vật lý đại cương 2,0.0,IT,not_started
-248001,2,1,INT2210,Cấu trúc dữ liệu và giải thuật,0.0,IT,completed
+248001,2,1,INT2210,Cấu trúc dữ liệu và giải thuật,0.0,IT,not_started
 248001,2,1,INT2215,Lập trình nâng cao,0.0,IT,not_started
 248001,2,1,ELT2035,Tín hiệu và hệ thống,0.0,IT,not_started
 248001,2,2,HIS1001,Lịch sử Đảng Cộng sản Việt Nam,0.0,IT,not_started
 248001,2,2,INT2212,Kiến trúc máy tính,0.0,IT,not_started
 248001,2,2,INT2214,Nguyên lý hệ điều hành,0.0,IT,not_started
 248001,2,2,INT2211,Cơ sở dữ liệu,0.0,IT,not_started
-248001,2,2,INT2204,Lập trình hướng đối tượng,0.0,IT,completed
+248001,2,2,INT2204,Lập trình hướng đối tượng,0.0,IT,not_started
 248001,3,1,POL1001,Tư tưởng Hồ Chí Minh,0.0,IT,not_started
 248001,3,1,INT2213,Mạng máy tính,0.0,IT,not_started
 248001,3,1,INT2208,Công nghệ phần mềm,0.0,IT,not_started
 248001,3,1,INT3202,Hệ quản trị cơ sở dữ liệu,0.0,IT,not_started
 248001,3,1,INT3110,Phân tích và thiết kế hướng đối tượng,0.0,IT,not_started
 248001,3,2,INT3306,Phát triển ứng dụng Web,0.0,IT,not_started
-248001,3,2,INT3401,Trí tuệ nhân tạo,0.0,IT,not_started
+248001,3,2,INT3401,Trí tuệ nhân tạo,4.5,IT,completed
 248001,3,2,INT3507,Các vấn đề hiện đại Công nghệ thông tin,0.0,IT,not_started
 248001,3,2,INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,0.0,IT,not_started
 248001,3,2,INT3105,Kiến trúc phần mềm,0.0,IT,not_started
 248001,4,1,INT3508,Thực tập chuyên ngành,0.0,IT,not_started
 248001,4,1,INT3206,Cơ sở dữ liệu phân tán,0.0,IT,not_started
-248001,4,1,INT3209,Khai phá dữ liệu,0.0,IT,not_started
+248001,4,1,INT3209,Khai phá dữ liệu,4.5,IT,completed
 248001,4,1,INT3301,Thực hành hệ điều hành mạng,0.0,IT,not_started
 248001,4,1,INT3303,Mạng không dây,0.0,IT,not_started
 248001,4,2,INT3514,Pháp luật và đạo đức nghề nghiệp trong CNTT,0.0,IT,not_started
 248001,4,2,INT3120,Phát triển ứng dụng di động,0.0,IT,not_started
 248001,4,2,INT3307,An toàn và an ninh mạng,0.0,IT,not_started
 248001,4,2,INT3319,Điện toán đám mây,0.0,IT,not_started
-248001,4,2,INT3404,Xử lý ảnh,0.0,IT,not_started
+248001,4,2,INT3404,Xử lý ảnh,4.5,IT,completed
 248002,1,1,PHI1006,Triết học Mác – Lênin,0.0,IT,not_started
 248002,1,1,MAT1093,Đại số,0.0,IT,not_started
 248002,1,1,MAT1041,Giải tích 1,0.0,IT,not_started
@@ -87,9 +87,9 @@ NAN,4,2,INT3404,Xử lý ảnh,0.0,IT,not_started
 248002,1,2,PEC1008,Kinh tế chính trị Mác – Lênin,0.0,IT,not_started
 248002,1,2,MAT1042,Giải tích 2,0.0,IT,not_started
 248002,1,2,EPN1095,Vật lý đại cương 1,0.0,IT,not_started
-248002,1,2,INT1050,Toán học rời rạc,4.5,IT,completed
+248002,1,2,INT1050,Toán học rời rạc,0.0,IT,not_started
 248002,1,2,FLF1107,Tiếng Anh B1,0.0,IT,not_started
-248002,2,1,PHI1002,Chủ nghĩa xã hội khoa học,4.5,IT,completed
+248002,2,1,PHI1002,Chủ nghĩa xã hội khoa học,0.0,IT,not_started
 248002,2,1,EPN1096,Vật lý đại cương 2,0.0,IT,not_started
 248002,2,1,INT2210,Cấu trúc dữ liệu và giải thuật,0.0,IT,not_started
 248002,2,1,INT2215,Lập trình nâng cao,0.0,IT,not_started
@@ -101,14 +101,14 @@ NAN,4,2,INT3404,Xử lý ảnh,0.0,IT,not_started
 248002,2,2,INT2204,Lập trình hướng đối tượng,0.0,IT,not_started
 248002,3,1,POL1001,Tư tưởng Hồ Chí Minh,0.0,IT,not_started
 248002,3,1,INT2213,Mạng máy tính,0.0,IT,not_started
-248002,3,1,INT2208,Công nghệ phần mềm,0.0,IT,completed
+248002,3,1,INT2208,Công nghệ phần mềm,4.5,IT,completed
 248002,3,1,INT3202,Hệ quản trị cơ sở dữ liệu,0.0,IT,not_started
 248002,3,1,INT3110,Phân tích và thiết kế hướng đối tượng,0.0,IT,not_started
 248002,3,2,INT3306,Phát triển ứng dụng Web,0.0,IT,not_started
 248002,3,2,INT3401,Trí tuệ nhân tạo,0.0,IT,not_started
 248002,3,2,INT3507,Các vấn đề hiện đại Công nghệ thông tin,0.0,IT,not_started
-248002,3,2,INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,0.0,IT,completed
-248002,3,2,INT3105,Kiến trúc phần mềm,0.0,IT,completed
+248002,3,2,INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,0.0,IT,not_started
+248002,3,2,INT3105,Kiến trúc phần mềm,0.0,IT,not_started
 248002,4,1,INT3508,Thực tập chuyên ngành,0.0,IT,not_started
 248002,4,1,INT3206,Cơ sở dữ liệu phân tán,0.0,IT,not_started
 248002,4,1,INT3209,Khai phá dữ liệu,0.0,IT,not_started
@@ -119,3 +119,43 @@ NAN,4,2,INT3404,Xử lý ảnh,0.0,IT,not_started
 248002,4,2,INT3307,An toàn và an ninh mạng,0.0,IT,not_started
 248002,4,2,INT3319,Điện toán đám mây,0.0,IT,not_started
 248002,4,2,INT3404,Xử lý ảnh,0.0,IT,not_started
+248003,1,1,PHI1006,Triết học Mác – Lênin,0.0,IT,not_started
+248003,1,1,MAT1093,Đại số,0.0,IT,not_started
+248003,1,1,MAT1041,Giải tích 1,0.0,IT,not_started
+248003,1,1,INT1007,Giới thiệu về Công nghệ thông tin,0.0,IT,not_started
+248003,1,1,INT1008,Nhập môn lập trình,0.0,IT,not_started
+248003,1,2,PEC1008,Kinh tế chính trị Mác – Lênin,0.0,IT,not_started
+248003,1,2,MAT1042,Giải tích 2,0.0,IT,not_started
+248003,1,2,EPN1095,Vật lý đại cương 1,0.0,IT,not_started
+248003,1,2,INT1050,Toán học rời rạc,0.0,IT,not_started
+248003,1,2,FLF1107,Tiếng Anh B1,0.0,IT,not_started
+248003,2,1,PHI1002,Chủ nghĩa xã hội khoa học,0.0,IT,not_started
+248003,2,1,EPN1096,Vật lý đại cương 2,0.0,IT,not_started
+248003,2,1,INT2210,Cấu trúc dữ liệu và giải thuật,0.0,IT,not_started
+248003,2,1,INT2215,Lập trình nâng cao,0.0,IT,not_started
+248003,2,1,ELT2035,Tín hiệu và hệ thống,0.0,IT,not_started
+248003,2,2,HIS1001,Lịch sử Đảng Cộng sản Việt Nam,0.0,IT,not_started
+248003,2,2,INT2212,Kiến trúc máy tính,0.0,IT,not_started
+248003,2,2,INT2214,Nguyên lý hệ điều hành,0.0,IT,not_started
+248003,2,2,INT2211,Cơ sở dữ liệu,0.0,IT,not_started
+248003,2,2,INT2204,Lập trình hướng đối tượng,0.0,IT,not_started
+248003,3,1,POL1001,Tư tưởng Hồ Chí Minh,0.0,IT,not_started
+248003,3,1,INT2213,Mạng máy tính,0.0,IT,not_started
+248003,3,1,INT2208,Công nghệ phần mềm,0.0,IT,not_started
+248003,3,1,INT3202,Hệ quản trị cơ sở dữ liệu,0.0,IT,not_started
+248003,3,1,INT3110,Phân tích và thiết kế hướng đối tượng,0.0,IT,not_started
+248003,3,2,INT3306,Phát triển ứng dụng Web,0.0,IT,not_started
+248003,3,2,INT3401,Trí tuệ nhân tạo,0.0,IT,not_started
+248003,3,2,INT3507,Các vấn đề hiện đại Công nghệ thông tin,0.0,IT,not_started
+248003,3,2,INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,0.0,IT,not_started
+248003,3,2,INT3105,Kiến trúc phần mềm,0.0,IT,not_started
+248003,4,1,INT3508,Thực tập chuyên ngành,0.0,IT,not_started
+248003,4,1,INT3206,Cơ sở dữ liệu phân tán,0.0,IT,not_started
+248003,4,1,INT3209,Khai phá dữ liệu,0.0,IT,not_started
+248003,4,1,INT3301,Thực hành hệ điều hành mạng,0.0,IT,not_started
+248003,4,1,INT3303,Mạng không dây,0.0,IT,not_started
+248003,4,2,INT3514,Pháp luật và đạo đức nghề nghiệp trong CNTT,0.0,IT,not_started
+248003,4,2,INT3120,Phát triển ứng dụng di động,0.0,IT,not_started
+248003,4,2,INT3307,An toàn và an ninh mạng,0.0,IT,not_started
+248003,4,2,INT3319,Điện toán đám mây,0.0,IT,not_started
+248003,4,2,INT3404,Xử lý ảnh,0.0,IT,not_started

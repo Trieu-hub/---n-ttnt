@@ -304,6 +304,7 @@ def recommend(student_id, faculty_id, year):
         if new_rows:
             new_df = pd.DataFrame(new_rows)
             df = pd.concat([df, new_df], ignore_index=True)
+            df = df.drop_duplicates(subset=["student_id", "course_id", "faculty_id"])  # Loại duplicate nếu có
             df.to_csv(CSV_PATH, index=False, encoding="utf-8")
             df, algo = load_and_train()  # Retrain sau khi thêm
         is_new_student = True  # Vừa thêm, coi là mới
@@ -381,21 +382,36 @@ def recommend(student_id, faculty_id, year):
                 })
             recommendations.sort(key=lambda x: -x["predicted_rating"])
 
-    # Mở rộng: Suy đoán career paths và resources dựa trên taken_courses
-    matched_categories = []
+    # Mở rộng: Suy đoán career paths và resources dựa trên taken_courses với CF
+    category_scores = {}
     for cat, courses in CAREER_MAP.items():
-        if any(c in taken_courses for c in courses):
-            matched_categories.append(cat)
+        cat_rating = 0.0
+        count = 0
+        for c in courses:
+            if c in taken_courses:
+                # Chỉ dùng rating thực từ completed, bỏ predict cho chưa taken
+                rating = df[(df["course_id"] == c) & (df["student_id"] == student_id) & (df["status"] == "completed")]["rating"].mean()
+                if not pd.isna(rating) and rating > 0:
+                    cat_rating += rating
+                    count += 1
+        if count > 0:
+            category_scores[cat] = cat_rating / count
+
+    # Sắp xếp categories theo score giảm dần
+    sorted_categories = sorted(category_scores.items(), key=lambda x: x[1], reverse=True)
 
     career_paths = []
     recommended_resources = []
-    for cat in matched_categories:
-        career_paths.extend(CAREER_SUGGESTIONS.get(cat, {}).get('paths', []))
-        recommended_resources.extend(CAREER_SUGGESTIONS.get(cat, {}).get('resources', []))
+    # Chỉ lấy top 2 categories cao nhất (thay vì tất cả >2.5, để tránh quá nhiều nếu có overlap)
+    # Hoặc giữ >3.5 để nâng threshold, tùy chỉnh dựa trên rating scale
+    for cat, score in sorted_categories[:2]:  # Top 2
+        if score > 3.5:  # Nâng threshold để chỉ gợi ý nếu rating trung bình cao thực sự
+            career_paths.extend(CAREER_SUGGESTIONS.get(cat, {}).get('paths', []))
+            recommended_resources.extend(CAREER_SUGGESTIONS.get(cat, {}).get('resources', []))
 
-    # Loại duplicate nếu có
+    # Loại duplicate
     career_paths = list(set(career_paths))
-    recommended_resources = [dict(t) for t in {tuple(d.items()) for d in recommended_resources}]  # Remove duplicate dicts
+    recommended_resources = [dict(t) for t in {tuple(d.items()) for d in recommended_resources}]
 
     return jsonify({
         "student_id": student_id,
