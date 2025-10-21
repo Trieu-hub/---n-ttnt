@@ -396,7 +396,7 @@ def recommend(student_id, faculty_id, year):
                     count += 1
         if count > 0:
             category_scores[cat] = cat_rating / count
-
+        
     # Sắp xếp categories theo score giảm dần
     sorted_categories = sorted(category_scores.items(), key=lambda x: x[1], reverse=True)
 
