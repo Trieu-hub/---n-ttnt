@@ -1,161 +1,241 @@
 student_id,year,semester,course_id,course_name,rating,faculty_id,status
-NAN,1,1,PHI1006,Triết học Mác – Lênin,0.0,IT,not_started
-NAN,1,1,MAT1093,Đại số,0.0,IT,not_started
-NAN,1,1,MAT1041,Giải tích 1,0.0,IT,not_started
-NAN,1,1,INT1007,Giới thiệu về Công nghệ thông tin,0.0,IT,not_started
-NAN,1,1,INT1008,Nhập môn lập trình,0.0,IT,not_started
-NAN,1,2,PEC1008,Kinh tế chính trị Mác – Lênin,0.0,IT,not_started
-NAN,1,2,MAT1042,Giải tích 2,0.0,IT,not_started
-NAN,1,2,EPN1095,Vật lý đại cương 1,0.0,IT,not_started
-NAN,1,2,INT1050,Toán học rời rạc,0.0,IT,not_started
-NAN,1,2,FLF1107,Tiếng Anh B1,0.0,IT,not_started
-NAN,2,1,PHI1002,Chủ nghĩa xã hội khoa học,0.0,IT,not_started
-NAN,2,1,EPN1096,Vật lý đại cương 2,0.0,IT,not_started
-NAN,2,1,INT2210,Cấu trúc dữ liệu và giải thuật,0.0,IT,not_started
-NAN,2,1,INT2215,Lập trình nâng cao,0.0,IT,not_started
-NAN,2,1,ELT2035,Tín hiệu và hệ thống,0.0,IT,not_started
-NAN,2,2,HIS1001,Lịch sử Đảng Cộng sản Việt Nam,0.0,IT,not_started
-NAN,2,2,INT2212,Kiến trúc máy tính,0.0,IT,not_started
-NAN,2,2,INT2214,Nguyên lý hệ điều hành,0.0,IT,not_started
-NAN,2,2,INT2211,Cơ sở dữ liệu,0.0,IT,not_started
-NAN,2,2,INT2204,Lập trình hướng đối tượng,0.0,IT,not_started
-NAN,3,1,POL1001,Tư tưởng Hồ Chí Minh,0.0,IT,not_started
-NAN,3,1,INT2213,Mạng máy tính,0.0,IT,not_started
-NAN,3,1,INT2208,Công nghệ phần mềm,0.0,IT,not_started
-NAN,3,1,INT3202,Hệ quản trị cơ sở dữ liệu,0.0,IT,not_started
-NAN,3,1,INT3110,Phân tích và thiết kế hướng đối tượng,0.0,IT,not_started
-NAN,3,2,INT3306,Phát triển ứng dụng Web,0.0,IT,not_started
-NAN,3,2,INT3401,Trí tuệ nhân tạo,0.0,IT,not_started
-NAN,3,2,INT3507,Các vấn đề hiện đại Công nghệ thông tin,0.0,IT,not_started
-NAN,3,2,INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,0.0,IT,not_started
-NAN,3,2,INT3105,Kiến trúc phần mềm,0.0,IT,not_started
-NAN,4,1,INT3508,Thực tập chuyên ngành,0.0,IT,not_started
-NAN,4,1,INT3206,Cơ sở dữ liệu phân tán,0.0,IT,not_started
-NAN,4,1,INT3209,Khai phá dữ liệu,0.0,IT,not_started
-NAN,4,1,INT3301,Thực hành hệ điều hành mạng,0.0,IT,not_started
-NAN,4,1,INT3303,Mạng không dây,0.0,IT,not_started
-NAN,4,2,INT3514,Pháp luật và đạo đức nghề nghiệp trong CNTT,0.0,IT,not_started
-NAN,4,2,INT3120,Phát triển ứng dụng di động,0.0,IT,not_started
-NAN,4,2,INT3307,An toàn và an ninh mạng,0.0,IT,not_started
-NAN,4,2,INT3319,Điện toán đám mây,0.0,IT,not_started
-NAN,4,2,INT3404,Xử lý ảnh,0.0,IT,not_started
-248001,1,1,PHI1006,Triết học Mác – Lênin,4.5,IT,completed
-248001,1,1,MAT1093,Đại số,4.5,IT,completed
-248001,1,1,MAT1041,Giải tích 1,0.0,IT,not_started
-248001,1,1,INT1007,Giới thiệu về Công nghệ thông tin,0.0,IT,not_started
-248001,1,1,INT1008,Nhập môn lập trình,0.0,IT,not_started
-248001,1,2,PEC1008,Kinh tế chính trị Mác – Lênin,0.0,IT,not_started
-248001,1,2,MAT1042,Giải tích 2,0.0,IT,not_started
-248001,1,2,EPN1095,Vật lý đại cương 1,0.0,IT,not_started
-248001,1,2,INT1050,Toán học rời rạc,0.0,IT,not_started
-248001,1,2,FLF1107,Tiếng Anh B1,0.0,IT,not_started
-248001,2,1,PHI1002,Chủ nghĩa xã hội khoa học,0.0,IT,not_started
-248001,2,1,EPN1096,Vật lý đại cương 2,0.0,IT,not_started
-248001,2,1,INT2210,Cấu trúc dữ liệu và giải thuật,0.0,IT,not_started
-248001,2,1,INT2215,Lập trình nâng cao,0.0,IT,not_started
-248001,2,1,ELT2035,Tín hiệu và hệ thống,0.0,IT,not_started
-248001,2,2,HIS1001,Lịch sử Đảng Cộng sản Việt Nam,0.0,IT,not_started
-248001,2,2,INT2212,Kiến trúc máy tính,0.0,IT,not_started
-248001,2,2,INT2214,Nguyên lý hệ điều hành,0.0,IT,not_started
-248001,2,2,INT2211,Cơ sở dữ liệu,0.0,IT,not_started
-248001,2,2,INT2204,Lập trình hướng đối tượng,0.0,IT,not_started
-248001,3,1,POL1001,Tư tưởng Hồ Chí Minh,0.0,IT,not_started
-248001,3,1,INT2213,Mạng máy tính,0.0,IT,not_started
-248001,3,1,INT2208,Công nghệ phần mềm,4.5,IT,completed
-248001,3,1,INT3202,Hệ quản trị cơ sở dữ liệu,0.0,IT,not_started
-248001,3,1,INT3110,Phân tích và thiết kế hướng đối tượng,0.0,IT,not_started
-248001,3,2,INT3306,Phát triển ứng dụng Web,0.0,IT,not_started
-248001,3,2,INT3401,Trí tuệ nhân tạo,4.5,IT,completed
-248001,3,2,INT3507,Các vấn đề hiện đại Công nghệ thông tin,0.0,IT,not_started
-248001,3,2,INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,0.0,IT,not_started
-248001,3,2,INT3105,Kiến trúc phần mềm,0.0,IT,not_started
-248001,4,1,INT3508,Thực tập chuyên ngành,0.0,IT,not_started
-248001,4,1,INT3206,Cơ sở dữ liệu phân tán,0.0,IT,not_started
-248001,4,1,INT3209,Khai phá dữ liệu,4.5,IT,completed
-248001,4,1,INT3301,Thực hành hệ điều hành mạng,0.0,IT,not_started
-248001,4,1,INT3303,Mạng không dây,0.0,IT,not_started
-248001,4,2,INT3514,Pháp luật và đạo đức nghề nghiệp trong CNTT,0.0,IT,not_started
-248001,4,2,INT3120,Phát triển ứng dụng di động,0.0,IT,not_started
-248001,4,2,INT3307,An toàn và an ninh mạng,0.0,IT,not_started
-248001,4,2,INT3319,Điện toán đám mây,0.0,IT,not_started
-248001,4,2,INT3404,Xử lý ảnh,4.5,IT,completed
-248002,1,1,PHI1006,Triết học Mác – Lênin,0.0,IT,not_started
-248002,1,1,MAT1093,Đại số,0.0,IT,not_started
-248002,1,1,MAT1041,Giải tích 1,0.0,IT,not_started
-248002,1,1,INT1007,Giới thiệu về Công nghệ thông tin,0.0,IT,not_started
-248002,1,1,INT1008,Nhập môn lập trình,0.0,IT,not_started
-248002,1,2,PEC1008,Kinh tế chính trị Mác – Lênin,0.0,IT,not_started
-248002,1,2,MAT1042,Giải tích 2,0.0,IT,not_started
-248002,1,2,EPN1095,Vật lý đại cương 1,0.0,IT,not_started
-248002,1,2,INT1050,Toán học rời rạc,0.0,IT,not_started
-248002,1,2,FLF1107,Tiếng Anh B1,0.0,IT,not_started
-248002,2,1,PHI1002,Chủ nghĩa xã hội khoa học,0.0,IT,not_started
-248002,2,1,EPN1096,Vật lý đại cương 2,0.0,IT,not_started
-248002,2,1,INT2210,Cấu trúc dữ liệu và giải thuật,0.0,IT,not_started
-248002,2,1,INT2215,Lập trình nâng cao,0.0,IT,not_started
-248002,2,1,ELT2035,Tín hiệu và hệ thống,0.0,IT,not_started
-248002,2,2,HIS1001,Lịch sử Đảng Cộng sản Việt Nam,0.0,IT,not_started
-248002,2,2,INT2212,Kiến trúc máy tính,0.0,IT,not_started
-248002,2,2,INT2214,Nguyên lý hệ điều hành,0.0,IT,not_started
-248002,2,2,INT2211,Cơ sở dữ liệu,0.0,IT,not_started
-248002,2,2,INT2204,Lập trình hướng đối tượng,0.0,IT,not_started
-248002,3,1,POL1001,Tư tưởng Hồ Chí Minh,0.0,IT,not_started
-248002,3,1,INT2213,Mạng máy tính,0.0,IT,not_started
-248002,3,1,INT2208,Công nghệ phần mềm,4.5,IT,completed
-248002,3,1,INT3202,Hệ quản trị cơ sở dữ liệu,0.0,IT,not_started
-248002,3,1,INT3110,Phân tích và thiết kế hướng đối tượng,0.0,IT,not_started
-248002,3,2,INT3306,Phát triển ứng dụng Web,0.0,IT,not_started
-248002,3,2,INT3401,Trí tuệ nhân tạo,0.0,IT,not_started
-248002,3,2,INT3507,Các vấn đề hiện đại Công nghệ thông tin,0.0,IT,not_started
-248002,3,2,INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,0.0,IT,not_started
-248002,3,2,INT3105,Kiến trúc phần mềm,0.0,IT,not_started
-248002,4,1,INT3508,Thực tập chuyên ngành,0.0,IT,not_started
-248002,4,1,INT3206,Cơ sở dữ liệu phân tán,0.0,IT,not_started
-248002,4,1,INT3209,Khai phá dữ liệu,0.0,IT,not_started
-248002,4,1,INT3301,Thực hành hệ điều hành mạng,0.0,IT,not_started
-248002,4,1,INT3303,Mạng không dây,0.0,IT,not_started
-248002,4,2,INT3514,Pháp luật và đạo đức nghề nghiệp trong CNTT,0.0,IT,not_started
-248002,4,2,INT3120,Phát triển ứng dụng di động,0.0,IT,not_started
-248002,4,2,INT3307,An toàn và an ninh mạng,0.0,IT,not_started
-248002,4,2,INT3319,Điện toán đám mây,0.0,IT,not_started
-248002,4,2,INT3404,Xử lý ảnh,0.0,IT,not_started
-248003,1,1,PHI1006,Triết học Mác – Lênin,0.0,IT,not_started
-248003,1,1,MAT1093,Đại số,0.0,IT,not_started
-248003,1,1,MAT1041,Giải tích 1,0.0,IT,not_started
-248003,1,1,INT1007,Giới thiệu về Công nghệ thông tin,0.0,IT,not_started
-248003,1,1,INT1008,Nhập môn lập trình,4.5,IT,completed
-248003,1,2,PEC1008,Kinh tế chính trị Mác – Lênin,0.0,IT,not_started
-248003,1,2,MAT1042,Giải tích 2,0.0,IT,not_started
-248003,1,2,EPN1095,Vật lý đại cương 1,0.0,IT,not_started
-248003,1,2,INT1050,Toán học rời rạc,0.0,IT,not_started
-248003,1,2,FLF1107,Tiếng Anh B1,0.0,IT,not_started
-248003,2,1,PHI1002,Chủ nghĩa xã hội khoa học,0.0,IT,not_started
-248003,2,1,EPN1096,Vật lý đại cương 2,0.0,IT,not_started
-248003,2,1,INT2210,Cấu trúc dữ liệu và giải thuật,4.5,IT,completed
-248003,2,1,INT2215,Lập trình nâng cao,4.5,IT,completed
-248003,2,1,ELT2035,Tín hiệu và hệ thống,0.0,IT,not_started
-248003,2,2,HIS1001,Lịch sử Đảng Cộng sản Việt Nam,0.0,IT,not_started
-248003,2,2,INT2212,Kiến trúc máy tính,0.0,IT,not_started
-248003,2,2,INT2214,Nguyên lý hệ điều hành,0.0,IT,not_started
-248003,2,2,INT2211,Cơ sở dữ liệu,0.0,IT,not_started
-248003,2,2,INT2204,Lập trình hướng đối tượng,4.5,IT,completed
-248003,3,1,POL1001,Tư tưởng Hồ Chí Minh,0.0,IT,not_started
-248003,3,1,INT2213,Mạng máy tính,0.0,IT,not_started
-248003,3,1,INT2208,Công nghệ phần mềm,0.0,IT,not_started
-248003,3,1,INT3202,Hệ quản trị cơ sở dữ liệu,0.0,IT,not_started
-248003,3,1,INT3110,Phân tích và thiết kế hướng đối tượng,0.0,IT,not_started
-248003,3,2,INT3306,Phát triển ứng dụng Web,0.0,IT,not_started
-248003,3,2,INT3401,Trí tuệ nhân tạo,0.0,IT,not_started
-248003,3,2,INT3507,Các vấn đề hiện đại Công nghệ thông tin,0.0,IT,not_started
-248003,3,2,INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,0.0,IT,not_started
-248003,3,2,INT3105,Kiến trúc phần mềm,0.0,IT,not_started
-248003,4,1,INT3508,Thực tập chuyên ngành,0.0,IT,not_started
-248003,4,1,INT3206,Cơ sở dữ liệu phân tán,0.0,IT,not_started
-248003,4,1,INT3209,Khai phá dữ liệu,0.0,IT,not_started
-248003,4,1,INT3301,Thực hành hệ điều hành mạng,0.0,IT,not_started
-248003,4,1,INT3303,Mạng không dây,0.0,IT,not_started
-248003,4,2,INT3514,Pháp luật và đạo đức nghề nghiệp trong CNTT,0.0,IT,not_started
-248003,4,2,INT3120,Phát triển ứng dụng di động,0.0,IT,not_started
-248003,4,2,INT3307,An toàn và an ninh mạng,0.0,IT,not_started
-248003,4,2,INT3319,Điện toán đám mây,0.0,IT,not_started
-248003,4,2,INT3404,Xử lý ảnh,0.0,IT,not_started
+NAN,1,1,ENC120,Anh ngữ 1,0.0,IT,not_started
+NAN,1,1,CMP363,Công tác kỹ ngành cntt,0.0,IT,not_started
+NAN,1,1,CMP1074,Cơ sở lập trình,0.0,IT,not_started
+NAN,1,1,CMP3075,Thực hành cơ sở lập trình,0.0,IT,not_started
+NAN,1,2,ENC121,Anh Ngữ 2,0.0,IT,not_started
+NAN,1,2,MAT118,Giải tích 1,0.0,IT,not_started
+NAN,1,2,MAT101,Đại số tuyến tính,0.0,IT,not_started
+NAN,1,2,CMP164,Kỹ thuật lập trình,0.0,IT,not_started
+NAN,1,2,CMP365,Thực hành kỹ thuật lập trình,0.0,IT,not_started
+NAN,1,2,COS137,Nhập môn kiến trúc máy tính,0.0,IT,not_started
+NAN,1,2,COS319,Thực hành kiến trúc máy tính,0.0,IT,not_started
+NAN,1,3,SKL115,Tư duy thiết kế dự án,0.0,IT,not_started
+NAN,1,3,PSY167,Tâm lý học ứng dụng,0.0,IT,not_started
+NAN,2,1,ENC122,Anh Ngữ 3,0.0,IT,not_started
+NAN,2,1,POS103,Tư tưởng Hồ Chí Minh,0.0,IT,not_started
+NAN,2,1,COS120,Cấu trúc dữ liệu và giải thuật,0.0,IT,not_started
+NAN,2,1,COS321,Thực hành cấu trúc dữ liệu và giải thuật,0.0,IT,not_started
+NAN,2,1,COS138,Nhập môn hệ điều hành,0.0,IT,not_started
+NAN,2,1,COS318,Thực hành hệ điều hành,0.0,IT,not_started
+NAN,2,1,MAT105,Xác xuất thống kê,0.0,IT,not_started
+NAN,2,2,ENC123,Anh Ngữ 4,0.0,IT,not_started
+NAN,2,2,MAT104,Toán rời rạc,0.0,IT,not_started
+NAN,2,2,CMP3014,Thực hành lý thuyết đồ thị,0.0,IT,not_started
+NAN,2,2,COS136,Nhập môn cơ sở dữ liệu,0.0,IT,not_started
+NAN,2,2,COS323,Thực hành cơ sở dữ liệu,0.0,IT,not_started
+NAN,2,2,CMP172,Mạng máy tính,0.0,IT,not_started
+NAN,2,2,CMP373,Thực hành mạng máy tính,0.0,IT,not_started
+NAN,2,2,CMP167,Lập trình hướng đối tượng,0.0,IT,not_started
+NAN,2,2,CMP368,Thực hành lập trình hướng đối tượng,0.0,IT,not_started
+NAN,2,3,SKL116,Đổi mới sáng tạo và tư duy khởi nghiệp,0.0,IT,not_started
+NAN,2,3,ENS109,Môi trường,0.0,IT,not_started
+NAN,2,3,POS107,Lịch sử đảng cộng sản việt nam,0.0,IT,not_started
+NAN,2,3,CMP383,Thực hành an toàn trên máy chủ Windows,0.0,IT,not_started
+NAN,3,1,CMP169,Trí tuệ nhân tạo,0.0,IT,not_started
+NAN,3,1,CMP385,Thực hành phân tích thiết kế hệ thống,0.0,IT,not_started
+NAN,3,1,COS324,Thực hành quản trị cơ sở dữ liệu,0.0,IT,not_started
+NAN,3,1,CMP174,Bảo mật thông tin,0.0,IT,not_started
+NAN,3,1,CMP382,Thực hành bảo mật thông tin,0.0,IT,not_started
+NAN,3,1,CMP170,Lập trình môi trường windows,0.0,IT,not_started
+NAN,3,1,CMP371,Thực hành lập trình môi trường windows,0.0,IT,not_started
+NAN,3,2,COS101,Cơ sở dữ liệu nâng cao,0.0,IT,not_started
+NAN,3,2,CMP184,Phân tích thiết kế hệ thống,0.0,IT,not_started
+NAN,3,2,CMP3019,Thực hành phân tích thiết kế hệ thống theo hướng đối tượng,0.0,IT,not_started
+NAN,3,2,CMP301,Công nghê phần mềm,0.0,IT,not_started
+NAN,3,2,COS340,Thực hành phát triển phần mềm mã nguồn mở,0.0,IT,not_started
+NAN,3,2,COS339,Thực hành bảo mật thông tin nâng cao,0.0,IT,not_started
+NAN,3,2,CMP175,Lập trình web,0.0,IT,not_started
+NAN,3,2,CMP376,Thực hành lập trình web,0.0,IT,not_started
+NAN,3,3,CMP437,Đồ án cơ sở Công nghệ thông tin,0.0,IT,not_started
+NAN,3,3,LAW106,Pháp luật đại cương,0.0,IT,not_started
+NAN,4,1,MAN104,Quản lý dự án công nghệ thông tin,0.0,IT,not_started
+NAN,4,1,POS105,Kinh tế chính trị Mác-Lênin,0.0,IT,not_started
+NAN,4,1,CMP180,Lập trình mạng máy tính,0.0,IT,not_started
+NAN,4,1,CMP381,Thực hành lập trình mạng máy tính,0.0,IT,not_started
+NAN,4,1,CMP436,Đồ án chuyên ngành công nghệ thông tin,0.0,IT,not_started
+NAN,4,1,CMP173,Lập trình trên thiết bị di động,0.0,IT,not_started
+NAN,4,2,CMP596,Thực tập tốt nghiệp ngành Công nghệ thông tin,0.0,IT,not_started
+NAN,4,2,CMP386,Công cụ và môi trường phát triển phần mềm,0.0,IT,not_started
+NAN,4,2,COS141,Phát triển ứng dụng J2SE,0.0,IT,not_started
+NAN,4,2,CMP179,Kiểm thử và đảm bảo chất lượng phần mềm,0.0,IT,not_started
+NAN,4,2,CAP126,Ngôn ngữ phát triển ứng dụng mới,0.0,IT,not_started
+NAN,4,2,COS125,Cơ sở dữ liệu phân tán,0.0,IT,not_started
+NAN,4,2,COS126,Hệ quản trị cơ sở dữ liệu Oracle,0.0,IT,not_started
+NAN,4,2,COS127,Kho dữ liệu và khai thác dữ liệu,0.0,IT,not_started
+NAN,4,2,CMP189,Phân tích dữ liệu trên điện toán đám mây,0.0,IT,not_started
+NAN,4,2,CMP191,Quản trị mạng,0.0,IT,not_started
+NAN,4,2,CMP192,Mạng máy tính nâng cao,0.0,IT,not_started
+NAN,4,2,COS128,Hệ điều hành Linux,0.0,IT,not_started
+NAN,4,2,COS129,Điện toán đám mây,0.0,IT,not_started
+NAN,4,2,CMP1020,Học sâu,0.0,IT,not_started
+NAN,4,2,CMP1021,Thị giác máy tính,0.0,IT,not_started
+NAN,4,2,CMP1022,Trí tuệ nhân tạo cho internet vạn vật,0.0,IT,not_started
+NAN,4,2,CMP1023,Công nghệ ứng dụng robot,0.0,IT,not_started
+NAN,4,2,COS130,An toàn hệ điều hành và ngôn ngữ lập trình,0.0,IT,not_started
+NAN,4,2,CMP195,An toàn hệ thống mạng máy tính,0.0,IT,not_started
+NAN,4,2,CMP194,An toàn thông tin cho ứng dụng web,0.0,IT,not_started
+NAN,4,2,CMP193,Phân tích và đánh giá an toàn thông tin,0.0,IT,not_started
+NAN,4,2,CMP497,Đồ án tốt nghiệp ngành Công nghệ thông tin,0.0,IT,not_started
+NAN,4,3,POS104,Triết học Mác-Lênin,0.0,IT,not_started
+NAN,4,3,POS106,Chủ nghĩa xã hội khoa học,0.0,IT,not_started
+248001,1,1,ENC120,Anh ngữ 1,3.0,IT,completed
+248001,1,1,CMP363,Công tác kỹ ngành cntt,2.0,IT,completed
+248001,1,1,CMP1074,Cơ sở lập trình,4.0,IT,completed
+248001,1,1,CMP3075,Thực hành cơ sở lập trình,3.0,IT,completed
+248001,1,2,ENC121,Anh Ngữ 2,4.0,IT,completed
+248001,1,2,MAT118,Giải tích 1,3.0,IT,completed
+248001,1,2,MAT101,Đại số tuyến tính,4.0,IT,completed
+248001,1,2,CMP164,Kỹ thuật lập trình,3.0,IT,completed
+248001,1,2,CMP365,Thực hành kỹ thuật lập trình,4.0,IT,completed
+248001,1,2,COS137,Nhập môn kiến trúc máy tính,3.0,IT,completed
+248001,1,2,COS319,Thực hành kiến trúc máy tính,3.0,IT,completed
+248001,1,3,SKL115,Tư duy thiết kế dự án,3.0,IT,completed
+248001,1,3,PSY167,Tâm lý học ứng dụng,3.0,IT,completed
+248001,2,1,ENC122,Anh Ngữ 3,3.0,IT,completed
+248001,2,1,POS103,Tư tưởng Hồ Chí Minh,4.0,IT,completed
+248001,2,1,COS120,Cấu trúc dữ liệu và giải thuật,3.0,IT,completed
+248001,2,1,COS321,Thực hành cấu trúc dữ liệu và giải thuật,3.0,IT,completed
+248001,2,1,COS138,Nhập môn hệ điều hành,3.0,IT,completed
+248001,2,1,COS318,Thực hành hệ điều hành,3.0,IT,completed
+248001,2,1,MAT105,Xác xuất thống kê,3.0,IT,completed
+248001,2,2,ENC123,Anh Ngữ 4,0.0,IT,not_started
+248001,2,2,MAT104,Toán rời rạc,0.0,IT,not_started
+248001,2,2,CMP3014,Thực hành lý thuyết đồ thị,0.0,IT,not_started
+248001,2,2,COS136,Nhập môn cơ sở dữ liệu,0.0,IT,not_started
+248001,2,2,COS323,Thực hành cơ sở dữ liệu,0.0,IT,not_started
+248001,2,2,CMP172,Mạng máy tính,0.0,IT,not_started
+248001,2,2,CMP373,Thực hành mạng máy tính,0.0,IT,not_started
+248001,2,2,CMP167,Lập trình hướng đối tượng,0.0,IT,not_started
+248001,2,2,CMP368,Thực hành lập trình hướng đối tượng,0.0,IT,not_started
+248001,2,3,SKL116,Đổi mới sáng tạo và tư duy khởi nghiệp,0.0,IT,not_started
+248001,2,3,ENS109,Môi trường,0.0,IT,not_started
+248001,2,3,POS107,Lịch sử đảng cộng sản việt nam,0.0,IT,not_started
+248001,2,3,CMP383,Thực hành an toàn trên máy chủ Windows,0.0,IT,not_started
+248001,3,1,CMP169,Trí tuệ nhân tạo,0.0,IT,not_started
+248001,3,1,CMP385,Thực hành phân tích thiết kế hệ thống,0.0,IT,not_started
+248001,3,1,COS324,Thực hành quản trị cơ sở dữ liệu,0.0,IT,completed
+248001,3,1,CMP174,Bảo mật thông tin,0.0,IT,completed
+248001,3,1,CMP382,Thực hành bảo mật thông tin,0.0,IT,not_started
+248001,3,1,CMP170,Lập trình môi trường windows,0.0,IT,completed
+248001,3,1,CMP371,Thực hành lập trình môi trường windows,0.0,IT,completed
+248001,3,2,COS101,Cơ sở dữ liệu nâng cao,0.0,IT,not_started
+248001,3,2,CMP184,Phân tích thiết kế hệ thống,0.0,IT,not_started
+248001,3,2,CMP3019,Thực hành phân tích thiết kế hệ thống theo hướng đối tượng,0.0,IT,not_started
+248001,3,2,CMP301,Công nghê phần mềm,0.0,IT,not_started
+248001,3,2,COS340,Thực hành phát triển phần mềm mã nguồn mở,0.0,IT,not_started
+248001,3,2,COS339,Thực hành bảo mật thông tin nâng cao,0.0,IT,not_started
+248001,3,2,CMP175,Lập trình web,0.0,IT,not_started
+248001,3,2,CMP376,Thực hành lập trình web,0.0,IT,not_started
+248001,3,3,CMP437,Đồ án cơ sở Công nghệ thông tin,0.0,IT,not_started
+248001,3,3,LAW106,Pháp luật đại cương,0.0,IT,not_started
+248001,4,1,MAN104,Quản lý dự án công nghệ thông tin,0.0,IT,not_started
+248001,4,1,POS105,Kinh tế chính trị Mác-Lênin,0.0,IT,not_started
+248001,4,1,CMP180,Lập trình mạng máy tính,0.0,IT,not_started
+248001,4,1,CMP381,Thực hành lập trình mạng máy tính,0.0,IT,not_started
+248001,4,1,CMP436,Đồ án chuyên ngành công nghệ thông tin,0.0,IT,not_started
+248001,4,1,CMP173,Lập trình trên thiết bị di động,0.0,IT,not_started
+248001,4,2,CMP596,Thực tập tốt nghiệp ngành Công nghệ thông tin,0.0,IT,not_started
+248001,4,2,CMP386,Công cụ và môi trường phát triển phần mềm,0.0,IT,not_started
+248001,4,2,COS141,Phát triển ứng dụng J2SE,0.0,IT,not_started
+248001,4,2,CMP179,Kiểm thử và đảm bảo chất lượng phần mềm,0.0,IT,not_started
+248001,4,2,CAP126,Ngôn ngữ phát triển ứng dụng mới,0.0,IT,not_started
+248001,4,2,COS125,Cơ sở dữ liệu phân tán,0.0,IT,not_started
+248001,4,2,COS126,Hệ quản trị cơ sở dữ liệu Oracle,0.0,IT,not_started
+248001,4,2,COS127,Kho dữ liệu và khai thác dữ liệu,0.0,IT,not_started
+248001,4,2,CMP189,Phân tích dữ liệu trên điện toán đám mây,0.0,IT,not_started
+248001,4,2,CMP191,Quản trị mạng,0.0,IT,not_started
+248001,4,2,CMP192,Mạng máy tính nâng cao,0.0,IT,not_started
+248001,4,2,COS128,Hệ điều hành Linux,0.0,IT,not_started
+248001,4,2,COS129,Điện toán đám mây,0.0,IT,not_started
+248001,4,2,CMP1020,Học sâu,0.0,IT,not_started
+248001,4,2,CMP1021,Thị giác máy tính,0.0,IT,not_started
+248001,4,2,CMP1022,Trí tuệ nhân tạo cho internet vạn vật,0.0,IT,not_started
+248001,4,2,CMP1023,Công nghệ ứng dụng robot,0.0,IT,not_started
+248001,4,2,COS130,An toàn hệ điều hành và ngôn ngữ lập trình,0.0,IT,not_started
+248001,4,2,CMP195,An toàn hệ thống mạng máy tính,0.0,IT,not_started
+248001,4,2,CMP194,An toàn thông tin cho ứng dụng web,0.0,IT,not_started
+248001,4,2,CMP193,Phân tích và đánh giá an toàn thông tin,0.0,IT,not_started
+248001,4,2,CMP497,Đồ án tốt nghiệp ngành Công nghệ thông tin,0.0,IT,not_started
+248001,4,3,POS104,Triết học Mác-Lênin,0.0,IT,not_started
+248001,4,3,POS106,Chủ nghĩa xã hội khoa học,0.0,IT,not_started
+237001,1,1,ENC120,Anh ngữ 1,3.0,IT,completed
+237001,1,1,CMP363,Công tác kỹ ngành cntt,4.0,IT,completed
+237001,1,1,CMP1074,Cơ sở lập trình,4.0,IT,completed
+237001,1,1,CMP3075,Thực hành cơ sở lập trình,4.0,IT,completed
+237001,1,2,ENC121,Anh Ngữ 2,4.0,IT,completed
+237001,1,2,MAT118,Giải tích 1,4.0,IT,completed
+237001,1,2,MAT101,Đại số tuyến tính,4.0,IT,completed
+237001,1,2,CMP164,Kỹ thuật lập trình,4.0,IT,completed
+237001,1,2,CMP365,Thực hành kỹ thuật lập trình,3.0,IT,completed
+237001,1,2,COS137,Nhập môn kiến trúc máy tính,4.0,IT,completed
+237001,1,2,COS319,Thực hành kiến trúc máy tính,4.0,IT,completed
+237001,1,3,SKL115,Tư duy thiết kế dự án,4.0,IT,completed
+237001,1,3,PSY167,Tâm lý học ứng dụng,4.0,IT,completed
+237001,2,1,ENC122,Anh Ngữ 3,4.0,IT,completed
+237001,2,1,POS103,Tư tưởng Hồ Chí Minh,3.0,IT,completed
+237001,2,1,COS120,Cấu trúc dữ liệu và giải thuật,4.0,IT,completed
+237001,2,1,COS321,Thực hành cấu trúc dữ liệu và giải thuật,4.0,IT,completed
+237001,2,1,COS138,Nhập môn hệ điều hành,4.0,IT,completed
+237001,2,1,COS318,Thực hành hệ điều hành,3.0,IT,completed
+237001,2,1,MAT105,Xác xuất thống kê,4.0,IT,completed
+237001,2,2,ENC123,Anh Ngữ 4,4.0,IT,completed
+237001,2,2,MAT104,Toán rời rạc,3.0,IT,completed
+237001,2,2,CMP3014,Thực hành lý thuyết đồ thị,4.0,IT,completed
+237001,2,2,COS136,Nhập môn cơ sở dữ liệu,4.0,IT,completed
+237001,2,2,COS323,Thực hành cơ sở dữ liệu,4.0,IT,completed
+237001,2,2,CMP172,Mạng máy tính,4.0,IT,completed
+237001,2,2,CMP373,Thực hành mạng máy tính,4.0,IT,completed
+237001,2,2,CMP167,Lập trình hướng đối tượng,4.0,IT,completed
+237001,2,2,CMP368,Thực hành lập trình hướng đối tượng,4.0,IT,completed
+237001,2,3,SKL116,Đổi mới sáng tạo và tư duy khởi nghiệp,4.0,IT,completed
+237001,2,3,ENS109,Môi trường,3.0,IT,completed
+237001,2,3,POS107,Lịch sử đảng cộng sản việt nam,3.0,IT,completed
+237001,2,3,CMP383,Thực hành an toàn trên máy chủ Windows,4.0,IT,completed
+237001,3,1,CMP169,Trí tuệ nhân tạo,0.0,IT,completed
+237001,3,1,CMP385,Thực hành phân tích thiết kế hệ thống,0.0,IT,completed
+237001,3,1,COS324,Thực hành quản trị cơ sở dữ liệu,0.0,IT,not_started
+237001,3,1,CMP174,Bảo mật thông tin,0.0,IT,not_started
+237001,3,1,CMP382,Thực hành bảo mật thông tin,0.0,IT,completed
+237001,3,1,CMP170,Lập trình môi trường windows,0.0,IT,not_started
+237001,3,1,CMP371,Thực hành lập trình môi trường windows,0.0,IT,not_started
+237001,3,2,COS101,Cơ sở dữ liệu nâng cao,0.0,IT,not_started
+237001,3,2,CMP184,Phân tích thiết kế hệ thống,0.0,IT,not_started
+237001,3,2,CMP3019,Thực hành phân tích thiết kế hệ thống theo hướng đối tượng,0.0,IT,not_started
+237001,3,2,CMP301,Công nghê phần mềm,0.0,IT,not_started
+237001,3,2,COS340,Thực hành phát triển phần mềm mã nguồn mở,0.0,IT,not_started
+237001,3,2,COS339,Thực hành bảo mật thông tin nâng cao,0.0,IT,not_started
+237001,3,2,CMP175,Lập trình web,0.0,IT,not_started
+237001,3,2,CMP376,Thực hành lập trình web,0.0,IT,not_started
+237001,3,3,CMP437,Đồ án cơ sở Công nghệ thông tin,0.0,IT,not_started
+237001,3,3,LAW106,Pháp luật đại cương,0.0,IT,not_started
+237001,4,1,MAN104,Quản lý dự án công nghệ thông tin,0.0,IT,not_started
+237001,4,1,POS105,Kinh tế chính trị Mác-Lênin,0.0,IT,not_started
+237001,4,1,CMP180,Lập trình mạng máy tính,0.0,IT,not_started
+237001,4,1,CMP381,Thực hành lập trình mạng máy tính,0.0,IT,not_started
+237001,4,1,CMP436,Đồ án chuyên ngành công nghệ thông tin,0.0,IT,not_started
+237001,4,1,CMP173,Lập trình trên thiết bị di động,0.0,IT,not_started
+237001,4,2,CMP596,Thực tập tốt nghiệp ngành Công nghệ thông tin,0.0,IT,not_started
+237001,4,2,CMP386,Công cụ và môi trường phát triển phần mềm,0.0,IT,not_started
+237001,4,2,COS141,Phát triển ứng dụng J2SE,0.0,IT,not_started
+237001,4,2,CMP179,Kiểm thử và đảm bảo chất lượng phần mềm,0.0,IT,not_started
+237001,4,2,CAP126,Ngôn ngữ phát triển ứng dụng mới,0.0,IT,not_started
+237001,4,2,COS125,Cơ sở dữ liệu phân tán,0.0,IT,not_started
+237001,4,2,COS126,Hệ quản trị cơ sở dữ liệu Oracle,0.0,IT,not_started
+237001,4,2,COS127,Kho dữ liệu và khai thác dữ liệu,0.0,IT,not_started
+237001,4,2,CMP189,Phân tích dữ liệu trên điện toán đám mây,0.0,IT,not_started
+237001,4,2,CMP191,Quản trị mạng,0.0,IT,not_started
+237001,4,2,CMP192,Mạng máy tính nâng cao,0.0,IT,not_started
+237001,4,2,COS128,Hệ điều hành Linux,0.0,IT,not_started
+237001,4,2,COS129,Điện toán đám mây,0.0,IT,not_started
+237001,4,2,CMP1020,Học sâu,0.0,IT,not_started
+237001,4,2,CMP1021,Thị giác máy tính,0.0,IT,not_started
+237001,4,2,CMP1022,Trí tuệ nhân tạo cho internet vạn vật,0.0,IT,not_started
+237001,4,2,CMP1023,Công nghệ ứng dụng robot,0.0,IT,not_started
+237001,4,2,COS130,An toàn hệ điều hành và ngôn ngữ lập trình,0.0,IT,not_started
+237001,4,2,CMP195,An toàn hệ thống mạng máy tính,0.0,IT,not_started
+237001,4,2,CMP194,An toàn thông tin cho ứng dụng web,0.0,IT,not_started
+237001,4,2,CMP193,Phân tích và đánh giá an toàn thông tin,0.0,IT,not_started
+237001,4,2,CMP497,Đồ án tốt nghiệp ngành Công nghệ thông tin,0.0,IT,not_started
+237001,4,3,POS104,Triết học Mác-Lênin,0.0,IT,not_started
+237001,4,3,POS106,Chủ nghĩa xã hội khoa học,0.0,IT,not_started
