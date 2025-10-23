@@ -283,7 +283,7 @@ footer {
 /* Các phần bên dưới luôn hiển thị với chiều cao dài hơn */
 #curriculum h3,
 #curriculum #hot-courses {
-    max-height: 400px; /* Tăng chiều cao max để hiển thị nhiều môn hơn mà không cần scroll ngay */
+    max-height: 425px; /* Tăng chiều cao max để hiển thị nhiều môn hơn mà không cần scroll ngay */
     overflow-y: auto; /* Scroll nếu vượt quá */
     opacity: 1;
     transition: all 0.5s ease;
@@ -308,4 +308,15 @@ footer {
 #hot-courses li:hover {
     background: #e0f7fa;
     transform: translateX(6px);
+}
+
+#taken-courses {
+    max-height: 200px; /* Tăng chiều cao max để hiển thị nhiều môn hơn mà không cần scroll ngay */
+    overflow-y: auto; /* Scroll nếu vượt quá */
+    margin-top: 12px;
+    padding: 0 18px 14px 18px;
+}
+
+#taken-courses li:hover {
+    background: #eef2ff;
 }

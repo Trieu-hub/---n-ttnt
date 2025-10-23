@@ -73,6 +73,8 @@
     </footer>
 
     <script src="./js/other/data.js"></script>
+    <script src="./js/main.js"></script>
+
     <script>
     (function () {
         // debug logs
@@ -177,7 +179,14 @@
     async function loadHotSubjects(student_id, facultyId, year) {
         try {
             let url = `http://127.0.0.1:5000/recommend/${encodeURIComponent(student_id)}/${encodeURIComponent(facultyId)}${year ? '/' + encodeURIComponent(year) : ''}`;
-            const res = await fetch(url);
+            const res = await fetch(url, {
+            method: "GET",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            mode: "cors", // Bắt buộc để trình duyệt gửi CORS
+            });
+            if (!res.ok) throw new Error(`Server trả lỗi ${res.status}`);
             const data = await res.json();
 
             console.log("API data:", data); // debug
@@ -238,12 +247,15 @@
 
                     try {
                         const res = await fetch(`http://127.0.0.1:5000/update_status/${studentId}/${course_id}/${facultyId}/${new_status}`, {
-                            method: "POST",
-                            headers: {
-                                "Content-Type": "application/json"
-                            },
-                            body: JSON.stringify({ rating: 4.5 })  // Gửi rating mẫu, bạn có thể thay bằng prompt để nhập rating
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json",
+                        },
+                        mode: "cors", // 🔥 Bắt buộc
                         });
+                        if (!res.ok) throw new Error(`Server trả lỗi ${res.status}`);
+                        const data = await res.json();
+
 
                         const result = await res.json();
 
