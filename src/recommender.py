@@ -52,7 +52,7 @@ DEFAULT_COURSES = [
     {"course_id": "ENC123", "course_name": "Anh Ngữ 4", "year": 2, "semester": 2},
     {"course_id": "MAT104", "course_name": "Toán rời rạc", "year": 2, "semester": 2},
     {"course_id": "CMP3014", "course_name": "Thực hành lý thuyết đồ thị", "year": 2, "semester": 2},
-    {"course_id": "COS136", "course_name": "Nhập môn cơ sở dữ liệu", "year": 2, "semester": 2},
+    {"course_id": "COS135", "course_name": "Nhập môn cơ sở dữ liệu", "year": 2, "semester": 2},
     {"course_id": "COS323", "course_name": "Thực hành cơ sở dữ liệu", "year": 2, "semester": 2},
     {"course_id": "CMP172", "course_name": "Mạng máy tính", "year": 2, "semester": 2},
     {"course_id": "CMP373", "course_name": "Thực hành mạng máy tính", "year": 2, "semester": 2},
@@ -135,66 +135,57 @@ DEFAULT_COURSES = [
 CAREER_MAP = {
     #  Web Development & Mobile
     'web_dev': [
-        'CMP175',  # Lập trình web
-        'CMP376',  # Thực hành lập trình web
-        'CMP173',  # Lập trình trên thiết bị di động
-        'CMP371',  # Thực hành lập trình môi trường windows
-        'CMP170',  # Lập trình môi trường windows
-        'COS141',  # Phát triển ứng dụng J2SE
+        'CMP175',  
+        'CMP376',  
+        'CMP301',  
+        'COS340',  
+        'CMP386',  
+        'CMP194',
+        'CAP126',  
     ],
 
     #  Data Science / AI / Machine Learning
     'data_science': [
         'MAT105',   # Xác suất thống kê
-        'COS127',   # Kho dữ liệu và khai thác dữ liệu
-        'CMP189',   # Phân tích dữ liệu trên điện toán đám mây
-        'CMP1020',  # Học sâu
-        'CMP1021',  # Thị giác máy tính
-        'CMP1022',  # Trí tuệ nhân tạo cho Internet vạn vật
+        'COS135',   # Kho dữ liệu và khai thác dữ liệu
+        'COS125',   # Phân tích dữ liệu trên điện toán đám mây
+        'COS127',  # Học sâu
+        'CMP189',  # Thị giác máy tính
+        'CMP1020',  # Trí tuệ nhân tạo cho Internet vạn vật
         'CMP169',   # Trí tuệ nhân tạo
     ],
 
     #  Network & Security
     'network_security': [
         'CMP172',   # Mạng máy tính
-        'CMP373',   # Thực hành mạng máy tính
         'CMP191',   # Quản trị mạng
         'CMP192',   # Mạng máy tính nâng cao
-        'CMP180',   # Lập trình mạng máy tính
-        'CMP381',   # Thực hành lập trình mạng máy tính
         'CMP174',   # Bảo mật thông tin
-        'CMP382',   # Thực hành bảo mật thông tin
         'COS130',   # An toàn hệ điều hành và ngôn ngữ lập trình
-        'CMP195',   # An toàn hệ thống mạng máy tính
-        'CMP194',   # An toàn thông tin cho ứng dụng web
         'CMP193',   # Phân tích và đánh giá an toàn thông tin
-        'COS128',   # Hệ điều hành Linux
+        'CMP195',   # An toàn hệ thống mạng máy tính
     ],
 
     #  Database & Data Engineering
     'database': [
-        'COS136',   # Nhập môn cơ sở dữ liệu
+        'COS135',   # Nhập môn cơ sở dữ liệu
         'COS323',   # Thực hành cơ sở dữ liệu
-        'COS101',   # Cơ sở dữ liệu nâng cao
         'COS324',   # Thực hành quản trị cơ sở dữ liệu
         'COS125',   # Cơ sở dữ liệu phân tán
         'COS126',   # Hệ quản trị cơ sở dữ liệu Oracle
         'COS136',   # Phân tích và quản trị cơ sở dữ liệu
+        'COS127',
     ],
 
     #  Software Engineering
     'software_eng': [
-        'CMP301',   # Công nghệ phần mềm
-        'CMP184',   # Phân tích thiết kế hệ thống
-        'CMP3019',  # Thực hành phân tích thiết kế hệ thống theo hướng đối tượng
-        'CMP385',   # Thực hành phân tích thiết kế hệ thống
-        'CMP386',   # Công cụ và môi trường phát triển phần mềm
-        'MAN104',   # Quản lý dự án công nghệ thông tin
-        'CMP179',   # Kiểm thử và đảm bảo chất lượng phần mềm
-        'COS340',   # Thực hành phát triển phần mềm mã nguồn mở
-        'CMP437',   # Đồ án cơ sở CNTT
-        'CMP436',   # Đồ án chuyên ngành CNTT
-        'CMP497',   # Đồ án tốt nghiệp CNTT
+        'COS120',
+        'CMP167',
+        'CMP184',
+        'CMP301',
+        'MAN104',
+        'CMP386',
+        'CMP437',
     ],
 }
 
@@ -672,7 +663,7 @@ def recommend(student_id, faculty_id, year):
                 cat_rating += pred_rating
                 count += 1
 
-        content_score = get_content_score(taken_courses, courses, course_index_map, course_vectors)
+        content_score = get_content_score(taken_courses, courses, course_index_map, course_vectors) if count > 0 else 0.0  # Only use content if has relevant courses
         if count > 0:
             cf_avg = cat_rating / count
         else:
@@ -685,15 +676,39 @@ def recommend(student_id, faculty_id, year):
 
     career_paths = []
     recommended_resources = []
-    # Lấy top 2 categories cao nhất, với threshold 3.5 để tránh bias nếu data ít
-    for cat, score in sorted_categories[:2]:
-        if score > 3.5:
-            career_paths.extend(CAREER_SUGGESTIONS.get(cat, {}).get('paths', []))
-            recommended_resources.extend(CAREER_SUGGESTIONS.get(cat, {}).get('resources', []))
 
-    # Loại duplicate
-    career_paths = list(set(career_paths))
-    recommended_resources = [dict(t) for t in {tuple(d.items()) for d in recommended_resources}]
+    # Lấy top 2 categories nếu score > 3.0
+    for cat, score in sorted_categories[:2]:
+        if score > 3.0:
+            career_paths.extend(CAREER_SUGGESTIONS.get(cat, {}).get('paths', []))
+            for res in CAREER_SUGGESTIONS.get(cat, {}).get('resources', []):
+                recommended_resources.append({
+                    "name": res.get("name"),
+                    "url": res.get("url")
+                })
+
+    # Nếu không có nào qualify, nhưng có score >0, fallback lấy top 1 nếu score > 3.0 (but since loop already checked, no need; adjust if wanted)
+    if not recommended_resources and sorted_categories:
+        top_cat, top_score = sorted_categories[0]
+        if top_score > 3.0:
+            career_paths.extend(CAREER_SUGGESTIONS.get(top_cat, {}).get('paths', []))
+            for res in CAREER_SUGGESTIONS.get(top_cat, {}).get('resources', []):
+                recommended_resources.append({
+                    "name": res.get("name"),
+                    "url": res.get("url")
+                })
+
+    # Loại duplicate nhưng giữ thứ tự
+    career_paths = list(dict.fromkeys(career_paths))
+
+    seen = set()
+    unique_resources = []
+    for r in recommended_resources:
+        key = (r.get("name"), r.get("url"))
+        if key not in seen:
+            seen.add(key)
+            unique_resources.append(r)
+    recommended_resources = unique_resources
 
     # --- Ensure we always provide a usable list for frontend and compatibility ---
     # If recommendations empty (e.g. no ratings / model None), fallback to untaken ordered by year/semester
@@ -715,22 +730,6 @@ def recommend(student_id, faculty_id, year):
 
     # taken_details already prepared earlier (list of dicts). Build taken_names for compatibility.
     taken_names = [d["course_name"] for d in taken_details] if taken_details else []
-    # If no completed taken courses found, show any existing rows for the student (including not_started) to display something
-    if not taken_names:
-        alt_taken = df[(df["student_id"] == student_id) & (df["faculty_id"] == faculty_id)]
-        if not alt_taken.empty:
-            # preserve order and uniqueness
-            seen = set()
-            for _, row in alt_taken.iterrows():
-                name = row.get("course_name") or row.get("course_id")
-                if pd.notna(name) and name not in seen:
-                    seen.add(name)
-            taken_names = list(seen)
-            # also ensure taken_details contains minimal objects
-            if not taken_details:
-                taken_details = []
-                for cid in alt_taken["course_id"].astype(str).unique().tolist():
-                    taken_details.append({"course_id": cid, "course_name": course_details.get(cid, {"course_name": cid})["course_name"]})
 
     print(f"[DEBUG] student={student_id} faculty={faculty_id} year={year} taken_count={len(taken_names)} rec_count={len(recommendations)}")
 
